@@ -1,0 +1,11 @@
+# Collection Posters from:
+# https://theposterdb.com/set/122495
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Ghostbusters:
+    template: {name: Collection, collection_trakt: https://trakt.tv/users/silvol/lists/ghostbusters, order: release}
+    summary: Ghostbusters is a supernatural comedy franchise created in 1984. It centers on a group of eccentric New York City scientists who investigate and capture ghosts for a living.
