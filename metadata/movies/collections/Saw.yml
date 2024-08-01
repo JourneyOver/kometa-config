@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/221896
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Saw:
+    template: { name: Collection, collection: 656, summary: 656, order: release }
