@@ -1,0 +1,10 @@
+# Collection Posters from:
+#
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Wreck-It Ralph:
+    template: {name: Collection, collection: 404825, summary: 404825, order: release}

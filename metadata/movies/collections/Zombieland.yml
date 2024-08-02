@@ -1,0 +1,10 @@
+# Collection Posters from:
+#
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Zombieland:
+    template: {name: Collection, collection: 537982, summary: 537982, order: release}

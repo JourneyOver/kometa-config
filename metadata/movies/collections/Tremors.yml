@@ -1,0 +1,10 @@
+# Collection Posters from:
+#
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Tremors:
+    template: {name: Collection, collection: 91799, summary: 91799, order: release}
