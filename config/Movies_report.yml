@@ -15,11 +15,22 @@ Resident Evil:
     7737: 'Resident Evil: Extinction (2007)'
     173897: 'Resident Evil: The Final Chapter (2016)'
     460458: 'Resident Evil: Welcome to Raccoon City (2021)'
+Zombieland:
+  Movies Missing (TMDb IDs):
+    19908: Zombieland (2009)
+    338967: 'Zombieland: Double Tap (2019)'
 Sherlock Holmes:
   Movies Missing (TMDb IDs):
     58574: 'Sherlock Holmes: A Game of Shadows (2011)'
     10528: Sherlock Holmes (2009)
     297708: Sherlock Holmes 3
+Toy Story:
+  Movies Missing (TMDb IDs):
+    862: Toy Story (1995)
+    863: Toy Story 2 (1999)
+    10193: Toy Story 3 (2010)
+    301528: Toy Story 4 (2019)
+    1084244: Toy Story 5 (2026)
 How to Train Your Dragon:
   Movies Missing (TMDb IDs):
     10191: How to Train Your Dragon (2010)
@@ -30,6 +41,28 @@ Men In Black:
     607: Men in Black (1997)
     608: Men in Black II (2002)
     41154: Men in Black 3 (2012)
+Transformers:
+  Movies Missing (TMDb IDs):
+    424783: Bumblebee (2018)
+    667538: 'Transformers: Rise of the Beasts (2023)'
+    1858: Transformers (2007)
+    8373: 'Transformers: Revenge of the Fallen (2009)'
+    38356: 'Transformers: Dark of the Moon (2011)'
+    91314: 'Transformers: Age of Extinction (2014)'
+    335988: 'Transformers: The Last Knight (2017)'
+Saw:
+  Movies Missing (TMDb IDs):
+    176: Saw (2004)
+    215: Saw II (2005)
+    214: Saw III (2006)
+    663: Saw IV (2007)
+    11917: Saw V (2008)
+    22804: Saw VI (2009)
+    41439: Saw 3D (2010)
+    298250: Jigsaw (2017)
+    951491: Saw X (2023)
+    602734: 'Spiral: From the Book of Saw (2021)'
+    1207360: Saw XI (2025)
 John Wick:
   Movies Missing (TMDb IDs):
     730629: 'John Wick: Chapter 5'
@@ -37,9 +70,15 @@ Independence Day:
   Movies Missing (TMDb IDs):
     602: Independence Day (1996)
     47933: 'Independence Day: Resurgence (2016)'
-The MonsterVerse:
+Tremors:
   Movies Missing (TMDb IDs):
-    823464: 'Godzilla x Kong: The New Empire (2024)'
+    9362: Tremors (1990)
+    11069: 'Tremors II: Aftershocks (1996)'
+    10829: 'Tremors 3: Back to Perfection (2001)'
+    10891: 'Tremors 4: The Legend Begins (2004)'
+    339530: 'Tremors 5: Bloodlines (2015)'
+    496704: 'Tremors: A Cold Day in Hell (2018)'
+    670266: 'Tremors: Shrieker Island (2020)'
 Frozen:
   Movies Missing (TMDb IDs):
     109445: Frozen (2013)
@@ -49,6 +88,11 @@ Frozen:
 Paddington:
   Movies Missing (TMDb IDs):
     516729: Paddington in Peru (2024)
+The Secret Life of Pets:
+  Movies Missing (TMDb IDs):
+    328111: The Secret Life of Pets (2016)
+    412117: The Secret Life of Pets 2 (2019)
+    1109206: The Secret Life of Pets 3
 Alice in Wonderland:
   Movies Missing (TMDb IDs):
     12155: Alice in Wonderland (2010)
@@ -73,6 +117,13 @@ Child's Play:
     167032: Curse of Chucky (2013)
     393345: Cult of Chucky (2017)
     533642: Child's Play (2019)
+Ghostbusters:
+  Movies Missing (TMDb IDs):
+    620: Ghostbusters (1984)
+    2978: Ghostbusters II (1989)
+    43074: Ghostbusters (2016)
+    425909: 'Ghostbusters: Afterlife (2021)'
+    967847: 'Ghostbusters: Frozen Empire (2024)'
 A Dog's Purpose:
   Movies Missing (TMDb IDs):
     381289: A Dog's Purpose (2017)
@@ -81,6 +132,11 @@ Deadpool:
   Movies Missing (TMDb IDs):
     533535: Deadpool & Wolverine (2024)
     567604: Once Upon a Deadpool (2018)
+Planet of the Apes:
+  Movies Missing (TMDb IDs):
+    61791: Rise of the Planet of the Apes (2011)
+    119450: Dawn of the Planet of the Apes (2014)
+    281338: War for the Planet of the Apes (2017)
 47 Meters Down:
   Movies Missing (TMDb IDs):
     403119: 47 Meters Down (2017)
@@ -93,6 +149,11 @@ Peter Rabbit:
   Movies Missing (TMDb IDs):
     381719: Peter Rabbit (2018)
     522478: 'Peter Rabbit 2: The Runaway (2021)'
+Super Troopers:
+  Movies Missing (TMDb IDs):
+    39939: Super Troopers (2001)
+    50022: Super Troopers 2 (2018)
+    675871: 'Super Troopers 3: Winter Soldiers'
 Happy Death Day:
   Movies Missing (TMDb IDs):
     440021: Happy Death Day (2017)
@@ -104,6 +165,9 @@ Kung Fu Panda:
     49444: Kung Fu Panda 2 (2011)
     140300: Kung Fu Panda 3 (2016)
     1011985: Kung Fu Panda 4 (2024)
+Jurassic Park:
+  Movies Missing (TMDb IDs):
+    1234821: Untitled Jurassic World Movie (2025)
 Spider-Verse:
   Movies Missing (TMDb IDs):
     911916: 'Spider-Man: Beyond the Spider-Verse'
@@ -113,19 +177,19 @@ Marvel Cinematic Universe:
     441829: 'Team Thor: Part 2 (2017)'
     505945: Team Darryl (2018)
     894205: Werewolf by Night (2022)
+    533535: Deadpool & Wolverine (2024)
 28 ... Later:
   Movies Missing (TMDb IDs):
     170: 28 Days Later (2002)
     1562: 28 Weeks Later (2007)
-    1100988: 28 Years Later
+    1100988: 28 Years Later (2025)
+    1272837: '28 Years Later Part 2: The Bone Temple'
+    1273002: 28 Years Later Part 3
 Before...:
   Movies Missing (TMDb IDs):
     76: Before Sunrise (1995)
     80: Before Sunset (2004)
     132344: Before Midnight (2013)
-Bad Boys:
-  Movies Missing (TMDb IDs):
-    573435: 'Bad Boys: Ride or Die (2024)'
 Honey, I Shrunk the Kids:
   Movies Missing (TMDb IDs):
     9354: Honey, I Shrunk the Kids (1989)
@@ -136,6 +200,10 @@ Hocus Pocus:
     10439: Hocus Pocus (1993)
     642885: Hocus Pocus 2 (2022)
     1136067: Hocus Pocus 3
+Wreck-It Ralph:
+  Movies Missing (TMDb IDs):
+    82690: Wreck-It Ralph (2012)
+    404368: Ralph Breaks the Internet (2018)
 Avatar:
   Movies Missing (TMDb IDs):
     76600: 'Avatar: The Way of Water (2022)'
