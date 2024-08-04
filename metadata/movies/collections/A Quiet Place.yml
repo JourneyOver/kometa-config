@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/184647
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  A Quiet Place:
+    template: {name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/a-quiet-place, summary: 521226, order: custom}
