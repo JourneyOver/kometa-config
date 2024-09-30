@@ -1,7 +1,11 @@
 # Collection Posters from:
-# https://www.reddit.com/r/PlexPosters/comments/198bcgf/irrgs_mcufoxstar_wars_poster_sets/
-# Not in use yet:
-# https://theposterdb.com/set/190193
+# https://theposterdb.com/set/158156 - phase 1
+# https://theposterdb.com/set/158157 - Phase 2
+# https://theposterdb.com/set/158158 - Phase 3
+# https://theposterdb.com/set/158159 - Phase 4
+# https://theposterdb.com/set/185529 - Phase 5
+# --
+# https://theposterdb.com/set/186358 - Marvel One-Shots
 
 external_templates:
   - file: metadata/_templates.yml
