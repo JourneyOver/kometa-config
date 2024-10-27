@@ -1,0 +1,10 @@
+# Collection Posters from:
+# https://theposterdb.com/set/272710
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Beetlejuice:
+    template: {name: Collection, collection: 945475, summary: 945475, order: release}
