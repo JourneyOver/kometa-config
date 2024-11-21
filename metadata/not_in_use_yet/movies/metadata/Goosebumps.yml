@@ -1,0 +1,11 @@
+metadata:
+
+  "Goosebumps":
+    match:
+      year: 2015
+    url_poster: "https://theposterdb.com/api/assets/13947"
+
+  "Goosebumps 2: Haunted Halloween":
+    match:
+      year: 2018
+    url_poster: "https://theposterdb.com/api/assets/13948"

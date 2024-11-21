@@ -1,5 +1,5 @@
 # Collection Posters from:
-#
+# https://theposterdb.com/set/22315
 
 external_templates:
   - file: metadata/_templates.yml
@@ -8,3 +8,5 @@ collections:
 
   Zombieland:
     template: {name: Collection, collection: 537982, summary: 537982, order: release}
+    url_poster: "https://theposterdb.com/api/assets/36525"
+    url_background: "https://image.tmdb.org/t/p/original/w8gUU1xsfjRHIjdK6W1SZsWRHsS.jpg"

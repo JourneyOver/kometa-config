@@ -1,0 +1,26 @@
+metadata:
+
+  "Final Destination":
+    match:
+      year: 2000
+    url_poster: "https://theposterdb.com/api/assets/883"
+
+  "Final Destination 2":
+    match:
+      year: 2003
+    url_poster: "https://theposterdb.com/api/assets/886"
+
+  "Final Destination 3":
+    match:
+      year: 2006
+    url_poster: "https://theposterdb.com/api/assets/888"
+
+  "The Final Destination":
+    match:
+      year: 2009
+    url_poster: "https://theposterdb.com/api/assets/889"
+
+  "Final Destination 5":
+    match:
+      year: 2011
+    url_poster: "https://theposterdb.com/api/assets/891"

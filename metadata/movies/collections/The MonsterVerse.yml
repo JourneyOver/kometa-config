@@ -1,5 +1,5 @@
 # Collection Posters from:
-# https://theposterdb.com/set/103992
+# https://theposterdb.com/set/300914
 
 external_templates:
   - file: metadata/_templates.yml
@@ -7,5 +7,7 @@ external_templates:
 collections:
 
   The MonsterVerse:
-    template: {name: Collection, collection_letterbox: https://letterboxd.com/journeyover/list/legendarys-monsterverse, order: release}
+    template: {name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/the-monsterverse, order: release}
+    url_poster: "https://theposterdb.com/api/assets/542678"
+    url_background: "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/03/monsterverse-banner.png"
     summary: The Monsterverse is an American media franchise and shared fictional universe that is centered on a series of monster films featuring Godzilla and King Kong, distributed by Warner Bros. and produced by Legendary Entertainment in partnership with Toho.

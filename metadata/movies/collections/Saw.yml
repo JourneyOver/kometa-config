@@ -1,5 +1,5 @@
 # Collection Posters from:
-# https://theposterdb.com/set/221896
+# https://theposterdb.com/set/234633
 
 external_templates:
   - file: metadata/_templates.yml
@@ -8,3 +8,5 @@ collections:
 
   Saw:
     template: { name: Collection, collection: 656, summary: 656, order: release }
+    url_poster: "https://theposterdb.com/api/assets/423974"
+    url_background: "https://image.tmdb.org/t/p/original/q6XF2qbrxdv3OwZPnXgecDRft1O.jpg"

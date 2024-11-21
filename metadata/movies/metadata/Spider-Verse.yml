@@ -1,0 +1,11 @@
+metadata:
+
+  "Spider-Man: Into the Spider-Verse":
+    match:
+      year: 2018
+    url_poster: "https://theposterdb.com/api/assets/370374"
+
+  "Spider-Man: Across the Spider-Verse":
+    match:
+      year: 2023
+    url_poster: "https://theposterdb.com/api/assets/370375"

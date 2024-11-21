@@ -1,0 +1,16 @@
+metadata:
+
+  "The Mummy":
+    match:
+      year: 1999
+    url_poster: "https://theposterdb.com/api/assets/1042"
+
+  "The Mummy Returns":
+    match:
+      year: 2001
+    url_poster: "https://theposterdb.com/api/assets/1043"
+
+  "The Mummy: Tomb of the Dragon Emperor":
+    match:
+      year: 2008
+    url_poster: "https://theposterdb.com/api/assets/1044"

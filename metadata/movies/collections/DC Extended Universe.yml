@@ -1,5 +1,6 @@
 # Collection Posters from:
-# https://theposterdb.com/set/50563
+# https://theposterdb.com/set/87498
+# https://theposterdb.com/poster/79816
 
 external_templates:
   - file: metadata/_templates.yml
@@ -7,5 +8,7 @@ external_templates:
 collections:
 
   DC Extended Universe:
-    template: {name: Collection, collection_trakt: https://trakt.tv/users/tetharion/lists/worlds-of-dc, order: release}
+    template: {name: Collection, collection_trakt: https://trakt.tv/users/arachn0id/lists/dc-extended-universe-dceu, order: release}
+    url_poster: "https://theposterdb.com/api/assets/79816"
+    url_background: "https://raw.githubusercontent.com/JourneyOver/kometa-config/refs/heads/posters/movies/collections/DC%20Extended%20Universe/background.jpg"
     summary: The DC Extended Universe (DCEU) is a series of superhero films, distributed by Warner Bros. Pictures and based on characters that appear in American comic books by DC Comics. The shared universe, much like the original DC Universe in comic books and the television programs, was established by crossing over common plot elements, settings, cast, and characters.

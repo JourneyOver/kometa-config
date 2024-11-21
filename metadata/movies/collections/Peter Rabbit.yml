@@ -8,3 +8,5 @@ collections:
 
   Peter Rabbit:
     template: { name: Collection, collection: 595693, summary: 595693, order: release }
+    url_poster: "https://theposterdb.com/api/assets/133032"
+    url_background: "https://image.tmdb.org/t/p/original/gwKcnZiRcdYPqJpxUSrIUanfm3Z.jpg"

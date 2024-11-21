@@ -1,0 +1,31 @@
+metadata:
+
+  "Jurassic Park":
+    match:
+      year: 1993
+    url_poster: "https://theposterdb.com/api/assets/125883"
+
+  "The Lost World: Jurassic Park":
+    match:
+      year: 1997
+    url_poster: "https://theposterdb.com/api/assets/125884"
+
+  "Jurassic Park III":
+    match:
+      year: 2001
+    url_poster: "https://theposterdb.com/api/assets/125885"
+
+  "Jurassic World":
+    match:
+      year: 2015
+    url_poster: "https://theposterdb.com/api/assets/125886"
+
+  "Jurassic World: Fallen Kingdom":
+    match:
+      year: 2018
+    url_poster: "https://theposterdb.com/api/assets/125887"
+
+  "Jurassic World Dominion":
+    match:
+      year: 2022
+    url_poster: "https://theposterdb.com/api/assets/125889"

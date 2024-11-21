@@ -1,0 +1,11 @@
+metadata:
+
+  "Happy Death Day":
+    match:
+      year: 2017
+    url_poster: "https://theposterdb.com/api/assets/49482"
+
+  "Happy Death Day 2U":
+    match:
+      year: 2019
+    url_poster: "https://theposterdb.com/api/assets/49483"

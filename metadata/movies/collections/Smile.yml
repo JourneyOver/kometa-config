@@ -1,0 +1,12 @@
+# Collection Posters from:
+# https://theposterdb.com/set/253874
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Smile:
+    template: {name: Collection, collection: 1100788, summary: 1100788, order: release}
+    url_poster: "https://theposterdb.com/api/assets/460892"
+    url_background: "https://image.tmdb.org/t/p/original/fKhwWPMFuUbbMBD7mgZMbHKa6aw.jpg"

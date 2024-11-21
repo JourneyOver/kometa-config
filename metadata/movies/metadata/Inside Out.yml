@@ -1,0 +1,11 @@
+metadata:
+
+  "Inside Out":
+    match:
+      year: 2015
+    url_poster: "https://theposterdb.com/api/assets/503543"
+
+  "Inside Out 2":
+    match:
+      year: 2024
+    url_poster: "https://theposterdb.com/api/assets/503544"

@@ -1,0 +1,11 @@
+metadata:
+
+  "Sinister":
+    match:
+      year: 2012
+    url_poster: "https://theposterdb.com/api/assets/108461"
+
+  "Sinister 2":
+    match:
+      year: 2015
+    url_poster: "https://theposterdb.com/api/assets/108462"

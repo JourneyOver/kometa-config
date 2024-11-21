@@ -1,0 +1,223 @@
+metadata:
+
+#The Infinity Saga:
+####################### Phase One #######################
+
+  "Iron Man":
+    match:
+      year: 2008
+    url_poster: "https://theposterdb.com/api/assets/265277"
+
+  "The Incredible Hulk":
+    match:
+      year: 2008
+    url_poster: "https://theposterdb.com/api/assets/265278"
+
+  "Iron Man 2":
+    match:
+      year: 2010
+    url_poster: "https://theposterdb.com/api/assets/265279"
+
+  "Thor":
+    match:
+      year: 2011
+    url_poster: "https://theposterdb.com/api/assets/265280"
+
+  "Captain America: The First Avenger":
+    match:
+      year: 2011
+    url_poster: "https://theposterdb.com/api/assets/265281"
+
+  "The Avengers":
+    match:
+      year: 2012
+    url_poster: "https://theposterdb.com/api/assets/265282"
+
+####################### Phase Two #######################
+
+  "Iron Man 3":
+    match:
+      year: 2013
+    url_poster: "https://theposterdb.com/api/assets/265284"
+
+  "Thor: The Dark World":
+    match:
+      year: 2013
+    url_poster: "https://theposterdb.com/api/assets/265285"
+
+  "Captain America: The Winter Soldier":
+    match:
+      year: 2014
+    url_poster: "https://theposterdb.com/api/assets/265286"
+
+  "Guardians of the Galaxy":
+    match:
+      year: 2014
+    url_poster: "https://theposterdb.com/api/assets/265287"
+
+  "Avengers: Age of Ultron":
+    match:
+      year: 2015
+    url_poster: "https://theposterdb.com/api/assets/265288"
+
+  "Ant-Man":
+    match:
+      year: 2015
+    url_poster: "https://theposterdb.com/api/assets/265289"
+
+###################### Phase Three ######################
+
+  "Captain America: Civil War":
+    match:
+      year: 2016
+    url_poster: "https://theposterdb.com/api/assets/265290"
+
+  "Doctor Strange":
+    match:
+      year: 2016
+    url_poster: "https://theposterdb.com/api/assets/265291"
+
+  "Guardians of the Galaxy Vol. 2":
+    match:
+      year: 2017
+    url_poster: "https://theposterdb.com/api/assets/265292"
+
+  "Spider-Man: Homecoming":
+    match:
+      year: 2017
+    url_poster: "https://theposterdb.com/api/assets/265293"
+
+  "Thor: Ragnarok":
+    match:
+      year: 2017
+    url_poster: "https://theposterdb.com/api/assets/265294"
+
+  "Black Panther":
+    match:
+      year: 2018
+    url_poster: "https://theposterdb.com/api/assets/265295"
+
+  "Avengers: Infinity War":
+    match:
+      year: 2018
+    url_poster: "https://theposterdb.com/api/assets/265296"
+
+  "Ant-Man and the Wasp":
+    match:
+      year: 2018
+    url_poster: "https://theposterdb.com/api/assets/265297"
+
+  "Captain Marvel":
+    match:
+      year: 2019
+    url_poster: "https://theposterdb.com/api/assets/265298"
+
+  "Avengers: Endgame":
+    match:
+      year: 2019
+    url_poster: "https://theposterdb.com/api/assets/265299"
+
+  "Spider-Man: Far from Home":
+    match:
+      year: 2019
+    url_poster: "https://theposterdb.com/api/assets/265300"
+
+#The Multiverse Saga:
+####################### Phase Four #######################
+
+  "Black Widow":
+    match:
+      year: 2021
+    url_poster: "https://theposterdb.com/api/assets/265301"
+
+  "Shang-Chi and the Legend of the Ten Rings":
+    match:
+      year: 2021
+    url_poster: "https://theposterdb.com/api/assets/265302"
+
+  "Eternals":
+    match:
+      year: 2021
+    url_poster: "https://theposterdb.com/api/assets/265303"
+
+  "Spider-Man: No Way Home":
+    match:
+      year: 2021
+    url_poster: "https://theposterdb.com/api/assets/265304"
+
+  "Doctor Strange in the Multiverse of Madness":
+    match:
+      year: 2022
+    url_poster: "https://theposterdb.com/api/assets/265305"
+
+  "Thor: Love and Thunder":
+    match:
+      year: 2022
+    url_poster: "https://theposterdb.com/api/assets/265306"
+
+  "Black Panther: Wakanda Forever":
+    match:
+      year: 2022
+    url_poster: "https://theposterdb.com/api/assets/273561"
+
+####################### Phase Five #######################
+
+  "Ant-Man and the Wasp: Quantumania":
+    match:
+      year: 2023
+    url_poster: "https://theposterdb.com/api/assets/352646"
+
+  "Guardians of the Galaxy Vol. 3":
+    match:
+      year: 2023
+    url_poster: "https://theposterdb.com/api/assets/352645"
+
+  "The Marvels":
+    match:
+      year: 2023
+    url_poster: "https://theposterdb.com/api/assets/478470"
+
+  "Deadpool & Wolverine":
+    match:
+      year: 2024
+    url_poster: "https://theposterdb.com/api/assets/511647"
+
+
+# Marvel One-Shots:
+
+  "Marvel One-Shot: The Consultant":
+    match:
+      year: 2011
+    url_poster: "https://theposterdb.com/api/assets/316869"
+
+  "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer":
+    match:
+      year: 2011
+    url_poster: "https://theposterdb.com/api/assets/316871"
+
+  "Marvel One-Shot: Item 47":
+    match:
+      year: 2012
+    url_poster: "https://theposterdb.com/api/assets/316874"
+
+  "Marvel One-Shot: Agent Carter":
+    match:
+      year: 2013
+    url_poster: "https://theposterdb.com/api/assets/316877"
+
+  "Marvel One-Shot: All Hail the King":
+    match:
+      year: 2014
+    url_poster: "https://theposterdb.com/api/assets/316880"
+
+# Special Presentations
+
+  #"Werewolf by Night":
+  #  match:
+  #    year: 2022
+  #  url_poster: "https://theposterdb.com/api/assets/273553"
+
+  "The Guardians of the Galaxy Holiday Special":
+    match:
+      year: 2022
+    url_poster: "https://theposterdb.com/api/assets/291219"

@@ -1,0 +1,16 @@
+metadata:
+
+  "Jumanji":
+    match:
+      year: 1995
+    url_poster: "https://theposterdb.com/api/assets/54113"
+
+  "Jumanji: Welcome to the Jungle":
+    match:
+      year: 2017
+    url_poster: "https://theposterdb.com/api/assets/54114"
+
+  "Jumanji: The Next Level":
+    match:
+      year: 2019
+    url_poster: "https://theposterdb.com/api/assets/54115"

@@ -9,3 +9,5 @@ collections:
 
   A Dog's Purpose:
     template: { name: Collection, collection: 591028, summary: 591028, order: release }
+    url_poster: "https://theposterdb.com/api/assets/112304"
+    url_background: "https://image.tmdb.org/t/p/original/7QtTnJQDnRnRu2FvCTJoPMPN8hp.jpg"

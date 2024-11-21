@@ -8,4 +8,6 @@ collections:
 
   Ghostbusters:
     template: {name: Collection, collection_trakt: https://trakt.tv/users/silvol/lists/ghostbusters, order: release}
+    url_poster: "https://theposterdb.com/api/assets/203163"
+    url_background: "https://image.tmdb.org/t/p/original/guigdRPHN65fsgZHmvVvBOyiArf.jpg"
     summary: Ghostbusters is a supernatural comedy franchise created in 1984. It centers on a group of eccentric New York City scientists who investigate and capture ghosts for a living.

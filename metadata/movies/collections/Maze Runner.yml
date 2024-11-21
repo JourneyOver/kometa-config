@@ -8,3 +8,5 @@ collections:
 
   Maze Runner:
     template: {name: Collection, collection: 295130, summary: 295130, order: release}
+    url_poster: "https://theposterdb.com/api/assets/8511"
+    url_background: "https://image.tmdb.org/t/p/original/te8ibHFhjwWXZTCtQIPRUFjxWX2.jpg"

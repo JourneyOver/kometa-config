@@ -1,0 +1,41 @@
+metadata:
+
+  "Harry Potter and the Sorcerer's Stone":
+    match:
+      year: 2001
+    url_poster: "https://theposterdb.com/api/assets/34023"
+
+  "Harry Potter and the Chamber of Secrets":
+    match:
+      year: 2002
+    url_poster: "https://theposterdb.com/api/assets/34024"
+
+  "Harry Potter and the Prisoner of Azkaban":
+    match:
+      year: 2004
+    url_poster: "https://theposterdb.com/api/assets/34025"
+
+  "Harry Potter and the Goblet of Fire":
+    match:
+      year: 2005
+    url_poster: "https://theposterdb.com/api/assets/34026"
+
+  "Harry Potter and the Order of the Phoenix":
+    match:
+      year: 2007
+    url_poster: "https://theposterdb.com/api/assets/34027"
+
+  "Harry Potter and the Half-Blood Prince":
+    match:
+      year: 2009
+    url_poster: "https://theposterdb.com/api/assets/34028"
+
+  "Harry Potter and the Deathly Hallows: Part 1":
+    match:
+      year: 2010
+    url_poster: "https://theposterdb.com/api/assets/34029"
+
+  "Harry Potter and the Deathly Hallows: Part 2":
+    match:
+      year: 2011
+    url_poster: "https://theposterdb.com/api/assets/34030"

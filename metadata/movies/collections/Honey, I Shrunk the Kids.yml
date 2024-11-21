@@ -8,3 +8,5 @@ collections:
 
   Honey, I Shrunk the Kids:
     template: {name: Collection, collection: 72119, summary: 72119, order: release}
+    url_poster: "https://theposterdb.com/api/assets/27434"
+    url_background: "https://image.tmdb.org/t/p/original/sfT3NqSnjEDY1449qBgQRWOIcaq.jpg"

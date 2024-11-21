@@ -8,3 +8,5 @@ collections:
 
   Avatar:
     template: {name: Collection, collection: 87096, summary: 87096, order: release}
+    url_poster: "https://theposterdb.com/api/assets/277976"
+    url_background: "https://image.tmdb.org/t/p/original/i7wJUZCq3L3cuH5PLum6jqbG0pr.jpg"

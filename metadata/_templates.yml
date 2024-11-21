@@ -1,6 +1,6 @@
-  ###########################
-  #        Templates        #
-  ###########################
+###########################
+#        Templates        #
+###########################
 
 templates:
   Collection:
@@ -18,4 +18,4 @@ templates:
     letterboxd_list: <<collection_letterbox>>
     sort_title: <<collection_name>>
     collection_order: <<order>>
-    item_assets: true
+    item_assets: false

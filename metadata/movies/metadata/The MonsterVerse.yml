@@ -1,0 +1,26 @@
+metadata:
+
+  "Godzilla":
+    match:
+      year: 2014
+    url_poster: "https://theposterdb.com/api/assets/542683"
+
+  "Kong: Skull Island":
+    match:
+      year: 2017
+    url_poster: "https://theposterdb.com/api/assets/542682"
+
+  "Godzilla: King of the Monsters":
+    match:
+      year: 2019
+    url_poster: "https://theposterdb.com/api/assets/542681"
+
+  "Godzilla vs. Kong":
+    match:
+      year: 2021
+    url_poster: "https://theposterdb.com/api/assets/542680"
+
+  "Godzilla x Kong: The New Empire":
+    match:
+      year: 2024
+    url_poster: "https://theposterdb.com/api/assets/542679"

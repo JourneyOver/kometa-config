@@ -1,0 +1,16 @@
+metadata:
+
+  "Back to the Future":
+    match:
+      year: 1985
+    url_poster: "https://theposterdb.com/api/assets/108171"
+
+  "Back to the Future Part II":
+    match:
+      year: 1989
+    url_poster: "https://theposterdb.com/api/assets/108172"
+
+  "Back to the Future Part III":
+    match:
+      year: 1990
+    url_poster: "https://theposterdb.com/api/assets/108173"

@@ -8,3 +8,5 @@ collections:
 
   Hocus Pocus:
     template: {name: Collection, collection: 751156, summary: 751156, order: release}
+    url_poster: "https://theposterdb.com/api/assets/270908"
+    url_background: "https://image.tmdb.org/t/p/original/id8vrPNR5VGDV9NUeEEcBkxBS9g.jpg"

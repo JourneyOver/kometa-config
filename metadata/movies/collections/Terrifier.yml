@@ -1,0 +1,12 @@
+# Collection Posters from:
+# https://theposterdb.com/set/297131
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Terrifier:
+    template: {name: Collection, collection: 727761, summary: 727761, order: release}
+    url_poster: "https://theposterdb.com/api/assets/535095"
+    url_background: "https://image.tmdb.org/t/p/original/zREjCmCHIHdEF6ufPoDQjhl4Wdm.jpg"

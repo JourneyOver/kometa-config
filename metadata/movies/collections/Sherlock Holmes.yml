@@ -8,4 +8,6 @@ collections:
 
   Sherlock Holmes:
     template: { name: Collection, collection: 102322, order: release }
+    url_poster: "https://theposterdb.com/api/assets/2623"
+    url_background: "https://image.tmdb.org/t/p/original/aeLom584FZdu6253WMaYEUCrTdu.jpg"
     summary: The Sherlock Holmes Collection brings together the timeless adventures of the world's most famous detective and his loyal companion, Dr. John Watson.

@@ -1,5 +1,5 @@
 # Collection Posters from:
-# https://www.reddit.com/r/PlexPosters/comments/bcd7yp/collection_childs_play_complete_collection/
+# https://theposterdb.com/set/227222
 
 external_templates:
   - file: metadata/_templates.yml
@@ -8,3 +8,5 @@ collections:
 
   Child's Play:
     template: {name: Collection, collection: 10455, extra_movie: 533642, summary: 10455, order: release}
+    url_poster: "https://theposterdb.com/api/assets/407431"
+    url_background: "https://image.tmdb.org/t/p/original/xHNGd3oJY2g0bgDVdVDKK5t9nlo.jpg"

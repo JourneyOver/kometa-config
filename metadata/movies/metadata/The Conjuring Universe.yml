@@ -1,0 +1,36 @@
+metadata:
+
+  "The Conjuring":
+    match:
+      year: 2013
+    url_poster: "https://theposterdb.com/api/assets/5438"
+
+  "Annabelle":
+    match:
+      year: 2014
+    url_poster: "https://theposterdb.com/api/assets/5439"
+
+  "The Conjuring 2":
+    match:
+      year: 2016
+    url_poster: "https://theposterdb.com/api/assets/5440"
+
+  "Annabelle: Creation":
+    match:
+      year: 2017
+    url_poster: "https://theposterdb.com/api/assets/5441"
+
+  "The Nun":
+    match:
+      year: 2018
+    url_poster: "https://theposterdb.com/api/assets/5442"
+
+  "The Curse of La Llorona":
+    match:
+      year: 2019
+    url_poster: "https://theposterdb.com/api/assets/5443"
+
+  "Annabelle Comes Home":
+    match:
+      year: 2019
+    url_poster: "https://theposterdb.com/api/assets/13676"

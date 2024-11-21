@@ -1,0 +1,11 @@
+metadata:
+
+  "Independence Day":
+    match:
+      year: 1996
+    url_poster: "https://theposterdb.com/api/assets/68262"
+
+  "Independence Day: Resurgence":
+    match:
+      year: 2016
+    url_poster: "https://theposterdb.com/api/assets/68263"

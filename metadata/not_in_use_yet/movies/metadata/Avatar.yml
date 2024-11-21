@@ -1,0 +1,11 @@
+metadata:
+
+  "Avatar":
+    match:
+      year: 2009
+    url_poster: "https://theposterdb.com/api/assets/277977"
+
+  "Avatar: The Way of Water":
+    match:
+      year: 2022
+    url_poster: "https://theposterdb.com/api/assets/277978"

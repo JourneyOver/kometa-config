@@ -1,0 +1,16 @@
+metadata:
+
+  "A Quiet Place":
+    match:
+      year: 2018
+    url_poster: "https://theposterdb.com/api/assets/511679"
+
+  "A Quiet Place Part II":
+    match:
+      year: 2021
+    url_poster: "https://theposterdb.com/api/assets/511678"
+
+  "A Quiet Place: Day One":
+    match:
+      year: 2024
+    url_poster: "https://theposterdb.com/api/assets/511677"

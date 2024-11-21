@@ -8,3 +8,5 @@ collections:
 
   Resident Evil:
     template: { name: Collection, collection: 17255, extra_movie: 460458, summary: 17255, order: release }
+    url_poster: "https://theposterdb.com/api/assets/306854"
+    url_background: "https://image.tmdb.org/t/p/original/5VgZ6Vggk0NnA62GK1UFlnAtyu2.jpg"

@@ -1,0 +1,21 @@
+metadata:
+
+  "Men in Black":
+    match:
+      year: 1997
+    url_poster: "https://theposterdb.com/api/assets/16775"
+
+  "Men in Black II":
+    match:
+      year: 2002
+    url_poster: "https://theposterdb.com/api/assets/16776"
+
+  "Men in Black 3":
+    match:
+      year: 2012
+    url_poster: "https://theposterdb.com/api/assets/16777"
+
+  "Men in Black: International":
+    match:
+      year: 2019
+    url_poster: "https://theposterdb.com/api/assets/16778"

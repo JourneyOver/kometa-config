@@ -1,0 +1,21 @@
+metadata:
+
+  "Deadpool":
+    match:
+      year: 2016
+    url_poster: "https://theposterdb.com/api/assets/292587"
+
+  "Deadpool 2":
+    match:
+      year: 2018
+    url_poster: "https://theposterdb.com/api/assets/292588"
+
+  #"Once Upon a Deadpool":
+  #  match:
+  #    year: 2018
+  #  url_poster: "https://theposterdb.com/api/assets/292589"
+
+  #"Deadpool & Wolverine":
+  #  match:
+  #    year: 2024
+  #  url_poster: "https://theposterdb.com/api/assets/511647"

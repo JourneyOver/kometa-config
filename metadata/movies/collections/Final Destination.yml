@@ -1,6 +1,5 @@
 # Collection Posters from:
-# https://www.reddit.com/r/PlexPosters/comments/b9f348/collection_final_destination_20002011/
-# https://imgur.com/a/STDqBbQ
+# https://theposterdb.com/set/254
 
 external_templates:
   - file: metadata/_templates.yml
@@ -9,3 +8,5 @@ collections:
 
   Final Destination:
     template: { name: Collection, collection: 8864, summary: 8864, order: release }
+    url_poster: "https://theposterdb.com/api/assets/881"
+    url_background: "https://image.tmdb.org/t/p/original/y3aWOInifbGKXM34KjtcMITrZRZ.jpg"

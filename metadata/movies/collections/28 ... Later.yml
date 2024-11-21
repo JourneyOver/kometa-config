@@ -8,3 +8,5 @@ collections:
 
   28 ... Later:
     template: { name: Collection, collection: 1565, summary: 1565, order: release }
+    url_poster: "https://theposterdb.com/api/assets/24138"
+    url_background: "https://image.tmdb.org/t/p/original/1YfCd3TrVfApeAQJPrsakw8CBax.jpg"

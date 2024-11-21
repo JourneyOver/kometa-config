@@ -1,0 +1,11 @@
+metadata:
+
+  "28 Days Later":
+    match:
+      year: 2002
+    url_poster: "https://theposterdb.com/api/assets/24139"
+
+  "28 Weeks Later":
+    match:
+      year: 2007
+    url_poster: "https://theposterdb.com/api/assets/24140"

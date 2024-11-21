@@ -1,0 +1,11 @@
+metadata:
+
+  "A Dog's Purpose":
+    match:
+      year: 2017
+    url_poster: "https://theposterdb.com/api/assets/968"
+
+  "A Dog's Journey":
+    match:
+      year: 2019
+    url_poster: "https://theposterdb.com/api/assets/970"

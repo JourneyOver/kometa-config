@@ -1,0 +1,11 @@
+metadata:
+
+  "Beetlejuice":
+    match:
+      year: 1988
+    url_poster: "https://theposterdb.com/api/assets/494487"
+
+  "Beetlejuice Beetlejuice":
+    match:
+      year: 2024
+    url_poster: "https://theposterdb.com/api/assets/509024"

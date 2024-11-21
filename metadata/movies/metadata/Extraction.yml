@@ -1,0 +1,12 @@
+metadata:
+
+  "Extraction":
+    match:
+      year: 2020
+    url_poster: "https://theposterdb.com/api/assets/374149"
+
+  "Extraction 2":
+    match:
+      title: "Extraction II"
+      year: 2023
+    url_poster: "https://theposterdb.com/api/assets/374150"
