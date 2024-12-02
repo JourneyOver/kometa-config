@@ -1,0 +1,14 @@
+# Collection Posters from:
+# https://theposterdb.com/poster/95645
+# https://theposterdb.com/set/253651
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Unbreakable:
+    template: { name: Collection, collection_trakt: https://trakt.tv/lists/official/the-unbreakable-trilogy, order: release }
+    url_poster: "https://theposterdb.com/api/assets/95645"
+    url_background: "https://halloweenlove.com/images/posts/eastrail-177-trilogy.jpg"
+    summary: The Unbreakable trilogy, also known as the Eastrail 177 Trilogy, is an American superhero thriller and psychological horror film series.

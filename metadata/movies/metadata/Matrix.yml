@@ -1,0 +1,21 @@
+metadata:
+
+  "The Matrix":
+    match:
+      year: 1999
+    url_poster: "https://theposterdb.com/api/assets/12042"
+
+  "The Matrix Reloaded":
+    match:
+      year: 2003
+    url_poster: "https://theposterdb.com/api/assets/12043"
+
+  "The Matrix Revolutions":
+    match:
+      year: 2003
+    url_poster: "https://theposterdb.com/api/assets/12044"
+
+  "The Matrix Resurrections":
+    match:
+      year: 2021
+    url_poster: "https://theposterdb.com/api/assets/195234"

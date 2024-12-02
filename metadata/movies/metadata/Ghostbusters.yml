@@ -10,9 +10,8 @@ metadata:
       year: 1989
     url_poster: "https://theposterdb.com/api/assets/203165"
 
-  "Ghostbusters (2016)":
+  "Ghostbusters: Answer the Call":
     match:
-      title: Ghostbusters
       year: 2016
     url_poster: "https://theposterdb.com/api/assets/203166"
 

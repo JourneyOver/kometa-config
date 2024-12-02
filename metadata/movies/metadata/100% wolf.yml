@@ -1,0 +1,11 @@
+metadata:
+
+  "100% Wolf":
+    match:
+      year: 2020
+    url_poster: "https://theposterdb.com/api/assets/527284"
+
+  "200% Wolf":
+    match:
+      year: 2024
+    url_poster: "https://theposterdb.com/api/assets/527283"

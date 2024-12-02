@@ -1,0 +1,16 @@
+metadata:
+
+  "Sonic the Hedgehog":
+    match:
+      year: 2020
+    url_poster: "https://theposterdb.com/api/assets/519446"
+
+  "Sonic the Hedgehog 2":
+    match:
+      year: 2022
+    url_poster: "https://theposterdb.com/api/assets/519445"
+
+#  "Sonic the Hedgehog 3":
+#    match:
+#      year: 2024
+#    url_poster: "https://theposterdb.com/api/assets/519444"
