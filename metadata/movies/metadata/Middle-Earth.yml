@@ -1,0 +1,31 @@
+metadata:
+
+  "The Lord of the Rings: The Fellowship of the Ring":
+    match:
+      year: 2001
+    url_poster: "https://theposterdb.com/api/assets/1719"
+
+  "The Lord of the Rings: The Two Towers":
+    match:
+      year: 2002
+    url_poster: "https://theposterdb.com/api/assets/1721"
+
+  "The Lord of the Rings: The Return of the King":
+    match:
+      year: 2003
+    url_poster: "https://theposterdb.com/api/assets/1722"
+
+  "The Hobbit: An Unexpected Journey":
+    match:
+      year: 2012
+    url_poster: "https://theposterdb.com/api/assets/1723"
+
+  "The Hobbit: The Desolation of Smaug":
+    match:
+      year: 2013
+    url_poster: "https://theposterdb.com/api/assets/1724"
+
+  "The Hobbit: The Battle of the Five Armies":
+    match:
+      year: 2014
+    url_poster: "https://theposterdb.com/api/assets/1725"

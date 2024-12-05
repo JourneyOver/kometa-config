@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   Wreck-It Ralph:
-    template: {name: Collection, collection: 404825, summary: 404825, order: release}
+    template: { name: Collection, collection: 404825, summary: 404825, order: release }
     url_poster: "https://theposterdb.com/api/assets/59428"
     url_background: "https://image.tmdb.org/t/p/original/maHMw00WEuUzi4hoXxXQAGLntfH.jpg"

@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   The Mummy:
-    template: {name: Collection, collection: 1733, summary: 1733, order: release}
+    template: { name: Collection, collection: 1733, summary: 1733, order: release }
     url_poster: "https://theposterdb.com/api/assets/1041"
     url_background: "https://image.tmdb.org/t/p/original/fHNtCU0VafuSgwBf2LKB7Jdu0WS.jpg"

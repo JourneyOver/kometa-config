@@ -8,7 +8,7 @@ external_templates:
 collections:
 
   The Conjuring Universe:
-    template: {name: Collection, collection_letterbox: https://letterboxd.com/kitthren/list/the-conjuring-universe-timeline, order: custom}
+    template: { name: Collection, collection_letterbox: https://letterboxd.com/kitthren/list/the-conjuring-universe-timeline, order: custom }
     url_poster: "https://theposterdb.com/api/assets/5437"
     url_background: "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/the-conjuring-universe-demons-ranked.jpg"
-    summary: The films present a dramatization of the real-life cases of Ed and Lorraine Warren, paranormal investigators and authors associated with prominent yet controversial cases of haunting. The main series follows their attempts to assist people who find themselves possessed by demonic spirits, while the spin-off films focus on the origins of some of the entities the Warrens have encountered.
+    summary: "Ed and Lorraine Warren, renowned paranormal investigators, delve into the darkest corners of the supernatural, confronting terrifying entities that defy explanation. Each case they tackle reveals a chilling world where demonic spirits and haunted souls threaten the living. As they seek to protect the innocent, they uncover the terrifying origins of some of the most infamous entities in history. From possessed homes to cursed artifacts, every encounter with evil becomes a battle for survival, as the Warrens face the unknown with courage and unwavering determination."

@@ -1,0 +1,13 @@
+# Collection Posters from:
+# https://theposterdb.com/set/554
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Middle-Earth:
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/jjmalpz/lists/middle-earth, order: custom }
+    url_poster: "https://theposterdb.com/api/assets/1716"
+    url_background: "https://wallpapercave.com/wp/FYIQQwM.jpg"
+    summary: "Follow Bilbo and Frodo Baggins on heroic quests to confront dragons, destroy the One Ring, and battle the forces of darkness in this timeless tale of courage, friendship, and the fight between good and evil."

@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   Toy Story:
-    template: {name: Collection, collection: 10194, summary: 10194, order: release}
+    template: { name: Collection, collection: 10194, summary: 10194, order: release }
     url_poster: "https://theposterdb.com/api/assets/225173"
     url_background: "https://image.tmdb.org/t/p/original/hApclyB9NEZEQujAVajzi5iWE4a.jpg"

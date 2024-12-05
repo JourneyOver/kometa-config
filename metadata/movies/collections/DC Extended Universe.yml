@@ -8,7 +8,7 @@ external_templates:
 collections:
 
   DC Extended Universe:
-    template: {name: Collection, collection_trakt: https://trakt.tv/users/arachn0id/lists/dc-extended-universe-dceu, order: release}
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/arachn0id/lists/dc-extended-universe-dceu, order: release }
     url_poster: "https://theposterdb.com/api/assets/79816"
     url_background: "https://raw.githubusercontent.com/JourneyOver/kometa-config/refs/heads/posters/movies/collections/DC%20Extended%20Universe/background.jpg"
-    summary: The DC Extended Universe (DCEU) is a series of superhero films, distributed by Warner Bros. Pictures and based on characters that appear in American comic books by DC Comics. The shared universe, much like the original DC Universe in comic books and the television programs, was established by crossing over common plot elements, settings, cast, and characters.
+    summary: "Legendary heroes. Formidable villains. The DC Extended Universe brings iconic characters like Superman, Batman, and Wonder Woman to life, as they face threats that challenge everything they stand for. From the rise of Krypton’s last son in Man of Steel to the underwater kingdoms of Aquaman, action, drama, and unforgettable moments unfold. Shared storylines and stunning visuals unite a world where justice, power, and hope take center stage."
