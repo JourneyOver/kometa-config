@@ -17,10 +17,11 @@ metadata:
 
   "AVP: Alien vs. Predator":
     match:
+      title: "Alien vs. Predator"
       year: 2004
     url_poster: "https://theposterdb.com/api/assets/1218"
 
-  "Aliens vs Predator: Requiem":
+  "Aliens vs. Predator: Requiem":
     match:
       year: 2007
     url_poster: "https://theposterdb.com/api/assets/1219"
@@ -66,7 +67,7 @@ metadata:
       year: 1992
     url_poster: "https://theposterdb.com/api/assets/1216"
 
-  "Alien: Resurrection":
+  "Alien Resurrection":
     match:
       year: 1997
     url_poster: "https://theposterdb.com/api/assets/1217"
