@@ -1,0 +1,11 @@
+metadata:
+
+  "My Spy":
+    match:
+      year: 2020
+    url_poster: "https://theposterdb.com/api/assets/512197"
+
+  "My Spy The Eternal City":
+    match:
+      year: 2024
+    url_poster: "https://theposterdb.com/api/assets/512196"

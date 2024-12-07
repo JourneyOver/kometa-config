@@ -1,0 +1,21 @@
+metadata:
+
+  "Beverly Hills Cop":
+    match:
+      year: 1984
+    url_poster: "https://theposterdb.com/api/assets/505551"
+
+  "Beverly Hills Cop II":
+    match:
+      year: 1987
+    url_poster: "https://theposterdb.com/api/assets/505550"
+
+  "Beverly Hills Cop III":
+    match:
+      year: 1994
+    url_poster: "https://theposterdb.com/api/assets/505549"
+
+  "Beverly Hills Cop: Axel F":
+    match:
+      year: 2024
+    url_poster: "https://theposterdb.com/api/assets/505548"

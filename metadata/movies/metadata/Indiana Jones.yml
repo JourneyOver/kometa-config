@@ -1,0 +1,26 @@
+metadata:
+
+  "Indiana Jones and the Raiders of the Lost Ark":
+    match:
+      year: 1981
+    url_poster: "https://theposterdb.com/api/assets/87731"
+
+  "Indiana Jones and the Temple of Doom":
+    match:
+      year: 1984
+    url_poster: "https://theposterdb.com/api/assets/87732"
+
+  "Indiana Jones and the Last Crusade":
+    match:
+      year: 1989
+    url_poster: "https://theposterdb.com/api/assets/87733"
+
+  "Indiana Jones and the Kingdom of the Crystal Skull":
+    match:
+      year: 2008
+    url_poster: "https://theposterdb.com/api/assets/87734"
+
+  "Indiana Jones and the Dial of Destiny":
+    match:
+      year: 2023
+    url_poster: "https://theposterdb.com/api/assets/383349"
