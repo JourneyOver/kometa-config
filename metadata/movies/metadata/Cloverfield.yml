@@ -1,0 +1,16 @@
+metadata:
+
+  "Cloverfield":
+    match:
+      year: 2008
+    url_poster: "https://theposterdb.com/api/assets/13927"
+
+  "10 Cloverfield Lane":
+    match:
+      year: 2016
+    url_poster: "https://theposterdb.com/api/assets/13928"
+
+  "The Cloverfield Paradox":
+    match:
+      year: 2018
+    url_poster: "https://theposterdb.com/api/assets/13929"
