@@ -1,0 +1,12 @@
+# Collection Posters from:
+# https://theposterdb.com/set/244
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Night at the Museum:
+    template: { name: Collection, collection: 85943, summary: 85943, order: release }
+    url_poster: "https://theposterdb.com/api/assets/864"
+    url_background: "https://image.tmdb.org/t/p/original/z0nqqHwEY3niKa41kKbR4zhnvHw.jpg"

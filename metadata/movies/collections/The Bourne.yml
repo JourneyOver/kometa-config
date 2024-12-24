@@ -1,0 +1,12 @@
+# Collection Posters from:
+# https://theposterdb.com/set/131315
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  The Bourne:
+    template: { name: Collection, collection: 31562, summary: 31562, order: release }
+    url_poster: "https://theposterdb.com/api/assets/217820"
+    url_background: "https://image.tmdb.org/t/p/original/dDDyEGgLvTSSRcp36eJcPDUErap.jpg"

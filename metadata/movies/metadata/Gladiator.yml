@@ -1,0 +1,11 @@
+metadata:
+
+  "Gladiator":
+    match:
+      year: 2000
+    url_poster: "https://theposterdb.com/api/assets/553686"
+
+  "Gladiator II":
+    match:
+      year: 2024
+    url_poster: "https://theposterdb.com/api/assets/553685"

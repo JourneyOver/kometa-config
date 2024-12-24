@@ -1,0 +1,26 @@
+metadata:
+
+  "The Bourne Identity":
+    match:
+      year: 2002
+    url_poster: "https://theposterdb.com/api/assets/217821"
+
+  "The Bourne Supremacy":
+    match:
+      year: 2004
+    url_poster: "https://theposterdb.com/api/assets/217822"
+
+  "The Bourne Ultimatum":
+    match:
+      year: 2007
+    url_poster: "https://theposterdb.com/api/assets/217823"
+
+  "The Bourne Legacy":
+    match:
+      year: 2012
+    url_poster: "https://theposterdb.com/api/assets/217824"
+
+  "Jason Bourne":
+    match:
+      year: 2016
+    url_poster: "https://theposterdb.com/api/assets/217825"

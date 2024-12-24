@@ -1,0 +1,12 @@
+# Collection Posters from:
+# https://theposterdb.com/set/78937
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  James Bond:
+    template: { name: Collection, collection: 645, summary: 645, order: release }
+    url_poster: "https://theposterdb.com/api/assets/126240"
+    url_background: "https://image.tmdb.org/t/p/original/peKR7ulbgkWVOU6kFkG3EUDJOSM.jpg"
