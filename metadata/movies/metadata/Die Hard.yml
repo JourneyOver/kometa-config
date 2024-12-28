@@ -10,7 +10,7 @@ metadata:
       year: 1990
     url_poster: "https://theposterdb.com/api/assets/721"
 
-  "Die Hard: With a Vengeance":
+  "Die Hard with a Vengeance":
     match:
       year: 1995
     url_poster: "https://theposterdb.com/api/assets/722"

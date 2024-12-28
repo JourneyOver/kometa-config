@@ -1,0 +1,26 @@
+metadata:
+
+  "The Hunger Games":
+    match:
+      year: 2012
+    url_poster: "https://theposterdb.com/api/assets/520234"
+
+  "The Hunger Games: Catching Fire":
+    match:
+      year: 2013
+    url_poster: "https://theposterdb.com/api/assets/520233"
+
+  "The Hunger Games: Mockingjay - Part 1":
+    match:
+      year: 2014
+    url_poster: "https://theposterdb.com/api/assets/520232"
+
+  "The Hunger Games: Mockingjay - Part 2":
+    match:
+      year: 2015
+    url_poster: "https://theposterdb.com/api/assets/520231"
+
+  "The Hunger Games: The Ballad of Songbirds & Snakes":
+    match:
+      year: 2023
+    url_poster: "https://theposterdb.com/api/assets/520230"
