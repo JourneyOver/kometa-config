@@ -1,0 +1,11 @@
+metadata:
+
+  "Puss in Boots":
+    match:
+      year: 2011
+    url_poster: "https://theposterdb.com/api/assets/302430"
+
+  "Puss in Boots: The Last Wish":
+    match:
+      year: 2022
+    url_poster: "https://theposterdb.com/api/assets/302431"

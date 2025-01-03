@@ -1,0 +1,12 @@
+# Collection Posters from:
+# https://theposterdb.com/set/2872
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  Shrek:
+    template: { name: Collection, collection: 2150, summary: 2150, order: release }
+    url_poster: "https://theposterdb.com/api/assets/6997"
+    url_background: "https://image.tmdb.org/t/p/original/5xOppSzrduXPxFicOQbzD0m9mvP.jpg"

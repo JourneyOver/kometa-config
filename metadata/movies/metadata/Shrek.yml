@@ -1,0 +1,21 @@
+metadata:
+
+  "Shrek":
+    match:
+      year: 2001
+    url_poster: "https://theposterdb.com/api/assets/6998"
+
+  "Shrek 2":
+    match:
+      year: 2004
+    url_poster: "https://theposterdb.com/api/assets/6999"
+
+  "Shrek the Third":
+    match:
+      year: 2007
+    url_poster: "https://theposterdb.com/api/assets/7000"
+
+  "Shrek Forever After":
+    match:
+      year: 2010
+    url_poster: "https://theposterdb.com/api/assets/7001"
