@@ -1,0 +1,16 @@
+# Posters from:
+# https://theposterdb.com/set/102278
+
+metadata:
+
+  "Ghost in the Shell: Stand Alone Complex":
+    year: 2002
+    title: "Ghost in the Shell: Stand Alone Complex"
+    url_poster: https://theposterdb.com/api/assets/167329
+    seasons:
+#      0:
+#        url_poster: https://theposterdb.com/api/assets/167330
+      1:
+        url_poster: https://theposterdb.com/api/assets/167331
+      2:
+        url_poster: https://theposterdb.com/api/assets/167332
