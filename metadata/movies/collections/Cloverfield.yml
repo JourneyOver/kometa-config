@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Cloverfield:
+  "Cloverfield":
     template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/cloverfield-collection, order: release }
     url_poster: "https://theposterdb.com/api/assets/13926"
     url_background: "https://i.redd.it/i9udqklo9rq01.png"

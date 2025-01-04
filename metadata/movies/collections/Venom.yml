@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Venom:
+  "Venom":
     template: { name: Collection, collection: 558216, summary: 558216, order: release }
     url_poster: "https://theposterdb.com/api/assets/151303"
     url_background: "https://image.tmdb.org/t/p/original/nEcRRazUsOnPH7mx9vvkrwzZaVF.jpg"

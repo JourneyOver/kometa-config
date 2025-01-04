@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Spider-Verse:
+  "Spider-Verse":
     template: { name: Collection, collection: 573436, summary: 573436, order: release }
     url_poster: "https://theposterdb.com/api/assets/370373"
     url_background: "https://image.tmdb.org/t/p/original/xLg6LRJ6VqwJX3ZiB6mRhLYAg3I.jpg"

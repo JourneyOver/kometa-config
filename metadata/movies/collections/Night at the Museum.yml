@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Night at the Museum:
+  "Night at the Museum":
     template: { name: Collection, collection: 85943, summary: 85943, order: release }
     url_poster: "https://theposterdb.com/api/assets/864"
     url_background: "https://image.tmdb.org/t/p/original/z0nqqHwEY3niKa41kKbR4zhnvHw.jpg"

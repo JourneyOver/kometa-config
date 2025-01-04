@@ -7,7 +7,7 @@ external_templates:
 
 collections:
 
-  Unbreakable:
+  "Unbreakable":
     template: { name: Collection, collection_trakt: https://trakt.tv/users/bfchris/lists/unbreakable-glass-trilogy, order: release }
     url_poster: "https://theposterdb.com/api/assets/95645"
     url_background: "https://halloweenlove.com/images/posts/eastrail-177-trilogy.jpg"

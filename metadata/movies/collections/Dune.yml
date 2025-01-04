@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Dune:
+  "Dune":
     template: { name: Collection, collection: 726871, summary: 726871, order: release }
     url_poster: "https://theposterdb.com/api/assets/356988"
     url_background: "https://image.tmdb.org/t/p/original/fahk0Fu7VUUfK6IkTt1R3waOD9F.jpg"

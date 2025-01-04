@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  John Wick:
+  "John Wick":
     template: { name: Collection, collection: 404609, summary: 404609, order: release }
     url_poster: "https://theposterdb.com/api/assets/370517"
     url_background: "https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg"

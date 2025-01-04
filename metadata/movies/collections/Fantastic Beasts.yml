@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Fantastic Beasts:
+  "Fantastic Beasts":
     template: { name: Collection, collection: 435259, summary: 435259, order: release }
     url_poster: "https://theposterdb.com/api/assets/34281"
     url_background: "https://image.tmdb.org/t/p/original/bS043RNCoBf9UoPjv4EMzKbyAnZ.jpg"

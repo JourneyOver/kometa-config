@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Final Destination:
+  "Final Destination":
     template: { name: Collection, collection: 8864, summary: 8864, order: release }
     url_poster: "https://theposterdb.com/api/assets/881"
     url_background: "https://image.tmdb.org/t/p/original/y3aWOInifbGKXM34KjtcMITrZRZ.jpg"

@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Puss in Boots:
+  "Puss in Boots":
     template: { name: Collection, collection: 94602, summary: 94602, order: release }
     url_poster: "https://theposterdb.com/api/assets/302429"
     url_background: "https://image.tmdb.org/t/p/original/fMAXv23POTzuSkqAuyjwaHrEHdp.jpg"

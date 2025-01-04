@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Zombieland:
+  "Zombieland":
     template: { name: Collection, collection: 537982, summary: 537982, order: release }
     url_poster: "https://theposterdb.com/api/assets/36525"
     url_background: "https://image.tmdb.org/t/p/original/w8gUU1xsfjRHIjdK6W1SZsWRHsS.jpg"

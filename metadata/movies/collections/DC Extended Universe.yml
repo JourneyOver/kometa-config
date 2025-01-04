@@ -7,7 +7,7 @@ external_templates:
 
 collections:
 
-  DC Extended Universe:
+  "DC Extended Universe":
     template: { name: Collection, collection_trakt: https://trakt.tv/users/arachn0id/lists/dc-extended-universe-dceu, order: release }
     url_poster: "https://theposterdb.com/api/assets/79816"
     url_background: "https://raw.githubusercontent.com/JourneyOver/kometa-config/refs/heads/posters/movies/collections/DC%20Extended%20Universe/background.jpg"

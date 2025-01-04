@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Sherlock Holmes:
+  "Sherlock Holmes":
     template: { name: Collection, collection: 102322, order: release }
     url_poster: "https://theposterdb.com/api/assets/2623"
     url_background: "https://image.tmdb.org/t/p/original/aeLom584FZdu6253WMaYEUCrTdu.jpg"

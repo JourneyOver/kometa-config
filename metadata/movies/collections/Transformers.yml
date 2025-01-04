@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Transformers:
+  "Transformers":
     template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/transformers, order: custom }
     url_poster: "https://theposterdb.com/api/assets/75372"
     url_background: "https://image.tmdb.org/t/p/original/zvZBNNDWd5LcsIBpDhJyCB2MDT7.jpg"

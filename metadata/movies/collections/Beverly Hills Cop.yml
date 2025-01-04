@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Beverly Hills Cop:
+  "Beverly Hills Cop":
     template: { name: Collection, collection: 85861, summary: 85861, order: release }
     url_poster: "https://theposterdb.com/api/assets/505547"
     url_background: "https://image.tmdb.org/t/p/original/xpJmfMEamDkqCSe3cxpKqNzt4kI.jpg"

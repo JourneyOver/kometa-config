@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Beetlejuice:
+  "Beetlejuice":
     template: { name: Collection, collection: 945475, summary: 945475, order: release }
     url_poster: "https://theposterdb.com/api/assets/494477"
     url_background: "https://image.tmdb.org/t/p/original/mNw5louI7o0fSjUD4nS7tpU85yy.jpg"

@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  The MonsterVerse:
+  "The MonsterVerse":
     template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/the-monsterverse, order: release }
     url_poster: "https://theposterdb.com/api/assets/542678"
     url_background: "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/03/monsterverse-banner.png"

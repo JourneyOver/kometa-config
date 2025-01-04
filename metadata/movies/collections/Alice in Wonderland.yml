@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Alice in Wonderland:
+  "Alice in Wonderland":
     template: { name: Collection, collection: 261307, summary: 261307, order: release }
     url_poster: "https://theposterdb.com/api/assets/52052"
     url_background: "https://image.tmdb.org/t/p/original/xwv31FflSCeUeJKHe3o1fMxMnjH.jpg"

@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Tremors:
+  "Tremors":
     template: { name: Collection, collection: 91799, summary: 91799, order: release }
     url_poster: "https://theposterdb.com/api/assets/107247"
     url_background: "https://image.tmdb.org/t/p/original/b9Zl30z4QfkeKhI7NPqHyCBTB8Y.jpg"

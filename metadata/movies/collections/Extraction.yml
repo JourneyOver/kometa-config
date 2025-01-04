@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Extraction:
+  "Extraction":
     template: { name: Collection, collection: 735127, summary: 735127, order: release }
     url_poster: "https://theposterdb.com/api/assets/374148"
     url_background: "https://image.tmdb.org/t/p/original/gxBbFVb2SUWtHTJQXjwAtEPTWcA.jpg"

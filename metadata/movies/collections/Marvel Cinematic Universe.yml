@@ -12,7 +12,7 @@ external_templates:
 
 collections:
 
-  Marvel Cinematic Universe:
+  "Marvel Cinematic Universe":
     template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/marvel-cinematic-universe, order: custom }
     url_poster: "https://theposterdb.com/api/assets/210268"
     url_background: "https://images.hdqwalls.com/download/marvel-cinematic-universe-jm-2560x1440.jpg"

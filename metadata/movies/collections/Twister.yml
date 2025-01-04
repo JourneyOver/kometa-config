@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Twister:
+  "Twister":
     template: { name: Collection, collection: 1062948, summary: 1062948, order: release }
     url_poster: "https://theposterdb.com/api/assets/515802"
     url_background: "https://image.tmdb.org/t/p/original/bnb3pWSDihCCeZ0wGlFBbTScyZv.jpg"

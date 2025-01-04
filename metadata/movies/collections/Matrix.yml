@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Matrix:
+  "Matrix":
     template: { name: Collection, collection: 2344, summary: 2344, order: release }
     url_poster: "https://theposterdb.com/api/assets/12041"
     url_background: "https://image.tmdb.org/t/p/original/x3flXsIyGPEd0Kn0c0HOJ0ElRdT.jpg"

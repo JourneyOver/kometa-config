@@ -6,7 +6,7 @@ external_templates:
 
 collections:
 
-  Pacific Rim:
+  "Pacific Rim":
     template: { name: Collection, collection: 363369, summary: 363369, order: release }
     url_poster: "https://theposterdb.com/api/assets/10219"
     url_background: "https://image.tmdb.org/t/p/original/ru6U9hALGTLGcd3LEE0gd7tgpcd.jpg"

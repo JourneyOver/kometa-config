@@ -7,7 +7,7 @@ external_templates:
 
 collections:
 
-  The Conjuring Universe:
+  "The Conjuring Universe":
     template: { name: Collection, collection_letterbox: https://letterboxd.com/kitthren/list/the-conjuring-universe-timeline, order: custom }
     url_poster: "https://theposterdb.com/api/assets/5437"
     url_background: "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/the-conjuring-universe-demons-ranked.jpg"

@@ -1,0 +1,12 @@
+# Collection Posters from:
+# https://theposterdb.com/set/130903
+
+external_templates:
+  - file: metadata/_templates.yml
+
+collections:
+
+  "Aladdin (Animation)":
+    template: { name: Collection, collection: 86027, summary: 86027, order: release }
+    url_poster: "https://theposterdb.com/api/assets/217149"
+    url_background: "https://image.tmdb.org/t/p/original/e8i62bGy9KEfxyAkAuYhCiu3Bi3.jpg"
