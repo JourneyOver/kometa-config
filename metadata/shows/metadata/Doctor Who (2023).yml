@@ -1,0 +1,41 @@
+# Posters from:
+# https://mediux.pro/sets/17548
+
+metadata:
+
+  449991: # Doctor Who (2023)
+    url_poster: "https://api.mediux.pro/assets/baf7770a-ca52-45f6-b9e6-118e0c607ce0"
+    url_background: "https://api.mediux.pro/assets/ed007d8e-0eca-4939-b3c0-07bc14024284"
+    seasons:
+      0:
+        url_poster: "https://api.mediux.pro/assets/aedfaf8d-e15d-487b-a2ef-b3d39e835ed6"
+        episodes:
+          1:
+            url_poster: "https://api.mediux.pro/assets/578e04c0-6aea-4d10-b5df-b820ca19b886"
+          2:
+            url_poster: "https://api.mediux.pro/assets/aad143bd-f8da-4eef-a843-3a43627998e2"
+          3:
+            url_poster: "https://api.mediux.pro/assets/a179788c-8923-4e63-9eea-cd9d4d998f43"
+          4:
+            url_poster: "https://api.mediux.pro/assets/7c3279cf-e8de-474b-87a8-130e76d32932"
+          5:
+            url_poster: "https://api.mediux.pro/assets/2d02800a-c69a-4b78-b63f-b27ed643056f"
+      1:
+        url_poster: "https://api.mediux.pro/assets/be37147b-1a1f-4a95-8460-4d365b101007"
+        episodes:
+          1:
+            url_poster: "https://api.mediux.pro/assets/8b22f5c8-a17f-4c7c-ba49-0541e8e34d88"
+          2:
+            url_poster: "https://api.mediux.pro/assets/6a9830a8-1d08-4aad-b8f5-a5dc5fb8915c"
+          3:
+            url_poster: "https://api.mediux.pro/assets/4df2647d-1082-4393-be58-82797bb2e206"
+          4:
+            url_poster: "https://api.mediux.pro/assets/56b1e6e1-03c4-409b-84ff-8d85a3a0920d"
+          5:
+            url_poster: "https://api.mediux.pro/assets/53136dd1-c9a6-44bf-846e-011dedf88ca1"
+          6:
+            url_poster: "https://api.mediux.pro/assets/3f96785f-a7a8-4763-9908-551918d026fb"
+          7:
+            url_poster: "https://api.mediux.pro/assets/895093d1-56cb-4713-8558-a3e37f1e2856"
+          8:
+            url_poster: "https://api.mediux.pro/assets/3dab12bc-590d-4c5c-9349-268a033010cb"

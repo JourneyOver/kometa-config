@@ -1,0 +1,11 @@
+# Posters from:
+# https://mediux.pro/sets/24539
+
+metadata:
+
+  367146: # Hawkeye (2021)
+    url_poster: "https://api.mediux.pro/assets/2b500bfe-7623-4934-be22-bde58e2eae66"
+    url_background: "https://api.mediux.pro/assets/ad8c5343-68d0-485a-aa7e-2e0338cb769e"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/3da09d36-f162-4b28-b53c-75a6b9998c23"

@@ -1,0 +1,11 @@
+# Posters from:
+# https://theposterdb.com/poster/235462
+# https://theposterdb.com/set/139643
+
+metadata:
+
+  397536: # The Time Traveler's Wife (2022)
+    url_poster: "https://theposterdb.com/api/assets/235462"
+    seasons:
+      1:
+        url_poster: "https://theposterdb.com/api/assets/232321"

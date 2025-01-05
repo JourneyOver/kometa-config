@@ -1,0 +1,27 @@
+# Posters from:
+# https://mediux.pro/sets/8850
+
+metadata:
+
+  392276: # ONE PIECE (2023)
+    url_poster: "https://api.mediux.pro/assets/29d44b81-59a3-425a-8160-abd00ac0bb96"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/7dbd398e-47bc-48f9-b710-53456aa5536a"
+        episodes:
+          1:
+            url_poster: "https://api.mediux.pro/assets/173b4c58-0765-41b2-8c7f-cb7175207b30"
+          2:
+            url_poster: "https://api.mediux.pro/assets/c0838146-354b-4d01-a8f9-14ed6c869404"
+          3:
+            url_poster: "https://api.mediux.pro/assets/84ebe8b1-263e-450f-9022-f94d2b4e0e5a"
+          4:
+            url_poster: "https://api.mediux.pro/assets/6f4a09d3-9d13-4a3d-a1e1-4d65cad5841f"
+          5:
+            url_poster: "https://api.mediux.pro/assets/4f5cb72f-a815-4ff9-9ac9-669a167afcf2"
+          6:
+            url_poster: "https://api.mediux.pro/assets/34fb5bd9-cab6-4a4b-9a1b-ab5d875df969"
+          7:
+            url_poster: "https://api.mediux.pro/assets/429f3d21-8616-44b1-b70f-d964fa8272df"
+          8:
+            url_poster: "https://api.mediux.pro/assets/cca2e833-34b6-458b-92fe-0bafebdccd4c"

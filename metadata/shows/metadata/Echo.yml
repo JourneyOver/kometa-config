@@ -1,0 +1,23 @@
+# Posters from:
+# https://mediux.pro/sets/24554
+# https://mediux.pro/sets/1417
+
+metadata:
+
+  412431: # Echo (2024)
+    url_poster: "https://api.mediux.pro/assets/82f33034-011a-4366-878e-7fb8cccaa974"
+    url_background: "https://api.mediux.pro/assets/fc0630cc-4373-4658-b180-4cebbfdd0a54"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/4d382da9-65fe-4a8f-9eb8-0c2318d0e548"
+        episodes:
+          1:
+            url_poster: "https://api.mediux.pro/assets/cce40b62-ed8a-4091-b803-ace4fcc5c389"
+          2:
+            url_poster: "https://api.mediux.pro/assets/dc0aae6f-0c77-430c-8779-ae9bd3e4ec21"
+          3:
+            url_poster: "https://api.mediux.pro/assets/5af76d0f-42a9-43a0-bb2a-25f457051799"
+          4:
+            url_poster: "https://api.mediux.pro/assets/a1a7e984-3575-4618-a1d1-bc828c72f4d4"
+          5:
+            url_poster: "https://api.mediux.pro/assets/b2d09c76-2f43-4327-b2a7-9edd691927d7"

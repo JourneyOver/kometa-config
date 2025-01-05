@@ -1,0 +1,30 @@
+# Posters from:
+# https://mediux.pro/sets/2004
+# https://mediux.pro/sets/22293
+
+metadata:
+
+  358805: # Hazbin Hotel (2019)
+    url_poster: "https://api.mediux.pro/assets/bc60590c-f1ea-4d00-b32b-0ac0ce44915a"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/f5e7f2fb-6f5d-4e09-94f7-3d4b4eb86649"
+      1:
+        url_poster: "https://api.mediux.pro/assets/01e0be5c-803b-4c4e-a147-7070f93f0381"
+        episodes:
+          1:
+            url_poster: "https://api.mediux.pro/assets/2528a830-7538-4824-8536-9487367e0300"
+          2:
+            url_poster: "https://api.mediux.pro/assets/4c022a07-b4a8-416c-b0a4-c09ef2b12d6e"
+          3:
+            url_poster: "https://api.mediux.pro/assets/02dfe4ac-26c3-4224-a889-4770d000379f"
+          4:
+            url_poster: "https://api.mediux.pro/assets/242cbd4d-a72d-47ba-8945-27e856741a7f"
+          5:
+            url_poster: "https://api.mediux.pro/assets/45f32d08-433c-4cb4-964a-ac3455e036e7"
+          6:
+            url_poster: "https://api.mediux.pro/assets/50cc7bfb-74b7-41b1-9e95-1b1903072c80"
+          7:
+            url_poster: "https://api.mediux.pro/assets/664c9d37-30f0-4b5c-b7e4-46234d5a17e5"
+          8:
+            url_poster: "https://api.mediux.pro/assets/f140bfc3-a6c5-4b21-b551-8959efa26b3e"

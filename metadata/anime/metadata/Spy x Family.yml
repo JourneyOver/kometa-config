@@ -4,13 +4,13 @@
 metadata:
 
   405920: # SPY x FAMILY (2022)
-    url_poster: https://theposterdb.com/api/assets/407649
+    url_poster: "https://theposterdb.com/api/assets/407649"
     seasons:
 #      0:
-#        url_poster: https://theposterdb.com/api/assets/462956
+#        url_poster: "https://theposterdb.com/api/assets/462956"
       1:
-        url_poster: https://theposterdb.com/api/assets/407650
+        url_poster: "https://theposterdb.com/api/assets/407650"
       2:
-        url_poster: https://theposterdb.com/api/assets/413365
+        url_poster: "https://theposterdb.com/api/assets/413365"
 #      3:
-#        url_poster: https://theposterdb.com/api/assets/500113
+#        url_poster: "https://theposterdb.com/api/assets/500113"

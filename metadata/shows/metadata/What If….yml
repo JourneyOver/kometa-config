@@ -1,0 +1,15 @@
+# Posters from:
+# https://mediux.pro/sets/24538
+
+metadata:
+
+  367147: # What If…? (2021)
+    url_poster: "https://api.mediux.pro/assets/3f62947d-bd03-40d5-b9cf-0791a3070898"
+    url_background: "https://api.mediux.pro/assets/0ed27830-a764-460a-adad-56024d3c37f8"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/821b4e4f-74d4-44f0-b4b6-df6a7bb08c38"
+      2:
+        url_poster: "https://api.mediux.pro/assets/477b6d00-6f37-4a48-97d3-405ebd81a909"
+      3:
+        url_poster: "https://api.mediux.pro/assets/e7d0a878-b176-442d-9332-7f1eb993967b"

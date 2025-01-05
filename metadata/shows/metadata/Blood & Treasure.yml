@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/13885
+
+metadata:
+
+  361585: # Blood & Treasure (2019)
+    url_poster: "https://api.mediux.pro/assets/98693646-e4b5-43ec-81af-38a719e60226"
+    seasons:
+#      1:
+#        url_poster: "https://api.mediux.pro/assets/17f209ae-8bb8-4880-bbc3-0b663c1e2f78"
+      2:
+        url_poster: "https://api.mediux.pro/assets/f99920ac-3fda-4e9a-9055-682f5365f57d"

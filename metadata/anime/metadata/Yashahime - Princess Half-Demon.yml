@@ -4,7 +4,7 @@
 metadata:
 
   384485: # Yashahime: Princess Half-Demon (2020)
-    url_poster: https://theposterdb.com/api/assets/160769
+    url_poster: "https://theposterdb.com/api/assets/160769"
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/160770
+        url_poster: "https://theposterdb.com/api/assets/160770"

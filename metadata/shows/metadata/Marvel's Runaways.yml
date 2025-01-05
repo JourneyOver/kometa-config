@@ -1,0 +1,85 @@
+# Posters from:
+# https://mediux.pro/sets/24633
+# https://mediux.pro/sets/28308
+
+metadata:
+
+  332027: # Marvel's Runaways (2017)
+    url_poster: "https://api.mediux.pro/assets/8698e836-c06d-4d39-a543-71429d916361"
+    url_background: "https://api.mediux.pro/assets/296cf1a1-369e-431b-a246-0951f54a08f6"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/dd8f2b9e-ae3d-43af-82d7-e37a78ac95de"
+        episodes:
+          1:
+            url_poster: "https://api.mediux.pro/assets/e73039bf-7b73-42fc-a487-d3dd36528945"
+          2:
+            url_poster: "https://api.mediux.pro/assets/e9d2739f-af44-4dc4-9d77-61e9370eebac"
+          3:
+            url_poster: "https://api.mediux.pro/assets/aebf56b1-da68-4487-b66c-30c33e02cd62"
+          4:
+            url_poster: "https://api.mediux.pro/assets/cec60757-43c1-431d-abfd-de02f58b132b"
+          5:
+            url_poster: "https://api.mediux.pro/assets/9825b67f-e1b8-4748-b463-bd4f8e2b5333"
+          6:
+            url_poster: "https://api.mediux.pro/assets/edbeadd8-68fa-4f0a-a647-0d0b2100952b"
+          7:
+            url_poster: "https://api.mediux.pro/assets/df42de8b-f1f7-4d9c-87d3-0e4410284940"
+          8:
+            url_poster: "https://api.mediux.pro/assets/73de01bc-ac83-4564-a771-70dc2f03d169"
+          9:
+            url_poster: "https://api.mediux.pro/assets/2b624f32-48ef-4fde-abd9-bd5113d9b527"
+          10:
+            url_poster: "https://api.mediux.pro/assets/c44e0d2a-9f5d-4f14-98a4-150443399b72"
+      2:
+        url_poster: "https://api.mediux.pro/assets/d315ed70-66cf-42b9-a432-cacef6d0b355"
+        episodes:
+          1:
+            url_poster: "https://api.mediux.pro/assets/7f7704ee-ba42-4f50-ad6c-ca7c58d76cec"
+          2:
+            url_poster: "https://api.mediux.pro/assets/efe484fb-c89d-4e26-9d39-d8b5608750ac"
+          3:
+            url_poster: "https://api.mediux.pro/assets/db341baf-b74a-416c-894c-ffd0b69bdedb"
+          4:
+            url_poster: "https://api.mediux.pro/assets/f708cf73-23b1-4f51-876e-3381875c3ec7"
+          5:
+            url_poster: "https://api.mediux.pro/assets/93d4eee9-b73e-408c-b32c-ed279a0dd6ff"
+          6:
+            url_poster: "https://api.mediux.pro/assets/293ffbaf-771b-49d6-a021-99e69d6334c1"
+          7:
+            url_poster: "https://api.mediux.pro/assets/ed4ef7d3-68f4-4ded-bc1f-87814d24ee19"
+          8:
+            url_poster: "https://api.mediux.pro/assets/7cdaaf84-6541-4c38-b41e-493582470feb"
+          9:
+            url_poster: "https://api.mediux.pro/assets/8e616810-1640-4f42-91db-e8d971fd14a2"
+          10:
+            url_poster: "https://api.mediux.pro/assets/d3dfa9f3-1b66-4bc5-b5af-70ba6756aa2d"
+          11:
+            url_poster: "https://api.mediux.pro/assets/39c7cca6-3eb2-4505-b037-0252de758ff5"
+          12:
+            url_poster: "https://api.mediux.pro/assets/e5c80f83-b311-42eb-ad20-75614044ccc8"
+          13:
+            url_poster: "https://api.mediux.pro/assets/8b8d21d0-8020-4a9e-8502-f61e3a7abf80"
+      3:
+        url_poster: "https://api.mediux.pro/assets/07aa166f-4db3-42e1-ab63-7d8617e6d0b7"
+        episodes:
+          1:
+            url_poster: "https://api.mediux.pro/assets/5198ed76-484a-496a-bc01-73898b20a54e"
+          2:
+            url_poster: "https://api.mediux.pro/assets/6cbaa41b-656e-4242-8a7e-d52fa9b46015"
+          3:
+            url_poster: "https://api.mediux.pro/assets/798ea3eb-a0eb-40e1-b5d1-d3da68c82dec"
+          4:
+            url_poster: "https://api.mediux.pro/assets/1ca70761-c699-4f37-8c83-307c3c30766b"
+          5:
+            url_poster: "https://api.mediux.pro/assets/1e5300e8-ab3e-4630-8f6a-8c5b525a9969"
+          6:
+            url_poster: "https://api.mediux.pro/assets/025d76db-7218-4437-8007-1d1e3699dcf2"
+          7:
+            url_poster: "https://api.mediux.pro/assets/d0c99306-3976-4108-8055-a68784f26033"
+          8:
+            url_poster: "https://api.mediux.pro/assets/ab921069-c8a9-4af8-aa9a-6095b6efd8be"
+          9:
+            url_poster: "https://api.mediux.pro/assets/230274dc-5fc4-468c-a2cf-856de917c6af"
+          10:
+            url_poster: "https://api.mediux.pro/assets/04cda5fd-24db-49aa-97ac-5e8df4f35028"

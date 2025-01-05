@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/25462
+
+metadata:
+
+  389492: # Monster (2022)
+    url_poster: "https://artworks.thetvdb.com/banners/v4/series/389492/posters/66ec55da07a26.jpg"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/905aeead-a0f2-4fac-ad69-e9360f16343d"
+#      2:
+#        url_poster: "https://api.mediux.pro/assets/998a8c11-64cd-4287-a360-5d70d373c694"

@@ -10,4 +10,3 @@ collections:
     template: { name: Collection, collection: 125570, summary: 125570, order: release }
     url_poster: "https://theposterdb.com/api/assets/5575"
     url_background: "https://image.tmdb.org/t/p/original/nHK3mjIAMLoGbEpxbKboUpSrt5d.jpg"
-

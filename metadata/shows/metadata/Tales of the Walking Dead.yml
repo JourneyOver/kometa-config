@@ -1,0 +1,11 @@
+# Posters from:
+# https://mediux.pro/sets/26481
+
+metadata:
+
+  411314: # Tales of the Walking Dead (2022)
+    url_poster: "https://api.mediux.pro/assets/52dea76b-8402-4745-8382-949a6a2e1d41"
+    url_background: "https://api.mediux.pro/assets/c9c76f1f-2faf-49db-aaed-071810059249"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/a18fd2f5-f633-455e-8afd-34bbb6c4332f"

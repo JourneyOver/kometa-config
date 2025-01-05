@@ -4,21 +4,21 @@
 metadata:
 
   71361: # InuYasha (2000)
-    url_poster: https://theposterdb.com/api/assets/160760
+    url_poster: "https://theposterdb.com/api/assets/160760"
     seasons:
 #      0:
-#        url_poster: https://theposterdb.com/api/assets/160761
+#        url_poster: "https://theposterdb.com/api/assets/160761"
       1:
-        url_poster: https://theposterdb.com/api/assets/160762
+        url_poster: "https://theposterdb.com/api/assets/160762"
       2:
-        url_poster: https://theposterdb.com/api/assets/160763
+        url_poster: "https://theposterdb.com/api/assets/160763"
       3:
-        url_poster: https://theposterdb.com/api/assets/160764
+        url_poster: "https://theposterdb.com/api/assets/160764"
       4:
-        url_poster: https://theposterdb.com/api/assets/160765
+        url_poster: "https://theposterdb.com/api/assets/160765"
       5:
-        url_poster: https://theposterdb.com/api/assets/160766
+        url_poster: "https://theposterdb.com/api/assets/160766"
       6:
-        url_poster: https://theposterdb.com/api/assets/160767
+        url_poster: "https://theposterdb.com/api/assets/160767"
       7:
-        url_poster: https://theposterdb.com/api/assets/160768
+        url_poster: "https://theposterdb.com/api/assets/160768"

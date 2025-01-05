@@ -1,0 +1,16 @@
+# Posters from:
+# https://theposterdb.com/set/199097
+
+metadata:
+
+  349578: # The Owl House (2020)
+    url_poster: "https://theposterdb.com/api/assets/346003"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/346004"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/346005"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/346006"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/346007"

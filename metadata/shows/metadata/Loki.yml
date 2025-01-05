@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/24524
+
+metadata:
+
+  362472: # Loki (2021)
+    url_poster: "https://api.mediux.pro/assets/a5e5dbc8-cf93-434e-8948-b4230f78ecba"
+    url_background: "https://api.mediux.pro/assets/53e27fbc-2fdb-4961-80e6-ad1180a7a1f9"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/99c56cf3-bd62-4f6e-bf70-b6834a74ba83"
+      2:
+        url_poster: "https://api.mediux.pro/assets/81a71ce7-72b6-41fa-ada4-d077f7724ca5"

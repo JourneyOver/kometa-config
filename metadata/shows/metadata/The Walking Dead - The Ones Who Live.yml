@@ -1,0 +1,24 @@
+# Posters from:
+# https://mediux.pro/sets/14301
+
+metadata:
+
+  427202: # The Walking Dead: The Ones Who Live (2024)
+    url_poster: "https://api.mediux.pro/assets/29a04685-74d0-42f0-b73c-f04d0424b990"
+    url_background: "https://api.mediux.pro/assets/64b1aa12-52a8-445e-ae79-b0b4c536bfbe"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/ad74daaf-93d2-4c21-8ef5-85772ea69d6d"
+        episodes:
+          1:
+            url_poster: "https://api.mediux.pro/assets/ff4c6e5d-5428-454d-a205-fcb36a7e3288"
+          2:
+            url_poster: "https://api.mediux.pro/assets/9a767aae-5810-4a16-b5c5-f96f92ec563d"
+          3:
+            url_poster: "https://api.mediux.pro/assets/2d31e44a-8aed-43d6-8a1c-dd5a21e74b0c"
+          4:
+            url_poster: "https://api.mediux.pro/assets/e885a83f-44a0-4ec9-872b-e0a4e02d6db5"
+          5:
+            url_poster: "https://api.mediux.pro/assets/71221c91-10be-48ff-9901-43e742eeb897"
+          6:
+            url_poster: "https://api.mediux.pro/assets/511bd1fc-ab54-49e7-845b-255e76b2a3ae"

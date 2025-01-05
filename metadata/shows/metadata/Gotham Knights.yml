@@ -1,0 +1,38 @@
+# Posters from:
+# https://mediux.pro/sets/21156
+
+metadata:
+
+  420061: # Gotham Knights (2023)
+    url_poster: "https://api.mediux.pro/assets/a6c0e87f-b1c9-47b6-8cfb-e8e342e25a46"
+    url_background: "https://api.mediux.pro/assets/e30e2698-e7fe-4ca0-be10-d6dc630d4202"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/e4c7d9fe-6eba-4b7a-93f4-1c1666b3d113"
+        episodes:
+          1:
+            url_poster: "https://api.mediux.pro/assets/f20bffdf-5b42-4e73-94f2-8d090f96907c"
+          2:
+            url_poster: "https://api.mediux.pro/assets/44b1d8e1-a822-403a-bcfa-46e45ea758fb"
+          3:
+            url_poster: "https://api.mediux.pro/assets/df1858b4-5868-47aa-88f3-d0b40e4c613a"
+          4:
+            url_poster: "https://api.mediux.pro/assets/bb895791-8636-4f66-ac42-011c90cde6ae"
+          5:
+            url_poster: "https://api.mediux.pro/assets/083f8ea5-37d1-457c-b9cc-ee65f0446808"
+          6:
+            url_poster: "https://api.mediux.pro/assets/6bb27601-97a5-4caa-9a96-38dcaa77a3e9"
+          7:
+            url_poster: "https://api.mediux.pro/assets/4f8050d9-50f8-486d-aff3-08fe4a29fb3d"
+          8:
+            url_poster: "https://api.mediux.pro/assets/aacd4fdc-ea5f-4ecc-89d9-2ef28eab0782"
+          9:
+            url_poster: "https://api.mediux.pro/assets/b434e389-dc9c-41e7-83f7-1ce18891bf26"
+          10:
+            url_poster: "https://api.mediux.pro/assets/31f451c0-f89f-4e44-8d7b-96b30df14b67"
+          11:
+            url_poster: "https://api.mediux.pro/assets/921523c8-b6d8-4b1d-be6b-0df015f216f5"
+          12:
+            url_poster: "https://api.mediux.pro/assets/a6fb87ea-5925-4bd8-a855-af884b2f9e26"
+          13:
+            url_poster: "https://api.mediux.pro/assets/d09da850-a515-4388-98e5-25c916030c2f"
