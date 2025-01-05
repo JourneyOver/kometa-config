@@ -10,8 +10,8 @@ metadata:
       1:
         url_poster: "https://api.mediux.pro/assets/e4c7d9fe-6eba-4b7a-93f4-1c1666b3d113"
         episodes:
-          1:
-            url_poster: "https://api.mediux.pro/assets/f20bffdf-5b42-4e73-94f2-8d090f96907c"
+#          1:
+#            url_poster: "https://api.mediux.pro/assets/f20bffdf-5b42-4e73-94f2-8d090f96907c"
           2:
             url_poster: "https://api.mediux.pro/assets/44b1d8e1-a822-403a-bcfa-46e45ea758fb"
           3:
