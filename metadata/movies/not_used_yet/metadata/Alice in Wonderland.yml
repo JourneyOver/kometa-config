@@ -1,11 +1,7 @@
 metadata:
 
-  "Alice in Wonderland":
-    match:
-      year: 2010
+  12155: # Alice in Wonderland (2010)
     url_poster: "https://theposterdb.com/api/assets/52053"
 
-  "Alice Through the Looking Glass":
-    match:
-      year: 2016
+  241259: # Alice Through the Looking Glass (2016)
     url_poster: "https://theposterdb.com/api/assets/52054"

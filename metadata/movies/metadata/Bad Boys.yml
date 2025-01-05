@@ -1,21 +1,13 @@
 metadata:
 
-  "Bad Boys":
-    match:
-      year: 1995
+  9737: # Bad Boys (1995)
     url_poster: "https://theposterdb.com/api/assets/511133"
 
-  "Bad Boys II":
-    match:
-      year: 2003
+  8961: # Bad Boys II (2003)
     url_poster: "https://theposterdb.com/api/assets/511132"
 
-  "Bad Boys for Life":
-    match:
-      year: 2020
+  38700: # Bad Boys for Life (2020)
     url_poster: "https://theposterdb.com/api/assets/511131"
 
-  "Bad Boys: Ride or Die":
-    match:
-      year: 2024
+  573435: # Bad Boys: Ride or Die (2024)
     url_poster: "https://theposterdb.com/api/assets/511130"

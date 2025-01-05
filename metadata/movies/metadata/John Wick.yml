@@ -1,21 +1,13 @@
 metadata:
 
-  "John Wick":
-    match:
-      year: 2014
+  245891: # John Wick (2014)
     url_poster: "https://theposterdb.com/api/assets/370518"
 
-  "John Wick: Chapter 2":
-    match:
-      year: 2017
+  324552: # John Wick: Chapter 2 (2017)
     url_poster: "https://theposterdb.com/api/assets/370519"
 
-  "John Wick: Chapter 3 - Parabellum":
-    match:
-      year: 2019
+  458156: # John Wick: Chapter 3 - Parabellum (2019)
     url_poster: "https://theposterdb.com/api/assets/370520"
 
-  "John Wick: Chapter 4":
-    match:
-      year: 2023
+  603692: # John Wick: Chapter 4 (2023)
     url_poster: "https://theposterdb.com/api/assets/370521"

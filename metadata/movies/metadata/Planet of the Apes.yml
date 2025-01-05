@@ -1,21 +1,13 @@
 metadata:
 
-  "Rise of the Planet of the Apes":
-    match:
-      year: 2011
+  61791: # Rise of the Planet of the Apes (2011)
     url_poster: "https://theposterdb.com/api/assets/138600"
 
-  "Dawn of the Planet of the Apes":
-    match:
-      year: 2014
+  119450: # Dawn of the Planet of the Apes (2014)
     url_poster: "https://theposterdb.com/api/assets/138601"
 
-  "War for the Planet of the Apes":
-    match:
-      year: 2017
+  281338: # War for the Planet of the Apes (2017)
     url_poster: "https://theposterdb.com/api/assets/138602"
 
-  "Kingdom of the Planet of the Apes":
-    match:
-      year: 2024
+  653346: # Kingdom of the Planet of the Apes (2024)
     url_poster: "https://theposterdb.com/api/assets/483882"

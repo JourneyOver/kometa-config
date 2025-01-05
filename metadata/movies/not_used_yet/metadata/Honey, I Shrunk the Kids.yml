@@ -1,16 +1,10 @@
 metadata:
 
-  "Honey, I Shrunk the Kids":
-    match:
-      year: 1989
+  9354: # Honey, I Shrunk the Kids (1989)
     url_poster: "https://theposterdb.com/api/assets/27435"
 
-  "Honey, I Blew Up the Kid":
-    match:
-      year: 1992
+  11158: # Honey, I Blew Up the Kid (1992)
     url_poster: "https://theposterdb.com/api/assets/27436"
 
-  "Honey, We Shrunk Ourselves":
-    match:
-      year: 1997
+  11425: # Honey, We Shrunk Ourselves (1997)
     url_poster: "https://theposterdb.com/api/assets/27437"

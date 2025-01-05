@@ -3,9 +3,7 @@
 
 metadata:
 
-  "Ghost in the Shell: Stand Alone Complex":
-    year: 2002
-    title: "Ghost in the Shell: Stand Alone Complex"
+  73749: # Ghost in the Shell: Stand Alone Complex (2002)
     url_poster: https://theposterdb.com/api/assets/167329
     seasons:
 #      0:

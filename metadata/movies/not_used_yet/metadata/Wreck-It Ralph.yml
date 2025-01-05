@@ -1,11 +1,7 @@
 metadata:
 
-  "Wreck-It Ralph":
-    match:
-      year: 2012
+  82690: # Wreck-It Ralph (2012)
     url_poster: "https://theposterdb.com/api/assets/59429"
 
-  "Ralph Breaks the Internet":
-    match:
-      year: 2018
+  404368: # Ralph Breaks the Internet (2018)
     url_poster: "https://theposterdb.com/api/assets/59430"

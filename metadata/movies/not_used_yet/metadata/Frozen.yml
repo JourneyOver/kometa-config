@@ -1,11 +1,7 @@
 metadata:
 
-  "Frozen":
-    match:
-      year: 2013
+  109445: # Frozen (2013)
     url_poster: "https://theposterdb.com/api/assets/111849"
 
-  "Frozen II":
-    match:
-      year: 2019
+  330457: # Frozen II (2019)
     url_poster: "https://theposterdb.com/api/assets/111853"

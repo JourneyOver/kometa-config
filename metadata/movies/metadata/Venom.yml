@@ -1,16 +1,10 @@
 metadata:
 
-  "Venom":
-    match:
-      year: 2018
+  335983: # Venom (2018)
     url_poster: "https://image.tmdb.org/t/p/original/2xZIEPjVejO8fwyXx8f5oNUKxF1.jpg"
 
-  "Venom: Let There Be Carnage":
-    match:
-      year: 2021
+  580489: # Venom: Let There Be Carnage (2021)
     url_poster: "https://image.tmdb.org/t/p/original/oBEUpliv1KkzACoatCgOHDBJABp.jpg"
 
-  "Venom: The Last Dance":
-    match:
-      year: 2024
+  912649: # Venom: The Last Dance (2024)
     url_poster: "https://image.tmdb.org/t/p/original/cdV45bSUfjUSCW2GRl7LX8ani8p.jpg"

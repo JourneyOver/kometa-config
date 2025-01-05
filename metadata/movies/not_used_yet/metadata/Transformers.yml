@@ -1,36 +1,22 @@
 metadata:
 
-  "Transformers":
-    match:
-      year: 2007
+  1858: # Transformers (2007)
     url_poster: "https://theposterdb.com/api/assets/75373"
 
-  "Transformers: Revenge of the Fallen":
-    match:
-      year: 2009
+  8373: # Transformers: Revenge of the Fallen (2009)
     url_poster: "https://theposterdb.com/api/assets/75374"
 
-  "Transformers: Dark of the Moon":
-    match:
-      year: 2011
+  38356: # Transformers: Dark of the Moon (2011)
     url_poster: "https://theposterdb.com/api/assets/75375"
 
-  "Transformers: Age of Extinction":
-    match:
-      year: 2014
+  91314: # Transformers: Age of Extinction (2014)
     url_poster: "https://theposterdb.com/api/assets/75376"
 
-  "Transformers: The Last Knight":
-    match:
-      year: 2017
+  335988: # Transformers: The Last Knight (2017)
     url_poster: "https://theposterdb.com/api/assets/75377"
 
-  "Bumblebee":
-    match:
-      year: 2018
+  424783: # Bumblebee (2018)
     url_poster: "https://theposterdb.com/api/assets/75378"
 
-  "Transformers: Rise of the Beasts":
-    match:
-      year: 2023
+  667538: # Transformers: Rise of the Beasts (2023)
     url_poster: "https://theposterdb.com/api/assets/412353"

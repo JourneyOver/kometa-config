@@ -1,5 +1,5 @@
 # Collection Posters from:
-# https://theposterdb.com/set/161277
+# https://mediux.pro/sets/10250
 
 external_templates:
   - file: metadata/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "Hocus Pocus":
     template: { name: Collection, collection: 751156, summary: 751156, order: release }
-    url_poster: "https://theposterdb.com/api/assets/270908"
+    url_poster: "https://api.mediux.pro/assets/758e731a-0c05-4814-a060-5715f997ff07"
     url_background: "https://image.tmdb.org/t/p/original/id8vrPNR5VGDV9NUeEEcBkxBS9g.jpg"

@@ -3,9 +3,7 @@
 
 metadata:
 
-  "InuYasha":
-    year: 2000
-    title: "InuYasha"
+  71361: # InuYasha (2000)
     url_poster: https://theposterdb.com/api/assets/160760
     seasons:
 #      0:

@@ -1,16 +1,10 @@
 metadata:
 
-  "The Lion King":
-    match:
-      year: 1994
+  8587: # The Lion King (1994)
     url_poster: "https://api.mediux.pro/assets/8bb4d449-f1f8-4a30-b201-029012909ee9"
 
-  "The Lion King II: Simba's Pride":
-    match:
-      year: 1998
+  9732: # The Lion King II: Simba's Pride (1998)
     url_poster: "https://api.mediux.pro/assets/0cf854b1-c51f-4f28-a0c7-ff920fd73e60"
 
-  "The Lion King 1½":
-    match:
-      year: 2004
+  11430: # The Lion King 1½ (2004)
     url_poster: "https://api.mediux.pro/assets/0cf854b1-c51f-4f28-a0c7-ff920fd73e60"

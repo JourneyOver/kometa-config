@@ -1,16 +1,10 @@
 metadata:
 
-  "Aladdin":
-    match:
-      year: 1992
-    url_poster: "https://theposterdb.com/api/assets/217207"
+  812: # Aladdin (1992)
+    url_poster: "https://api.mediux.pro/assets/86f19553-5417-41ad-b647-6d4a13dd97e7"
 
-  "The Return of Jafar":
-    match:
-      year: 1994
-    url_poster: "https://theposterdb.com/api/assets/217150"
+  15969: # The Return of Jafar (1994)
+    url_poster: "https://api.mediux.pro/assets/81144a04-aff3-4e1e-a726-ebec2558004d"
 
-  "Aladdin and the King of Thieves":
-    match:
-      year: 1996
-    url_poster: "https://theposterdb.com/api/assets/217151"
+  11238: # Aladdin and the King of Thieves (1996)
+    url_poster: "https://api.mediux.pro/assets/bc8c0aa5-feb3-43da-942f-35612d860ff8"

@@ -1,26 +1,16 @@
 metadata:
 
-  "Die Hard":
-    match:
-      year: 1988
+  562: # Die Hard (1988)
     url_poster: "https://theposterdb.com/api/assets/720"
 
-  "Die Hard 2":
-    match:
-      year: 1990
+  1573: # Die Hard 2 (1990)
     url_poster: "https://theposterdb.com/api/assets/721"
 
-  "Die Hard with a Vengeance":
-    match:
-      year: 1995
+  1572: # Die Hard: With a Vengeance (1995)
     url_poster: "https://theposterdb.com/api/assets/722"
 
-  "Live Free or Die Hard":
-    match:
-      year: 2007
+  1571: # Live Free or Die Hard (2007)
     url_poster: "https://theposterdb.com/api/assets/723"
 
-  "A Good Day to Die Hard":
-    match:
-      year: 2013
+  47964: # A Good Day to Die Hard (2013)
     url_poster: "https://theposterdb.com/api/assets/724"

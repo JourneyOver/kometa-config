@@ -1,16 +1,10 @@
 metadata:
 
-  "Taken":
-    match:
-      year: 2008
+  8681: # Taken (2008)
     url_poster: "https://theposterdb.com/api/assets/5431"
 
-  "Taken 2":
-    match:
-      year: 2012
+  82675: # Taken 2 (2012)
     url_poster: "https://theposterdb.com/api/assets/5432"
 
-  "Taken 3":
-    match:
-      year: 2014
+  260346: # Taken 3 (2014)
     url_poster: "https://theposterdb.com/api/assets/5433"

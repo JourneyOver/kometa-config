@@ -1,16 +1,10 @@
 metadata:
 
-  "Before Sunrise":
-    match:
-      year: 1995
+  76: # Before Sunrise (1995)
     url_poster: "https://theposterdb.com/api/assets/27639"
 
-  "Before Sunset":
-    match:
-      year: 2004
+  80: # Before Sunset (2004)
     url_poster: "https://theposterdb.com/api/assets/27640"
 
-  "Before Midnight":
-    match:
-      year: 2013
+  132344: # Before Midnight (2013)
     url_poster: "https://theposterdb.com/api/assets/27641"

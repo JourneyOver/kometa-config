@@ -1,16 +1,10 @@
 metadata:
 
-  "Jumanji":
-    match:
-      year: 1995
-    url_poster: "https://theposterdb.com/api/assets/54113"
+  8844: # Jumanji (1995)
+    url_poster: "https://api.mediux.pro/assets/c3c4b5bc-00a2-4cc5-8e09-047b98095840"
 
-  "Jumanji: Welcome to the Jungle":
-    match:
-      year: 2017
-    url_poster: "https://theposterdb.com/api/assets/54114"
+  353486: # Jumanji: Welcome to the Jungle (2017)
+    url_poster: "https://api.mediux.pro/assets/42784bef-3e10-425c-91c5-221009461791"
 
-  "Jumanji: The Next Level":
-    match:
-      year: 2019
-    url_poster: "https://theposterdb.com/api/assets/54115"
+  512200: # Jumanji: The Next Level (2019)
+    url_poster: "https://api.mediux.pro/assets/b980ee57-3cd2-4595-8944-1495bcfffa6b"

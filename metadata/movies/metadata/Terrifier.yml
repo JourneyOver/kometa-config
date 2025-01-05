@@ -1,16 +1,10 @@
 metadata:
 
-  "Terrifier":
-    match:
-      year: 2016
+  420634: # Terrifier (2018)
     url_poster: "https://theposterdb.com/api/assets/535096"
 
-  "Terrifier 2":
-    match:
-      year: 2022
+  663712: # Terrifier 2 (2022)
     url_poster: "https://theposterdb.com/api/assets/535097"
 
-  "Terrifier 3":
-    match:
-      year: 2024
+  1034541: # Terrifier 3 (2024)
     url_poster: "https://theposterdb.com/api/assets/535098"

@@ -1,11 +1,10 @@
 metadata:
 
-  "Paddington":
-    match:
-      year: 2014
+  116149: # Paddington (2014)
     url_poster: "https://raw.githubusercontent.com/JourneyOver/kometa-config/refs/heads/posters/movies/collections/Paddington/Paddington%20(2014)/poster.png"
 
-  "Paddington 2":
-    match:
-      year: 2017
+  346648: # Paddington 2 (2017)
     url_poster: "https://raw.githubusercontent.com/JourneyOver/kometa-config/refs/heads/posters/movies/collections/Paddington/Paddington%202%20(2017)/poster.png"
+
+  516729: # Paddington in Peru (2024)
+    url_poster: ""

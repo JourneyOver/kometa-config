@@ -1,5 +1,5 @@
 # Collection Posters from:
-# https://theposterdb.com/set/135438
+# https://mediux.pro/sets/22956
 
 external_templates:
   - file: metadata/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "Toy Story":
     template: { name: Collection, collection: 10194, summary: 10194, order: release }
-    url_poster: "https://theposterdb.com/api/assets/225173"
+    url_poster: "https://api.mediux.pro/assets/adbb17c5-1e23-41a5-bc0a-c9b1a1e4fb39"
     url_background: "https://image.tmdb.org/t/p/original/hApclyB9NEZEQujAVajzi5iWE4a.jpg"

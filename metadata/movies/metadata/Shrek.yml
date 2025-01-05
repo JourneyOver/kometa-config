@@ -1,21 +1,13 @@
 metadata:
 
-  "Shrek":
-    match:
-      year: 2001
-    url_poster: "https://theposterdb.com/api/assets/6998"
+  808: # Shrek (2001)
+    url_poster: "https://api.mediux.pro/assets/0674f3e1-63e5-459a-ba63-2820cc1c538d"
 
-  "Shrek 2":
-    match:
-      year: 2004
-    url_poster: "https://theposterdb.com/api/assets/6999"
+  809: # Shrek 2 (2004)
+    url_poster: "https://api.mediux.pro/assets/2692fcbf-ad4c-4463-8ef3-019347e7482b"
 
-  "Shrek the Third":
-    match:
-      year: 2007
-    url_poster: "https://theposterdb.com/api/assets/7000"
+  810: # Shrek the Third (2007)
+    url_poster: "https://api.mediux.pro/assets/ee59f609-e3f3-4d84-b2c4-d8f88a85d6b0"
 
-  "Shrek Forever After":
-    match:
-      year: 2010
-    url_poster: "https://theposterdb.com/api/assets/7001"
+  10192: # Shrek Forever After (2010)
+    url_poster: "https://api.mediux.pro/assets/071a37a8-37ba-4f05-bd48-a07831d2e383"

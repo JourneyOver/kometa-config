@@ -1,26 +1,16 @@
 metadata:
 
-  "Ghostbusters":
-    match:
-      year: 1984
-    url_poster: "https://theposterdb.com/api/assets/203164"
+  620: # Ghostbusters (1984)
+    url_poster: "https://api.mediux.pro/assets/3e4c026e-e1ab-4823-95fb-a241ed0e1aef"
 
-  "Ghostbusters II":
-    match:
-      year: 1989
-    url_poster: "https://theposterdb.com/api/assets/203165"
+  2978: # Ghostbusters II (1989)
+    url_poster: "https://api.mediux.pro/assets/dd8cedcf-9dbe-4b98-96fc-94ff60102023"
 
-  "Ghostbusters: Answer the Call":
-    match:
-      year: 2016
-    url_poster: "https://theposterdb.com/api/assets/203166"
+  43074: # Ghostbusters (2016)
+    url_poster: "https://api.mediux.pro/assets/a2a95633-fd8e-4f1c-9428-aee8f033ecec"
 
-  "Ghostbusters: Afterlife":
-    match:
-      year: 2021
-    url_poster: "https://theposterdb.com/api/assets/203167"
+  425909: # Ghostbusters: Afterlife (2021)
+    url_poster: "https://api.mediux.pro/assets/5fac12c5-5d45-4627-ad91-f038d9d2cd43"
 
-  "Ghostbusters: Frozen Empire":
-    match:
-      year: 2024
-    url_poster: "https://theposterdb.com/api/assets/475587"
+  967847: # Ghostbusters: Frozen Empire (2024)
+    url_poster: "https://api.mediux.pro/assets/23fb3f6f-804f-4c4a-8157-26685b5fd721"

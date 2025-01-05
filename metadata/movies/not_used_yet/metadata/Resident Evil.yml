@@ -1,36 +1,22 @@
 metadata:
 
-  "Resident Evil":
-    match:
-      year: 2002
+  1576: # Resident Evil (2002)
     url_poster: "https://theposterdb.com/api/assets/306855"
 
-  "Resident Evil: Apocalypse":
-    match:
-      year: 2004
+  1577: # Resident Evil: Apocalypse (2004)
     url_poster: "https://theposterdb.com/api/assets/306856"
 
-  "Resident Evil: Extinction":
-    match:
-      year: 2007
+  7737: # Resident Evil: Extinction (2007)
     url_poster: "https://theposterdb.com/api/assets/306857"
 
-  "Resident Evil: Afterlife":
-    match:
-      year: 2010
+  35791: # Resident Evil: Afterlife (2010)
     url_poster: "https://theposterdb.com/api/assets/306858"
 
-  "Resident Evil: Retribution":
-    match:
-      year: 2012
+  71679: # Resident Evil: Retribution (2012)
     url_poster: "https://theposterdb.com/api/assets/306859"
 
-  "Resident Evil: The Final Chapter":
-    match:
-      year: 2016
+  173897: # Resident Evil: The Final Chapter (2016)
     url_poster: "https://theposterdb.com/api/assets/306860"
 
-  "Resident Evil: Welcome to Raccoon City":
-    match:
-      year: 2021
+  460458: # Resident Evil: Welcome to Raccoon City (2021)
     url_poster: "https://theposterdb.com/api/assets/306885"

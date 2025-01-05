@@ -1,11 +1,7 @@
 metadata:
 
-  "47 Meters Down":
-    match:
-      year: 2017
+  403119: # 47 Meters Down (2017)
     url_poster: "https://theposterdb.com/api/assets/162637"
 
-  "47 Meters Down: Uncaged":
-    match:
-      year: 2019
+  480105: # 47 Meters Down: Uncaged (2019)
     url_poster: "https://theposterdb.com/api/assets/162638"

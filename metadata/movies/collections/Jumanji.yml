@@ -1,5 +1,5 @@
 # Collection Posters from:
-# https://theposterdb.com/set/34553
+# https://mediux.pro/sets/9361
 
 external_templates:
   - file: metadata/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "Jumanji":
     template: { name: Collection, collection: 495527, summary: 495527, order: release }
-    url_poster: "https://theposterdb.com/api/assets/54112"
+    url_poster: "https://api.mediux.pro/assets/471192f5-8084-415d-9ea0-b6b0c94b3712"
     url_background: "https://image.tmdb.org/t/p/original/9PCsWrw1GvrZkrd1GCxRqscgZu0.jpg"

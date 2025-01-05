@@ -1,42 +1,25 @@
 metadata:
 
-  "Child's Play":
-    match:
-      year: 1988
+  10585: # Child's Play (1988)
     url_poster: "https://theposterdb.com/api/assets/407432"
 
-  "Child's Play 2":
-    match:
-      year: 1990
+  11186: # Child's Play 2 (1990)
     url_poster: "https://theposterdb.com/api/assets/407433"
 
-  "Child's Play 3":
-    match:
-      year: 1991
+  11187: # Child's Play 3 (1991)
     url_poster: "https://theposterdb.com/api/assets/407434"
 
-  "Bride of Chucky":
-    match:
-      year: 1998
+  11932: # Bride of Chucky (1998)
     url_poster: "https://theposterdb.com/api/assets/407435"
 
-  "Seed of Chucky":
-    match:
-      year: 2004
+  11249: # Seed of Chucky (2004)
     url_poster: "https://theposterdb.com/api/assets/407436"
 
-  "Curse of Chucky":
-    match:
-      year: 2013
+  167032: # Curse of Chucky (2013)
     url_poster: "https://theposterdb.com/api/assets/407437"
 
-  "Cult of Chucky":
-    match:
-      year: 2017
+  393345: # Cult of Chucky (2017)
     url_poster: "https://theposterdb.com/api/assets/407438"
 
-  "Child's Play (Remake)":
-    match:
-      title: Child's Play
-      year: 2019
+  533642: # Child's Play (2019)
     url_poster: "https://theposterdb.com/api/assets/407439"

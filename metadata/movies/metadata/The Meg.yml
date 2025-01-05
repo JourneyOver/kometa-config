@@ -1,11 +1,7 @@
 metadata:
 
-  "The Meg":
-    match:
-      year: 2018
+  345940: # The Meg (2018)
     url_poster: "https://theposterdb.com/api/assets/401501"
 
-  "Meg 2: The Trench":
-    match:
-      year: 2023
+  615656: # Meg 2: The Trench (2023)
     url_poster: "https://theposterdb.com/api/assets/401502"

@@ -1,16 +1,10 @@
 metadata:
 
-  "How to Train Your Dragon":
-    match:
-      year: 2010
+  10191: # How to Train Your Dragon (2010)
     url_poster: "https://theposterdb.com/api/assets/63"
 
-  "How to Train Your Dragon 2":
-    match:
-      year: 2014
+  82702: # How to Train Your Dragon 2 (2014)
     url_poster: "https://theposterdb.com/api/assets/64"
 
-  "How to Train Your Dragon: The Hidden World":
-    match:
-      year: 2019
+  166428: # How to Train Your Dragon: The Hidden World (2019)
     url_poster: "https://theposterdb.com/api/assets/65"

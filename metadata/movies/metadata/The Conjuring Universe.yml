@@ -1,36 +1,28 @@
 metadata:
 
-  "The Conjuring":
-    match:
-      year: 2013
-    url_poster: "https://theposterdb.com/api/assets/5438"
+  138843: # The Conjuring (2013)
+    url_poster: "https://theposterdb.com/api/assets/248036"
 
-  "Annabelle":
-    match:
-      year: 2014
-    url_poster: "https://theposterdb.com/api/assets/5439"
+  250546: # Annabelle (2014)
+    url_poster: "https://theposterdb.com/api/assets/248037"
 
-  "The Conjuring 2":
-    match:
-      year: 2016
-    url_poster: "https://theposterdb.com/api/assets/5440"
+  259693: # The Conjuring 2 (2016)
+    url_poster: "https://theposterdb.com/api/assets/248038"
 
-  "Annabelle: Creation":
-    match:
-      year: 2017
-    url_poster: "https://theposterdb.com/api/assets/5441"
+  396422: # Annabelle: Creation (2017)
+    url_poster: "https://theposterdb.com/api/assets/248039"
 
-  "The Nun":
-    match:
-      year: 2018
-    url_poster: "https://theposterdb.com/api/assets/5442"
+  439079: # The Nun (2018)
+    url_poster: "https://theposterdb.com/api/assets/248040"
 
-  "The Curse of La Llorona":
-    match:
-      year: 2019
-    url_poster: "https://theposterdb.com/api/assets/5443"
+  480414: # The Curse of La Llorona (2019)
+    url_poster: "https://theposterdb.com/api/assets/248041"
 
-  "Annabelle Comes Home":
-    match:
-      year: 2019
-    url_poster: "https://theposterdb.com/api/assets/13676"
+  521029: # Annabelle Comes Home (2019)
+    url_poster: "https://theposterdb.com/api/assets/248042"
+
+  423108: # The Conjuring: The Devil Made Me Do It (2021)
+    url_poster: "https://theposterdb.com/api/assets/248043"
+
+  968051: # The Nun II (2023)
+    url_poster: "https://theposterdb.com/api/assets/402598"

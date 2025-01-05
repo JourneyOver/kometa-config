@@ -1,16 +1,10 @@
 metadata:
 
-  "The Maze Runner":
-    match:
-      year: 2014
+  198663: # The Maze Runner (2014)
     url_poster: "https://theposterdb.com/api/assets/8512"
 
-  "Maze Runner: The Scorch Trials":
-    match:
-      year: 2015
+  294254: # Maze Runner: The Scorch Trials (2015)
     url_poster: "https://theposterdb.com/api/assets/8513"
 
-  "Maze Runner: The Death Cure":
-    match:
-      year: 2018
+  336843: # Maze Runner: The Death Cure (2018)
     url_poster: "https://theposterdb.com/api/assets/8514"

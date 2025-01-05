@@ -1,11 +1,7 @@
 metadata:
 
-  "Sherlock Holmes":
-    match:
-      year: 2009
+  10528: # Sherlock Holmes (2009)
     url_poster: "https://theposterdb.com/api/assets/2624"
 
-  "Sherlock Holmes: A Game of Shadows":
-    match:
-      year: 2011
+  58574: # Sherlock Holmes: A Game of Shadows (2011)
     url_poster: "https://theposterdb.com/api/assets/2625"

@@ -1,11 +1,7 @@
 metadata:
 
-  "Smile":
-    match:
-      year: 2022
+  882598: # Smile (2022)
     url_poster: "https://theposterdb.com/api/assets/530517"
 
-  "Smile 2":
-    match:
-      year: 2024
+  1100782: # Smile 2 (2024)
     url_poster: "https://theposterdb.com/api/assets/530516"

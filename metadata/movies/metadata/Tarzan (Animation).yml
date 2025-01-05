@@ -1,16 +1,10 @@
 metadata:
 
-  "Tarzan":
-    match:
-      year: 1999
+  37135: # Tarzan (1999)
     url_poster: "https://api.mediux.pro/assets/5955e7c7-3c06-4380-8b6d-573fc56d95e4"
 
-  "Tarzan & Jane":
-    match:
-      year: 2002
+  13683: # Tarzan & Jane (2002)
     url_poster: "https://api.mediux.pro/assets/42be4987-b2bb-4fbb-a7cf-305ac8433533"
 
-  "Tarzan II":
-    match:
-      year: 2005
+  15657: # Tarzan II (2005)
     url_poster: "https://api.mediux.pro/assets/3c034167-a21c-48a2-91c9-2e2a01b4d6ee"

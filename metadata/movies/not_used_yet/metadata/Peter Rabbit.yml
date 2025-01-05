@@ -1,11 +1,7 @@
 metadata:
 
-  "Peter Rabbit":
-    match:
-      year: 2018
+  381719: # Peter Rabbit (2018)
     url_poster: "https://theposterdb.com/api/assets/133033"
 
-  "Peter Rabbit 2: The Runaway":
-    match:
-      year: 2021
+  522478: # Peter Rabbit 2: The Runaway (2021)
     url_poster: "https://theposterdb.com/api/assets/133034"

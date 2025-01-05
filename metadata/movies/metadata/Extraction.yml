@@ -1,12 +1,7 @@
 metadata:
 
-  "Extraction":
-    match:
-      year: 2020
-    url_poster: "https://theposterdb.com/api/assets/374149"
+  545609: # Extraction (2020)
+    url_poster: "https://api.mediux.pro/assets/f2825953-8701-4d6f-9615-9280f67d3fae"
 
-  "Extraction 2":
-    match:
-      title: "Extraction II"
-      year: 2023
-    url_poster: "https://theposterdb.com/api/assets/374150"
+  697843: # Extraction 2 (2023)
+    url_poster: "https://api.mediux.pro/assets/aadc8aaf-c3c8-4109-a11e-8e17e700a6d8"

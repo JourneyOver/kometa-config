@@ -1,5 +1,5 @@
 # Collection Posters from:
-# https://theposterdb.com/set/2872
+# https://mediux.pro/sets/22957
 
 external_templates:
   - file: metadata/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "Shrek":
     template: { name: Collection, collection: 2150, summary: 2150, order: release }
-    url_poster: "https://theposterdb.com/api/assets/6997"
+    url_poster: "https://api.mediux.pro/assets/04f09743-cdcd-47d1-b50f-52e2bfba9fc3"
     url_background: "https://image.tmdb.org/t/p/original/5xOppSzrduXPxFicOQbzD0m9mvP.jpg"

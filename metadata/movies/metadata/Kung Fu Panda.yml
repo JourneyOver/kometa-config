@@ -1,21 +1,13 @@
 metadata:
 
-  "Kung Fu Panda":
-    match:
-      year: 2008
+  9502: # Kung Fu Panda (2008)
     url_poster: "https://theposterdb.com/api/assets/484200"
 
-  "Kung Fu Panda 2":
-    match:
-      year: 2011
+  49444: # Kung Fu Panda 2 (2011)
     url_poster: "https://theposterdb.com/api/assets/484199"
 
-  "Kung Fu Panda 3":
-    match:
-      year: 2016
+  140300: # Kung Fu Panda 3 (2016)
     url_poster: "https://theposterdb.com/api/assets/484198"
 
-  "Kung Fu Panda 4":
-    match:
-      year: 2024
+  1011985: # Kung Fu Panda 4 (2024)
     url_poster: "https://theposterdb.com/api/assets/484197"

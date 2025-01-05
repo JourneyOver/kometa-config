@@ -1,16 +1,10 @@
 metadata:
 
-  "Fantastic Beasts and Where to Find Them":
-    match:
-      year: 2016
+  259316: # Fantastic Beasts and Where to Find Them (2016)
     url_poster: "https://theposterdb.com/api/assets/34282"
 
-  "Fantastic Beasts: The Crimes of Grindelwald":
-    match:
-      year: 2018
+  338952: # Fantastic Beasts: The Crimes of Grindelwald (2018)
     url_poster: "https://theposterdb.com/api/assets/34283"
 
-  "Fantastic Beasts: The Secrets of Dumbledore":
-    match:
-      year: 2022
+  338953: # Fantastic Beasts: The Secrets of Dumbledore (2022)
     url_poster: "https://theposterdb.com/api/assets/234426"

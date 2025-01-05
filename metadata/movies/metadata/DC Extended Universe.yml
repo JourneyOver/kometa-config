@@ -1,81 +1,49 @@
 metadata:
 
-  "Man of Steel":
-    match:
-      year: 2013
+  49521: # Man of Steel (2013)
     url_poster: "https://theposterdb.com/api/assets/140764"
 
-  "Batman v Superman: Dawn of Justice":
-    match:
-      year: 2016
+  209112: # Batman v Superman: Dawn of Justice (2016)
     url_poster: "https://theposterdb.com/api/assets/140765"
 
-  "Suicide Squad":
-    match:
-      year: 2016
+  297761: # Suicide Squad (2016)
     url_poster: "https://theposterdb.com/api/assets/140766"
 
-  "Wonder Woman":
-    match:
-      year: 2017
+  297762: # Wonder Woman (2017)
     url_poster: "https://theposterdb.com/api/assets/140767"
 
-  "Justice League":
-    match:
-      year: 2017
+  141052: # Justice League (2017)
     url_poster: "https://theposterdb.com/api/assets/140768"
 
-  "Aquaman":
-    match:
-      year: 2018
+  297802: # Aquaman (2018)
     url_poster: "https://theposterdb.com/api/assets/140769"
 
-  "Shazam!":
-    match:
-      year: 2019
+  287947: # Shazam! (2019)
     url_poster: "https://theposterdb.com/api/assets/140770"
 
-  "Birds of Prey":
-    match:
-      year: 2020
+  495764: # Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)
     url_poster: "https://theposterdb.com/api/assets/140771"
 
-  "Wonder Woman 1984":
-    match:
-      year: 2020
+  464052: # Wonder Woman 1984 (2020)
     url_poster: "https://theposterdb.com/api/assets/140772"
 
-  #"Zack Snyder's Justice League":
-  #  match:
-  #    year: 2021
-  #  url_poster: "https://theposterdb.com/api/assets/140788"
+#  791373: # Zack Snyder's Justice League (2021)
+#    url_poster: "https://theposterdb.com/api/assets/140788"
 
-  "The Suicide Squad":
-    match:
-      year: 2021
+  436969: # The Suicide Squad (2021)
     url_poster: "https://theposterdb.com/api/assets/140774"
 
-  "Black Adam":
-    match:
-      year: 2022
+  436270: # Black Adam (2022)
     url_poster: "https://theposterdb.com/api/assets/290219"
 
-  "Shazam! Fury of the Gods":
-    match:
-      year: 2023
+  594767: # Shazam! Fury of the Gods (2023)
     url_poster: "https://theposterdb.com/api/assets/325583"
 
-  "The Flash":
-    match:
-      year: 2023
+  298618: # The Flash (2023)
     url_poster: "https://theposterdb.com/api/assets/325498"
 
-  #"Blue Beetle":
-  #  match:
-  #    year: 2023
-  #  url_poster: "https://theposterdb.com/api/assets/411950"
+#  565770: # Blue Beetle (2023)
+#    url_poster: "https://theposterdb.com/api/assets/411950"
 
-  "Aquaman and the Lost Kingdom":
-    match:
-      year: 2023
+  572802: # Aquaman and the Lost Kingdom (2023)
     url_poster: "https://theposterdb.com/api/assets/393616"

@@ -1,73 +1,43 @@
 metadata:
 
-  "Prey":
-    match:
-      year: 2022
+  766507: # Prey (2022)
     url_poster: "https://theposterdb.com/api/assets/255438"
 
-  "Predator":
-    match:
-      year: 1987
+  106: # Predator (1987)
     url_poster: "https://theposterdb.com/api/assets/244"
 
-  "Predator 2":
-    match:
-      year: 1990
+  169: # Predator 2 (1990)
     url_poster: "https://theposterdb.com/api/assets/245"
 
-  "AVP: Alien vs. Predator":
-    match:
-      title: "Alien vs. Predator"
-      year: 2004
+  395: # AVP: Alien vs. Predator (2004)
     url_poster: "https://theposterdb.com/api/assets/1218"
 
-  "Aliens vs. Predator: Requiem":
-    match:
-      year: 2007
+  440: # Aliens vs Predator: Requiem (2007)
     url_poster: "https://theposterdb.com/api/assets/1219"
 
-  "The Predator":
-    match:
-      year: 2018
+  346910: # The Predator (2018)
     url_poster: "https://theposterdb.com/api/assets/247"
 
-  "Predators":
-    match:
-      year: 2010
+  34851: # Predators (2010)
     url_poster: "https://theposterdb.com/api/assets/246"
 
-  "Prometheus":
-    match:
-      year: 2012
+  70981: # Prometheus (2012)
     url_poster: "https://theposterdb.com/api/assets/1220"
 
-  "Alien: Covenant":
-    match:
-      year: 2017
+  126889: # Alien: Covenant (2017)
     url_poster: "https://theposterdb.com/api/assets/1221"
 
-  "Alien":
-    match:
-      year: 1979
+  348: # Alien (1979)
     url_poster: "https://theposterdb.com/api/assets/1214"
 
-  "Alien: Romulus":
-    match:
-      year: 2024
+  945961: # Alien: Romulus (2024)
     url_poster: "https://theposterdb.com/api/assets/511341"
 
-  "Aliens":
-    match:
-      year: 1986
+  679: # Aliens (1986)
     url_poster: "https://theposterdb.com/api/assets/1215"
 
-  "Alien 3":
-    match:
-      title: "Alien³"
-      year: 1992
+  8077: # Alien³ (1992)
     url_poster: "https://theposterdb.com/api/assets/1216"
 
-  "Alien Resurrection":
-    match:
-      year: 1997
+  8078: # Alien Resurrection (1997)
     url_poster: "https://theposterdb.com/api/assets/1217"

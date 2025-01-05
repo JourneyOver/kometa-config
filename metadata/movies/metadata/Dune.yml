@@ -1,11 +1,7 @@
 metadata:
 
-  "Dune: Part One":
-    match:
-      year: 2021
+  438631: # Dune (2021)
     url_poster: "https://theposterdb.com/api/assets/356989"
 
-  "Dune: Part Two":
-    match:
-      year: 2024
+  693134: # Dune: Part Two (2024)
     url_poster: "https://theposterdb.com/api/assets/356990"

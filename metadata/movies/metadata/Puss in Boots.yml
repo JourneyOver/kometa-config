@@ -1,11 +1,7 @@
 metadata:
 
-  "Puss in Boots":
-    match:
-      year: 2011
-    url_poster: "https://theposterdb.com/api/assets/302430"
+  417859: # Puss in Boots (2011)
+    url_poster: "https://api.mediux.pro/assets/225d1c1c-9bb0-4dd3-8d73-46a57cd8cf0f"
 
-  "Puss in Boots: The Last Wish":
-    match:
-      year: 2022
-    url_poster: "https://theposterdb.com/api/assets/302431"
+  315162: # Puss in Boots: The Last Wish (2022)
+    url_poster: "https://api.mediux.pro/assets/499ebf73-cc5f-4a67-8f5c-2f939f26df7a"
