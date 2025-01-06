@@ -1,6 +1,5 @@
 # Posters from:
 # https://mediux.pro/sets/2399
-# https://mediux.pro/sets/19466
 
 metadata:
 
@@ -9,20 +8,3 @@ metadata:
     seasons:
       1:
         url_poster: "https://api.mediux.pro/assets/46751dd4-c266-4287-b80b-6a67037ffe25"
-        episodes:
-          1:
-            url_poster: "https://api.mediux.pro/assets/3c2283db-d5ac-4290-bf1b-987900afceea"
-          2:
-            url_poster: "https://api.mediux.pro/assets/7bbc2b90-79e6-483e-ac3d-b5f5ba810119"
-          3:
-            url_poster: "https://api.mediux.pro/assets/8e062747-9b3e-4bef-b855-026ce0834963"
-          4:
-            url_poster: "https://api.mediux.pro/assets/84988831-816f-4671-a882-229b0526a4af"
-          5:
-            url_poster: "https://api.mediux.pro/assets/6d62e557-4843-4bc8-b15c-74fda057f1e8"
-          6:
-            url_poster: "https://api.mediux.pro/assets/912f148b-c028-4ac1-80bf-1c794316e581"
-          7:
-            url_poster: "https://api.mediux.pro/assets/6cce0bc0-09fd-495f-b29d-9e4e6a57eda3"
-          8:
-            url_poster: "https://api.mediux.pro/assets/dd96bdd8-d1fd-437f-9677-1dedf81514fa"
