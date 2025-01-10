@@ -1,0 +1,54 @@
+# Posters from:
+# https://mediux.pro/sets/12456
+
+metadata:
+
+  75978: # Family Guy (1999)
+    url_poster: "https://api.mediux.pro/assets/1439e0e1-292d-4432-aec8-0de7d9c6f092"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/5faa27fa-8b8b-430e-a333-b64233bce630"
+      1:
+        url_poster: "https://api.mediux.pro/assets/3042e7f6-5747-4def-90a3-6b654f366299"
+      2:
+        url_poster: "https://api.mediux.pro/assets/35708230-3d47-4d68-9647-60b0b93fc64e"
+      3:
+        url_poster: "https://api.mediux.pro/assets/7178fb10-f0b4-4c17-aef3-7822886f2f86"
+      4:
+        url_poster: "https://api.mediux.pro/assets/d84ddd0c-f166-4b38-b9b7-9df7c151c890"
+      5:
+        url_poster: "https://api.mediux.pro/assets/98cd6595-d8a6-4a68-9941-e480fe6ca53d"
+      6:
+        url_poster: "https://api.mediux.pro/assets/a9380f69-4887-43a1-8413-4aa91f3e2645"
+      7:
+        url_poster: "https://api.mediux.pro/assets/6d92532d-e38e-4b09-aa29-4b82c3df9aa6"
+      8:
+        url_poster: "https://api.mediux.pro/assets/f3483470-8ee9-43c5-960d-61e4c6e82ade"
+      9:
+        url_poster: "https://api.mediux.pro/assets/172b1636-ebcc-404a-9a17-84118c27220a"
+      10:
+        url_poster: "https://api.mediux.pro/assets/fe911e6c-d0af-4caa-9ff3-02b0e73d1597"
+      11:
+        url_poster: "https://api.mediux.pro/assets/187d0df0-5d5a-4df8-9cbe-8de7cb5dc0e0"
+      12:
+        url_poster: "https://api.mediux.pro/assets/dd08f445-899c-409d-8cd2-c113b1f8a50e"
+      13:
+        url_poster: "https://api.mediux.pro/assets/cbca4dda-6381-49a2-a1df-7e5e7a2cf8d5"
+      14:
+        url_poster: "https://api.mediux.pro/assets/43c20417-0656-41a3-abeb-1fc438ad8e10"
+      15:
+        url_poster: "https://api.mediux.pro/assets/fb3bc2fc-76f3-4ce6-ba89-3420366fb6ba"
+      16:
+        url_poster: "https://api.mediux.pro/assets/986e97e4-6c0c-4a35-b0df-6f8b9e33e46c"
+      17:
+        url_poster: "https://api.mediux.pro/assets/89f8e565-8478-49ef-9534-63ad4aa3d949"
+      18:
+        url_poster: "https://api.mediux.pro/assets/e88830dd-3d1b-4f75-a71b-7c29bcfe41c0"
+      19:
+        url_poster: "https://api.mediux.pro/assets/2cb04145-ec7f-45b2-9f57-c902a55fbb2f"
+      20:
+        url_poster: "https://api.mediux.pro/assets/514659bb-c377-4b3d-b440-096e77ce32cf"
+      21:
+        url_poster: "https://api.mediux.pro/assets/1669b02a-2228-4974-8c00-f4fd8e250893"
+      22:
+        url_poster: "https://api.mediux.pro/assets/c1c068a9-87e4-4dd3-8362-3d4e7f0d7683"

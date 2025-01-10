@@ -1,0 +1,52 @@
+# Posters from:
+# https://mediux.pro/sets/28678
+
+metadata:
+
+  73141: # American Dad! (2005)
+    url_poster: "https://api.mediux.pro/assets/d97ac4ac-5212-489c-bbb5-cd9c6bef34b8"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/3ffba724-36ec-4e50-a246-eb4cfcb46aa0"
+      1:
+        url_poster: "https://api.mediux.pro/assets/26d66a6c-0f22-405a-955b-b0d5465e6b07"
+      2:
+        url_poster: "https://api.mediux.pro/assets/24fabad7-9127-4ec9-aefc-ab15436a48d0"
+      3:
+        url_poster: "https://api.mediux.pro/assets/73b1abde-0b01-4930-9d5e-052338cbf999"
+      4:
+        url_poster: "https://api.mediux.pro/assets/1e4e38a8-6dab-4d61-8046-a5a583ae4398"
+      5:
+        url_poster: "https://api.mediux.pro/assets/ca74e879-76c3-4589-88fb-61cb86f550f4"
+      6:
+        url_poster: "https://api.mediux.pro/assets/ef89ff06-fff7-47c0-bbd1-3f6f05f600b4"
+      7:
+        url_poster: "https://api.mediux.pro/assets/f5db7bac-892f-4f44-9d18-a49c670d0029"
+      8:
+        url_poster: "https://api.mediux.pro/assets/d5d672a5-fada-4aa4-88a0-83c670a59df1"
+      9:
+        url_poster: "https://api.mediux.pro/assets/89ba711a-c870-4a76-ba38-8ee93a54ec80"
+      10:
+        url_poster: "https://api.mediux.pro/assets/72bda71b-03f0-4778-8363-11622897782e"
+      11:
+        url_poster: "https://api.mediux.pro/assets/3c8e3aad-4704-4471-9e0f-989306811256"
+      12:
+        url_poster: "https://api.mediux.pro/assets/d6c09da6-c8b3-4952-8cf2-0bb5c69f4e2d"
+      13:
+        url_poster: "https://api.mediux.pro/assets/fec1e6e7-befd-4d15-bbd7-a084ca754ddd"
+      14:
+        url_poster: "https://api.mediux.pro/assets/d933b71e-21b2-4ce0-bd8a-bea49c4d96b6"
+      15:
+        url_poster: "https://api.mediux.pro/assets/7010981f-0c9d-40df-ad5d-96e4a19287b2"
+      16:
+        url_poster: "https://api.mediux.pro/assets/fb531b6f-33a7-4dca-8c96-6d8aed12cfc0"
+      17:
+        url_poster: "https://api.mediux.pro/assets/dc62747f-327e-43fb-ae28-f19551fbf6a1"
+      18:
+        url_poster: "https://api.mediux.pro/assets/c5c895d0-37bb-493f-a4ba-9a5af5d64445"
+      19:
+        url_poster: "https://api.mediux.pro/assets/ed502add-2650-4e4b-8059-dc444035ffae"
+      20:
+        url_poster: "https://api.mediux.pro/assets/9bb76e9a-ecbc-493c-8196-116479a21d64"
+      21:
+        url_poster: "https://api.mediux.pro/assets/80ecfe12-a938-41ab-8582-c3945dc1ff1e"

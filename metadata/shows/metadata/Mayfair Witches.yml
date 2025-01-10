@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/20217
+
+metadata:
+
+  413074: # Mayfair Witches (2023)
+    url_poster: "https://api.mediux.pro/assets/dcd0c73d-3750-442f-a532-9ddcc21562fd"
+    url_background: "https://api.mediux.pro/assets/aa9eb00e-d353-4925-8712-0591deb611fb"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/210f3587-b9da-4eb2-80a6-bd812560b04e"
+      2:
+        url_poster: "https://api.mediux.pro/assets/784ed200-d95d-46cb-b779-d2f3e593b623"

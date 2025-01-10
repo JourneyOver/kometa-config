@@ -1,0 +1,29 @@
+# Posters from:
+# https://mediux.pro/sets/29504
+
+metadata:
+
+  73871: # Futurama (1999)
+    url_poster: "https://api.mediux.pro/assets/2cd7226a-fb5b-45dd-81a6-2802a12eb727"
+    url_background: "https://api.mediux.pro/assets/1e25d8dd-8f82-411e-8881-0efd55b55d83"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/4efc6cd3-fe66-4a60-b974-fdebe8f9b183"
+      1:
+        url_poster: "https://api.mediux.pro/assets/722d8029-1e0b-44f8-b713-0b800d9509d6"
+      2:
+        url_poster: "https://api.mediux.pro/assets/d95ed396-b8ee-41d8-b52e-436c545dbf7a"
+      3:
+        url_poster: "https://api.mediux.pro/assets/1ea06901-f5b9-49ca-a91b-6ed9fb4252f3"
+      4:
+        url_poster: "https://api.mediux.pro/assets/8d813f70-60d1-453a-a867-141ffbb6e44e"
+      5:
+        url_poster: "https://api.mediux.pro/assets/89ea295d-5f0a-436c-ac40-d7d278055cd9"
+      6:
+        url_poster: "https://api.mediux.pro/assets/0ae6bcaf-5e76-419a-97c7-5bf0407236a2"
+      7:
+        url_poster: "https://api.mediux.pro/assets/981ec613-1c4a-48f8-85ef-c1ecb1a48e91"
+      8:
+        url_poster: "https://api.mediux.pro/assets/b749d300-8ca1-44d2-bc51-82c4b8e0d9c5"
+      9:
+        url_poster: "https://api.mediux.pro/assets/373f4954-066a-408a-9c27-eaa8819ba520"

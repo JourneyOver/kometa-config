@@ -1,25 +1,26 @@
 # Posters from:
-# https://mediux.pro/sets/12732
+# https://mediux.pro/sets/28680
+# https://theposterdb.com/set/233497 (Backup?)
 
 metadata:
 
   275274: # Rick and Morty (2013)
-    url_poster: "https://api.mediux.pro/assets/2351ed7a-bdfb-4ac7-8809-4ebeff5a377c"
+    url_poster: "https://api.mediux.pro/assets/9fc9a81f-e2e6-46be-8569-93a83b226a94"
     url_background: "https://api.mediux.pro/assets/5e030d76-e1b2-4a38-9f32-d1e78c86aa9e"
     seasons:
 #      0:
-#        url_poster: "https://api.mediux.pro/assets/7302f0f9-1890-4de9-a18c-1b7f68db6c77"
+#        url_poster: "https://api.mediux.pro/assets/994ada49-409b-4ef1-9905-9fc51b5d415e"
       1:
-        url_poster: "https://api.mediux.pro/assets/8dd3cacf-0d43-4652-b672-ec02f353ac5f"
+        url_poster: "https://api.mediux.pro/assets/49c1614d-b724-4e87-b931-91068dafbeb7"
       2:
-        url_poster: "https://api.mediux.pro/assets/f4129c14-3250-4ee6-a64e-c4bc569386b3"
+        url_poster: "https://api.mediux.pro/assets/2e703fb9-e38b-4541-877d-f38adb29d83a"
       3:
-        url_poster: "https://api.mediux.pro/assets/c6cebd4d-9c37-40cd-9584-79ea62fa01ba"
+        url_poster: "https://api.mediux.pro/assets/59d71434-24ab-4883-b429-b5adff740cae"
       4:
-        url_poster: "https://api.mediux.pro/assets/a75f0cda-2791-42a9-9b09-e819fb819cbb"
+        url_poster: "https://api.mediux.pro/assets/804697bc-a341-4ac3-8549-b2512381c9f2"
       5:
-        url_poster: "https://api.mediux.pro/assets/095d2550-1c0f-4a84-b334-8d205dbe63b5"
+        url_poster: "https://api.mediux.pro/assets/7c6df6bb-ce38-4499-9620-26f737e32a36"
       6:
-        url_poster: "https://api.mediux.pro/assets/5aac342b-b130-4c00-850b-c1a1baba0926"
+        url_poster: "https://api.mediux.pro/assets/c5203756-d8ac-4075-8a75-f65b92e154c8"
       7:
-        url_poster: "https://api.mediux.pro/assets/6b96debd-e5b8-4b6b-9d6b-ecb13de4464a"
+        url_poster: "https://api.mediux.pro/assets/ce1c4d32-65df-447c-8ea5-9b4811815ebf"
