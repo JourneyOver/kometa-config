@@ -1,10 +1,11 @@
 # Posters from:
 # https://mediux.pro/sets/13391
+# https://theposterdb.com/set/187860
 
 metadata:
 
   336924: # You (2018)
-    url_poster: "https://api.mediux.pro/assets/d98d7a92-e869-4847-af04-da99352c0dc6"
+    url_poster: "https://theposterdb.com/api/assets/319154"
     url_background: "https://api.mediux.pro/assets/9b410cf3-a270-45c5-ac3b-3acb93359b7e"
     seasons:
       1:
