@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/9322
+# https://theposterdb.com/set/9323
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Men In Black":
+    template: { name: Collection, collection: 86055, summary: 86055, order: release }
+    url_poster: "https://theposterdb.com/api/assets/16779"
+    url_background: "https://image.tmdb.org/t/p/original/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg"

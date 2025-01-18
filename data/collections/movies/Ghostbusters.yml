@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/122495
+# https://mediux.pro/sets/19034
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Ghostbusters":
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/silvol/lists/ghostbusters, order: release }
+    url_poster: "https://theposterdb.com/api/assets/203163"
+    url_background: "https://image.tmdb.org/t/p/original/guigdRPHN65fsgZHmvVvBOyiArf.jpg"
+    summary: "A group of eccentric scientists in New York City take on the supernatural, using humor, ingenuity, and high-tech gadgets to capture ghosts and confront the unknown. From mischievous spirits to terrifying entities, they tackle every paranormal challenge with a mix of bravery and wit. Each encounter is filled with heart-pounding moments, unforgettable laughs, and a sense of wonder, as these unlikely heroes prove that even in the face of the most bizarre, the power of teamwork and determination can conquer anything that goes bump in the night."

@@ -1,0 +1,22 @@
+# Posters from:
+# https://mediux.pro/sets/15003
+
+metadata:
+
+  280619: # The Expanse (2015)
+    url_poster: "https://api.mediux.pro/assets/2d842616-9b3c-4cb8-92c6-f3dedc54e948"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/cc550b10-26c0-417b-be46-79b3a70fc5ef"
+      1:
+        url_poster: "https://api.mediux.pro/assets/721477df-b869-458d-8e05-b5df946de3a0"
+      2:
+        url_poster: "https://api.mediux.pro/assets/0a90f0c3-9351-480a-84d6-88c31ff508f3"
+      3:
+        url_poster: "https://api.mediux.pro/assets/bfdf2285-e461-48dc-b75f-d3a7d90c8c75"
+      4:
+        url_poster: "https://api.mediux.pro/assets/8a727680-87fb-4497-97b4-02749c12e1a0"
+      5:
+        url_poster: "https://api.mediux.pro/assets/21c2f368-44f1-4b16-aca5-c7771181db9e"
+      6:
+        url_poster: "https://api.mediux.pro/assets/3eb486f5-38a6-4e91-be61-bc135c09f180"

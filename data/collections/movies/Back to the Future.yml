@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/67886
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Back to the Future":
+    template: { name: Collection, collection: 264, summary: 264, order: release }
+    url_poster: "https://theposterdb.com/api/assets/108170"
+    url_background: "https://image.tmdb.org/t/p/original/jahCHmGrfVg66FWhwkibjJyszHT.jpg"

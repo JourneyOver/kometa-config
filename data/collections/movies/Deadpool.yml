@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/173069
+# https://theposterdb.com/poster/112088
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Deadpool":
+    template: { name: Collection, collection: 448150, extra_movie: 567604, summary: 448150, order: release }
+    url_poster: "https://theposterdb.com/api/assets/112088"
+    url_background: "https://raw.githubusercontent.com/JourneyOver/kometa-config/refs/heads/posters/movies/collections/Deadpool/background.jpg"

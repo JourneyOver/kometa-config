@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/55628
+# https://theposterdb.com/poster/383349
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Indiana Jones":
+    template: { name: Collection, collection: 84, summary: 84, order: release }
+    url_poster: "https://theposterdb.com/api/assets/87730"
+    url_background: "https://image.tmdb.org/t/p/original/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg"

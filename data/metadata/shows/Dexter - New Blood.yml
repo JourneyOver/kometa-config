@@ -1,0 +1,11 @@
+# Posters from:
+# https://mediux.pro/sets/2301
+
+metadata:
+
+  412366: # Dexter: New Blood (2021)
+    url_poster: "https://api.mediux.pro/assets/78dcd4ec-7364-4bc0-98bf-ba647f021bc4"
+    url_background: "https://api.mediux.pro/assets/2ae96d58-d86c-4351-9398-4577f7953bed"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/86f6988d-4c58-48c0-86b0-3697ff4f440c"

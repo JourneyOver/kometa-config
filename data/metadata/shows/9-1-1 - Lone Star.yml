@@ -1,0 +1,19 @@
+# Posters from:
+# https://mediux.pro/sets/25966
+
+metadata:
+
+  364080: # 9-1-1: Lone Star (2020)
+    url_poster: "https://api.mediux.pro/assets/d5396548-ce28-42e4-bd1d-332dcbc600b2"
+    url_background: "https://api.mediux.pro/assets/558c3b0d-9d8b-4733-9a08-965ed2d4bd6d"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/bd25eb97-bf77-489c-9d4f-2e5bd306cd1c"
+      2:
+        url_poster: "https://api.mediux.pro/assets/b28f3066-15d7-47d6-b506-465762cb0ac8"
+      3:
+        url_poster: "https://api.mediux.pro/assets/23f4c869-1615-4df2-ab1d-d5c52ac308b6"
+      4:
+        url_poster: "https://api.mediux.pro/assets/65a21346-0c31-4490-8a45-62debdb003c3"
+      5:
+        url_poster: "https://api.mediux.pro/assets/61548833-8ea3-4d9a-99e9-7b6e00aeeb56"

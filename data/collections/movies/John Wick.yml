@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/209894
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "John Wick":
+    template: { name: Collection, collection: 404609, summary: 404609, order: release }
+    url_poster: "https://theposterdb.com/api/assets/370517"
+    url_background: "https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg"

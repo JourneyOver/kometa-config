@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/284039
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "My Spy":
+    template: { name: Collection, collection: 1090373, summary: 1090373, order: release }
+    url_poster: "https://theposterdb.com/api/assets/512195"
+    url_background: "https://image.tmdb.org/t/p/original/kfB7C0UaHyNpD9FX7PTGP99DFq3.jpg"

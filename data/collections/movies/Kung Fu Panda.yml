@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/266318
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Kung Fu Panda":
+    template: { name: Collection, collection: 77816, summary: 77816, order: release }
+    url_poster: "https://theposterdb.com/api/assets/484196"
+    url_background: "https://image.tmdb.org/t/p/original/uDosHOFFWtF5YteBRygHALFqLw2.jpg"

@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Venom":
+    template: { name: Collection, collection: 558216, summary: 558216, order: release }
+    url_poster: "https://theposterdb.com/api/assets/151303"
+    url_background: "https://image.tmdb.org/t/p/original/nEcRRazUsOnPH7mx9vvkrwzZaVF.jpg"

@@ -1,0 +1,11 @@
+# Posters from:
+# https://mediux.pro/sets/29179
+
+metadata:
+
+  430780: # Dexter: Original Sin (2024)
+    url_poster: "https://api.mediux.pro/assets/f2d1afc6-04ee-4e7f-954d-ac71b8fa3391"
+    url_background: "https://api.mediux.pro/assets/40ee0513-d700-4e3f-aba5-1ef0f5c2f65a"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/cdc7c553-759a-4e21-b383-8851e6712ee6"

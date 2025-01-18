@@ -1,0 +1,10 @@
+# Posters from:
+# https://theposterdb.com/set/227126
+
+metadata:
+
+  408850: # Adventure Time: Fionna & Cake (2023)
+    url_poster: "https://theposterdb.com/api/assets/407193"
+    seasons:
+      1:
+        url_poster: "https://theposterdb.com/api/assets/407194"

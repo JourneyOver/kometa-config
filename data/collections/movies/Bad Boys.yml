@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/283492
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Bad Boys":
+    template: { name: Collection, collection: 14890, summary: 14890, order: release }
+    url_poster: "https://theposterdb.com/api/assets/511129"
+    url_background: "https://image.tmdb.org/t/p/original/r8kZJbi6UNhilLhM5WhauYELIR8.jpg"

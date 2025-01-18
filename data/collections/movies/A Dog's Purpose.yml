@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/70404
+# https://theposterdb.com/set/278
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "A Dog's Purpose":
+    template: { name: Collection, collection: 591028, summary: 591028, order: release }
+    url_poster: "https://theposterdb.com/api/assets/112304"
+    url_background: "https://image.tmdb.org/t/p/original/7QtTnJQDnRnRu2FvCTJoPMPN8hp.jpg"

@@ -1,0 +1,23 @@
+# Posters from:
+# https://mediux.pro/sets/13826
+
+metadata:
+
+  268592: # The 100 (2014)
+    url_poster: "https://api.mediux.pro/assets/f5a0cfe3-481a-4060-b74a-6b591e0e14d9"
+    url_background: "https://api.mediux.pro/assets/b48307e1-9091-4b47-9fcf-e83a1940a428"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/8695e038-aa1b-49e6-9866-225defca5a3b"
+      2:
+        url_poster: "https://api.mediux.pro/assets/f0fe8eae-ce63-4e04-9575-4ba78d3a5f36"
+      3:
+        url_poster: "https://api.mediux.pro/assets/11205b83-6f36-43f8-937c-081726ad72b6"
+      4:
+        url_poster: "https://api.mediux.pro/assets/29801813-4b80-40c9-8af9-82b407fbb949"
+      5:
+        url_poster: "https://api.mediux.pro/assets/1126832e-3278-4b45-9524-66104eaacab6"
+      6:
+        url_poster: "https://api.mediux.pro/assets/edb7836d-c0c7-4622-ac4d-ab1abde6e26d"
+      7:
+        url_poster: "https://api.mediux.pro/assets/7d43ee44-7028-4c4a-959f-cf798301d069"

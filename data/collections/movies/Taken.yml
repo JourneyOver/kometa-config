@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/2277
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Taken":
+    template: { name: Collection, collection: 135483, summary: 135483, order: release }
+    url_poster: "https://theposterdb.com/api/assets/5430"
+    url_background: "https://image.tmdb.org/t/p/original/9GbKnEBfPLsoDjP2RbmYHOSlX8f.jpg"

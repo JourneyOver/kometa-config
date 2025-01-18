@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/8301
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Aladdin (Animation)":
+    template: { name: Collection, collection: 86027, summary: 86027, order: release }
+    url_poster: "https://api.mediux.pro/assets/6fd29cc7-98e4-45f8-b0ab-1d3fb21ebfe7"
+    url_background: "https://image.tmdb.org/t/p/original/e8i62bGy9KEfxyAkAuYhCiu3Bi3.jpg"

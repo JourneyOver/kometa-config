@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/70110
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Frozen":
+    template: { name: Collection, collection: 386382, summary: 386382, order: release }
+    url_poster: "https://theposterdb.com/api/assets/111848"
+    url_background: "https://image.tmdb.org/t/p/original/k21wXgC9AVnKoHW1lRPS0UUGCZ4.jpg"

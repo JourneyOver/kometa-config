@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/78732
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Jurassic Park":
+    template: { name: Collection, collection: 328, summary: 328, order: release }
+    url_poster: "https://theposterdb.com/api/assets/125882"
+    url_background: "https://image.tmdb.org/t/p/original/uJIVT9HaHE3wrin0WSb4NBCGwO7.jpg"

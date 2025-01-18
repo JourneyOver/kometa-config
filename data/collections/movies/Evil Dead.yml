@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/205221
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Evil Dead":
+    template: { name: Collection, collection: 1960, extra_movie: "109428, 713704", summary: 1960, order: release }
+    url_poster: "https://theposterdb.com/api/assets/359632"
+    url_background: "https://image.tmdb.org/t/p/original/52ucWq0dQLUTb6PPH9q4jm9MY7f.jpg"

@@ -1,0 +1,30 @@
+# Posters from:
+# https://mediux.pro/sets/13523
+
+metadata:
+
+  152831: # Adventure Time (2010)
+    url_poster: "https://api.mediux.pro/assets/9eeac6fb-00bc-43ff-a7c7-d6bfe868a80d"
+    seasons:
+      0:
+        url_poster: "https://api.mediux.pro/assets/04e15ec3-d3c0-425a-b34f-0b4749de8a61"
+      1:
+        url_poster: "https://api.mediux.pro/assets/8a7a7103-01f8-46e7-a654-dea31c0595c1"
+      2:
+        url_poster: "https://api.mediux.pro/assets/e3b8e53e-9c74-4925-9fca-bc6d8bd6ab08"
+      3:
+        url_poster: "https://api.mediux.pro/assets/656e2257-7a27-40b6-82fc-8e4a6c39b50b"
+      4:
+        url_poster: "https://api.mediux.pro/assets/2129e563-25a9-4036-a2a9-79f5143577a9"
+      5:
+        url_poster: "https://api.mediux.pro/assets/98b59e4e-cb86-4ed4-8818-a60ec5c2406a"
+      6:
+        url_poster: "https://api.mediux.pro/assets/61803801-a647-4c2b-b6ea-897f6c8daba7"
+      7:
+        url_poster: "https://api.mediux.pro/assets/dd9b5c0f-8c3d-4ba8-a5a4-4b97826fe116"
+      8:
+        url_poster: "https://api.mediux.pro/assets/dab78d29-1251-47de-951e-69e025607cb4"
+      9:
+        url_poster: "https://api.mediux.pro/assets/0bcdd36b-fb15-49e1-b3aa-e0b166e55134"
+      10:
+        url_poster: "https://api.mediux.pro/assets/678ca660-2229-4dcc-8282-0711e69c3c87"

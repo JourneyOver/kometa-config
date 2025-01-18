@@ -1,0 +1,19 @@
+# Posters from:
+# https://theposterdb.com/set/149129
+
+metadata:
+
+  272644: # 12 Monkeys (2015)
+    url_poster: "https://theposterdb.com/api/assets/249295"
+    url_background: "https://api.mediux.pro/assets/0652957a-d559-40d5-8a0b-ba6c9e3aecfe"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/249296"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/249297"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/249298"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/249299"
+      4:
+        url_poster: "https://theposterdb.com/api/assets/249300"

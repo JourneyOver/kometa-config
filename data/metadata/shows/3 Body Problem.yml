@@ -1,0 +1,11 @@
+# Posters from:
+# https://mediux.pro/sets/2370
+
+metadata:
+
+  411959: # 3 Body Problem (2024)
+    url_poster: "https://api.mediux.pro/assets/a6d42e50-b203-45d4-bd69-23b696633c0f"
+    url_background: "https://api.mediux.pro/assets/8c9a77ba-7db6-4a21-8275-4ef3c6e7cc58"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/51c697b1-f480-462a-a072-69eee73fa93b"

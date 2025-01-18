@@ -1,0 +1,27 @@
+# Posters from:
+# https://mediux.pro/sets/2298
+
+metadata:
+
+  79349: # Dexter (2006)
+    url_poster: "https://api.mediux.pro/assets/c0ba8682-15eb-4147-b7fb-47d939161d0f"
+    url_background: "https://api.mediux.pro/assets/cea65984-f9b5-4c21-8c75-28ee68f03698"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/eebf9f45-1f78-415f-b683-0548961d9e1c"
+      1:
+        url_poster: "https://api.mediux.pro/assets/4ae87372-781e-4d9c-9650-6b8ca5658c24"
+      2:
+        url_poster: "https://api.mediux.pro/assets/1081cd62-64ad-40e2-9344-85f382c599c7"
+      3:
+        url_poster: "https://api.mediux.pro/assets/d7316272-8abb-46d6-854b-38cc5e21afea"
+      4:
+        url_poster: "https://api.mediux.pro/assets/f726a052-2924-4ef5-8b0e-8a426fffa4c2"
+      5:
+        url_poster: "https://api.mediux.pro/assets/d902388d-8ee3-455b-9b8b-ed8890ab4476"
+      6:
+        url_poster: "https://api.mediux.pro/assets/7c6e58e3-15a7-4ec0-b087-ea82926cf5ef"
+      7:
+        url_poster: "https://api.mediux.pro/assets/5a6b7195-cc0a-45f9-bbed-d95bbf2a191c"
+      8:
+        url_poster: "https://api.mediux.pro/assets/1af3ffd5-5c11-4f6f-9134-1cb89e23eab4"

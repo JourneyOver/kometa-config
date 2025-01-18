@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/11
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "How to Train Your Dragon":
+    template: { name: Collection, collection: 89137, summary: 89137, order: release }
+    url_poster: "https://theposterdb.com/api/assets/62"
+    url_background: "https://image.tmdb.org/t/p/original/upERZDtsEH35guqg0njU9X9yWT7.jpg"

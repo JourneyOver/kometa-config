@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/86302
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Planet of the Apes":
+    template: { name: Collection, collection: 173710, summary: 173710, order: release }
+    url_poster: "https://theposterdb.com/api/assets/138599"
+    url_background: "https://image.tmdb.org/t/p/original/fW0Y4fE7FPqRnrCPa6VxYFePjGN.jpg"

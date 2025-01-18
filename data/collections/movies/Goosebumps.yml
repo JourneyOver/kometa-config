@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/11792
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Goosebumps":
+    template: { name: Collection, collection: 508783, summary: 508783, order: release }
+    url_poster: "https://theposterdb.com/api/assets/20482"
+    url_background: "https://image.tmdb.org/t/p/original/hMOwqSghhz4AStkXxCjL1BjXdV0.jpg"

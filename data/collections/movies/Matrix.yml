@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/6006
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Matrix":
+    template: { name: Collection, collection: 2344, summary: 2344, order: release }
+    url_poster: "https://theposterdb.com/api/assets/12041"
+    url_background: "https://image.tmdb.org/t/p/original/x3flXsIyGPEd0Kn0c0HOJ0ElRdT.jpg"

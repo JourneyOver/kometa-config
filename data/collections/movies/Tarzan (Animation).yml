@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/poster/217161
+# https://mediux.pro/sets/8322
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Tarzan (Animation)":
+    template: { name: Collection, collection: 106768, summary: 106768, order: release }
+    url_poster: "https://theposterdb.com/api/assets/217161"
+    url_background: "https://image.tmdb.org/t/p/original/sNNtardgmbifJggic9dKwvDopz9.jpg"
