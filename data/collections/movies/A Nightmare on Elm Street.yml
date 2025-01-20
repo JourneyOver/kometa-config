@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/127096
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "A Nightmare on Elm Street":
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/a-nightmare-on-elm-street, order: release }
+    url_poster: "https://theposterdb.com/api/assets/210681"
+    url_background: "https://image.tmdb.org/t/p/original/fg0HtE2tm61vJPrusIaSfQK03vd.jpg"
+    summary: "In the quiet town of Springwood, the nightmares become horrifyingly real as the vengeful spirit of Freddy Krueger haunts the dreams of unsuspecting teenagers. With his razor-sharp glove and sadistic wit, Freddy turns their sleep into a deadly battleground where the rules of reality no longer apply. As his victims struggle to stay awake and escape his clutches, they uncover the dark secrets that bind them to his sinister past. Each entry in this terrifying saga explores new depths of fear, as Freddy returns again and again to claim his victims in the realm of nightmares."

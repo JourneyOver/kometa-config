@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/110456
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Friday the 13th":
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/friday-the-13th, order: release }
+    url_poster: "https://theposterdb.com/api/assets/181451"
+    url_background: "https://image.tmdb.org/t/p/original/93ykE6xe1GqQ3vb9Z7mHEO488dy.jpg"
+    summary: "Deep in the woods of Camp Crystal Lake, a relentless force of terror lurks in the shadows, waiting to strike. The legend of Jason Voorhees has become the stuff of nightmares, as the hockey-masked killer rises from his watery grave to unleash his wrath on unsuspecting campers. Each installment in this blood-soaked saga brings new horrors, as Jason's insatiable thirst for vengeance knows no bounds. From the eerie stillness of the lake to the bustling streets of the city, nowhere is safe from the relentless pursuit of this unstoppable killer."

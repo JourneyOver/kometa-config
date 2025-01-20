@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/24775
+
+metadata:
+
+  76885: # Cowboy Bebop (1998)
+    url_poster: "https://api.mediux.pro/assets/25da8f9c-ef57-4002-8266-43863dd9e97b"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/70893d28-dd48-4b4e-bea4-a703c1ae78c2"
+      1:
+        url_poster: "https://api.mediux.pro/assets/62a6e22e-9ff6-465f-9073-5e9d719cca8e"

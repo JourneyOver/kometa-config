@@ -6,9 +6,9 @@ metadata:
   355837: # TVDB id for Sweet Tooth. Set by ChamikaNLakshan on MediUX. https://mediux.pro/sets/20888
     url_poster: "https://api.mediux.pro/assets/48476ec2-2044-4f6f-8556-6a51e02e7cbb"
     seasons:
-#      1:
-#        url_poster: "https://api.mediux.pro/assets/7a5deca0-42dc-4b35-a762-90a801b99599"
-#      2:
-#        url_poster: "https://api.mediux.pro/assets/696492ac-1ab2-4bf6-8815-73921031590a"
+      1:
+        url_poster: "https://api.mediux.pro/assets/7a5deca0-42dc-4b35-a762-90a801b99599"
+      2:
+        url_poster: "https://api.mediux.pro/assets/696492ac-1ab2-4bf6-8815-73921031590a"
       3:
         url_poster: "https://api.mediux.pro/assets/d4238f30-c005-491a-bb55-1c39c314f4d8"

@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/127072
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Halloween":
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/halloween, order: release }
+    url_poster: "https://theposterdb.com/api/assets/210613"
+    url_background: "https://image.tmdb.org/t/p/original/oSgcxTchdiLaXVP0CEtds0gKMul.jpg"
+    summary: "On Halloween night, an unstoppable force of evil returns to haunt the town of Haddonfield. Michael Myers, a silent and relentless killer, emerges from the shadows to continue his reign of terror, stalking his victims with chilling precision. As his relentless pursuit spans decades, those who dare to confront him must face their worst fears and the horrifying realization that true evil never dies. With each entry, the legend of Michael Myers grows, bringing new twists and deeper connections to his dark origins, proving that Halloween will never be the same again."
