@@ -1,10 +1,10 @@
 metadata:
 
   454626: # Sonic the Hedgehog (2020)
-    url_poster: "https://theposterdb.com/api/assets/519446"
+    url_poster: "https://theposterdb.com/api/assets/563060"
 
   675353: # Sonic the Hedgehog 2 (2022)
-    url_poster: "https://theposterdb.com/api/assets/519445"
+    url_poster: "https://theposterdb.com/api/assets/563059"
 
-#  939243: # Sonic the Hedgehog 3 (2024)
-#    url_poster: "https://theposterdb.com/api/assets/519444"
+  939243: # Sonic the Hedgehog 3 (2024)
+    url_poster: "https://theposterdb.com/api/assets/563058"

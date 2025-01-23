@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/288575
+# https://theposterdb.com/set/312684
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Sonic the Hedgehog":
-    template: { name: Collection, collection: 720879, summary: 720879, order: release }
-    url_poster: "https://theposterdb.com/api/assets/519443"
+    template: { name: Collection, collection: 720879, order: release }
+    url_poster: "https://theposterdb.com/api/assets/563057"
     url_background: "https://image.tmdb.org/t/p/original/l5CIAdxVhhaUD3DaS4lP4AR2so9.jpg"
+    summary: "In a world where speed is everything, Sonic the Hedgehog races against time to protect his friends and defeat the evil genius, Dr. Robotnik. With his super-speed, quick wit, and unwavering determination, Sonic embarks on thrilling adventures across vibrant landscapes, from lush green hills to futuristic cities. Alongside his loyal allies, he faces dangerous foes, discovers hidden secrets, and proves that true heroism comes from the heart. Whether he's collecting golden rings or outpacing his enemies, Sonic's quest for justice is a high-speed adventure filled with excitement, humor, and heart-pounding action."
