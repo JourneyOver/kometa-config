@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/13168
+
+metadata:
+
+  259972: # Gravity Falls (2012)
+    url_poster: "https://api.mediux.pro/assets/002b3001-f6c7-45a1-83bd-d62ea754a3a1"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/19af433c-9b1f-4e72-af6b-1204ff919851"
+      1:
+        url_poster: "https://api.mediux.pro/assets/d86a82f0-dac1-42dd-82eb-ec3f88395abb"
+      2:
+        url_poster: "https://api.mediux.pro/assets/8b91410d-6d3d-4479-b532-04353426d88e"

@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/9534
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Scary Movie":
+    template: { name: Collection, collection: 4246, summary: 4246, order: release }
+    url_poster: "https://api.mediux.pro/assets/c36d64e4-00f7-4923-bb6c-bc0ddee57101"
+    url_background: "https://image.tmdb.org/t/p/original/rpzbedRGnWd5YzZZmgG6H076AzJ.jpg"

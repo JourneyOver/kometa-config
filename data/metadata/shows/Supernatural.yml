@@ -1,0 +1,40 @@
+# Posters from:
+# https://mediux.pro/sets/785
+
+metadata:
+
+  78901: # Supernatural (2005)
+    url_poster: "https://api.mediux.pro/assets/94c1b9e1-4415-4e51-a2b5-99c3d111b6e7"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/3d9dc570-3238-426b-a199-71f19a65ed3e"
+      1:
+        url_poster: "https://api.mediux.pro/assets/444f1999-7e6d-40ee-9ccf-b45bcd58c937"
+      2:
+        url_poster: "https://api.mediux.pro/assets/8e28ae01-70a3-413f-a1bc-a502e8d956ae"
+      3:
+        url_poster: "https://api.mediux.pro/assets/eb37c01f-2ec2-4cfc-87f4-b2d7ce26d7dd"
+      4:
+        url_poster: "https://api.mediux.pro/assets/9f21c337-6690-4210-9e39-ba40780ade50"
+      5:
+        url_poster: "https://api.mediux.pro/assets/9fc4004e-151d-48ac-9c0a-f7808a13d7f6"
+      6:
+        url_poster: "https://api.mediux.pro/assets/ca52478f-d13a-4e76-934e-d7aa3c5dbe41"
+      7:
+        url_poster: "https://api.mediux.pro/assets/9838213d-8223-435d-8670-12c16944cba5"
+      8:
+        url_poster: "https://api.mediux.pro/assets/29297ffb-a018-4132-ae08-742be3c7f769"
+      9:
+        url_poster: "https://api.mediux.pro/assets/024b47c3-392e-4c7c-9e22-7dfd2a1ae710"
+      10:
+        url_poster: "https://api.mediux.pro/assets/9bb8c86d-795e-48b8-8253-7838797c8ab8"
+      11:
+        url_poster: "https://api.mediux.pro/assets/d8eb1a83-a8c4-40ae-9cfd-bd78589cf551"
+      12:
+        url_poster: "https://api.mediux.pro/assets/d9ff98db-ed4a-481b-8419-1f233e042594"
+      13:
+        url_poster: "https://api.mediux.pro/assets/36c676aa-2257-4c3e-8c4d-452e1b686970"
+      14:
+        url_poster: "https://api.mediux.pro/assets/866544c1-cf02-4cbf-b16c-b079e75eae16"
+      15:
+        url_poster: "https://api.mediux.pro/assets/979c81b8-7515-4678-9e37-c2670f6bb5a0"

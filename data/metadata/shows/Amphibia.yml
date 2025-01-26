@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/76785
+
+metadata:
+
+  350984: # Amphibia (2019)
+    url_poster: "https://theposterdb.com/api/assets/122412"
+    seasons:
+      1:
+        url_poster: "https://theposterdb.com/api/assets/122413"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/122414"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/187680"

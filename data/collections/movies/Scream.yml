@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/9904
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Scream":
+    template: { name: Collection, collection: 2602, summary: 2602, order: release }
+    url_poster: "https://api.mediux.pro/assets/73d8653e-1377-47b7-9bed-534f16ef254c"
+    url_background: "https://image.tmdb.org/t/p/original/wEgBj2fxZsltc6IeHlA9JLyn6pE.jpg"
