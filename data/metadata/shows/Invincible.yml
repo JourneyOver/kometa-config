@@ -1,15 +1,17 @@
 # Posters from:
-# https://mediux.pro/sets/17558
+# https://mediux.pro/sets/2322
 
 metadata:
 
-  368207: # Invincible (2021)
-    url_poster: "https://api.mediux.pro/assets/18496086-8608-4b52-b592-9e6e8b821ecb"
+  368207: # INVINCIBLE (2021)
+    url_poster: "https://api.mediux.pro/assets/c9a78e5a-d38b-4867-832b-4bf7f7e0b5f5"
     url_background: "https://api.mediux.pro/assets/ccd86eb6-ebdc-4c42-84fb-1ebf1714dd46"
     seasons:
 #      0:
-#        url_poster: "https://api.mediux.pro/assets/7d90012f-9942-4574-aa85-8e8d346df4d0"
+#        url_poster: "https://api.mediux.pro/assets/b3ad3507-8d75-4059-a187-e3ac4f6eda54"
       1:
-        url_poster: "https://api.mediux.pro/assets/1c28c1d3-8805-4c07-ac02-8596fee5e141"
+        url_poster: "https://api.mediux.pro/assets/971165c1-3c1e-401c-b3c9-bd14c74ab020"
       2:
-        url_poster: "https://api.mediux.pro/assets/0de137f5-d9ff-472b-9c67-aae9f44a5bd8"
+        url_poster: "https://api.mediux.pro/assets/e80e119a-a7b6-48e9-a145-933d684ee569"
+#      3:
+#        url_poster: "https://api.mediux.pro/assets/28bcbe29-4c7c-4b72-843d-0e90fba97f39"

@@ -1,0 +1,18 @@
+# Posters from:
+# https://mediux.pro/sets/708
+
+metadata:
+
+  176941: # Sherlock (2010)
+    url_poster: "https://api.mediux.pro/assets/f9410daf-d63a-44c2-adc3-e62ec1a5109f"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/7e83b982-3fa4-48da-afc4-f5e4ebd4d153"
+      1:
+        url_poster: "https://api.mediux.pro/assets/42fd2087-2dc7-4e4d-96c4-99597496308a"
+      2:
+        url_poster: "https://api.mediux.pro/assets/1357374a-71bc-41cd-9e95-c9cdd4e88667"
+      3:
+        url_poster: "https://api.mediux.pro/assets/b44376ad-0f3f-4064-8c0f-d9d17c6140fc"
+      4:
+        url_poster: "https://api.mediux.pro/assets/39662fb4-cd65-4b1c-8956-36df54785477"

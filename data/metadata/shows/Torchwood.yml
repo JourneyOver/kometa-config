@@ -1,17 +1,19 @@
 # Posters from:
-# https://mediux.pro/sets/17859
+# https://theposterdb.com/set/253489
 
 metadata:
 
   79511: # Torchwood (2006)
-    url_poster: "https://api.mediux.pro/assets/f851dcbe-dd07-4fe0-ba9c-ea5906439525"
+    url_poster: "https://theposterdb.com/api/assets/470478"
     url_background: "https://api.mediux.pro/assets/60799c38-1e72-4aaf-81fd-62a7c94ee1fa"
     seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/470479"
       1:
-        url_poster: "https://api.mediux.pro/assets/e6022d4b-dedd-4505-8f28-d1f25e14a618"
+        url_poster: "https://theposterdb.com/api/assets/470480"
       2:
-        url_poster: "https://api.mediux.pro/assets/cec8d072-2b7d-444c-873d-23ba4ed6a58f"
+        url_poster: "https://theposterdb.com/api/assets/470481"
       3:
-        url_poster: "https://api.mediux.pro/assets/f574963f-207c-41d0-a2e3-c66b7c9bd4e2"
+        url_poster: "https://theposterdb.com/api/assets/470482"
       4:
-        url_poster: "https://api.mediux.pro/assets/1c3b6d9e-5280-49cf-b117-742a4a587e39"
+        url_poster: "https://theposterdb.com/api/assets/470483"

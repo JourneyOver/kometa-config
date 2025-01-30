@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/11760
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Moana":
+    template: { name: Collection, collection: 1241984, order: release }
+    url_poster: "https://api.mediux.pro/assets/9eb32891-a816-45bf-b2f1-43e04b8937cd"
+    url_background: "https://image.tmdb.org/t/p/original/zwCCkiNXjreHFRzUovdwjdX5Ldy.jpg"
+    summary: "Set sail on a breathtaking journey across the vast ocean, where courage, discovery, and destiny collide. Moana, a fearless wayfinder chosen by the sea itself, embarks on an epic adventure to save her people and restore balance to the world. Alongside the mischievous demigod Maui and a colorful crew of unforgettable characters, she braves treacherous waters, ancient monsters, and her own self-doubt to uncover the true power within her."

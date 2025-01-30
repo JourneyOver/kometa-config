@@ -58,17 +58,10 @@ Transformers:
     335988: 'Transformers: The Last Knight (2017)'
 Saw:
   Movies Missing (TMDb IDs):
-    176: Saw (2004)
-    215: Saw II (2005)
-    214: Saw III (2006)
-    663: Saw IV (2007)
-    11917: Saw V (2008)
-    22804: Saw VI (2009)
-    41439: Saw 3D (2010)
-    298250: Jigsaw (2017)
-    951491: Saw X (2023)
-    602734: 'Spiral: From the Book of Saw (2021)'
     1207360: Saw XI (2025)
+Scream:
+  Movies Missing (TMDb IDs):
+    1159559: Scream 7 (2026)
 John Wick:
   Movies Missing (TMDb IDs):
     730629: 'John Wick: Chapter 5'

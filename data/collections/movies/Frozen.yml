@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/70110
+# https://mediux.pro/sets/11535
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "Frozen":
     template: { name: Collection, collection: 386382, summary: 386382, order: release }
-    url_poster: "https://theposterdb.com/api/assets/111848"
+    url_poster: "https://api.mediux.pro/assets/2f0ce32f-2968-48dc-b263-d5c22f424399"
     url_background: "https://image.tmdb.org/t/p/original/k21wXgC9AVnKoHW1lRPS0UUGCZ4.jpg"

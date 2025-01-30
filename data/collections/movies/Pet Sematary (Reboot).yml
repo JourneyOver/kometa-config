@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/287752
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Pet Sematary (Reboot)":
+    template: { name: Collection, collection: 830781, order: release }
+    url_poster: "https://theposterdb.com/api/assets/518015"
+    url_background: "https://image.tmdb.org/t/p/original/5wgLUOe7tiskeLt1l4TpS5Cew9U.jpg"
+    summary: "Some secrets are meant to stay buried. In this chilling reimagining of Stephen King's classic tale, a family's tragic loss leads them to an ancient burial ground with the power to bring back the dead—but not without consequence. As unnatural forces take hold and sinister horrors rise from the grave, they soon discover that tampering with death comes at a terrifying cost."

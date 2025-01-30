@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/287750
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Pet Sematary":
+    template: { name: Collection, collection: 10789, order: release }
+    url_poster: "https://theposterdb.com/api/assets/518008"
+    url_background: "https://image.tmdb.org/t/p/original/ZkSBmKmi7aZVBmuHEXdPhj6Ylt.jpg"
+    summary: "Deep in the woods, beyond the deadfall, lies a burial ground with a dark and ancient power—one that doesn't let the dead rest. When grief-stricken families turn to the Pet Sematary in desperation, they soon learn that sometimes, dead is better. As unnatural resurrections unleash unspeakable horrors, the line between life and death is shattered, leading to chilling consequences that cannot be undone."

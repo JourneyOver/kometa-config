@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/37912
+# https://mediux.pro/sets/12518
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "Wreck-It Ralph":
     template: { name: Collection, collection: 404825, summary: 404825, order: release }
-    url_poster: "https://theposterdb.com/api/assets/59428"
+    url_poster: "https://api.mediux.pro/assets/938a0df6-a3ae-4cd7-bf86-29b91dc92f3f"
     url_background: "https://image.tmdb.org/t/p/original/maHMw00WEuUzi4hoXxXQAGLntfH.jpg"
