@@ -1,10 +1,10 @@
 # Posters from:
-# https://mediux.pro/sets/14173
+# https://theposterdb.com/set/120774
 
 metadata:
 
   365190: # Dan Brown's The Lost Symbol (2021)
-    url_poster: "https://api.mediux.pro/assets/37908fd6-1f6d-4f09-b3df-8ecb369b9252"
+    url_poster: "https://theposterdb.com/api/assets/200413"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/a1f3c047-bfa6-4f9e-be24-78f09b14d855"
+        url_poster: "https://theposterdb.com/api/assets/200414"

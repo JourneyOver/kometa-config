@@ -1,13 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/23021
+# https://mediux.pro/sets/7255
 
 metadata:
 
   427464: # The Walking Dead: Daryl Dixon (2023)
-    url_poster: "https://api.mediux.pro/assets/5071fb52-3204-409b-8047-f09c0166fb77"
-    url_background: "https://api.mediux.pro/assets/c1ad32cd-1b51-4c03-9f5e-26a85494d1c4"
+    url_poster: "https://api.mediux.pro/assets/6fe246df-4315-43b2-b893-934d3adff318"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/2d621ff0-5713-4361-958c-45c97980ea0b"
+        url_poster: "https://api.mediux.pro/assets/dd1c033e-9c8a-4dde-9234-64e7c0fa047e"
       2:
-        url_poster: "https://api.mediux.pro/assets/f35629fb-4ee4-4064-8681-c319022fa5e6"
+        url_poster: "https://api.mediux.pro/assets/1fb14a49-79b4-403c-84ea-9ac95e7602c1"

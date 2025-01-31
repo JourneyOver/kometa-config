@@ -1,11 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/15915
+# https://mediux.pro/sets/24727
 
 metadata:
 
   416744: # Fallout (2024)
-    url_poster: "https://api.mediux.pro/assets/a860fa77-b153-4ae1-bd01-362bf6e5b90f"
-    url_background: "https://api.mediux.pro/assets/dbb754bc-5920-4fdf-990e-f7d3da3ae443"
+    url_poster: "https://api.mediux.pro/assets/d2851c93-2599-4e47-82da-422f8498e4b1"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/ba508b30-39fa-476b-b181-107d622b322b"
       1:
-        url_poster: "https://api.mediux.pro/assets/f4552a18-ef19-4f88-b1ad-b9b62b725bd0"
+        url_poster: "https://api.mediux.pro/assets/3ad9bb26-4a82-4cc2-98c8-8c9257c0c457"

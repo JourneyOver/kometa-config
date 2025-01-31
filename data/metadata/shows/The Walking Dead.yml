@@ -1,33 +1,32 @@
 # Posters from:
-# https://mediux.pro/sets/9925
+# https://mediux.pro/sets/7260
 
 metadata:
 
   153021: # The Walking Dead (2010)
-    url_poster: "https://api.mediux.pro/assets/20afdfc7-03a2-4d79-9c99-f67e996b5fd4"
-    url_background: "https://api.mediux.pro/assets/279bc6bd-c366-4198-a13e-e0d3c64fcab2"
+    url_poster: "https://api.mediux.pro/assets/f2ff841c-3c1e-444d-9116-1c8f100658fc"
     seasons:
 #      0:
-#        url_poster: "https://api.mediux.pro/assets/005ece38-a2e2-4a00-aaf4-4591b40f9575"
+#        url_poster: "https://api.mediux.pro/assets/3185a690-f3ab-4393-b0d2-44cdf5324a64"
       1:
-        url_poster: "https://api.mediux.pro/assets/1e6eef4b-6343-462e-ad19-96ead04e7c3c"
+        url_poster: "https://api.mediux.pro/assets/6eae809c-f193-4456-b976-08afab994bb0"
       2:
-        url_poster: "https://api.mediux.pro/assets/63563eed-cb4c-492d-9423-3cbf11561122"
+        url_poster: "https://api.mediux.pro/assets/5ea82989-1365-497c-8f64-480d102d762e"
       3:
-        url_poster: "https://api.mediux.pro/assets/2d5c544c-e575-4611-a68c-938b9247b486"
+        url_poster: "https://api.mediux.pro/assets/b08d382a-df5a-4a9d-8af4-85f4953618cd"
       4:
-        url_poster: "https://api.mediux.pro/assets/ab5791f6-6208-4cda-8eff-966a2ee6bc0d"
+        url_poster: "https://api.mediux.pro/assets/c4c8c0a4-6118-4872-80a6-70c28e066f7a"
       5:
-        url_poster: "https://api.mediux.pro/assets/76e32eba-bfd2-48e7-8cba-4e44ae982c40"
+        url_poster: "https://api.mediux.pro/assets/872a5e9f-cd32-4577-b234-bd6f7610fa1f"
       6:
-        url_poster: "https://api.mediux.pro/assets/a41f5443-f725-43f1-a5a6-df4ea416f625"
+        url_poster: "https://api.mediux.pro/assets/f041366d-ff07-498f-af0c-ec7ec401d67e"
       7:
-        url_poster: "https://api.mediux.pro/assets/25281927-0542-4076-8e1b-e51c123acd02"
+        url_poster: "https://api.mediux.pro/assets/ac8cc0c1-823d-49f1-8977-3b2b069034b1"
       8:
-        url_poster: "https://api.mediux.pro/assets/f290a502-538e-4d91-a299-41b4ba0ed2cc"
+        url_poster: "https://api.mediux.pro/assets/391a721b-b90d-46df-a34c-42a0f4f8992b"
       9:
-        url_poster: "https://api.mediux.pro/assets/9171144e-1ba1-4c76-ad80-b5e832b272a1"
+        url_poster: "https://api.mediux.pro/assets/5dcfcd4b-4f2d-442e-8f99-a8b98be17303"
       10:
-        url_poster: "https://api.mediux.pro/assets/1788b8e6-229b-4714-b9ce-3ab4ac10227d"
+        url_poster: "https://api.mediux.pro/assets/f3acb69b-ab54-4ecc-a132-c889ee52e4f7"
       11:
-        url_poster: "https://api.mediux.pro/assets/50d169d5-7d08-42c2-80e5-e4810f60e9db"
+        url_poster: "https://api.mediux.pro/assets/68c7f1fa-583f-4b82-94f0-7b667968dff4"

@@ -1,11 +1,10 @@
 # Posters from:
-# https://mediux.pro/sets/25137
+# https://theposterdb.com/set/299470
 
 metadata:
 
   412429: # Agatha All Along (2024)
-    url_poster: "https://api.mediux.pro/assets/06b81957-0df9-4909-bf9f-f3ffd5cea280"
-    url_background: "https://api.mediux.pro/assets/bd190d4e-2fbc-4c9d-99e5-51ff7ac38167"
+    url_poster: "https://theposterdb.com/api/assets/539576"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/f7bea214-45a4-4c39-84aa-db4b1742d9e5"
+        url_poster: "https://theposterdb.com/api/assets/539577"

@@ -1,13 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/26789
+# https://mediux.pro/sets/28368
 
 metadata:
 
-  418934: # Based On A True Story (2023)
-    url_poster: "https://api.mediux.pro/assets/a3036f43-08fb-49bd-bd87-9ac2787c9e3e"
-    url_background: "https://api.mediux.pro/assets/2f69d6ff-a875-47d6-849f-e87f9f5a748a"
+  418934: # Based on a True Story (2023)
+    url_poster: "https://api.mediux.pro/assets/0ab0f640-d0a0-4cb6-9e28-420977f5abd3"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/ec6cb7f7-353d-4a65-bc0a-58ba1303487b"
+        url_poster: "https://api.mediux.pro/assets/9ce3f2c6-210f-445f-8685-9d7fc928b3f7"
       2:
-        url_poster: "https://api.mediux.pro/assets/f5a55bf9-07bd-4ac2-886d-4727772aa2e5"
+        url_poster: "https://api.mediux.pro/assets/fc51d320-28f6-4afb-a6fd-c98309ce6459"

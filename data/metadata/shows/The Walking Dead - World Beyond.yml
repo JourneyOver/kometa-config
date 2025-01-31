@@ -1,13 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/26482
+# https://mediux.pro/sets/7259
 
 metadata:
 
   372787: # The Walking Dead: World Beyond (2020)
-    url_poster: "https://api.mediux.pro/assets/cf8e7d02-6b25-46bc-8caa-1a1541e3d69f"
-    url_background: "https://api.mediux.pro/assets/7719962c-18c0-4d3d-899e-ade7505dd16a"
+    url_poster: "https://api.mediux.pro/assets/c62c6fec-5b16-4bfb-a256-d0c65f896f77"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/0aa84656-4d90-4e92-9dd3-4750e5615fce"
+        url_poster: "https://api.mediux.pro/assets/d365b7b1-cad0-4979-9b45-f3005a37ec26"
       2:
-        url_poster: "https://api.mediux.pro/assets/525f3480-cb02-454c-94d9-c1579b6e5550"
+        url_poster: "https://api.mediux.pro/assets/07dea2ff-52b3-41da-a9c4-6dc30e6dc0f9"

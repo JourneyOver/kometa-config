@@ -1,11 +1,10 @@
 # Posters from:
-# https://mediux.pro/sets/26480
+# https://mediux.pro/sets/7256
 
 metadata:
 
   417549: # The Walking Dead: Dead City (2023)
-    url_poster: "https://api.mediux.pro/assets/9979c296-dbbb-46f7-9205-9f5fe3c749b6"
-    url_background: "https://api.mediux.pro/assets/5a43c6a9-d085-4e24-9f74-db33459e92d0"
+    url_poster: "https://api.mediux.pro/assets/0bc3f3c7-050d-4960-b8ee-beab1a781b13"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/7b97a53c-22cd-486a-a813-6407b20e6781"
+        url_poster: "https://api.mediux.pro/assets/debf7786-d561-43d4-8a82-65e0ddd9e3e5"

@@ -1,17 +1,17 @@
 # Posters from:
-# https://mediux.pro/sets/12020
+# https://theposterdb.com/set/2324
 
 metadata:
 
   305288: # Stranger Things (2016)
-    url_poster: "https://api.mediux.pro/assets/0d1abe67-92ad-4dec-bdd3-7685942fa6ff"
+    url_poster: "https://theposterdb.com/api/assets/5607"
     url_background: "https://api.mediux.pro/assets/25b8e961-1351-46e7-b658-c273a04f6d5f"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/9ac3375c-1ef1-42f1-9042-1d0f24179d1c"
+        url_poster: "https://theposterdb.com/api/assets/5608"
       2:
-        url_poster: "https://api.mediux.pro/assets/42fa37a7-b622-4dea-a3a7-44c610703359"
+        url_poster: "https://theposterdb.com/api/assets/5609"
       3:
-        url_poster: "https://api.mediux.pro/assets/12b5cd54-130a-4114-91d9-73aa9b99f181"
+        url_poster: "https://theposterdb.com/api/assets/5610"
       4:
-        url_poster: "https://api.mediux.pro/assets/f1baa8b1-9815-4736-b95b-43fec468ed06"
+        url_poster: "https://theposterdb.com/api/assets/240834"

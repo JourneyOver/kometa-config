@@ -1,27 +1,26 @@
 # Posters from:
-# https://mediux.pro/sets/10715
+# https://mediux.pro/sets/7257
 
 metadata:
 
   290853: # Fear the Walking Dead (2015)
-    url_poster: "https://api.mediux.pro/assets/8d61db86-75a5-4895-a13e-eb8ce6b0901a"
-    url_background: "https://api.mediux.pro/assets/8dd3a121-b7b6-4a20-a05c-3a3a2dcb68d5"
+    url_poster: "https://api.mediux.pro/assets/96236d0d-76bb-4e5b-8868-091e779942e2"
     seasons:
 #      0:
-#        url_poster: "https://api.mediux.pro/assets/6191b318-3b2b-4db8-a8bb-78246c113e90"
+#        url_poster: "https://api.mediux.pro/assets/90a0de95-33bf-401a-b6d5-a31b617143e8"
       1:
-        url_poster: "https://api.mediux.pro/assets/ef696159-d781-417e-b79d-3ea0f2f4dd57"
+        url_poster: "https://api.mediux.pro/assets/b116847e-b9c2-4b9e-8412-d5c427d504bd"
       2:
-        url_poster: "https://api.mediux.pro/assets/7a7094d8-7ff2-4f5d-b0cd-eec7317be733"
+        url_poster: "https://api.mediux.pro/assets/2ed7b72b-b711-4dc1-9288-629c255636a0"
       3:
-        url_poster: "https://api.mediux.pro/assets/233c541e-518b-48d9-9343-6a3fcfe2ea29"
+        url_poster: "https://api.mediux.pro/assets/757b75b2-1138-4405-a2fb-4a933a2dfe47"
       4:
-        url_poster: "https://api.mediux.pro/assets/17134845-1a30-47fc-a502-ae3d64dc6ebb"
+        url_poster: "https://api.mediux.pro/assets/c66be973-4fa8-4e2c-b681-498a93e181fc"
       5:
-        url_poster: "https://api.mediux.pro/assets/4ffb9e80-9037-420e-9321-3f9ceb2a67b8"
+        url_poster: "https://api.mediux.pro/assets/09a1d0ae-3e20-464d-b3c4-131849c1820f"
       6:
-        url_poster: "https://api.mediux.pro/assets/fb41e469-551f-4177-bd9a-cf8fcd359ffc"
+        url_poster: "https://api.mediux.pro/assets/56fb30f7-f6c1-4627-a3cf-b8b3a23b0257"
       7:
-        url_poster: "https://api.mediux.pro/assets/7b059739-06bc-422d-9c0d-6a9a281e2dbe"
+        url_poster: "https://api.mediux.pro/assets/ef580b07-cf14-4ee0-8eff-824d98f5aa72"
       8:
-        url_poster: "https://api.mediux.pro/assets/770497e3-1f66-4364-a65c-39aa565be33c"
+        url_poster: "https://api.mediux.pro/assets/c907df6b-2fa1-44d9-8e66-9f9ef8891821"

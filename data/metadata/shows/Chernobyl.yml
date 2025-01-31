@@ -1,11 +1,10 @@
 # Posters from:
-# https://mediux.pro/sets/7028
+# https://mediux.pro/sets/12739
 
 metadata:
 
   360893: # Chernobyl (2019)
-    url_poster: "https://api.mediux.pro/assets/1f263304-7a7f-4ee4-b52c-1151c81c0607"
-    url_background: "https://api.mediux.pro/assets/865ac3cc-3438-4593-af43-9095fe3bc452"
+    url_poster: "https://api.mediux.pro/assets/cc1baa0f-2b31-456b-8268-2f3a3b43cad9"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/6dcafa56-549a-4eba-bea1-75a5051e6ede"
+        url_poster: "https://api.mediux.pro/assets/60f04089-d79d-4715-9093-b6ddcce5e961"

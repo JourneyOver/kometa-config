@@ -1,11 +1,11 @@
 # Posters from:
-# https://mediux.pro/sets/27760
+# https://theposterdb.com/set/301964
 
 metadata:
 
   367118: # Dune: Prophecy (2024)
-    url_poster: "https://api.mediux.pro/assets/c2f38497-9170-4109-97b7-7d2da926ba96"
+    url_poster: "https://theposterdb.com/api/assets/544284"
     url_background: "https://api.mediux.pro/assets/ee2fcf41-9efa-42b2-ae56-0c9a450d9fcc"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/64f05c31-8747-40dc-951c-60f024a88c0e"
+        url_poster: "https://theposterdb.com/api/assets/544285"

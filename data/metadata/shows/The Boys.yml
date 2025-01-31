@@ -1,19 +1,18 @@
 # Posters from:
-# https://mediux.pro/sets/5023
+# https://mediux.pro/sets/12891
 
 metadata:
 
   355567: # The Boys (2019)
-    url_poster: "https://api.mediux.pro/assets/feee76cc-af5d-4c44-ab5b-a2a1c491049c"
-    url_background: "https://api.mediux.pro/assets/a1f5ef06-65e8-44ed-85b9-de0e35d1a9d9"
+    url_poster: "https://api.mediux.pro/assets/b8cf35a4-8559-4896-903b-33f12fc26d62"
     seasons:
 #      0:
-#        url_poster: "https://api.mediux.pro/assets/9ba90c0b-c130-4adc-89f6-ef67775b71fd"
+#        url_poster: "https://api.mediux.pro/assets/a4b3dda8-56c6-42cb-bcc2-f233d0297610"
       1:
-        url_poster: "https://api.mediux.pro/assets/d15abb9f-6ae3-4089-b3ab-f94ccd125b34"
+        url_poster: "https://api.mediux.pro/assets/52be07a3-8f13-4c30-9931-94dc5d21f9ab"
       2:
-        url_poster: "https://api.mediux.pro/assets/9661aa72-75a5-427c-b5a9-56578389a5fb"
+        url_poster: "https://api.mediux.pro/assets/1b2062a2-6240-4f0c-8318-b14ec7a2661f"
       3:
-        url_poster: "https://api.mediux.pro/assets/3f2087dc-ef1e-4d20-abac-18ecc809bd7b"
+        url_poster: "https://api.mediux.pro/assets/4d7a748a-6b24-4860-9e77-b1fd78e34c87"
       4:
-        url_poster: "https://api.mediux.pro/assets/b71dd5d3-9fea-45c0-b08c-9997253908f5"
+        url_poster: "https://api.mediux.pro/assets/1e6abc5b-152f-4680-a641-bd55cd2c4902"

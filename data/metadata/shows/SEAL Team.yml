@@ -1,23 +1,22 @@
 # Posters from:
-# https://mediux.pro/sets/24049
+# https://theposterdb.com/set/286338
 
 metadata:
 
   328686: # SEAL Team (2017)
-    url_poster: "https://api.mediux.pro/assets/676a9275-fe95-4243-a6de-31f8e3fb9be5"
-    url_background: "https://api.mediux.pro/assets/164f228b-1ef4-4bac-bd63-ed8017cf1e1e"
+    url_poster: "https://theposterdb.com/api/assets/515738"
     seasons:
 #      1:
-#        url_poster: "https://api.mediux.pro/assets/92a67056-8b17-4c95-8d35-e1b016eb5e71"
+#        url_poster: "https://theposterdb.com/api/assets/515739"
 #      2:
-#        url_poster: "https://api.mediux.pro/assets/788f9cee-1d5b-484d-b1a2-17f75482c246"
+#        url_poster: "https://theposterdb.com/api/assets/515740"
 #      3:
-#        url_poster: "https://api.mediux.pro/assets/5c53f433-3dea-468e-bf17-febaee9bf946"
+#        url_poster: "https://theposterdb.com/api/assets/515741"
 #      4:
-#        url_poster: "https://api.mediux.pro/assets/291a41e3-9ef5-4dee-a05a-b476bbbcbe5d"
+#        url_poster: "https://theposterdb.com/api/assets/515742"
 #      5:
-#        url_poster: "https://api.mediux.pro/assets/a2c30992-3967-44c5-9681-319ac9dd7156"
+#        url_poster: "https://theposterdb.com/api/assets/515743"
 #      6:
-#        url_poster: "https://api.mediux.pro/assets/c8ccb5ac-0374-444f-9039-f78be045cb42"
+#        url_poster: "https://theposterdb.com/api/assets/515744"
       7:
-        url_poster: "https://api.mediux.pro/assets/3ce6774d-35d6-4959-bf79-6e1ad145b2f3"
+        url_poster: "https://theposterdb.com/api/assets/515745"
