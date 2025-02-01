@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/11
+# https://mediux.pro/sets/22959
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "How to Train Your Dragon":
-    template: { name: Collection, collection: 89137, summary: 89137, order: release }
-    url_poster: "https://theposterdb.com/api/assets/62"
+    template: { name: Collection, collection: 89137, order: release }
+    url_poster: "https://api.mediux.pro/assets/18238f10-b099-4a11-8ee7-36a085bccdd4"
     url_background: "https://image.tmdb.org/t/p/original/upERZDtsEH35guqg0njU9X9yWT7.jpg"
+    summary: "Soar into the breathtaking world of How to Train Your Dragon, where Vikings and dragons forge an unlikely bond. Follow Hiccup and his loyal dragon, Toothless, as they challenge tradition, face thrilling adventures, and discover the true meaning of courage, friendship, and leadership. With stunning animation, heart-pounding action, and emotional depth, this collection is a timeless tale of bravery and the power of understanding."

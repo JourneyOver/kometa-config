@@ -1,5 +1,5 @@
 # Posters from:
-# https://mediux.pro/sets/8318
+# https://mediux.pro/sets/22960
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Puss in Boots":
-    template: { name: Collection, collection: 94602, summary: 94602, order: release }
-    url_poster: "https://api.mediux.pro/assets/34f40ee3-613d-43c4-96a1-3ee6960e641a"
+    template: { name: Collection, collection: 94602, order: release }
+    url_poster: "https://api.mediux.pro/assets/baf4529b-7001-48be-b244-c36d49af9b4b"
     url_background: "https://image.tmdb.org/t/p/original/fMAXv23POTzuSkqAuyjwaHrEHdp.jpg"
+    summary: "Join the swashbuckling feline hero, Puss in Boots, in a series of daring adventures filled with humor, heart, and legendary quests. From high-stakes heists to battles with formidable foes, Puss proves that even the smallest hero can leave the biggest paw print. With its mix of action, charm, and heartfelt moments, this collection is a celebration of bravery, redemption, and the enduring spirit of adventure."

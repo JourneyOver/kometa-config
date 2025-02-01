@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/217981
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Resident Evil (Animated)":
+    template: { name: Collection, collection: 133352, order: release }
+    url_poster: "https://theposterdb.com/api/assets/387591"
+    url_background: "https://image.tmdb.org/t/p/original/uj2duAkn6zUmRSbjyEr7XUeIWsJ.jpg"
+    summary: "Explore the dark and thrilling world of the Resident Evil (Animated) collection, where survival horror meets cutting-edge animation. Follow fan-favorite characters like Leon S. Kennedy, Claire Redfield, and Chris Redfield as they confront the horrors of the T-virus, sinister conspiracies, and relentless bio-organic threats. With its stunning visuals, intense action, and deep ties to the Resident Evil universe, this collection delivers gripping storytelling and heart-pounding suspense, perfect for fans of the franchise and newcomers alike."

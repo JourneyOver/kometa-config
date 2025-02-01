@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/266318
+# https://mediux.pro/sets/22958
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Kung Fu Panda":
-    template: { name: Collection, collection: 77816, summary: 77816, order: release }
-    url_poster: "https://theposterdb.com/api/assets/484196"
+    template: { name: Collection, collection: 77816, order: release }
+    url_poster: "https://api.mediux.pro/assets/b168b29c-8d21-4f9a-bcb1-62950190fc1d"
     url_background: "https://image.tmdb.org/t/p/original/uDosHOFFWtF5YteBRygHALFqLw2.jpg"
+    summary: "Enter the action-packed and heartwarming world of the Kung Fu Panda collection, where dreams, destiny, and dumplings collide. Follow Po, the unlikely Dragon Warrior, as he transforms from a noodle-loving panda into a kung fu master alongside the Furious Five. Filled with breathtaking martial arts, laugh-out-loud humor, and heartfelt lessons about self-belief and perseverance, this collection is a celebration of inner strength, friendship, and the journey to becoming your best self."

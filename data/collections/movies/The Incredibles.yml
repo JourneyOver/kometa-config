@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/8324
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Incredibles":
+    template: { name: Collection, collection: 468222, order: release }
+    url_poster: "https://api.mediux.pro/assets/43af136c-e2d0-4c63-b4b3-a84d17500802"
+    url_background: "https://image.tmdb.org/t/p/original/3jcwIDbwlL5fB1hmlD2PydGFD1u.jpg"
+    summary: "Unleash your inner hero with The Incredibles collection, a thrilling saga of a super-powered family balancing ordinary life with extraordinary abilities. Follow the Parr family as they tackle villains, family dynamics, and the challenges of being “super” in a world that doesn't always understand them. Packed with action, humor, and heart, this collection celebrates the power of family, resilience, and embracing who you are."

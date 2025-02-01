@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/278628
+# https://mediux.pro/sets/24005
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Inside Out":
-    template: { name: Collection, collection: 1022790, summary: 1022790, order: release }
-    url_poster: "https://theposterdb.com/api/assets/503542"
+    template: { name: Collection, collection: 1022790, order: release }
+    url_poster: "https://api.mediux.pro/assets/c0e14fd9-593f-4758-8753-3690eab564bd"
     url_background: "https://image.tmdb.org/t/p/original/7hYG0v6BEErqqwnU7vWJjWgYJJp.jpg"
+    summary: "Explore the colorful world of emotions with the Inside Out collection, a groundbreaking journey into the mind. Follow Joy, Sadness, Anger, Fear, and Disgust as they guide Riley through the challenges of growing up. With its imaginative storytelling, heartfelt humor, and profound insights, this collection celebrates the beauty of our inner lives and the importance of embracing every emotion."

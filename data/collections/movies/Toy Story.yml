@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Toy Story":
-    template: { name: Collection, collection: 10194, summary: 10194, order: release }
+    template: { name: Collection, collection: 10194, order: release }
     url_poster: "https://api.mediux.pro/assets/adbb17c5-1e23-41a5-bc0a-c9b1a1e4fb39"
     url_background: "https://image.tmdb.org/t/p/original/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
+    summary: "Dive into the magical world of the Toy Story collection, where toys come to life and teach us about friendship, loyalty, and the power of imagination. Follow Woody, Buzz Lightyear, and their unforgettable gang of toys as they navigate the joys and challenges of being there for their kid—and each other. With its groundbreaking animation, heartfelt storytelling, and timeless themes of growing up and letting go, this collection is a touching celebration of childhood, adventure, and the bonds that make us who we are."

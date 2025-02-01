@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Shrek":
-    template: { name: Collection, collection: 2150, summary: 2150, order: release }
+    template: { name: Collection, collection: 2150, order: release }
     url_poster: "https://api.mediux.pro/assets/04f09743-cdcd-47d1-b50f-52e2bfba9fc3"
     url_background: "https://image.tmdb.org/t/p/original/5xOppSzrduXPxFicOQbzD0m9mvP.jpg"
+    summary: "Step into the swampy, hilarious, and heartwarming world of the Shrek collection, where fairy tales get a delightfully twisted makeover. Follow Shrek, the lovable ogre, as he embarks on unforgettable adventures with his loyal sidekick Donkey, the fierce Princess Fiona, and a host of quirky characters. Packed with laugh-out-loud humor, clever satire, and heartfelt moments, this collection is a celebration of self-acceptance, love, and the beauty of being different. From ogre-sized laughs to touching life lessons, Shrek proves that true happiness comes from embracing who you are."

@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/180593
+# https://theposterdb.com/set/217980
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Resident Evil":
-    template: { name: Collection, collection: 17255, extra_movie: 460458, summary: 17255, order: release }
-    url_poster: "https://theposterdb.com/api/assets/306854"
+    template: { name: Collection, collection: 17255, extra_movie: 460458, order: release }
+    url_poster: "https://theposterdb.com/api/assets/387583"
     url_background: "https://image.tmdb.org/t/p/original/5VgZ6Vggk0NnA62GK1UFlnAtyu2.jpg"
+    summary: "Dive into the heart-pounding world of the Resident Evil collection, a gripping saga of survival, horror, and action set against the backdrop of a world overrun by bioengineered nightmares. Follow iconic characters like Alice and Claire Redfield as they battle the sinister Umbrella Corporation, hordes of the undead, and terrifying mutations. From the high-stakes thrills of the original series to the gritty reboot in Resident Evil: Welcome to Raccoon City, this collection delivers chilling suspense, explosive action, and a relentless fight for humanity's survival."

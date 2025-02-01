@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/22966
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Finding Nemo":
+    template: { name: Collection, collection: 137697, order: release }
+    url_poster: "https://api.mediux.pro/assets/929f5535-e30b-4f91-9eea-8fa0f66544cd"
+    url_background: "https://image.tmdb.org/t/p/original/yzqaKAhglTrkeOfuIXYYArf0WnA.jpg"
+    summary: "Dive into the ocean's depths with the Finding Nemo collection, a heartwarming journey of family, courage, and self-discovery. Follow Marlin, a devoted clownfish, and his forgetful friend Dory as they navigate the vast and vibrant seas to reunite with Marlin's son, Nemo. Filled with unforgettable characters, stunning visuals, and touching moments, this collection is a timeless exploration of love, perseverance, and the bonds that connect us."

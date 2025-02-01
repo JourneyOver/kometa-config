@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/286378
+# https://mediux.pro/sets/12484
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Twister":
-    template: { name: Collection, collection: 1062948, summary: 1062948, order: release }
-    url_poster: "https://theposterdb.com/api/assets/515802"
+    template: { name: Collection, collection: 1062948, order: release }
+    url_poster: "https://api.mediux.pro/assets/8cc5b464-ea79-4c39-9342-33184ad32e0c"
     url_background: "https://image.tmdb.org/t/p/original/bnb3pWSDihCCeZ0wGlFBbTScyZv.jpg"
+    summary: "Hold on tight with the Twister collection, a high-octane thrill ride into the heart of nature's most powerful storms. This gripping series follows a team of storm chasers as they risk everything to study and understand tornadoes, blending adrenaline-pumping action with a deep respect for the raw power of the natural world. With breathtaking visuals, edge-of-your-seat suspense, and a story of perseverance and passion, Twister captures the awe and danger of chasing the storm."

@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/22968
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Monsters, Inc.":
+    template: { name: Collection, collection: 137696, order: release }
+    url_poster: "https://api.mediux.pro/assets/1a21f05b-ab96-4a2d-b29d-320f365e03ab"
+    url_background: "https://image.tmdb.org/t/p/original/uzKkKhTWGSEdsN2rYanJTVAyTLi.jpg"
+    summary: "Step into the hilarious and heartwarming world of Monsters, Inc., where monsters generate energy by scaring children—until a little girl named Boo changes everything. Join Sulley and Mike Wazowski as they navigate friendship, laughter, and the power of love in a world where screams are replaced by joy. This collection is a delightful blend of humor, adventure, and heartfelt moments that remind us of the magic of connection."

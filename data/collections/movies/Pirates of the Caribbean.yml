@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/9461
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Pirates of the Caribbean":
+    template: { name: Collection, collection: 295, order: release }
+    url_poster: "https://api.mediux.pro/assets/aa1af688-1eb3-448f-a0e5-9e2dc14a5afb"
+    url_background: "https://api.mediux.pro/assets/bbb095d1-a392-47e3-bc16-a60223909ec6"
+    summary: "Set sail with the Pirates of the Caribbean collection, a swashbuckling adventure filled with daring escapades, supernatural mysteries, and unforgettable characters. Follow the charismatic Captain Jack Sparrow as he navigates treacherous waters, outsmarts cunning foes, and seeks legendary treasures. With its thrilling action, witty humor, and epic storytelling, this collection is a high-seas journey of freedom, courage, and the enduring allure of the pirate's life."
