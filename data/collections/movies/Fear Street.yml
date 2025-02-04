@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/99236
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Fear Street":
+    template: { name: Collection, collection: 790370, order: release }
+    url_poster: "https://theposterdb.com/api/assets/162418"
+    url_background: "https://image.tmdb.org/t/p/original/13nBFLeuhHbXmU8QAnLIrJy11cl.jpg"
+    summary: "Dark secrets and an ancient curse plague the town of Shadyside, where brutal murders span centuries, tied to an evil that refuses to stay buried. As a group of teenagers fights to uncover the truth behind the relentless bloodshed, they unravel a horrifying mystery that connects their fate to the past. From the eerie horrors of 1994 to the sinister origins of 1666, the nightmare unfolds across generations in a relentless battle for survival. In Shadyside, the past is never truly dead… and neither are its victims."

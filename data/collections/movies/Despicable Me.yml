@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/8308
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Despicable Me":
+    template: { name: Collection, collection: 86066, order: release }
+    url_poster: "https://api.mediux.pro/assets/442ca74c-cc35-4e38-8022-c573593b2292"
+    url_background: "https://image.tmdb.org/t/p/original/37xamYKRUGCRux532lKcZdVGYuR.jpg"
+    summary: "Gru, a former supervillain turned unlikely hero, navigates the chaos of fatherhood, world-saving missions, and the relentless antics of his mischievous Minions. From grand heists to secret-agent showdowns, each adventure is filled with heart, humor, and over-the-top action. As Gru's family grows and new threats emerge, he learns that the greatest treasures aren't stolen—they're found in the bonds of family and friendship. With unstoppable Minion mayhem and unforgettable characters, the fun never stops in this action-packed, laugh-filled journey."

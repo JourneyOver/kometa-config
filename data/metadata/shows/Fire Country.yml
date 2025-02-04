@@ -1,15 +1,15 @@
 # Posters from:
-# https://mediux.pro/sets/27146
+# https://mediux.pro/sets/6185
 
 metadata:
 
   420063: # Fire Country (2022)
-    url_poster: "https://api.mediux.pro/assets/ec8c141a-8526-484e-86e0-80bfe8a3f69e"
+    url_poster: "https://api.mediux.pro/assets/ac010306-2b65-4e33-9a5d-719749eb1975"
     url_background: "https://api.mediux.pro/assets/fe935f0c-0f5f-4e5e-8216-147f42709cc7"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/f3b16ef1-5946-49b9-8ca4-3e3dd54a81a1"
+        url_poster: "https://api.mediux.pro/assets/e8ae43df-0d25-46cb-8fc2-733382b11314"
       2:
-        url_poster: "https://api.mediux.pro/assets/272ba8c0-ac6e-4fc2-a3b1-4f750ebfa7ea"
+        url_poster: "https://api.mediux.pro/assets/ce880c8f-a9ef-45c3-9299-f59d4009445f"
       3:
-        url_poster: "https://api.mediux.pro/assets/ddffdecd-c735-4162-9dfd-0eb337802c84"
+        url_poster: "https://api.mediux.pro/assets/d59d8818-f52f-45a6-b4a2-0df83d6ca29f"
