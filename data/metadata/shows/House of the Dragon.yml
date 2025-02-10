@@ -1,13 +1,15 @@
 # Posters from:
-# https://mediux.pro/sets/8785
+# https://mediux.pro/sets/13551
 
 metadata:
 
   371572: # House of the Dragon (2022)
-    url_poster: "https://api.mediux.pro/assets/ec4e0015-f195-4708-8c53-126b04e2e9f5"
+    url_poster: "https://api.mediux.pro/assets/c4bfec16-3f7f-4b71-96fe-e4ff42fbbb88"
     url_background: "https://api.mediux.pro/assets/481cb43a-daca-4374-ab71-551341e5d977"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/1eb4b22c-25a2-461a-a3ce-0a041c53fdee"
       1:
-        url_poster: "https://api.mediux.pro/assets/92f6ffb2-36ab-4191-8ce1-f0b3cf6c02f1"
+        url_poster: "https://api.mediux.pro/assets/a67441c3-33ca-490b-9fde-c75844d894cf"
       2:
-        url_poster: "https://api.mediux.pro/assets/989a6a87-cce4-4bbf-96a4-9dca3b75987f"
+        url_poster: "https://api.mediux.pro/assets/092afaf4-71b7-402d-8b33-d4aa3c222e99"

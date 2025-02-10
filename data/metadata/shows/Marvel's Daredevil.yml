@@ -1,15 +1,15 @@
 # Posters from:
-# https://mediux.pro/sets/15046
+# https://mediux.pro/sets/3035
 
 metadata:
 
   281662: # Marvel's Daredevil (2015)
-    url_poster: "https://api.mediux.pro/assets/1f9e6591-9c0f-4df4-929a-ebb92bf128ac"
+    url_poster: "https://api.mediux.pro/assets/102e6059-2e75-42f8-afcf-69dc0ead4093"
     url_background: "https://api.mediux.pro/assets/f0e93eec-68c8-42ec-acf3-ef066b05458b"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/b3eb396f-a5ec-4bb0-9d0a-46e6fc2104ac"
+        url_poster: "https://api.mediux.pro/assets/24782e85-9453-4aa0-bb62-0dab26f7943e"
       2:
-        url_poster: "https://api.mediux.pro/assets/a960bbee-0324-4d58-a54c-345a2a7477b5"
+        url_poster: "https://api.mediux.pro/assets/0dde274c-fb3c-4d2a-923f-5ab92cd73e1d"
       3:
-        url_poster: "https://api.mediux.pro/assets/72aca54a-d552-43c1-9265-f34d2d39f826"
+        url_poster: "https://api.mediux.pro/assets/1b4e2f5a-b071-483a-8d5e-629f3ff13980"

@@ -1,15 +1,15 @@
 # Posters from:
-# https://mediux.pro/sets/15279
+# https://mediux.pro/sets/3041
 
 metadata:
 
   284190: # Marvel's Jessica Jones (2015)
-    url_poster: "https://api.mediux.pro/assets/96b6ebe6-2edf-4732-8f9f-f2b75c44a007"
+    url_poster: "https://api.mediux.pro/assets/e04361b0-1919-4792-9774-8129d1e099bb"
     url_background: "https://api.mediux.pro/assets/a6b14929-2328-4117-96fe-3e0cd6110b75"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/e412e0cd-f104-4e0d-a4d7-79b94f3174c4"
+        url_poster: "https://api.mediux.pro/assets/0d2d09bb-4112-4534-aa3d-f8f8f9884841"
       2:
-        url_poster: "https://api.mediux.pro/assets/ce6ee33e-f602-4969-9d14-c51b56e5503d"
+        url_poster: "https://api.mediux.pro/assets/4a7a78ab-dd16-4469-a3c9-77b72ce6ef61"
       3:
-        url_poster: "https://api.mediux.pro/assets/7a404d76-c4a4-475c-9cca-d60045e28626"
+        url_poster: "https://api.mediux.pro/assets/e80d4bad-fc56-45d6-a299-3c4f52391dc4"

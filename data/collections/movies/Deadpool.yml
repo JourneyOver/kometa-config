@@ -1,6 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/173069
-# https://theposterdb.com/poster/112088
+# https://mediux.pro/sets/4773
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +7,7 @@ external_templates:
 collections:
 
   "Deadpool":
-    template: { name: Collection, collection: 448150, extra_movie: 567604, summary: 448150, order: release }
-    url_poster: "https://theposterdb.com/api/assets/112088"
+    template: { name: Collection, collection: 448150, extra_movie: 567604, order: release }
+    url_poster: "https://api.mediux.pro/assets/d7f3d31c-d57e-4965-bf99-42a63485d72d"
     url_background: "https://raw.githubusercontent.com/JourneyOver/kometa-config/refs/heads/posters/movies/collections/Deadpool/background.jpg"
+    summary: "An irreverent, wisecracking mercenary defies expectations with explosive action, razor-sharp wit, and a fearless disregard for convention. In a world where rules are meant to be broken, his offbeat humor and unapologetic charm deliver a uniquely entertaining ride."

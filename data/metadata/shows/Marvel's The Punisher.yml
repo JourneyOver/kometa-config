@@ -1,13 +1,13 @@
 # Posters from:
-# https://mediux.pro/sets/15103
+# https://mediux.pro/sets/3044
 
 metadata:
 
   331980: # Marvel's The Punisher (2017)
-    url_poster: "https://api.mediux.pro/assets/331c4bcb-b314-483e-b596-bc77f6848b25"
+    url_poster: "https://api.mediux.pro/assets/a2379f42-f01f-4339-8774-9db50b41fe1f"
     url_background: "https://api.mediux.pro/assets/e9348573-6da9-4ab6-a9cb-d987b3dc0005"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/62a2975a-b0ff-4709-9a9c-7d5202a51dd5"
+        url_poster: "https://api.mediux.pro/assets/240b67d5-9376-4052-a22b-6b502c0580f0"
       2:
-        url_poster: "https://api.mediux.pro/assets/bb9ed778-8d3a-40d8-84c1-d2f4c8446ce6"
+        url_poster: "https://api.mediux.pro/assets/341496d2-99e6-48a0-bc67-6d412c43fb1e"

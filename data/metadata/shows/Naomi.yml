@@ -1,11 +1,10 @@
 # Posters from:
-# https://mediux.pro/sets/24744
+# https://mediux.pro/sets/26849
 
 metadata:
 
   403412: # Naomi (2022)
-    url_poster: "https://api.mediux.pro/assets/3872a5ae-1062-44e1-9df0-27d3c282740c"
-    url_background: "https://api.mediux.pro/assets/fc68bdc8-5961-4677-8a38-7eedeefb2d73"
+    url_poster: "https://api.mediux.pro/assets/64b76ae0-38bb-4c19-81f0-4761f4c819b9"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/b4b92b01-6ddd-4854-8e52-ee6e6e024bc6"
+        url_poster: "https://api.mediux.pro/assets/769d0ced-9b24-4e6e-854b-922e59f27539"

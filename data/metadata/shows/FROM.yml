@@ -1,15 +1,17 @@
 # Posters from:
-# https://mediux.pro/sets/15015
+# https://mediux.pro/sets/26706
 
 metadata:
 
   401003: # FROM (2022)
-    url_poster: "https://api.mediux.pro/assets/b6e8bcbb-36cb-4bd8-b389-05d610fe1ec0"
+    url_poster: "https://api.mediux.pro/assets/2f9f587f-4491-4d6f-9a24-12bc8c8973f0"
     url_background: "https://api.mediux.pro/assets/b7d1d3e4-9b80-4112-a14b-7ea6c01b76ab"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/8a891c97-ced6-4555-91ac-0824d94654fe"
       1:
-        url_poster: "https://api.mediux.pro/assets/d029011f-45ce-4e29-9fee-eed980f4ab4d"
+        url_poster: "https://api.mediux.pro/assets/9c584ed3-9047-44db-b58e-ce77c01e9d03"
       2:
-        url_poster: "https://api.mediux.pro/assets/81c78a73-30cb-4b4e-8fe4-62eeb0a55711"
+        url_poster: "https://api.mediux.pro/assets/0db4ae40-d44a-4ef2-8bba-039acc76c10d"
       3:
-        url_poster: "https://api.mediux.pro/assets/19a8dd53-d172-4932-998f-38a8ff1f1be2"
+        url_poster: "https://api.mediux.pro/assets/e86a674b-3324-4b95-a495-5ce6705f9d7e"

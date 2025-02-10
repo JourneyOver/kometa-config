@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/253874
+# https://mediux.pro/sets/28352
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Smile":
-    template: { name: Collection, collection: 1100788, summary: 1100788, order: release }
-    url_poster: "https://theposterdb.com/api/assets/460892"
+    template: { name: Collection, collection: 1100788, order: release }
+    url_poster: "https://api.mediux.pro/assets/6d237556-1e86-47aa-b5b1-8f28c83d26c2"
     url_background: "https://image.tmdb.org/t/p/original/fKhwWPMFuUbbMBD7mgZMbHKa6aw.jpg"
+    summary: "In a world where a simple grin hides unspeakable terror, an unyielding force twists everyday life into a waking nightmare. A traumatic event unleashes unsettling visions and bone-chilling encounters, forcing those affected to face a sinister presence that transforms smiles into symbols of dread. With relentless tension and unexpected twists, every smile becomes a haunting reminder that fear may be closer than it appears."

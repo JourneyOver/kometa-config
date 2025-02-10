@@ -1,0 +1,10 @@
+# Posters from:
+# https://mediux.pro/sets/30181
+
+metadata:
+
+  412427: # Your Friendly Neighborhood Spider-Man (2025)
+    url_poster: "https://api.mediux.pro/assets/074c536c-74f4-4948-925b-3ef32f835352"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/eea5b1c5-6ed3-4f5b-8979-272998fdc725"

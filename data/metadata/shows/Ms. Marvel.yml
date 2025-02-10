@@ -1,11 +1,11 @@
 # Posters from:
-# https://mediux.pro/sets/24542
+# https://mediux.pro/sets/3113
 
 metadata:
 
   368612: # Ms. Marvel (2022)
-    url_poster: "https://api.mediux.pro/assets/b6386b75-e0d4-4140-a3fd-7a923e22f333"
+    url_poster: "https://api.mediux.pro/assets/0f46f2b1-da84-44b8-9d11-3ceb90a93a2e"
     url_background: "https://api.mediux.pro/assets/4c46c0fa-b5c9-4226-9270-a0cdc3ff7f83"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/43ae5cdc-5cd7-4b49-983c-51b010f4bd7e"
+        url_poster: "https://api.mediux.pro/assets/f5ccd40e-1d76-47b2-bfc9-af8466684eec"

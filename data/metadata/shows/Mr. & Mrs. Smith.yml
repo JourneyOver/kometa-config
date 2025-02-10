@@ -1,11 +1,10 @@
 # Posters from:
-# https://mediux.pro/sets/9242
+# https://mediux.pro/sets/1546
 
 metadata:
 
   396773: # Mr. & Mrs. Smith (2024)
-    url_poster: "https://api.mediux.pro/assets/60dec59f-0f42-458d-9263-c4ef64c74a7b"
-    url_background: "https://api.mediux.pro/assets/60f74aae-0b9d-48c9-9cf0-610bf4469c1b"
+    url_poster: "https://api.mediux.pro/assets/da5a4a75-d246-4c51-9a26-150296e4ed6c"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/df9bda8b-d9ce-4951-929b-a4b12711b0ff"
+        url_poster: "https://api.mediux.pro/assets/8ab5c630-95bd-4cdc-a668-c316d3eee6bf"

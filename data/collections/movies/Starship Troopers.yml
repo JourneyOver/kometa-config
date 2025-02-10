@@ -1,0 +1,13 @@
+# Posters from:
+# https://theposterdb.com/set/68987
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Starship Troopers":
+    template: { name: Collection, collection: 10522, order: release }
+    url_poster: "https://theposterdb.com/api/assets/109983"
+    url_background: "https://image.tmdb.org/t/p/original/i3n3U8f33RHvjQ4AUPh16DJZr1w.jpg"
+    summary: "In a future where humanity is locked in a desperate war against terrifying, insectoid foes, soldiers face brutal battles that test the limits of courage and duty. Amid explosive combat and stark military might, the conflict reveals a biting commentary on the cost of freedom and the power of propaganda. High-octane action and provocative satire converge as heroism is redefined on the battlefield, challenging our ideas of sacrifice and valor."

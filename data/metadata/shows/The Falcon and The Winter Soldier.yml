@@ -1,11 +1,11 @@
 # Posters from:
-# https://mediux.pro/sets/24526
+# https://mediux.pro/sets/3116
 
 metadata:
 
-  362496: # The Falcon and The Winter Soldier (2021)
-    url_poster: "https://api.mediux.pro/assets/76de1801-963e-4a44-b4ac-f8d04944ef75"
+  362496: # The Falcon and the Winter Soldier (2021)
+    url_poster: "https://api.mediux.pro/assets/73404640-a6a1-416b-8f3a-d1c6cd918c18"
     url_background: "https://api.mediux.pro/assets/6deb3e33-3193-46fc-8c1e-9a89ac505a42"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/5212beb0-25a3-4f98-aaed-b8f628589fd3"
+        url_poster: "https://api.mediux.pro/assets/3e171adb-ed47-489d-b3bb-d08f865d8cd1"

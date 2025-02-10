@@ -1,11 +1,11 @@
 # Posters from:
-# https://mediux.pro/sets/15101
+# https://mediux.pro/sets/3047
 
 metadata:
 
   326490: # Marvel's The Defenders (2017)
-    url_poster: "https://api.mediux.pro/assets/f1f5ce66-985f-4935-a698-512ee26a9d99"
+    url_poster: "https://api.mediux.pro/assets/a32275a9-1d14-468c-8ecd-d6ece18d80e2"
     url_background: "https://api.mediux.pro/assets/05ae695b-e769-4019-85a2-5f0db6d14617"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/d59de34b-c0a5-4cb9-ae2d-934079829a29"
+        url_poster: "https://api.mediux.pro/assets/baf40c71-1584-428c-a6a0-890834f717c9"

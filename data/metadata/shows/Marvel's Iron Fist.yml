@@ -1,13 +1,13 @@
 # Posters from:
-# https://mediux.pro/sets/15070
+# https://mediux.pro/sets/3039
 
 metadata:
 
   317953: # Marvel's Iron Fist (2017)
-    url_poster: "https://api.mediux.pro/assets/f9b76d10-5074-479d-89f1-4977f43baa20"
+    url_poster: "https://api.mediux.pro/assets/bbcf65c7-8ab2-47da-b210-b1ae84e85cfc"
     url_background: "https://api.mediux.pro/assets/5ccacdb5-6c43-464e-84b1-4e5c03b28777"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/56de5fce-8ba8-42e3-b95c-a47b32103f6f"
+        url_poster: "https://api.mediux.pro/assets/81df39dc-b539-4086-bcab-edf2eb78203a"
       2:
-        url_poster: "https://api.mediux.pro/assets/58f162ed-8a8f-4b1a-95bd-ab592fd60c07"
+        url_poster: "https://api.mediux.pro/assets/69c5c857-92f2-484b-9bd6-01284bda0612"

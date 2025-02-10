@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/3511
+# https://mediux.pro/sets/13815
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Maze Runner":
-    template: { name: Collection, collection: 295130, summary: 295130, order: release }
-    url_poster: "https://theposterdb.com/api/assets/8511"
+    template: { name: Collection, collection: 295130, order: release }
+    url_poster: "https://api.mediux.pro/assets/f02530d2-fb0b-4fea-9a43-ce70ed865ec2"
     url_background: "https://image.tmdb.org/t/p/original/te8ibHFhjwWXZTCtQIPRUFjxWX2.jpg"
+    summary: "In a labyrinth of shifting walls and hidden perils, a group of teens awakens with no memory of the world beyond. Forced to rely on their instincts and each other, they navigate deadly challenges and unpredictable twists, each step drawing them closer to a truth that could redefine their fate."

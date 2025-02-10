@@ -1,13 +1,13 @@
 # Posters from:
-# https://mediux.pro/sets/15316
+# https://mediux.pro/sets/3042
 
 metadata:
 
   304219: # Marvel's Luke Cage (2016)
-    url_poster: "https://api.mediux.pro/assets/2c1da89c-2335-47b9-82f5-e1779264a618"
+    url_poster: "https://api.mediux.pro/assets/2bb061af-d27f-45cb-853c-fa31220df600"
     url_background: "https://api.mediux.pro/assets/0c6d8d0b-14a9-40a0-ad93-32a302797131"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/0322dc70-7613-4f19-9273-266bafa24648"
+        url_poster: "https://api.mediux.pro/assets/0d890573-1b1c-4c35-a3b9-7f9c88871591"
       2:
-        url_poster: "https://api.mediux.pro/assets/be8475d0-e64b-492c-8e21-90c3ebc1b0f5"
+        url_poster: "https://api.mediux.pro/assets/6ad76e9b-6870-479a-96d2-a2bf1c01df89"

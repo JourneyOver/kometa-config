@@ -1,11 +1,8 @@
 # Posters from:
-# https://theposterdb.com/set/158156 - phase 1
-# https://theposterdb.com/set/158157 - Phase 2
-# https://theposterdb.com/set/158158 - Phase 3
-# https://theposterdb.com/set/158159 - Phase 4
-# https://theposterdb.com/set/185529 - Phase 5
-# --
-# https://theposterdb.com/set/186358 - Marvel One-Shots
+# https://mediux.pro/boxsets/253 -- Marvel Cinematic Universe
+# https://mediux.pro/boxsets/277 -- In Association With Marvel
+# https://mediux.pro/boxsets/254 -- Marvel One-Shot Collection
+# https://mediux.pro/boxsets/252 -- Marvel Television Set
 
 external_templates:
   - file: data/_templates.yml
@@ -16,4 +13,4 @@ collections:
     template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/marvel-cinematic-universe, order: custom }
     url_poster: "https://theposterdb.com/api/assets/210268"
     url_background: "https://images.hdqwalls.com/download/marvel-cinematic-universe-jm-2560x1440.jpg"
-    summary: "A world of heroes, villains, and epic battles unfolds across a universe where extraordinary characters come together to face unimaginable threats. From Iron Man’s first flight to the Avengers’ legendary stand against Thanos, the MCU brings beloved superheroes to life, each with their own unique powers, struggles, and stories. As these characters collide and unite, alliances are forged, destinies are altered, and the fate of the world hangs in the balance. Action, heart, and unforgettable moments shape a universe where anything is possible, and no battle is ever truly over."
+    summary: "A world of heroes, villains, and epic battles unfolds across a universe where extraordinary characters come together to face unimaginable threats. From Iron Man's first flight to the Avengers legendary stand against Thanos, the MCU brings beloved superheroes to life, each with their own unique powers, struggles, and stories. As these characters collide and unite, alliances are forged, destinies are altered, and the fate of the world hangs in the balance. Action, heart, and unforgettable moments shape a universe where anything is possible, and no battle is ever truly over."

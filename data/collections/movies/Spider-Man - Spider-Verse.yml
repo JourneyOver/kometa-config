@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/4786
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Spider-Man: Spider-Verse":
+    template: { name: Collection, collection: 573436, order: release }
+    url_poster: "https://api.mediux.pro/assets/39a07b87-f404-4dde-8698-ab7ae2035c90"
+    url_background: "https://image.tmdb.org/t/p/original/xLg6LRJ6VqwJX3ZiB6mRhLYAg3I.jpg"
+    summary: "In a mind-bending adventure, diverse heroes from parallel dimensions unite under the iconic mantle of Spider-Man. Amid dazzling animation and high-stakes action, they confront a threat that spans realities, celebrating courage, identity, and the power of unity."

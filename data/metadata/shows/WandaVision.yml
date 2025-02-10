@@ -1,11 +1,11 @@
 # Posters from:
-# https://mediux.pro/sets/24525
+# https://mediux.pro/sets/3117
 
 metadata:
 
   362392: # WandaVision (2021)
-    url_poster: "https://api.mediux.pro/assets/60da8bdf-35f5-4197-8eda-aa3889c36cee"
-    url_background: "https://api.mediux.pro/assets/0c0ce36e-130f-4897-9775-961ab59dcf20"
+    url_poster: "https://api.mediux.pro/assets/20f525ea-5747-405e-9a41-37b246508e1f"
+    url_background: "https://api.mediux.pro/assets/27332d90-cdd4-43ad-aece-df652fe5944d"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/433a9078-a1eb-4193-964d-d37097c08145"
+        url_poster: "https://api.mediux.pro/assets/1f255074-b08a-450e-b707-984041965005"
