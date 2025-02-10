@@ -10,4 +10,5 @@ collections:
     template: { name: Collection, collection: 263, order: release }
     url_poster: "https://api.mediux.pro/assets/2edab58d-9f7d-42bb-b405-1e9ffe1c991a"
     url_background: "https://image.tmdb.org/t/p/original/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg"
+    sort_title: "Dark Knight"
     summary: "In a city overshadowed by corruption and chaos, a solitary guardian wages a relentless battle against the forces of darkness. Confronting ruthless criminals and his own inner demons, he transforms fear into a tool for justice while navigating the fine line between heroism and vigilantism."

@@ -1,11 +1,10 @@
 # Posters from:
-# https://mediux.pro/sets/23241
+# https://mediux.pro/sets/22746
 
 metadata:
 
   425453: # Time Bandits (2024)
-    url_poster: "https://api.mediux.pro/assets/5959036f-2cbc-4e8b-966f-9a8f4efaec8f"
-    url_background: "https://api.mediux.pro/assets/1c8b310e-f154-44cf-af60-a16768782763"
+    url_poster: "https://api.mediux.pro/assets/b71c93e2-e870-407d-94df-86e4087cc246"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/c432b51e-853b-430a-bbad-cdc1e3d291e3"
+        url_poster: "https://api.mediux.pro/assets/19a1a207-1a59-44db-b1dc-917c7ea819d6"

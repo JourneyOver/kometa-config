@@ -10,4 +10,4 @@ collections:
     template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/cloverfield-collection, order: release }
     url_poster: "https://theposterdb.com/api/assets/13926"
     url_background: "https://i.redd.it/i9udqklo9rq01.png"
-    summary: "A thrilling sci-fi anthology exploring different facets of disaster, mystery, and alien encounters, the Cloverfield collection spans interconnected yet standalone stories that captivate with suspense and innovation."
+    summary: "In the wake of inexplicable catastrophes, everyday lives are thrust into a realm of uncertainty and hidden terror. Mysterious forces blur the line between the known and the unknown, creating heart-pounding encounters filled with claustrophobic suspense and otherworldly wonder. Every moment teeters on the brink of chaos, challenging our understanding of reality."

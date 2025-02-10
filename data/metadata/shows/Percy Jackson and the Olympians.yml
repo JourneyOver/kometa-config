@@ -1,11 +1,10 @@
 # Posters from:
-# https://mediux.pro/sets/13153
+# https://mediux.pro/sets/2512
 
 metadata:
 
   415151: # Percy Jackson and the Olympians (2023)
-    url_poster: "https://api.mediux.pro/assets/9b9a4122-17ff-4437-a8d9-466a0be22dcf"
-    url_background: "https://api.mediux.pro/assets/f09624b6-633a-44c8-bf8d-dd6eb2ae9305"
+    url_poster: "https://api.mediux.pro/assets/fa199352-afb8-4032-aee6-9af7916d6d37"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/49e101ac-838b-46a6-91d4-efe57894b31a"
+        url_poster: "https://api.mediux.pro/assets/e6154bcf-38f3-4a92-84df-685dc4040e1a"

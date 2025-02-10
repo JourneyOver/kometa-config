@@ -1,19 +1,18 @@
 # Posters from:
-# https://mediux.pro/sets/23404
+# https://mediux.pro/sets/23379
 
 metadata:
 
   375655: # Superman & Lois (2021)
-    url_poster: "https://api.mediux.pro/assets/ec82dc49-f8e6-4ef4-8620-697443c38d7e"
-    url_background: "https://api.mediux.pro/assets/349e61b8-eaf8-44dd-befc-562221799b57"
+    url_poster: "https://api.mediux.pro/assets/568ef0db-0ac7-492d-a8cf-f51472a9fc08"
     seasons:
 #      0:
-#        url_poster: "https://api.mediux.pro/assets/f7fc7803-eca4-48ba-8431-051f11addc0b"
+#        url_poster: "https://api.mediux.pro/assets/f7e05046-d497-4a2c-8358-76cb70cdb29d"
       1:
-        url_poster: "https://api.mediux.pro/assets/c8c22ce0-388e-4a44-b258-18207f6f80dd"
+        url_poster: "https://api.mediux.pro/assets/e8a45ee7-4200-4eb0-9695-c13af8e5c991"
       2:
-        url_poster: "https://api.mediux.pro/assets/7c50f84a-87ee-410c-9ca4-714415397aed"
+        url_poster: "https://api.mediux.pro/assets/455f8f8f-36cb-46b6-82d2-a467ac60c291"
       3:
-        url_poster: "https://api.mediux.pro/assets/4349ada8-15a5-4651-a42b-22e956985d24"
+        url_poster: "https://api.mediux.pro/assets/ac73e754-b5ab-4ea7-a5e2-ce9519fd28dd"
       4:
-        url_poster: "https://api.mediux.pro/assets/25ae0316-2ce5-43c7-bfef-08e64a737dc4"
+        url_poster: "https://api.mediux.pro/assets/aedc0a9a-6faa-462e-ae29-90072a57714f"

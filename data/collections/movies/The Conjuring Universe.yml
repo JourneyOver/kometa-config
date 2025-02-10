@@ -10,4 +10,5 @@ collections:
     template: { name: Collection, collection_letterbox: https://letterboxd.com/kitthren/list/the-conjuring-universe-timeline, order: custom }
     url_poster: "https://theposterdb.com/api/assets/248035"
     url_background: "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/06/the-conjuring-universe-demons-ranked.jpg"
+    sort_title: "Conjuring Universe"
     summary: "Ed and Lorraine Warren, renowned paranormal investigators, delve into the darkest corners of the supernatural, confronting terrifying entities that defy explanation. Each case they tackle reveals a chilling world where demonic spirits and haunted souls threaten the living. As they seek to protect the innocent, they uncover the terrifying origins of some of the most infamous entities in history. From possessed homes to cursed artifacts, every encounter with evil becomes a battle for survival, as the Warrens face the unknown with courage and unwavering determination."

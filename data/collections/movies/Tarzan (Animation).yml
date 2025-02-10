@@ -11,3 +11,4 @@ collections:
     template: { name: Collection, collection: 106768, summary: 106768, order: release }
     url_poster: "https://theposterdb.com/api/assets/217161"
     url_background: "https://image.tmdb.org/t/p/original/sNNtardgmbifJggic9dKwvDopz9.jpg"
+    sort_title: "Tarzan"

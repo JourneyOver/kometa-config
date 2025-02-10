@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 31562, summary: 31562, order: release }
     url_poster: "https://theposterdb.com/api/assets/217820"
     url_background: "https://image.tmdb.org/t/p/original/dDDyEGgLvTSSRcp36eJcPDUErap.jpg"
+    sort_title: "Bourne"

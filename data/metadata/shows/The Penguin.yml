@@ -1,11 +1,11 @@
 # Posters from:
-# https://mediux.pro/sets/22638
+# https://mediux.pro/sets/25512
 
 metadata:
 
   417648: # The Penguin (2024)
-    url_poster: "https://api.mediux.pro/assets/1f5ee693-ec19-4b98-aaf1-befdaf2316c8"
+    url_poster: "https://api.mediux.pro/assets/ce3bbe7b-2d9d-4150-97cc-588488100de7"
     url_background: "https://api.mediux.pro/assets/dec783be-7df5-4003-af8b-d671258b74de"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/dd8d3e4e-f575-4eb8-b395-8e88abace902"
+        url_poster: "https://api.mediux.pro/assets/4a37abb1-1db3-4191-a86c-e65fc23f928b"
