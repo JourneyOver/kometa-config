@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/30098
+
+metadata:
+
+  425260: # The Recruit (2022)
+    url_poster: "https://api.mediux.pro/assets/76ecc6fa-9ba7-4126-b563-0a55fab4fbbe"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/a733be40-83b8-41a7-8e9b-a75e38396a3a"
+      2:
+        url_poster: "https://api.mediux.pro/assets/c2a0145d-cf07-4200-b89c-71a95dc1cd93"

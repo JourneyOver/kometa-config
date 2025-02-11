@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/2311
+# https://mediux.pro/sets/8346
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "300":
     template: { name: Collection, collection: 125570, summary: 125570, order: release }
-    url_poster: "https://theposterdb.com/api/assets/5575"
+    url_poster: "https://api.mediux.pro/assets/3ea9e894-386c-4522-bd42-f9e58eab8f40"
     url_background: "https://image.tmdb.org/t/p/original/nHK3mjIAMLoGbEpxbKboUpSrt5d.jpg"
