@@ -1,13 +1,13 @@
 metadata:
 
   245891: # John Wick (2014)
-    url_poster: "https://theposterdb.com/api/assets/370518"
+    url_poster: "https://api.mediux.pro/assets/31e3d9af-2332-4fe3-b9d0-3008fd321541"
 
   324552: # John Wick: Chapter 2 (2017)
-    url_poster: "https://theposterdb.com/api/assets/370519"
+    url_poster: "https://api.mediux.pro/assets/dd8320c9-3d72-41c2-bf17-b6a095aa3642"
 
   458156: # John Wick: Chapter 3 - Parabellum (2019)
-    url_poster: "https://theposterdb.com/api/assets/370520"
+    url_poster: "https://api.mediux.pro/assets/d24da2de-328c-4a04-bfd2-c5337e267418"
 
   603692: # John Wick: Chapter 4 (2023)
-    url_poster: "https://theposterdb.com/api/assets/370521"
+    url_poster: "https://api.mediux.pro/assets/5ba4cbfd-e5d4-4f24-a2e1-07c04b2b9572"
