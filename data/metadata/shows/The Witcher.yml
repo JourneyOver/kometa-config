@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/15723
+
+metadata:
+
+  362696: # The Witcher (2019)
+    url_poster: "https://api.mediux.pro/assets/d4be35ab-0b52-41e4-a21a-bc6e593cb719"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/33e283dd-b2e0-4252-b24f-783bdf199f84"
+      2:
+        url_poster: "https://api.mediux.pro/assets/4875c64f-9673-4ee1-9f75-28edde17f923"
+      3:
+        url_poster: "https://api.mediux.pro/assets/646230c8-bc12-46e4-9231-001fbb4b9ea4"

@@ -1,5 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/942
+# https://mediux.pro/sets/9556
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Sherlock Holmes":
     template: { name: Collection, collection: 102322, order: release }
-    url_poster: "https://theposterdb.com/api/assets/2623"
+    url_poster: "https://api.mediux.pro/assets/54820d37-0afe-476b-a888-31794f32a9de"
     url_background: "https://image.tmdb.org/t/p/original/aeLom584FZdu6253WMaYEUCrTdu.jpg"
     summary: "The world's most famous detective and his loyal companion, Dr. John Watson, unravel mysteries that challenge the limits of logic and reason. With sharp wit, unparalleled intellect, and a knack for solving the unsolvable, Sherlock Holmes confronts criminals, conspiracies, and dark secrets in every corner of Victorian London. Each case is a thrilling journey into the depths of human nature, where every clue and every deduction brings them closer to the truth, no matter how elusive it may be."

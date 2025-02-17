@@ -1,0 +1,26 @@
+# Posters from:
+# https://mediux.pro/sets/13550
+
+metadata:
+
+  121361: # Game of Thrones (2011)
+    url_poster: "https://api.mediux.pro/assets/f9da1c31-ad8e-486c-af1f-93190be16b92"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/bc72b0c9-8d34-4873-a803-c2cfb3d70967"
+      1:
+        url_poster: "https://api.mediux.pro/assets/c0b89a4a-8709-417c-bd78-7b57d8b02813"
+      2:
+        url_poster: "https://api.mediux.pro/assets/455e001e-c3d8-4f83-828f-d8a3a771994d"
+      3:
+        url_poster: "https://api.mediux.pro/assets/30dd3b63-3708-4691-bb99-a6814a5ffb36"
+      4:
+        url_poster: "https://api.mediux.pro/assets/5ff8912c-1c65-4be3-911c-ef9f635f6749"
+      5:
+        url_poster: "https://api.mediux.pro/assets/65bc56f8-ce3c-4643-80b4-2e9f17a093da"
+      6:
+        url_poster: "https://api.mediux.pro/assets/fde468fa-a889-4f67-ab63-bdead195fd87"
+      7:
+        url_poster: "https://api.mediux.pro/assets/145e5f58-c54c-4fe9-8531-85111abab097"
+      8:
+        url_poster: "https://api.mediux.pro/assets/34b8a9a6-f6e5-440c-8da2-f9cecfb0cecc"
