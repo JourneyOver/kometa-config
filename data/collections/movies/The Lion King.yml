@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/312472
+# https://theposterdb.com/posters/requests/13800 (Collection Poster Request)
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Lion King":
+    template: { name: Collection, collection: 762512, summary: 762512, order: release }
+    url_poster: "https://i.imgur.com/rpGYsuY.png"
+    url_background: "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/12/mufasa-the-lion-king-3.jpg"
+    sort_title: "Lion King"
