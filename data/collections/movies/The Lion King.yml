@@ -1,6 +1,5 @@
 # Posters from:
-# https://theposterdb.com/set/312472
-# https://theposterdb.com/posters/requests/13800 (Collection Poster Request)
+# https://mediux.pro/sets/30789
 
 external_templates:
   - file: data/_templates.yml
@@ -9,6 +8,6 @@ collections:
 
   "The Lion King":
     template: { name: Collection, collection: 762512, summary: 762512, order: release }
-    url_poster: "https://i.imgur.com/rpGYsuY.png"
-    url_background: "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/12/mufasa-the-lion-king-3.jpg"
+    url_poster: "https://api.mediux.pro/assets/b7705a81-1c4e-479b-9d10-a5e27485d692"
+    url_background: "https://image.tmdb.org/t/p/original/jIgM7YNVft0YGeXsqrh3oG5TWLx.jpg"
     sort_title: "Lion King"

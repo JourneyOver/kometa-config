@@ -1,0 +1,16 @@
+# Posters from:
+# https://theposterdb.com/set/72440
+# https://theposterdb.com/poster/81451 (Alt Collection poster)
+# https://theposterdb.com/poster/115444 (Alt Collection poster)
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Shining":
+    template: { name: Collection, collection: 530064, order: release }
+    url_poster: "https://theposterdb.com/api/assets/115444"
+    url_background: "https://image.tmdb.org/t/p/original/6e2tjzj0OFViDxx5yYeduBM53BE.jpg"
+    sort_title: "Shining"
+    summary: "Haunted legacies, supernatural dread, and the fragile line between sanity and madness define these unsettling narratives. In an isolated, ominous hotel, a family's unraveling becomes a crucible for fear and mysterious powers. Years later, a man burdened by extraordinary gifts faces the echo of that terror, confronting forces that prey on vulnerability. Together, these tales evoke a chilling atmosphere of tension and emotional complexity, exploring how past shadows can shape—and challenge—the human spirit."

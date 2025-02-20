@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/12045
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Rio":
+    template: { name: Collection, collection: 229932, order: release }
+    url_poster: "https://api.mediux.pro/assets/5bbbb95e-6817-43d3-b8bb-83557dd25cba"
+    url_background: "https://image.tmdb.org/t/p/original/ndCkoXtdQErEb7RAfq0Y93xZzoG.jpg"
+    summary: "In a vibrant world where music and color reign, a spirited blue macaw takes flight through the lively streets of Rio de Janeiro and into the lush wilds of the Amazon. His journey is filled with high-flying adventures, catchy rhythms, and heartwarming moments that celebrate friendship, family, and the joy of embracing one's true self."

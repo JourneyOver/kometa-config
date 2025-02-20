@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/8311
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Ice Age":
+    template: { name: Collection, collection: 8354, order: release }
+    url_poster: "https://api.mediux.pro/assets/b20346f8-eac8-4b16-84ed-7796ca521739"
+    url_background: "https://image.tmdb.org/t/p/original/mk6m850cpuYAZFrrPXm46hrHC7s.jpg"
+    summary: "In a world on the edge of an ice age, a courageous mammoth, a wisecracking sloth, and a fiercely loyal saber-toothed tiger band together for epic adventures. Facing massive glaciers, volcanic threats, and long-forgotten wonders, their daring journeys blend thrilling challenges with heartfelt humor. Through every twist and trial, they discover that true family and friendship can warm even the coldest of worlds."
