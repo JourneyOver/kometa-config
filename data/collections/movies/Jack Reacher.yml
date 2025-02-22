@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/9133
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Jack Reacher":
+    template: { name: Collection, collection: 403374, order: release }
+    url_poster: "https://api.mediux.pro/assets/c34465ac-5501-4c7e-b486-a3adc2b36176"
+    url_background: "https://image.tmdb.org/t/p/original/vViRXFnSyGJ2fzMbcc5sqTKswcd.jpg"
+    summary: "In a world of hidden agendas and relentless intrigue, a solitary drifter with a fierce sense of justice roams the shadows, dismantling dangerous conspiracies and confronting formidable foes. His unyielding determination and razor-sharp instincts transform every encounter into a high-stakes battle, where truth is unearthed and justice is met head-on."
