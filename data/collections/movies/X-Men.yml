@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/4765
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "X-Men":
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/x-men, order: release }
+    url_poster: "https://api.mediux.pro/assets/e917f886-2ee9-454b-896a-7238fafc3ece"
+    url_background: "https://image.tmdb.org/t/p/original/cNDCv5yGLucVYgpwWXOWEIE3KaH.jpg"
+    summary: "In a world where evolution grants a select few extraordinary powers, humans and mutants clash in a struggle for acceptance and survival. Bold individuals defy prejudice and challenge destiny, igniting epic battles against hidden forces while navigating personal sacrifices and blurred lines between heroism and villainy. High-stakes action, moral dilemmas, and heartfelt conflict intertwine to reveal a timeless tale of unity, identity, and the courage to stand apart."
