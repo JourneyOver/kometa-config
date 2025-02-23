@@ -1,3 +1,7 @@
+# Posters from:
+# https://mediux.pro/sets/4773
+# https://mediux.pro/sets/7251
+
 metadata:
 
   293660: # Deadpool (2016)
@@ -9,5 +13,5 @@ metadata:
 #  567604: # Once Upon a Deadpool (2018)
 #    url_poster: "https://api.mediux.pro/assets/002e3481-0d98-4ebd-8f63-5fe69314c826"
 
-#  533535: # Deadpool & Wolverine (2024)
-#    url_poster: "https://api.mediux.pro/assets/2e6f8401-e167-459f-98c3-a81b729f5ea3"
+  533535: # Deadpool & Wolverine (2024)
+    url_poster: "https://api.mediux.pro/assets/2e6f8401-e167-459f-98c3-a81b729f5ea3"
