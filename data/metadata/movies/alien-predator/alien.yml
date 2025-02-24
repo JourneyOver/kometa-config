@@ -1,0 +1,27 @@
+# Posters from:
+# https://mediux.pro/sets/11181
+# https://mediux.pro/sets/11182
+# https://mediux.pro/sets/23173
+
+metadata:
+
+  348: # Alien (1979)
+    url_poster: "https://api.mediux.pro/assets/677d1a2b-3dab-4140-9b6c-736bcc9f601a"
+
+  679: # Aliens (1986)
+    url_poster: "https://api.mediux.pro/assets/e5f01c6f-92e2-414e-8f7d-f2b8276ec1a9"
+
+  8077: # Alien³ (1992)
+    url_poster: "https://api.mediux.pro/assets/3d47d9d3-8db2-4ace-b571-38ea9e13d12c"
+
+  8078: # Alien Resurrection (1997)
+    url_poster: "https://api.mediux.pro/assets/d8fec794-a640-48e5-b5b2-09a33f567c7e"
+
+  70981: # Prometheus (2012)
+    url_poster: "https://api.mediux.pro/assets/6269b984-a1a4-4d59-a9f4-c927f48741e2"
+
+  126889: # Alien: Covenant (2017)
+    url_poster: "https://api.mediux.pro/assets/2f77ef1e-29a1-43b0-a043-d2c514150226"
+
+  945961: # Alien: Romulus (2024)
+    url_poster: "https://api.mediux.pro/assets/f2ceb361-406b-4f59-ba47-ba36e130a9ad"
