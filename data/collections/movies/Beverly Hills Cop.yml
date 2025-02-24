@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/279951
+# https://mediux.pro/sets/27721
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "Beverly Hills Cop":
     template: { name: Collection, collection: 85861, summary: 85861, order: release }
-    url_poster: "https://theposterdb.com/api/assets/505547"
+    url_poster: "https://api.mediux.pro/assets/9d8f94a8-9ff2-4d54-99a3-48c383d72c32"
     url_background: "https://image.tmdb.org/t/p/original/xpJmfMEamDkqCSe3cxpKqNzt4kI.jpg"

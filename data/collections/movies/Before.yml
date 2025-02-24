@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/16523
+#
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Before...":
     template: { name: Collection, collection: 123800, summary: 123800, order: release }
-    url_poster: "https://theposterdb.com/api/assets/27638"
-    url_background: "https://image.tmdb.org/t/p/original/to3l6Gwzd7FGWa9Spc708IP1K7l.jpg"
+#    url_poster: ""
+#    url_background: ""
     name_mapping: Before
