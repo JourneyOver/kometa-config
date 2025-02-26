@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/4770
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Blade":
+    template: { name: Collection, collection: 735, order: release }
+    url_poster: "https://api.mediux.pro/assets/e8281d77-b132-43a3-8f2c-2ec0b1168a52"
+    url_background: "https://image.tmdb.org/t/p/original/gSWCo8z7bNNSKA7HGeu2oSfYGsd.jpg"
+    summary: "In a world where vampires rule the shadows, a half-human, half-vampire warrior takes on the deadly horde with relentless skill and unyielding determination. Armed with a unique set of abilities and fierce courage, Blade wages an unceasing war against the dark forces that threaten humanity's survival, facing monstrous foes and deadly alliances, all while battling the darkness inside himself."

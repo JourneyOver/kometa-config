@@ -1,0 +1,14 @@
+# Poster from:
+# https://mediux.pro/sets/4783
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Wolverine":
+    template: { name: Collection, collection: 453993, order: release }
+    url_poster: "https://api.mediux.pro/assets/ffd1bdce-7174-4175-9006-93484081312b"
+    url_background: "https://image.tmdb.org/t/p/original/hbNMx7sxxqvkX8rLOsTryiSrCPY.jpg"
+    sort_title: "Wolverine"
+    summary: "Follow the turbulent journey of Logan, the reluctant hero with adamantium claws, as he confronts his violent past, struggles with immortality, and forges unexpected connections. From his early days as a military experiment to his final battles in a world where mutants are nearly extinct, these stories explore themes of redemption, identity, and what it means to be human when you're something more. Wolverine's path from weapon to warrior reveals that even those with healing powers carry wounds that never truly heal"
