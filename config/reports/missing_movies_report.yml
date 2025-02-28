@@ -78,10 +78,6 @@ Alice in Wonderland:
 Extraction:
   Movies Missing (TMDb IDs):
     1141700: Extraction 3
-DC Extended Universe:
-  Movies Missing (TMDb IDs):
-    791373: Zack Snyder's Justice League (2021)
-    565770: Blue Beetle (2023)
 James Bond:
   Movies Missing (TMDb IDs):
     253: Live and Let Die (1973)
@@ -130,16 +126,10 @@ Child's Play:
     167032: Curse of Chucky (2013)
     393345: Cult of Chucky (2017)
     533642: Child's Play (2019)
-'Spider-Man: Spider-Verse':
-  Movies Missing (TMDb IDs):
-    911916: 'Spider-Man: Beyond the Spider-Verse'
 A Dog's Purpose:
   Movies Missing (TMDb IDs):
     381289: A Dog's Purpose (2017)
     522518: A Dog's Journey (2019)
-Deadpool:
-  Movies Missing (TMDb IDs):
-    567604: Once Upon a Deadpool (2018)
 47 Meters Down:
   Movies Missing (TMDb IDs):
     403119: 47 Meters Down (2017)
@@ -192,13 +182,6 @@ Night at the Museum:
 Scary Movie:
   Movies Missing (TMDb IDs):
     1273221: Scary Movie (2026)
-Marvel Cinematic Universe:
-  Movies Missing (TMDb IDs):
-    413279: Team Thor (2016)
-    441829: 'Team Thor: Part 2 (2017)'
-    505945: Team Darryl (2018)
-    894205: Werewolf by Night (2022)
-    822119: 'Captain America: Brave New World (2025)'
 28 ... Later:
   Movies Missing (TMDb IDs):
     1100988: 28 Years Later (2025)
@@ -227,3 +210,20 @@ Avatar:
     83533: 'Avatar: Fire and Ash (2025)'
     216527: Avatar 4 (2029)
     393209: Avatar 5 (2031)
+DC Extended Universe:
+  Movies Missing (TMDb IDs):
+    791373: Zack Snyder's Justice League (2021)
+    565770: Blue Beetle (2023)
+'Spider-Man: Spider-Verse':
+  Movies Missing (TMDb IDs):
+    911916: 'Spider-Man: Beyond the Spider-Verse'
+Deadpool:
+  Movies Missing (TMDb IDs):
+    567604: Once Upon a Deadpool (2018)
+Marvel Cinematic Universe:
+  Movies Missing (TMDb IDs):
+    413279: Team Thor (2016)
+    441829: 'Team Thor: Part 2 (2017)'
+    505945: Team Darryl (2018)
+    894205: Werewolf by Night (2022)
+    822119: 'Captain America: Brave New World (2025)'

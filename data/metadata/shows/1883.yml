@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/15716
+
+metadata:
+
+  396390: # 1883 (2021)
+    url_poster: "https://api.mediux.pro/assets/2a97e054-6128-41de-8317-b3053e8f67e9"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/1f9632e5-c78b-48a5-ae2c-290b62ac592a"
+      1:
+        url_poster: "https://api.mediux.pro/assets/26967ddc-03ce-429a-8bed-960f8c11c973"
