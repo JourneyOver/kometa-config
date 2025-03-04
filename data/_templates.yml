@@ -3,17 +3,18 @@
 ###########################
 
 templates:
+
   Collection:
     optional:
       - collection
       - collection_trakt
       - collection_letterbox
-      - extra_movie
-      - summary
+      - movies
+      - shows
       - order
-    tmdb_collection: <<collection>>
-    tmdb_summary: <<summary>>
-    tmdb_movie: <<extra_movie>>
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movies>>
+    tvdb_show: <<shows>>
     trakt_list: <<collection_trakt>>
     letterboxd_list: <<collection_letterbox>>
     sort_title: <<collection_name>>

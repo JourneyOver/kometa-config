@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "47 Meters Down":
-    template: { name: Collection, collection: 635922, summary: 635922, order: release }
+    template: { name: Collection, collection: 635922, order: release }
 #    url_poster: ""
 #    url_background: ""

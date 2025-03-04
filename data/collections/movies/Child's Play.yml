@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Child's Play":
-    template: { name: Collection, collection: 10455, extra_movie: 533642, summary: 10455, order: release }
+    template: { name: Collection, collection: 10455, movies: 533642, order: release }
 #    url_poster: ""
 #    url_background: ""

@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Wreck-It Ralph":
-    template: { name: Collection, collection: 404825, summary: 404825, order: release }
+    template: { name: Collection, collection: 404825, order: release }
     url_poster: "https://api.mediux.pro/assets/938a0df6-a3ae-4cd7-bf86-29b91dc92f3f"
     url_background: "https://image.tmdb.org/t/p/original/maHMw00WEuUzi4hoXxXQAGLntfH.jpg"

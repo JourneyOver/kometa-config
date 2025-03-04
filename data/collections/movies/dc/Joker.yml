@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Joker":
-    template: { name: Collection, collection: 987044, summary: 987044, order: release }
+    template: { name: Collection, collection: 987044, order: release }
     url_poster: "https://api.mediux.pro/assets/eb88d17d-4c2f-4521-8da4-bfc502c6c722"
     url_background: "https://image.tmdb.org/t/p/original/2VTsu0poIvNrsCuyDIuRYBxBLv6.jpg"

@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Paddington":
-    template: { name: Collection, collection: 488924, summary: 488924, order: release }
+    template: { name: Collection, collection: 488924, order: release }
 #    url_poster: ""
 #    url_background: ""

@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Beetlejuice":
-    template: { name: Collection, collection: 945475, summary: 945475, order: release }
+    template: { name: Collection, collection: 945475, order: release }
     url_poster: "https://api.mediux.pro/assets/c0f790ab-285b-4f99-8edc-07a0f529e42e"
     url_background: "https://api.mediux.pro/assets/e6a89ac1-83f5-4b55-a51f-21236b41a742"

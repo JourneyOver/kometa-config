@@ -7,7 +7,7 @@ external_templates:
 collections:
 
   "Before...":
-    template: { name: Collection, collection: 123800, summary: 123800, order: release }
+    template: { name: Collection, collection: 123800, order: release }
 #    url_poster: ""
 #    url_background: ""
     name_mapping: Before

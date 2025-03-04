@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Super Troopers":
-    template: { name: Collection, collection: 449462, summary: 449462, order: release }
+    template: { name: Collection, collection: 449462, order: release }
     url_poster: "https://theposterdb.com/api/assets/220021"
     url_background: "https://image.tmdb.org/t/p/original/v9N8AxyHf9crA9Iza9fF5ntPJFj.jpg"

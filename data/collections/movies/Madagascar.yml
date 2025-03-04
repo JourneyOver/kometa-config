@@ -8,7 +8,7 @@ external_templates:
 collections:
 
   "Madagascar":
-    template: { name: Collection, collection: 14740, extra_movie: 270946, order: release }
+    template: { name: Collection, collection: 14740, movies: 270946, order: release }
     url_poster: "https://api.mediux.pro/assets/97060599-7d97-4030-940f-5db560102245"
     url_background: "https://image.tmdb.org/t/p/original/udknPPuYpbTnhZkm7BX6r2nbu0R.jpg"
     summary: "In a whirlwind of adventure, a spirited group of zoo animals—led by a bold lion, a quirky zebra, a neurotic giraffe, and a sassy hippo—escape the familiar confines of New York City and find themselves in wildly unexpected lands. From the untamed beauty of Madagascar to the heart of Africa and the eccentric streets of Europe, their journey is bursting with humor, vibrant characters, and unforgettable moments. Even the charming penguins bring their own playful twist to the escapade, making every step a delightful celebration of friendship and freedom."

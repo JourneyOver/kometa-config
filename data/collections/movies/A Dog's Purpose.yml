@@ -7,7 +7,7 @@ external_templates:
 collections:
 
   "A Dog's Purpose":
-    template: { name: Collection, collection: 591028, summary: 591028, order: release }
+    template: { name: Collection, collection: 591028, order: release }
 #    url_poster: ""
 #    url_background: ""
     sort_title: "Dog's Purpose"

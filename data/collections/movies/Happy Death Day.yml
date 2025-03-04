@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Happy Death Day":
-    template: { name: Collection, collection: 526380, summary: 526380, order: release }
+    template: { name: Collection, collection: 526380, order: release }
     url_poster: "https://theposterdb.com/api/assets/49481"
     url_background: "https://image.tmdb.org/t/p/original/arJ8VLhhp0QrGZ4kQcDXB2Im1vA.jpg"

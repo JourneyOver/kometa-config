@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Harry Potter":
-    template: { name: Collection, collection: 1241, summary: 1241, order: release }
+    template: { name: Collection, collection: 1241, order: release }
     url_poster: "https://api.mediux.pro/assets/885d531c-b475-462c-b0ce-93f5e5adec80"
     url_background: "https://image.tmdb.org/t/p/original/xB0HJ5zxqFDvEdnSPYEqee5SEQu.jpg"

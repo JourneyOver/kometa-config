@@ -8,6 +8,6 @@ external_templates:
 collections:
 
   "Men In Black":
-    template: { name: Collection, collection: 86055, extra_movie: 479455, summary: 86055, order: release }
+    template: { name: Collection, collection: 86055, movies: 479455, order: release }
     url_poster: "https://theposterdb.com/api/assets/16779"
     url_background: "https://image.tmdb.org/t/p/original/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg"

@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Hostel":
-    template: { name: Collection, collection: 86578, summary: 86578, order: release }
+    template: { name: Collection, collection: 86578, order: release }
     url_poster: "https://theposterdb.com/api/assets/19783"
     url_background: "https://image.tmdb.org/t/p/original/kN6ms4WudCJHaYFMZv0xa7i30Is.jpg"

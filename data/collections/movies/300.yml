@@ -7,7 +7,7 @@ external_templates:
 collections:
 
   "300":
-    template: { name: Collection, collection: 125570, summary: 125570, order: release }
+    template: { name: Collection, collection: 125570, order: release }
     url_poster: "https://api.mediux.pro/assets/3ea9e894-386c-4522-bd42-f9e58eab8f40"
     url_background: "https://image.tmdb.org/t/p/original/nHK3mjIAMLoGbEpxbKboUpSrt5d.jpg"
     summary: "A clash of titans, where honor, bloodshed, and betrayal shape the destiny of ancient warriors. As the Persian Empire threatens to engulf Greece, a fierce Spartan king leads his men into battle, defying overwhelming odds for the freedom of his people. Through brutal conflict and unwavering determination, legends are forged, offering a gripping tale of courage, sacrifice, and the unrelenting will to fight for what is right."

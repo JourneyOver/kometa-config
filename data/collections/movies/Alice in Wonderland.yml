@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Alice in Wonderland":
-    template: { name: Collection, collection: 261307, summary: 261307, order: release }
+    template: { name: Collection, collection: 261307, order: release }
 #    url_poster: ""
 #    url_background: ""

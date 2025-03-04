@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Evil Dead":
-    template: { name: Collection, collection: 1960, extra_movie: "109428, 713704", summary: 1960, order: release }
+    template: { name: Collection, collection: 1960, movies: "109428, 713704", order: release }
     url_poster: "https://theposterdb.com/api/assets/466418"
     url_background: "https://image.tmdb.org/t/p/original/52ucWq0dQLUTb6PPH9q4jm9MY7f.jpg"

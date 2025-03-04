@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Saw":
-    template: { name: Collection, collection: 656, summary: 656, order: release }
+    template: { name: Collection, collection: 656, order: release }
     url_poster: "https://api.mediux.pro/assets/40da8074-e8a0-4b5a-ba7a-61652a949779"
     url_background: "https://api.mediux.pro/assets/d76a8cab-1cf7-4e6f-b75c-885481174006"
