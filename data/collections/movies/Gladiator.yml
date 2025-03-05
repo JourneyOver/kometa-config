@@ -1,4 +1,4 @@
-# Posters from:
+# Poster from:
 # https://theposterdb.com/set/307361
 
 external_templates:
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Gladiator":
-    template: { name: Collection, collection: 1069584, summary: 1069584, order: release }
+    template: { name: Collection, collection: 1069584, order: release }
     url_poster: "https://theposterdb.com/api/assets/553684"
     url_background: "https://image.tmdb.org/t/p/original/sXuMcx6HLKIBmYFGeDR4MvakIKK.jpg"

@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/253489
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Doctor Who Universe":
+    template: { name: Collection, list_tvdb: https://thetvdb.com/lists/doctor-who, order: release }
+    url_poster: "https://theposterdb.com/api/assets/460310"
+    url_background: "https://images.theposterdb.com/prod/public/images/meta/collections/optimized/244638/banner.jpg"
+    summary: "Across time and space, an ancient traveler known as the Doctor defends the universe from cosmic threats, injustice, and the forces of darkness. With loyal companions by their side, each adventure brings encounters with wonder, danger, and the mysteries of existence itself. From alien invasions to hidden secrets of the past and future, the battle for hope never ends in a universe where anything is possible."

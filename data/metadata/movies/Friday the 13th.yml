@@ -30,8 +30,8 @@ metadata:
   11470: # Jason X (2001)
     url_poster: "https://theposterdb.com/api/assets/181461"
 
-#  6466: # Freddy vs. Jason (2003)
-#    url_poster: "https://theposterdb.com/api/assets/524527"
+  6466: # Freddy vs. Jason (2003)
+    url_poster: "https://theposterdb.com/api/assets/524527"
 
   13207: # Friday the 13th (2009)
     url_poster: "https://theposterdb.com/api/assets/181462"

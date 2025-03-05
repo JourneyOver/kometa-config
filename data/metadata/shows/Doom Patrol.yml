@@ -1,0 +1,18 @@
+# Posters from:
+# https://mediux.pro/sets/12927
+
+metadata:
+
+  355622: # Doom Patrol (2019)
+    url_poster: "https://api.mediux.pro/assets/e0e17dac-31c1-4ab3-9951-d14a56dea491"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/ea816b47-3f66-4db6-9afd-6f218be1bd0c"
+      1:
+        url_poster: "https://api.mediux.pro/assets/a6ac3313-c846-4204-b1f0-0062c12a8ac5"
+      2:
+        url_poster: "https://api.mediux.pro/assets/4681d407-693b-4bea-b3a2-6cfa51ec1e42"
+      3:
+        url_poster: "https://api.mediux.pro/assets/3f84835a-87ca-4104-a63d-9a3a57822591"
+      4:
+        url_poster: "https://api.mediux.pro/assets/dbd79d04-e59d-44cc-88b9-6fe8a255a6a3"

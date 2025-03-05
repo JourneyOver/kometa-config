@@ -1,5 +1,5 @@
-# Posters from:
-# https://theposterdb.com/set/20660
+# Poster from:
+# https://mediux.pro/sets/11910
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Harry Potter":
-    template: { name: Collection, collection: 1241, summary: 1241, order: release }
-    url_poster: "https://theposterdb.com/api/assets/34022"
+    template: { name: Collection, collection: 1241, order: release }
+    url_poster: "https://api.mediux.pro/assets/885d531c-b475-462c-b0ce-93f5e5adec80"
     url_background: "https://image.tmdb.org/t/p/original/xB0HJ5zxqFDvEdnSPYEqee5SEQu.jpg"

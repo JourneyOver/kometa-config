@@ -1,16 +1,19 @@
+# Posters from:
+# https://mediux.pro/sets/8789
+
 metadata:
 
   562: # Die Hard (1988)
-    url_poster: "https://theposterdb.com/api/assets/720"
+    url_poster: "https://api.mediux.pro/assets/0262a65c-9ede-430b-b247-1774c47977ca"
 
   1573: # Die Hard 2 (1990)
-    url_poster: "https://theposterdb.com/api/assets/721"
+    url_poster: "https://api.mediux.pro/assets/57e56107-4d3a-434e-a773-e609bd9f35eb"
 
   1572: # Die Hard: With a Vengeance (1995)
-    url_poster: "https://theposterdb.com/api/assets/722"
+    url_poster: "https://api.mediux.pro/assets/7033f925-d53a-4fb4-8cd6-983b1ae0f250"
 
   1571: # Live Free or Die Hard (2007)
-    url_poster: "https://theposterdb.com/api/assets/723"
+    url_poster: "https://api.mediux.pro/assets/3371bb34-86d0-40ec-94e0-1fbbf0b35ed2"
 
   47964: # A Good Day to Die Hard (2013)
-    url_poster: "https://theposterdb.com/api/assets/724"
+    url_poster: "https://api.mediux.pro/assets/810e7a63-2798-4372-85f2-356b127d3819"

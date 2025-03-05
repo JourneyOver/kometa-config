@@ -1,13 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/23175
+
 metadata:
 
   9737: # Bad Boys (1995)
-    url_poster: "https://theposterdb.com/api/assets/511133"
+    url_poster: "https://api.mediux.pro/assets/3f3122dc-f506-4e61-b693-7959f5378780"
 
   8961: # Bad Boys II (2003)
-    url_poster: "https://theposterdb.com/api/assets/511132"
+    url_poster: "https://api.mediux.pro/assets/22da9bd7-fd90-4d18-88b0-378a93bdac99"
 
   38700: # Bad Boys for Life (2020)
-    url_poster: "https://theposterdb.com/api/assets/511131"
+    url_poster: "https://api.mediux.pro/assets/e3f24bde-9c25-435e-af13-6bdc13354ce6"
 
   573435: # Bad Boys: Ride or Die (2024)
-    url_poster: "https://theposterdb.com/api/assets/511130"
+    url_poster: "https://api.mediux.pro/assets/9a33af79-9644-48fb-9eca-7820b8871aa1"

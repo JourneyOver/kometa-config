@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/3130
+
+metadata:
+
+  24428: # The Avengers (2012)
+    url_poster: "https://api.mediux.pro/assets/1560482e-59de-44b7-b6fb-1f851b8406c4"
+
+  99861: # Avengers: Age of Ultron (2015)
+    url_poster: "https://api.mediux.pro/assets/bc209737-9af9-4037-8fab-52dd32687b4f"
+
+  299536: # Avengers: Infinity War (2018)
+    url_poster: "https://api.mediux.pro/assets/d8ef57e3-0ed8-4eaa-802b-750f11910b47"
+
+  299534: # Avengers: Endgame (2019)
+    url_poster: "https://api.mediux.pro/assets/be02f228-ea71-411d-bf22-3c286fb5f42c"
