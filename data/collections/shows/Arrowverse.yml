@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/82825
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Arrowverse":
+    template: { name: Collection, list_tvdb: https://thetvdb.com/lists/arrowverse, order: release }
+    url_poster: "https://theposterdb.com/api/assets/133035"
+    url_background: "https://cdn.myportfolio.com/82eae4f0-7840-46b1-a8a2-d723a66224aa/7bd6e133-1592-46e5-9dc7-19ef764efe6d.jpg?h=5a76ba82e185396c18a2b62d1bd4dc4a"
+    summary: "Heroes rise and legacies are forged as vigilantes, metahumans, and legendary warriors unite to protect their cities and the world beyond. From the shadows of Star City to the time-bending battles across the multiverse, each fight tests the limits of courage, sacrifice, and destiny. With unstoppable threats looming and bonds that transcend worlds, these champions prove that true heroism is never just about power—it's about the will to stand against the darkness."

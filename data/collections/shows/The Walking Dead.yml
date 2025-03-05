@@ -1,0 +1,14 @@
+# Poster from:
+# https://theposterdb.com/set/107515
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Walking Dead Universe":
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/marcynas1/lists/the-walking-dead-universe, order: release }
+    url_poster: "https://theposterdb.com/api/assets/176383"
+    url_background: "https://images.theposterdb.com/prod/public/images/meta/collections/optimized/737825/banner.webp"
+    sort_title: "Walking Dead Universe"
+    summary: "In a world where the dead outnumber the living, survival is a constant struggle marked by heartbreak, relentless danger, and unexpected alliances. Diverse communities—from suburban enclaves to untamed territories—confront the collapse of society and the harsh realities of a post-apocalyptic life. This interconnected universe explores the depths of human resilience and the enduring hope that persists even in the darkest times."

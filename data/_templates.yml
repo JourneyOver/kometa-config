@@ -9,14 +9,20 @@ templates:
       - collection
       - collection_trakt
       - collection_letterbox
+      - list_tvdb
+      - list_tmdb
       - movies
       - shows
+      - mode
       - order
     tmdb_collection_details: <<collection>>
     tmdb_movie: <<movies>>
     tvdb_show: <<shows>>
     trakt_list: <<collection_trakt>>
     letterboxd_list: <<collection_letterbox>>
+    tvdb_list_details: <<list_tvdb>>
+    tmdb_list: <<list_tmdb>>
     sort_title: <<collection_name>>
+    collection_mode: <<mode>>
     collection_order: <<order>>
     item_assets: false
