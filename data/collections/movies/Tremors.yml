@@ -1,4 +1,4 @@
-# Posters from:
+# Poster from:
 # https://theposterdb.com/set/67289
 
 external_templates:
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Tremors":
-    template: { name: Collection, collection: 91799, summary: 91799, order: release }
+    template: { name: Collection, collection: 91799, order: release }
     url_poster: "https://theposterdb.com/api/assets/107247"
     url_background: "https://image.tmdb.org/t/p/original/b9Zl30z4QfkeKhI7NPqHyCBTB8Y.jpg"

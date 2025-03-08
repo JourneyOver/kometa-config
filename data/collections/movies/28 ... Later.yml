@@ -1,4 +1,4 @@
-# Posters from:
+# Poster from:
 # https://theposterdb.com/set/14295
 
 external_templates:
@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "28 ... Later":
-    template: { name: Collection, collection: 1565, summary: 1565, order: release }
+    template: { name: Collection, collection: 1565, order: release }
     url_poster: "https://theposterdb.com/api/assets/24138"
     url_background: "https://image.tmdb.org/t/p/original/1YfCd3TrVfApeAQJPrsakw8CBax.jpg"
+    summary: "In the aftermath of a mysterious viral outbreak, society unravels as the infected force humanity into a desperate fight for survival. Amid the collapse of order, every encounter challenges the survivors' will to endure, revealing just how thin the line is between civilization and chaos."

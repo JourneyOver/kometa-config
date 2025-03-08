@@ -1,5 +1,5 @@
-# Posters from:
-# https://theposterdb.com/set/20837
+# Poster from:
+# https://mediux.pro/sets/10680
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Fantastic Beasts":
-    template: { name: Collection, collection: 435259, summary: 435259, order: release }
-    url_poster: "https://theposterdb.com/api/assets/34281"
+    template: { name: Collection, collection: 435259, order: release }
+    url_poster: "https://api.mediux.pro/assets/c69751fd-479b-494e-8788-e5cbff0b8771"
     url_background: "https://image.tmdb.org/t/p/original/bS043RNCoBf9UoPjv4EMzKbyAnZ.jpg"

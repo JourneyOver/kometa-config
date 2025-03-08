@@ -1,4 +1,4 @@
-# Posters from:
+# Poster from:
 # https://theposterdb.com/set/27903
 
 external_templates:
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "It":
-    template: { name: Collection, collection: 477962, summary: 477962, order: release }
+    template: { name: Collection, collection: 477962, order: release }
     url_poster: "https://theposterdb.com/api/assets/44798"
     url_background: "https://image.tmdb.org/t/p/original/5tvPVxhkFwcL9gnS7RXai3PL6dc.jpg"

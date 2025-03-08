@@ -1,3 +1,6 @@
+# Posters from:
+# https://theposterdb.com/set/127096
+
 metadata:
 
   377: # A Nightmare on Elm Street (1984)
@@ -20,9 +23,6 @@ metadata:
 
   11596: # New Nightmare (1994)
     url_poster: "https://theposterdb.com/api/assets/210688"
-
-  6466: # Freddy vs. Jason (2003)
-    url_poster: "https://theposterdb.com/api/assets/524527"
 
   23437: # A Nightmare on Elm Street (2010)
     url_poster: "https://theposterdb.com/api/assets/210689"

@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/160726
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Marvel Cinematic Universe":
+    template: { name: Collection, list_tvdb: https://thetvdb.com/lists/marvel-cinematic-universe, order: release }
+    url_poster: "https://theposterdb.com/api/assets/269865"
+    url_background: "https://images.hdqwalls.com/download/marvel-cinematic-universe-jm-2560x1440.jpg"
+    summary: "From the shadows of covert operations to the farthest reaches of the multiverse, heroes rise to face impossible odds. Super soldiers, spies, street-level vigilantes, and cosmic beings each play their part in a vast, ever-expanding battle for justice. With alliances forged and destinies rewritten, every mission, every sacrifice, and every secret shapes a universe where the fight for hope is never truly over."

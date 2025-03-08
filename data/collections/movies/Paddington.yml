@@ -1,5 +1,5 @@
-# Posters from:
-# https://diiivoy.com/paddington-secret-2023
+# Poster from:
+#
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Paddington":
-    template: { name: Collection, collection: 488924, summary: 488924, order: release }
-    url_poster: "https://raw.githubusercontent.com/JourneyOver/kometa-config/refs/heads/posters/movies/collections/Paddington/poster.png"
-    url_background: "https://raw.githubusercontent.com/JourneyOver/kometa-config/refs/heads/posters/movies/collections/Paddington/background.jpg"
+    template: { name: Collection, collection: 488924, order: release }
+#    url_poster: ""
+#    url_background: ""
