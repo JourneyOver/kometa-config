@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/11470
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Mad Max":
+    template: { name: Collection, collection: 8945, order: release }
+    url_poster: "https://api.mediux.pro/assets/8a4f955f-c039-4de4-9865-914837ad026d"
+    url_background: "https://image.tmdb.org/t/p/original/fhv3dWOuzeW9eXOSlr8MCHwo24t.jpg"
+    summary: "In a brutal, lawless wasteland where survival is the only rule, lone warriors and desperate survivors fight for dominance, freedom, and redemption. From the open road to the heart of savage battlegrounds, chaos reigns as warlords, rebels, and exiles clash over the last remnants of civilization. In a world where fuel, fury, and vengeance drive the strong, only the relentless endure."
