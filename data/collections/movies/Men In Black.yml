@@ -1,6 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/9322
-# https://theposterdb.com/set/9323
+# https://mediux.pro/sets/14252
 
 external_templates:
   - file: data/_templates.yml
@@ -9,5 +8,5 @@ collections:
 
   "Men In Black":
     template: { name: Collection, collection: 86055, movies: 479455, order: release }
-    url_poster: "https://theposterdb.com/api/assets/16779"
+    url_poster: "https://api.mediux.pro/assets/bf323064-a005-4dc6-9892-3c3cad940f44"
     url_background: "https://image.tmdb.org/t/p/original/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg"

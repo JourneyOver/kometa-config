@@ -1,15 +1,13 @@
 # Posters from:
-# https://mediux.pro/sets/22457
+# https://theposterdb.com/set/274865
 
 metadata:
 
   367506: # The Lord of the Rings: The Rings of Power (2022)
-    url_poster: "https://api.mediux.pro/assets/bd0a2288-22bb-4ac2-bf98-ba92034e0bf9"
+    url_poster: "https://theposterdb.com/api/assets/498006"
     url_background: "https://api.mediux.pro/assets/eab7af4b-72dc-43ac-a30d-246be93e3f47"
     seasons:
-#      0:
-#        url_poster: "https://api.mediux.pro/assets/9c63352b-770f-44f4-abd1-d6b27f1f24b4"
       1:
-        url_poster: "https://api.mediux.pro/assets/352ff010-8b3f-490c-be98-7260ae84562f"
+        url_poster: "https://theposterdb.com/api/assets/498007"
       2:
-        url_poster: "https://api.mediux.pro/assets/8067bf40-b56a-425d-936a-d1656753efe9"
+        url_poster: "https://theposterdb.com/api/assets/520314"

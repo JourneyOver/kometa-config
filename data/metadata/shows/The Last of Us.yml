@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/792
+# https://mediux.pro/sets/31500
 
 metadata:
 
   392256: # The Last of Us (2023)
-    url_poster: "https://api.mediux.pro/assets/e808652c-2255-4828-adf8-172bf14a24e4"
+    url_poster: "https://api.mediux.pro/assets/0db1a878-d9e8-410d-a047-e5c505f96cc6"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/a7781052-06f6-405d-b33c-f1f76445cd4d"
+        url_poster: "https://api.mediux.pro/assets/ea4344fa-6cf7-432d-8352-70e7bc5d14e9"
+#      2:
+#        url_poster: "https://api.mediux.pro/assets/a48f82cd-0a3d-4e62-affa-8bb9fa3bc9f5"

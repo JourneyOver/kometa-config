@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/13542
+
+metadata:
+
+  355730: # The Wheel of Time (2021)
+    url_poster: "https://api.mediux.pro/assets/ea358d15-0b39-442d-8fda-d2b8c94f1303"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/f0319fbe-4ad1-4b73-9e67-7f91e6c29522"
+      1:
+        url_poster: "https://api.mediux.pro/assets/a02b84f6-3905-440f-8db7-41e8688a8885"
+      2:
+        url_poster: "https://api.mediux.pro/assets/808dea33-a9d9-4e4c-8d16-142f03e5bd3a"
+      3:
+        url_poster: "https://api.mediux.pro/assets/70860f5f-9eef-4852-acf1-cc08e423a22a"
