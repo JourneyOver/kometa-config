@@ -1,0 +1,14 @@
+# Poster from:
+# https://mediux.pro/sets/31561
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Accountant":
+    template: { name: Collection, collection: 870339, order: release }
+    url_poster: "https://api.mediux.pro/assets/9cd1458f-eb35-4790-951a-e43798103cf2"
+    url_background: "https://api.mediux.pro/assets/ea5c2300-ea82-4dcf-89f6-23cb004dc9e8"
+    sort_title: "Accountant"
+    summary: "Behind the numbers lies a mind built for precision, strategy, and lethal efficiency. A brilliant forensic accountant with a dangerous past navigates a world of high-stakes financial deception, shadowy organizations, and deadly consequences. As he uncovers hidden truths, his unique skill set turns him into both a target and a force to be reckoned with."
