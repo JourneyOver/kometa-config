@@ -1,5 +1,5 @@
-# Posters from:
-# https://theposterdb.com/set/99359
+# Poster from:
+#
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "47 Meters Down":
-    template: { name: Collection, collection: 635922, summary: 635922, order: release }
-    url_poster: "https://theposterdb.com/api/assets/162636"
-    url_background: "https://images.wallpapersden.com/image/download/47-meters-down-uncaged_a2tma26UmZqaraWkpJRmbmdlrWZlbWU.jpg"
+    template: { name: Collection, collection: 635922, order: release }
+#    url_poster: ""
+#    url_background: ""

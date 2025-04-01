@@ -1,4 +1,4 @@
-# Posters from:
+# Poster from:
 # https://theposterdb.com/set/110544
 
 external_templates:
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Sinister":
-    template: { name: Collection, collection: 357173, summary: 357173, order: release }
+    template: { name: Collection, collection: 357173, order: release }
     url_poster: "https://theposterdb.com/api/assets/181619"
     url_background: "https://image.tmdb.org/t/p/original/4JASyGk5suaz4xwMp6irzg334k6.jpg"

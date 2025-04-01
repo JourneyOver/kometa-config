@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/64410
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Blair Witch":
+    template: { name: Collection, collection: 64750, order: release }
+    url_poster: "https://theposterdb.com/api/assets/102330"
+    url_background: "https://image.tmdb.org/t/p/original/AalxEQRDz9uY1DHKulpWNjr1g1E.jpg"
+    summary: "What begins as a search for the truth behind an urban legend descends into a nightmarish journey of paranoia and terror. Lost in the deep, foreboding woods, those who seek answers are met with eerie whispers, unseen forces, and a presence that feeds on fear. As reality unravels and the darkness closes in, escape may be nothing more than a cruel illusion."

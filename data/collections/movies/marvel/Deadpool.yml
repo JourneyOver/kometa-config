@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/4773
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Deadpool":
+    template: { name: Collection, collection: 448150, movies: 567604, order: release }
+    url_poster: "https://api.mediux.pro/assets/d7f3d31c-d57e-4965-bf99-42a63485d72d"
+    url_background: "https://api.mediux.pro/assets/b582595a-d6eb-406e-9938-d06dc9813165"
+    summary: "An irreverent, wisecracking mercenary defies expectations with explosive action, razor-sharp wit, and a fearless disregard for convention. In a world where rules are meant to be broken, his offbeat humor and unapologetic charm deliver a uniquely entertaining ride."

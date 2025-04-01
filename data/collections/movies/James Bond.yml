@@ -1,5 +1,5 @@
-# Posters from:
-# https://theposterdb.com/set/78937
+# Poster from:
+# https://mediux.pro/sets/8819
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "James Bond":
-    template: { name: Collection, collection: 645, summary: 645, order: release }
-    url_poster: "https://theposterdb.com/api/assets/126240"
+    template: { name: Collection, collection: 645, order: release }
+    url_poster: "https://api.mediux.pro/assets/ae69f8ed-3102-4846-894c-c490cf860b99"
     url_background: "https://image.tmdb.org/t/p/original/peKR7ulbgkWVOU6kFkG3EUDJOSM.jpg"

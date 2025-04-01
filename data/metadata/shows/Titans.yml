@@ -1,0 +1,18 @@
+# Posters from:
+# https://mediux.pro/sets/13071
+
+metadata:
+
+  341663: # Titans (2018)
+    url_poster: "https://api.mediux.pro/assets/9dc5a5d1-08c5-4c6e-b681-f4ae38e756c5"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/fa822691-816b-4de3-ae15-cf2444916091"
+      1:
+        url_poster: "https://api.mediux.pro/assets/c13dbded-b05f-4828-b2c6-434c42b78461"
+      2:
+        url_poster: "https://api.mediux.pro/assets/002288cf-1035-47ee-9222-16ea4b5d27ae"
+      3:
+        url_poster: "https://api.mediux.pro/assets/c500c9f6-a217-47a0-bc3c-da804c15367e"
+      4:
+        url_poster: "https://api.mediux.pro/assets/743638b7-9cbc-4614-a544-ca17f84b49ce"

@@ -1,0 +1,14 @@
+# Poster from:
+# https://mediux.pro/sets/10551
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Terminator":
+    template: { name: Collection, collection: 528, order: release }
+    url_poster: "https://api.mediux.pro/assets/fc95fb66-67e1-4a24-b7ac-643b484a19cf"
+    url_background: "https://image.tmdb.org/t/p/original/jz9usvWv5DrQGtjauEU4KSzgb8M.jpg"
+    sort_title: "Terminator"
+    summary: "In a war between humanity and the relentless rise of machines, destiny is shaped by those who fight to change the future. From ruthless assassins to unlikely heroes, the battle rages across time as resistance fighters, AI overlords, and unstoppable cyborgs collide. With fate hanging in the balance, survival depends on the choices made in the present—and the war that has yet to come."

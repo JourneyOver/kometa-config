@@ -1,0 +1,14 @@
+# Poster from:
+# https://theposterdb.com/set/252439
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Boys Universe":
+    template: { name: Collection, list_tvdb: https://thetvdb.com/lists/the-boys, order: release }
+    url_poster: "https://theposterdb.com/api/assets/457866"
+    url_background: "https://api.mediux.pro/assets/646862b3-e3cc-4601-a92f-14896d0be73f"
+    sort_title: "Boys Universe"
+    summary: "Beneath the glossy image of corporate superheroes lies a brutal world of corruption, power, and unchecked destruction. As a few determined vigilantes take on the might of superpowered elites, the fight for truth becomes a battle of grit, deception, and moral reckoning. From twisted origins to bloody showdowns, the line between hero and villain shatters in a world where power is the ultimate weapon."

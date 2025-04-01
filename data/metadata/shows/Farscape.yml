@@ -1,0 +1,20 @@
+# Posters from:
+# https://mediux.pro/sets/31565
+
+metadata:
+
+  70522: # Farscape (1999)
+    url_poster: "https://api.mediux.pro/assets/1bc738f6-b7f2-4ffc-85f4-a46b1ef690c9"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/362ecb19-dd69-47e7-9c7e-b933a1ed238f"
+      1:
+        url_poster: "https://api.mediux.pro/assets/d391be5b-a64f-4ee6-8f8d-42b82c39a9c2"
+      2:
+        url_poster: "https://api.mediux.pro/assets/f02a56d9-d8c0-4fcf-b0dd-5f5cf47903bb"
+      3:
+        url_poster: "https://api.mediux.pro/assets/108ad7db-e729-43f1-bcc0-e1f2b7be9d0b"
+      4:
+        url_poster: "https://api.mediux.pro/assets/e3715831-ef6c-4996-8809-c410814421c5"
+      5:
+        url_poster: "https://api.mediux.pro/assets/0a745d33-df4c-4ab2-845a-41b9ff83b3c7"

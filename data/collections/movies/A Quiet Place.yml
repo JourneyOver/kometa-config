@@ -1,4 +1,4 @@
-# Posters from:
+# Poster from:
 # https://theposterdb.com/set/184647
 
 external_templates:
@@ -7,7 +7,8 @@ external_templates:
 collections:
 
   "A Quiet Place":
-    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/a-quiet-place, summary: 521226, order: custom }
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/a-quiet-place, order: custom }
     url_poster: "https://theposterdb.com/api/assets/314370"
     url_background: "https://image.tmdb.org/t/p/original/r0uGgKhyYuQgPMe0SZQD7n8aj1g.jpg"
     sort_title: "Quiet Place"
+    summary: "In a world where silence is the key to survival, humanity is stalked by relentless creatures that hunt by sound. From the terrifying first moments of invasion to the desperate fight for a future, every whispered breath and cautious step carries the weight of life and death. As families struggle to endure, resilience, sacrifice, and the unbreakable bonds of love become their greatest weapons in the face of an unrelenting nightmare."

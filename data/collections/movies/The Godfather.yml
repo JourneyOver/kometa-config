@@ -1,0 +1,14 @@
+# Poster from:
+# https://mediux.pro/sets/14321
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Godfather":
+    template: { name: Collection, collection: 230, order: release }
+    url_poster: "https://api.mediux.pro/assets/903d93d1-d5e3-4dd3-abba-9224b664b3ee"
+    url_background: "https://image.tmdb.org/t/p/original/mDMCET9Ens5ANvZAWRpluBsMAtS.jpg"
+    sort_title: "Godfather"
+    summary: "In the ruthless world of organized crime, loyalty, power, and family define the rise and fall of the Corleone dynasty. From the bloody struggles to maintain control to the heavy cost of legacy, every decision carries consequences that span generations. As honor and betrayal intertwine, the pursuit of power becomes both a duty and a curse, shaping the fate of those who dare to rule the underworld."

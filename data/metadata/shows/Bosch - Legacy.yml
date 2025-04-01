@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/13922
+
+metadata:
+
+  414553: # Bosch: Legacy (2022)
+    url_poster: "https://api.mediux.pro/assets/82545de8-24b3-454b-9cd6-201668f38017"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/30ab5f05-e3ff-4cb6-b205-1d082c52553d"
+      2:
+        url_poster: "https://api.mediux.pro/assets/b6df15f8-62bc-4efc-9311-aed915556017"
+      3:
+        url_poster: "https://api.mediux.pro/assets/67ec309e-0fa2-4b2f-941d-80e52d822e59"

@@ -1,4 +1,4 @@
-# Posters from:
+# Poster from:
 # https://theposterdb.com/set/272509
 
 external_templates:
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Zombieland":
-    template: { name: Collection, collection: 537982, summary: 537982, order: release }
+    template: { name: Collection, collection: 537982, order: release }
     url_poster: "https://theposterdb.com/api/assets/494128"
     url_background: "https://api.mediux.pro/assets/b3681074-3248-46f1-8aba-49abb4cec2f1"

@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/4785
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Spider-Man":
+    template: { name: Collection, collection: 556, order: release }
+    url_poster: "https://api.mediux.pro/assets/b12155bf-aa6f-4f29-9350-739e01a7feac"
+    url_background: "https://image.tmdb.org/t/p/original/4Kk8CNTh9NcUhKvh422w7WOrRqF.jpg"
+    summary: "In the heart of New York City, a gifted teen learns that extraordinary abilities come with a heavy burden. Amid high-flying action and personal challenges, he discovers that courage and responsibility go hand in hand as he protects those in need."

@@ -1,0 +1,14 @@
+# Poster from:
+# https://mediux.pro/sets/4767
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Amazing Spider-Man":
+    template: { name: Collection, collection: 125574, order: release }
+    url_poster: "https://api.mediux.pro/assets/f63700a9-306b-4c0d-b4f5-5cbfb64c590c"
+    url_background: "https://image.tmdb.org/t/p/original/4db7dI0OlK64CdWOtatQsNkYRQF.jpg"
+    sort_title: "Amazing Spider-Man"
+    summary: "Rising from personal loss, a determined young hero embraces his newfound powers and confronts formidable foes. Balancing raw emotion with thrilling encounters, he embarks on a journey defined by resilience, sacrifice, and an unwavering commitment to justice."

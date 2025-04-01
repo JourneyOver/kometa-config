@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/4784
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Venom":
+    template: { name: Collection, collection: 558216, order: release }
+    url_poster: "https://api.mediux.pro/assets/24555dc4-2671-47a0-80b8-4fb0e4316561"
+    url_background: "https://image.tmdb.org/t/p/original/nEcRRazUsOnPH7mx9vvkrwzZaVF.jpg"
+    summary: "In a dark and dangerous world, an ordinary man becomes host to a mysterious alien symbiote that unleashes monstrous power and unpredictable instincts. Amid relentless action and visceral battles, his struggle to harness this chaotic force pushes him to the edge of heroism and antiheroism, blurring the line between salvation and destruction."

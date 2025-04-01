@@ -1,37 +1,37 @@
 # Posters from:
-# https://theposterdb.com/set/253489
+# https://mediux.pro/sets/15049
 
 metadata:
 
   78804: # Doctor Who (2005)
-    url_poster: "https://theposterdb.com/api/assets/460311"
+    url_poster: "https://api.mediux.pro/assets/fcfdc487-dd07-4993-a0c1-0a3015362e5b"
     url_background: "https://api.mediux.pro/assets/e2f7f4f5-87e8-446b-b2d4-2e89f24d5a13"
     seasons:
       0:
-        url_poster: "https://theposterdb.com/api/assets/460312"
+        url_poster: "https://api.mediux.pro/assets/96231ee1-1b0d-4c46-b8af-d9d508e275b4"
       1:
-        url_poster: "https://theposterdb.com/api/assets/460313"
+        url_poster: "https://api.mediux.pro/assets/67a90ddb-3629-46c1-abc1-fa691efad4a4"
       2:
-        url_poster: "https://theposterdb.com/api/assets/460314"
+        url_poster: "https://api.mediux.pro/assets/fc5f97ef-df14-447e-8819-356bd7b23cab"
       3:
-        url_poster: "https://theposterdb.com/api/assets/460315"
+        url_poster: "https://api.mediux.pro/assets/130767fd-6237-41f8-b3dc-eda7bf8e6402"
       4:
-        url_poster: "https://theposterdb.com/api/assets/460316"
+        url_poster: "https://api.mediux.pro/assets/3933204d-3e35-4fb4-9ec6-cd46ef2c7a6a"
       5:
-        url_poster: "https://theposterdb.com/api/assets/460317"
+        url_poster: "https://api.mediux.pro/assets/0506537a-fe31-4269-9841-27dca74a1451"
       6:
-        url_poster: "https://theposterdb.com/api/assets/460318"
+        url_poster: "https://api.mediux.pro/assets/aec068c5-f009-4394-99f1-627546a2d3d9"
       7:
-        url_poster: "https://theposterdb.com/api/assets/460319"
+        url_poster: "https://api.mediux.pro/assets/ab7be85d-6144-4f4c-bd74-3b09266f2312"
       8:
-        url_poster: "https://theposterdb.com/api/assets/460320"
+        url_poster: "https://api.mediux.pro/assets/73dade61-cb73-49ca-8bd1-3458cd1a9007"
       9:
-        url_poster: "https://theposterdb.com/api/assets/460321"
+        url_poster: "https://api.mediux.pro/assets/bdbca497-6f66-4573-865b-e2cadb86cb01"
       10:
-        url_poster: "https://theposterdb.com/api/assets/460322"
+        url_poster: "https://api.mediux.pro/assets/3bc47686-a82a-465c-8497-3876440a1077"
       11:
-        url_poster: "https://theposterdb.com/api/assets/460323"
+        url_poster: "https://api.mediux.pro/assets/fef454c7-45b8-41ca-a441-d68b2df7da96"
       12:
-        url_poster: "https://theposterdb.com/api/assets/460324"
+        url_poster: "https://api.mediux.pro/assets/d7d6e395-316f-4489-9966-ad0b7bea5f3f"
       13:
-        url_poster: "https://theposterdb.com/api/assets/460325"
+        url_poster: "https://api.mediux.pro/assets/18465aad-9694-4a8a-9342-50fa56bf4030"

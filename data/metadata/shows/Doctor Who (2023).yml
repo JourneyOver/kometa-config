@@ -1,13 +1,15 @@
 # Posters from:
-# https://theposterdb.com/set/253489
+# https://mediux.pro/sets/18507
 
 metadata:
 
   449991: # Doctor Who (2023)
-    url_poster: "https://theposterdb.com/api/assets/483978"
+    url_poster: "https://api.mediux.pro/assets/166bca6c-16ac-4d35-bb2c-7032cfd42e54"
     url_background: "https://api.mediux.pro/assets/ed007d8e-0eca-4939-b3c0-07bc14024284"
     seasons:
       0:
-        url_poster: "https://theposterdb.com/api/assets/483979"
+        url_poster: "https://api.mediux.pro/assets/54f55e41-c8df-4485-af59-4fc9f3c266f9"
       1:
-        url_poster: "https://theposterdb.com/api/assets/483980"
+        url_poster: "https://api.mediux.pro/assets/f6ce3483-60e8-4575-b458-8d1ffb229c8e"
+#      2:
+#        url_poster: "https://api.mediux.pro/assets/c687bdaa-48a1-4e2a-a323-5730e370aa70"

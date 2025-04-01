@@ -1,0 +1,14 @@
+# Poster from:
+#
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Super Mario Bros.":
+    template: { name: Collection, collection: 1434561, order: release }
+#    url_poster: ""
+    url_background: "https://image.tmdb.org/t/p/original/iJQIbOPm81fPEGKt5BPuZmfnA54.jpg"
+    sort_title: "Super Mario Bros"
+    summary: "From the bustling streets of Brooklyn to the vibrant, danger-filled landscapes of the Mushroom Kingdom, two heroic plumbers find themselves on epic adventures beyond imagination. Facing towering villains, perilous obstacles, and unexpected allies, they must rely on courage, teamwork, and a little bit of magic to save the day. With every new challenge, the journey proves that even the unlikeliest of heroes can jump to incredible heights."

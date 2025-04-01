@@ -1,0 +1,24 @@
+# Posters from:
+# https://mediux.pro/sets/13921
+
+metadata:
+
+  277928: # Bosch (2015)
+    url_poster: "https://api.mediux.pro/assets/5470780f-69a7-4f13-b5d8-cf30ddd911a1"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/03889afb-1d83-4c84-a693-f5b22816ab72"
+      1:
+        url_poster: "https://api.mediux.pro/assets/d845d79e-9f69-4d6e-abb8-e1aff70643d6"
+      2:
+        url_poster: "https://api.mediux.pro/assets/c35c7bc5-9d56-4564-9c53-6a64df770351"
+      3:
+        url_poster: "https://api.mediux.pro/assets/8f35dc0d-d4e2-4af5-a3a6-77903097f126"
+      4:
+        url_poster: "https://api.mediux.pro/assets/8128fe8c-362a-4be8-9617-6a81bd87bd60"
+      5:
+        url_poster: "https://api.mediux.pro/assets/362c215e-98c3-40e3-ac81-46f2094a88fb"
+      6:
+        url_poster: "https://api.mediux.pro/assets/b391cbb5-d867-41da-8abe-1ba67ebd2894"
+      7:
+        url_poster: "https://api.mediux.pro/assets/e740cbcb-d05d-417d-bd2c-ddebf1b2c4e7"

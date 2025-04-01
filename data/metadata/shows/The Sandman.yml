@@ -1,12 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/11912
+# https://mediux.pro/sets/31687
 
 metadata:
 
   366211: # The Sandman (2022)
-    url_poster: "https://api.mediux.pro/assets/ee55a2a8-75dd-4dc7-8d60-ecfb8cc99dc1"
+    url_poster: "https://api.mediux.pro/assets/9d5ce0c0-f182-4fd5-a66d-9e06b615f247"
     seasons:
-#      0:
-#        url_poster: "https://api.mediux.pro/assets/0783e280-e5ed-4ce1-82f2-25251aa9e41e"
       1:
-        url_poster: "https://api.mediux.pro/assets/4d986f7d-6919-4f0d-91bb-cdde4da77b2b"
+        url_poster: "https://api.mediux.pro/assets/84dd52d8-fe53-4174-bba7-790a809e61cc"
+#      2:
+#        url_poster: "https://api.mediux.pro/assets/fb88c646-7a37-45ad-b432-d2b9b75b96aa"

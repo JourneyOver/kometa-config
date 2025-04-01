@@ -1,0 +1,20 @@
+# Posters from:
+# https://mediux.pro/sets/26846
+
+metadata:
+
+  274431: # Gotham (2014)
+    url_poster: "https://api.mediux.pro/assets/a7f0b96b-bb97-477e-9ccd-19ca6fc536a8"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/8f737a63-b15e-4b1b-bd67-e52def8fd1f9"
+      1:
+        url_poster: "https://api.mediux.pro/assets/152de077-0a94-48dc-9308-4d1ff17ef6bc"
+      2:
+        url_poster: "https://api.mediux.pro/assets/689d2b30-3513-4f41-a428-2ea4cba276df"
+      3:
+        url_poster: "https://api.mediux.pro/assets/a58ca763-bd10-4ca7-982b-5842ccc53709"
+      4:
+        url_poster: "https://api.mediux.pro/assets/87c8a467-d235-46a2-b08b-1a8b4bce06fe"
+      5:
+        url_poster: "https://api.mediux.pro/assets/98febac2-9d85-4997-8a87-351f349c926e"

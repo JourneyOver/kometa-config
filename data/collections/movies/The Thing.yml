@@ -1,0 +1,14 @@
+# Poster from:
+# https://theposterdb.com/set/132931
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Thing":
+    template: { name: Collection, collection: 479888, order: release }
+    url_poster: "https://theposterdb.com/api/assets/220459"
+    url_background: "https://image.tmdb.org/t/p/original/lUPruOqjDhZrCKz9Ze2tCufPxHR.jpg"
+    sort_title: "Thing"
+    summary: "In the frozen isolation of Antarctica, an insidious, shape-shifting terror emerges, turning trust into a weapon of survival. Isolated researchers confront an enemy that wears any face, as paranoia and dread twist every encounter into a fight for the soul."

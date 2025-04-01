@@ -1,5 +1,5 @@
-# Posters from:
-# https://theposterdb.com/set/173
+# Poster from:
+# https://mediux.pro/sets/8789
 
 external_templates:
   - file: data/_templates.yml
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Die Hard":
-    template: { name: Collection, collection: 1570, summary: 1570, order: release }
-    url_poster: "https://theposterdb.com/api/assets/719"
+    template: { name: Collection, collection: 1570, order: release }
+    url_poster: "https://api.mediux.pro/assets/e8e504a8-b517-455a-8b02-fbdc539bc5bd"
     url_background: "https://image.tmdb.org/t/p/original/7LSSYjSt94Hs3YYDzMGLkAdGLoF.jpg"

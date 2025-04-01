@@ -1,18 +1,18 @@
 # Posters from:
-# https://mediux.pro/sets/13391
-# https://theposterdb.com/set/187860
+# https://mediux.pro/sets/31495
 
 metadata:
 
   336924: # You (2018)
-    url_poster: "https://theposterdb.com/api/assets/319154"
-    url_background: "https://api.mediux.pro/assets/9b410cf3-a270-45c5-ac3b-3acb93359b7e"
+    url_poster: "https://api.mediux.pro/assets/356e6868-082d-4f57-8030-fc4fbc9aabf2"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/322796b2-eab3-4c55-86bd-9109a44e946f"
+        url_poster: "https://api.mediux.pro/assets/db9494ee-62a1-419b-bdd6-6677d34e4a73"
       2:
-        url_poster: "https://api.mediux.pro/assets/55185921-a9f5-4752-954f-e3097bc460e9"
+        url_poster: "https://api.mediux.pro/assets/429afdd1-e5ec-4796-bb92-2ede2c72b367"
       3:
-        url_poster: "https://api.mediux.pro/assets/4ff27743-f45a-4961-8d00-93bc2d0de7c8"
+        url_poster: "https://api.mediux.pro/assets/82b8a68b-198b-4f5e-801a-4b2c6fed6dd4"
       4:
-        url_poster: "https://api.mediux.pro/assets/bb83a3cb-c08f-4006-a365-6970b94311cd"
+        url_poster: "https://api.mediux.pro/assets/a59ccd4d-7d85-4dc5-980f-91b792509257"
+#      5:
+#        url_poster: "https://api.mediux.pro/assets/dd571481-57aa-45b7-be50-41d294ee02f5"

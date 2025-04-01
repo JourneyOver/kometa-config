@@ -1,4 +1,4 @@
-# Posters from:
+# Poster from:
 # https://theposterdb.com/set/101438
 
 external_templates:
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Final Destination":
-    template: { name: Collection, collection: 8864, summary: 8864, order: release }
+    template: { name: Collection, collection: 8864, order: release }
     url_poster: "https://theposterdb.com/api/assets/165946"
     url_background: "https://image.tmdb.org/t/p/original/y3aWOInifbGKXM34KjtcMITrZRZ.jpg"

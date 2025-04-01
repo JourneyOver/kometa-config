@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/15724
+
+metadata:
+
+  336261: # Tom Clancy's Jack Ryan (2018)
+    url_poster: "https://api.mediux.pro/assets/74323ff8-257a-42aa-9ce8-56c7aa851c9a"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/1fa7dc21-1718-4d3a-9ad8-a470fca1e58d"
+      2:
+        url_poster: "https://api.mediux.pro/assets/b07d47ee-fcb0-41c7-a383-0e6e7a035d10"
+      3:
+        url_poster: "https://api.mediux.pro/assets/30f8093c-4191-4d18-be73-fdc88611b55d"
+      4:
+        url_poster: "https://api.mediux.pro/assets/87b0baaa-4cce-4d72-89a9-f014511fae9a"

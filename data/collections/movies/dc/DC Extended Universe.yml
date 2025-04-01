@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/141237
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "DC Extended Universe":
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/dc-extended-universe, order: release }
+    url_poster: "https://theposterdb.com/api/assets/234956"
+    url_background: "https://wallpapercave.com/wp/wp6998420.jpg"
+    summary: "Legendary heroes. Formidable villains. The DC Extended Universe brings iconic characters like Superman, Batman, and Wonder Woman to life, as they face threats that challenge everything they stand for. From the rise of Krypton's last son in Man of Steel to the underwater kingdoms of Aquaman, action, drama, and unforgettable moments unfold. Shared storylines and stunning visuals unite a world where justice, power, and hope take center stage."

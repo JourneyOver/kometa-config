@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/13527
+
+metadata:
+
+  391153: # Peacemaker (2022)
+    url_poster: "https://api.mediux.pro/assets/b076f57f-56f9-4e03-8560-5e5c3077cc72"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/f15c0a18-07ad-4270-9a0d-825d9c99b09b"
+      1:
+        url_poster: "https://api.mediux.pro/assets/ebc7c045-188a-4f9f-8088-cbed5100f75a"

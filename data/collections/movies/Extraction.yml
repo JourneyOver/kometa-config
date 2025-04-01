@@ -1,4 +1,4 @@
-# Posters from:
+# Poster from:
 # https://mediux.pro/sets/2303
 
 external_templates:
@@ -7,6 +7,6 @@ external_templates:
 collections:
 
   "Extraction":
-    template: { name: Collection, collection: 735127, summary: 735127, order: release }
+    template: { name: Collection, collection: 735127, order: release }
     url_poster: "https://api.mediux.pro/assets/fde308f7-9f0d-4cde-aa4c-44731df521b1"
     url_background: "https://image.tmdb.org/t/p/original/gxBbFVb2SUWtHTJQXjwAtEPTWcA.jpg"
