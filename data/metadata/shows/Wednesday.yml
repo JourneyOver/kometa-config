@@ -1,11 +1,10 @@
 # Posters from:
-# https://mediux.pro/sets/12900
+# https://mediux.pro/sets/31685
 
 metadata:
 
   397060: # Wednesday (2022)
-    url_poster: "https://api.mediux.pro/assets/69bc9069-ab3e-41f5-b09b-de14d02e5765"
-    url_background: "https://api.mediux.pro/assets/dab1afd2-0a00-4a21-8c4f-5dc53f89d1b3"
+    url_poster: "https://api.mediux.pro/assets/491bf261-d3c9-4b62-b9d7-5c73b8959c9e"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/d9c8ed9e-39af-4c70-b8fe-07f2f3c5c74a"
+        url_poster: "https://api.mediux.pro/assets/772397a3-cfb5-4233-9294-72d1d8ffb013"

@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/99655
+# https://theposterdb.com/set/216940
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Transformers":
     template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/transformers, order: custom }
-    url_poster: "https://theposterdb.com/api/assets/163167"
+    url_poster: "https://theposterdb.com/api/assets/385806"
     url_background: "https://image.tmdb.org/t/p/original/zvZBNNDWd5LcsIBpDhJyCB2MDT7.jpg"
     summary: "The Autobots and Decepticons, two factions of powerful robotic beings, wage an endless war on Earth. As they battle for control, humanity becomes caught in the crossfire between these colossal forces. With every clash, the fight for the future intensifies—where the fate of both the human race and the world itself rests in the hands of those who fight for good. Explosive battles, shifting alliances, and the struggle for power define this ongoing war between two worlds, where courage and loyalty challenge the darkest forces of evil."

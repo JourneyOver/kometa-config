@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/12692
+
+metadata:
+
+  269689: # The Leftovers (2014)
+    url_poster: "https://api.mediux.pro/assets/8afd961c-6676-4aab-bb2c-0c8a6531d39b"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/34a2185f-bf5a-4648-8c18-d6467c84385b"
+      1:
+        url_poster: "https://api.mediux.pro/assets/495ee7bb-3773-4270-b101-d82c13f0fee5"
+      2:
+        url_poster: "https://api.mediux.pro/assets/c17d64b0-0872-4386-88bd-719e53b17fab"
+      3:
+        url_poster: "https://api.mediux.pro/assets/b2e95abd-5b21-464e-bbbe-c303f922402b"
