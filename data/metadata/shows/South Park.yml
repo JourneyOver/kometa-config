@@ -1,63 +1,62 @@
 # Posters from:
-# https://theposterdb.com/set/16687
-# https://theposterdb.com/set/195906
+# https://mediux.pro/sets/31825
 
 metadata:
 
   75897: # South Park (1997)
-    url_poster: "https://theposterdb.com/api/assets/27909"
+    url_poster: "https://api.mediux.pro/assets/f65419ef-b9e6-468e-be9f-bbe281f740af"
     seasons:
 #      0:
-#        url_poster: "https://theposterdb.com/api/assets/338318"
+#        url_poster: "https://api.mediux.pro/assets/1e15e123-6595-47aa-9cef-f3cf7474ff99"
       1:
-        url_poster: "https://theposterdb.com/api/assets/338319"
+        url_poster: "https://api.mediux.pro/assets/635c9ea4-3b33-440e-b027-a84b9c8bd1f0"
       2:
-        url_poster: "https://theposterdb.com/api/assets/338320"
+        url_poster: "https://api.mediux.pro/assets/43869ccf-deff-4197-8d28-dfa07c7adbf5"
       3:
-        url_poster: "https://theposterdb.com/api/assets/338321"
+        url_poster: "https://api.mediux.pro/assets/5d4fe149-5b48-4e9a-88b3-e4f4a33331c2"
       4:
-        url_poster: "https://theposterdb.com/api/assets/338322"
+        url_poster: "https://api.mediux.pro/assets/8ec9c4f5-5465-4963-b37a-a63d11024e04"
       5:
-        url_poster: "https://theposterdb.com/api/assets/338323"
+        url_poster: "https://api.mediux.pro/assets/93956268-babb-429f-a158-93800bf84f12"
       6:
-        url_poster: "https://theposterdb.com/api/assets/338324"
+        url_poster: "https://api.mediux.pro/assets/100363bd-41bd-425c-84b0-02e09042726b"
       7:
-        url_poster: "https://theposterdb.com/api/assets/338325"
+        url_poster: "https://api.mediux.pro/assets/4b219fbf-b662-436d-ba0c-0940d3ceac59"
       8:
-        url_poster: "https://theposterdb.com/api/assets/338326"
+        url_poster: "https://api.mediux.pro/assets/a217c255-6672-4f18-8b1d-978d9bada27c"
       9:
-        url_poster: "https://theposterdb.com/api/assets/338327"
+        url_poster: "https://api.mediux.pro/assets/1b709344-bcd3-49f5-86f1-4f2f3d173d6f"
       10:
-        url_poster: "https://theposterdb.com/api/assets/338328"
+        url_poster: "https://api.mediux.pro/assets/74712446-0632-4f2e-ab36-4c9fc2b8d843"
       11:
-        url_poster: "https://theposterdb.com/api/assets/338329"
+        url_poster: "https://api.mediux.pro/assets/6907208d-53a2-456a-a345-c27c168f9e9d"
       12:
-        url_poster: "https://theposterdb.com/api/assets/338330"
+        url_poster: "https://api.mediux.pro/assets/5eb8a825-d2a2-4edb-a0be-79c06bc02961"
       13:
-        url_poster: "https://theposterdb.com/api/assets/338331"
+        url_poster: "https://api.mediux.pro/assets/90d814c9-0ed6-4074-a06c-7473b3a65520"
       14:
-        url_poster: "https://theposterdb.com/api/assets/338332"
+        url_poster: "https://api.mediux.pro/assets/deb9391b-554e-4abb-95dd-cda83992044c"
       15:
-        url_poster: "https://theposterdb.com/api/assets/338333"
+        url_poster: "https://api.mediux.pro/assets/da59fe07-d7d2-4a3d-80d3-be8b04056210"
       16:
-        url_poster: "https://theposterdb.com/api/assets/338334"
+        url_poster: "https://api.mediux.pro/assets/87de5b9c-b495-4768-b03e-cc615e7b1123"
       17:
-        url_poster: "https://theposterdb.com/api/assets/338335"
+        url_poster: "https://api.mediux.pro/assets/a428972b-e740-4ff3-a086-ca354f6e4ab6"
       18:
-        url_poster: "https://theposterdb.com/api/assets/338336"
+        url_poster: "https://api.mediux.pro/assets/f7658b4a-8568-44b8-9764-261ae498fb6d"
       19:
-        url_poster: "https://theposterdb.com/api/assets/338337"
+        url_poster: "https://api.mediux.pro/assets/9f563b75-a652-4378-b071-a07201309b00"
       20:
-        url_poster: "https://theposterdb.com/api/assets/338338"
+        url_poster: "https://api.mediux.pro/assets/fbb8540a-3089-45e4-954e-5507759336d1"
       21:
-        url_poster: "https://theposterdb.com/api/assets/338339"
+        url_poster: "https://api.mediux.pro/assets/3a848293-a53f-415a-b402-c77a620eb1da"
       22:
-        url_poster: "https://theposterdb.com/api/assets/338340"
+        url_poster: "https://api.mediux.pro/assets/03111116-b103-4909-af5d-464d2e055aa9"
       23:
-        url_poster: "https://theposterdb.com/api/assets/338341"
+        url_poster: "https://api.mediux.pro/assets/59059245-96f6-40eb-93d8-7283079f44cd"
       24:
-        url_poster: "https://theposterdb.com/api/assets/338342"
+        url_poster: "https://api.mediux.pro/assets/405fedf4-3f83-4e12-ad84-4ed50b0b8aa2"
       25:
-        url_poster: "https://theposterdb.com/api/assets/338343"
+        url_poster: "https://api.mediux.pro/assets/64e9a4cf-ad8f-4413-ae60-2acb1bc14d04"
       26:
-        url_poster: "https://theposterdb.com/api/assets/338344"
+        url_poster: "https://api.mediux.pro/assets/e838b45d-9178-4e7f-b71d-37c9bffc1627"

@@ -1,13 +1,11 @@
 # Posters from:
-# https://theposterdb.com/set/297906
+# https://mediux.pro/sets/26563
 
 metadata:
 
   446180: # Teacup (2024)
-    url_poster: "https://theposterdb.com/api/assets/536517"
+    url_poster: "https://api.mediux.pro/assets/aa59cca2-ca07-43f2-97ff-234c16ac0f20"
     url_background: "https://api.mediux.pro/assets/cd9cf8d4-978b-43fd-a4c1-bbba6dfac2d7"
     seasons:
-#      0:
-#        url_poster: "https://theposterdb.com/api/assets/536518"
       1:
-        url_poster: "https://theposterdb.com/api/assets/536519"
+        url_poster: "https://api.mediux.pro/assets/55d48518-367f-4a34-8de7-d441be1ccdef"

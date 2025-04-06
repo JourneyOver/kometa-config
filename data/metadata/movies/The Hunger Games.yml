@@ -1,16 +1,19 @@
+# Posters from:
+# https://mediux.pro/sets/7026
+
 metadata:
 
   70160: # The Hunger Games (2012)
-    url_poster: "https://theposterdb.com/api/assets/520234"
+    url_poster: "https://api.mediux.pro/assets/ea23aa16-ca91-4d5f-968e-ebadefd56193"
 
   101299: # The Hunger Games: Catching Fire (2013)
-    url_poster: "https://theposterdb.com/api/assets/520233"
+    url_poster: "https://api.mediux.pro/assets/24c944ff-598a-4a3d-aa99-feef8e965d99"
 
   131631: # The Hunger Games: Mockingjay - Part 1 (2014)
-    url_poster: "https://theposterdb.com/api/assets/520232"
+    url_poster: "https://api.mediux.pro/assets/06b23ce7-dc6e-4014-a4b1-f4668902ea10"
 
   131634: # The Hunger Games: Mockingjay - Part 2 (2015)
-    url_poster: "https://theposterdb.com/api/assets/520231"
+    url_poster: "https://api.mediux.pro/assets/2478bca4-73a8-49cf-a241-3ec7b925e71b"
 
   695721: # The Hunger Games: The Ballad of Songbirds & Snakes (2023)
-    url_poster: "https://theposterdb.com/api/assets/520230"
+    url_poster: "https://api.mediux.pro/assets/12e66593-e99c-45dd-8b2f-549e42ab76e2"

@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/300914
+# https://theposterdb.com/set/264370
 
 external_templates:
   - file: data/_templates.yml
@@ -8,7 +8,7 @@ collections:
 
   "The MonsterVerse":
     template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/the-monsterverse, order: release }
-    url_poster: "https://theposterdb.com/api/assets/542678"
+    url_poster: "https://theposterdb.com/api/assets/480968"
     url_background: "https://static1.colliderimages.com/wordpress/wp-content/uploads/2021/03/monsterverse-banner.png"
     sort_title: "MonsterVerse"
     summary: "Godzilla and King Kong, ancient creatures of unimaginable power, awaken to clash in a world where humanity must reckon with the chaos they bring. From the depths of the ocean to the jungles of Skull Island, these towering beasts fight for dominance, unleashing destruction with every step. As these colossal forces battle, the fate of the world hangs in the balance, and those caught in their wake must find a way to survive the devastation that follows in the wake of their reign."

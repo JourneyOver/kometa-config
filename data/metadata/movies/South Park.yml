@@ -1,25 +1,33 @@
+# Posters from:
+# https://mediux.pro/sets/31834 - Bigger, Longer & Uncut
+# https://mediux.pro/sets/31835 - The End of Obesity
+# https://mediux.pro/sets/31838 - South Park (Not Suitable for Children)
+# https://mediux.pro/sets/31839 - Joining the Panderverse
+# https://mediux.pro/sets/31840 & https://mediux.pro/sets/31841 - Streaming Wars
+# https://mediux.pro/sets/31842 & https://mediux.pro/sets/31843 - Post COVID
+
 metadata:
 
   9473: # South Park: Bigger, Longer & Uncut (1999)
-    url_poster: "https://api.mediux.pro/assets/c233f1ce-3e34-4fb8-851e-516d5baec5cc"
+    url_poster: "https://api.mediux.pro/assets/ba90673d-4bee-4e6f-abdd-4f6f73ff3f40"
 
   874299: # South Park: Post COVID (2021)
-    url_poster: "https://api.mediux.pro/assets/3df48d6f-be53-416b-9c2b-23cb0d43ed8e"
+    url_poster: "https://api.mediux.pro/assets/1a4d8aca-150c-4a05-b3d1-d5c252880c8e"
 
   874300: # South Park: Post COVID: The Return of COVID (2021)
-    url_poster: "https://api.mediux.pro/assets/4b02668d-bf4c-4f34-8927-c5ed428153c7"
+    url_poster: "https://api.mediux.pro/assets/110db86d-11d4-40e9-beca-ed4dda5f3f3f"
 
   974691: # South Park the Streaming Wars (2022)
-    url_poster: "https://api.mediux.pro/assets/85afe242-3b90-4b78-a79e-bcb820688399"
+    url_poster: "https://api.mediux.pro/assets/eb2e148d-85ce-43a9-934e-314bff90dbb4"
 
   993729: # South Park the Streaming Wars Part 2 (2022)
-    url_poster: "https://api.mediux.pro/assets/feba6ff5-52a1-4c28-a27e-8cf82b3cc94a"
+    url_poster: "https://api.mediux.pro/assets/70b0a87e-4740-40c9-956d-ebea3fcda84c"
 
   1219926: # South Park (Not Suitable for Children) (2023)
-    url_poster: "https://api.mediux.pro/assets/c17a1c37-905d-467f-a901-cb26b95792a7"
+    url_poster: "https://api.mediux.pro/assets/003d2b4f-1e5c-49f7-8186-645ba2d02eb7"
 
   1190012: # South Park: Joining the Panderverse (2023)
-    url_poster: "https://api.mediux.pro/assets/71702dac-4810-41c7-b761-63a96fe032b0"
+    url_poster: "https://api.mediux.pro/assets/a1d72d99-47a3-4817-ade4-e077527bf483"
 
   1290938: # South Park: The End of Obesity (2024)
-    url_poster: "https://api.mediux.pro/assets/b5900ac7-846b-46ac-9264-67d1b24f1754"
+    url_poster: "https://api.mediux.pro/assets/718f25d3-0e58-4ce4-abfd-a1e1d2af2248"

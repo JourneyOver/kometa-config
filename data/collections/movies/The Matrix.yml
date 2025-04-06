@@ -1,12 +1,13 @@
 # Poster from:
-# https://theposterdb.com/set/6006
+# https://mediux.pro/sets/10702
 
 external_templates:
   - file: data/_templates.yml
 
 collections:
 
-  "Matrix":
+  "The Matrix":
     template: { name: Collection, collection: 2344, order: release }
-    url_poster: "https://theposterdb.com/api/assets/12041"
+    url_poster: "https://api.mediux.pro/assets/a999a470-ae5e-4964-b67f-ce314400121a"
     url_background: "https://image.tmdb.org/t/p/original/x3flXsIyGPEd0Kn0c0HOJ0ElRdT.jpg"
+    sort_title: "Matrix"

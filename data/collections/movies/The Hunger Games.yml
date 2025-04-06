@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/289066
+# https://mediux.pro/sets/7026
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "The Hunger Games":
     template: { name: Collection, collection: 131635, order: release }
-    url_poster: "https://theposterdb.com/api/assets/520229"
+    url_poster: "https://api.mediux.pro/assets/2d74542d-7a66-4d01-a662-63514227f04e"
     url_background: "https://image.tmdb.org/t/p/original/sCv97nXYJhoLrTgGHFsMnqVDTcF.jpg"
     sort_title: "Hunger Games"
