@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/175094
+
+metadata:
+
+  373679: # Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense (2020)
+    url_poster: "https://theposterdb.com/api/assets/296240"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/320461"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/296241"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/296242"

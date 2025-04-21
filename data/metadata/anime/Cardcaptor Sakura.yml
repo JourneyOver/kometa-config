@@ -1,0 +1,18 @@
+# Posters from:
+# https://theposterdb.com/set/237650
+
+metadata:
+
+  70668: # Cardcaptor Sakura (1998)
+    url_poster: "https://theposterdb.com/api/assets/429573"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/429574"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/429575"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/429576"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/429577"
+      4:
+        url_poster: "https://theposterdb.com/api/assets/429578"

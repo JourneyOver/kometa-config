@@ -1,0 +1,20 @@
+# Posters from:
+# https://theposterdb.com/set/189466
+
+metadata:
+
+  83996: # Black Butler (2008)
+    url_poster: "https://theposterdb.com/api/assets/322783"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/322784"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/322785"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/322786"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/322787"
+      4:
+        url_poster: "https://theposterdb.com/api/assets/459030"
+      5:
+        url_poster: "https://theposterdb.com/api/assets/570599"

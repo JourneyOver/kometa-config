@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/192239
+
+metadata:
+
+  386572: # Kuma Kuma Kuma Bear (2020)
+    url_poster: "https://theposterdb.com/api/assets/329840"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/329841"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/329842"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/329843"

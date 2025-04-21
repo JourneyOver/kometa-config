@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/152235
+
+metadata:
+
+  79481: # Death Note (2006)
+    url_poster: "https://theposterdb.com/api/assets/254856"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/254857"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/254858"

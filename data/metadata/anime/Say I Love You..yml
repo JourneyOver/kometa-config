@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/153952
+
+metadata:
+
+  262112: # Say "I Love You." (2012)
+    url_poster: "https://theposterdb.com/api/assets/258011"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/258013"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/258012"

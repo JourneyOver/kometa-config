@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/302080
+
+metadata:
+
+  83277: # Toradora! (2008)
+    url_poster: "https://theposterdb.com/api/assets/544526"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/544527"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/544528"

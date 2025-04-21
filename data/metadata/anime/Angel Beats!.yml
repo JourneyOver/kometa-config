@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/187546
+
+metadata:
+
+  150471: # Angel Beats! (2010)
+    url_poster: "https://theposterdb.com/api/assets/318566"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/318567"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/318568"

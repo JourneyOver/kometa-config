@@ -1,14 +1,14 @@
 # Posters from:
-# https://theposterdb.com/set/102278
+# https://theposterdb.com/set/106813
 
 metadata:
 
   73749: # Ghost in the Shell: Stand Alone Complex (2002)
-    url_poster: "https://theposterdb.com/api/assets/167329"
+    url_poster: "https://theposterdb.com/api/assets/175274"
     seasons:
 #      0:
-#        url_poster: "https://theposterdb.com/api/assets/167330"
+#        url_poster: "https://theposterdb.com/api/assets/175275"
       1:
-        url_poster: "https://theposterdb.com/api/assets/167331"
+        url_poster: "https://theposterdb.com/api/assets/175276"
       2:
-        url_poster: "https://theposterdb.com/api/assets/167332"
+        url_poster: "https://theposterdb.com/api/assets/175277"

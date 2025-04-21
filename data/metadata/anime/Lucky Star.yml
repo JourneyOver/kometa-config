@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/247408
+
+metadata:
+
+  80177: # Lucky Star (2007)
+    url_poster: "https://theposterdb.com/api/assets/447652"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/447653"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/447654"

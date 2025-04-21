@@ -12,5 +12,5 @@ metadata:
   271110: # Captain America: Civil War (2016)
     url_poster: "https://api.mediux.pro/assets/68c59ad1-64bf-4b5c-9569-487c699d6e39"
 
-#  822119: # Captain America: Brave New World (2025)
-#    url_poster: "https://api.mediux.pro/assets/5979072c-b724-49fe-be83-c6a8c93f6c5d"
+  822119: # Captain America: Brave New World (2025)
+    url_poster: "https://api.mediux.pro/assets/5979072c-b724-49fe-be83-c6a8c93f6c5d"

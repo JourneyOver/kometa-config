@@ -1,0 +1,18 @@
+# Posters from:
+# https://mediux.pro/sets/6491
+
+metadata:
+
+  267440: # Attack on Titan (2013)
+    url_poster: "https://api.mediux.pro/assets/c99f70ed-8ae5-4eae-a56c-800287f8364f"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/94b905d9-d288-43ca-b4cf-3ce16da4b135"
+      1:
+        url_poster: "https://api.mediux.pro/assets/4674ea29-28b9-4c54-9fc6-1f0e308bdb74"
+      2:
+        url_poster: "https://api.mediux.pro/assets/0482a369-a95b-46b4-8397-d3446dbaf534"
+      3:
+        url_poster: "https://api.mediux.pro/assets/1274ee28-9865-4ec3-b3cf-a8d52518d056"
+      4:
+        url_poster: "https://api.mediux.pro/assets/511cd66c-612c-42c3-b1ce-b0abcb2e5855"
