@@ -1,14 +1,16 @@
 # Posters from:
-# https://mediux.pro/sets/28242
+# https://mediux.pro/sets/33112
 
 metadata:
 
   357888: # Love, Death & Robots (2019)
-    url_poster: "https://api.mediux.pro/assets/b4a3df8c-41e5-4a2e-9075-bdf722bdacee"
+    url_poster: "https://api.mediux.pro/assets/a12c0210-5d58-493a-9fb5-624833c75b53"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/6db55931-b6c2-4ae7-b2bc-ed11f60cf8a5"
+        url_poster: "https://api.mediux.pro/assets/26e55bb3-72c8-4585-99db-0cd2680e305e"
       2:
-        url_poster: "https://api.mediux.pro/assets/caed8a8f-0d2c-4a0f-a3a7-57e4c3cf4c4a"
+        url_poster: "https://api.mediux.pro/assets/00610045-2447-4377-be25-f9b016c2919c"
       3:
-        url_poster: "https://api.mediux.pro/assets/1c89833c-9b5d-47ee-a621-eb1a7ec7c274"
+        url_poster: "https://api.mediux.pro/assets/005d5831-36c6-46e8-a37b-3ed17c649b92"
+      4:
+        url_poster: "https://api.mediux.pro/assets/9248379c-166d-4831-a3bc-a978223c3829"

@@ -1,0 +1,24 @@
+# Posters from:
+# https://mediux.pro/sets/13167
+
+metadata:
+
+  328724: # Young Sheldon (2017)
+    url_poster: "https://api.mediux.pro/assets/0d5a2e4f-a45b-4eae-be1c-1b1083720628"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/2d7ad2a9-514b-4b66-8700-fcd98914b807"
+      1:
+        url_poster: "https://api.mediux.pro/assets/58cdfed9-6ee8-4de3-a0db-4f48f5ab18a4"
+      2:
+        url_poster: "https://api.mediux.pro/assets/a9e85da2-dc78-4ad9-8c5a-f77b27dd32cc"
+      3:
+        url_poster: "https://api.mediux.pro/assets/34103918-2d86-4310-a689-17348c37d9c5"
+      4:
+        url_poster: "https://api.mediux.pro/assets/74d58da0-ccc4-4297-9b5c-58cbc7de0641"
+      5:
+        url_poster: "https://api.mediux.pro/assets/2928ab95-018f-4549-a33c-33d75a457ef1"
+      6:
+        url_poster: "https://api.mediux.pro/assets/46e73545-bb5e-4356-9948-0db12b340102"
+      7:
+        url_poster: "https://api.mediux.pro/assets/baac8afa-1195-40de-a372-bcb0bba7044e"

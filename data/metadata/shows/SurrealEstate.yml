@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/2544
+
+metadata:
+
+  377837: # SurrealEstate (2021)
+    url_poster: "https://api.mediux.pro/assets/9dfad645-64fd-46e8-997e-1c64a6ed4766"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/7cf5a7e2-582e-4c1b-b678-104fc1ec06e4"
+      2:
+        url_poster: "https://api.mediux.pro/assets/776f3a2e-b003-4c8d-9b76-3cdd2a33b1fa"
+      3:
+        url_poster: "https://api.mediux.pro/assets/364cc93b-88d1-46f4-88f0-d09840c5ca03"
