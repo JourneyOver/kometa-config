@@ -1,5 +1,5 @@
 # Poster from:
-# https://mediux.pro/sets/8298
+# https://mediux.pro/sets/33637
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "Mission: Impossible":
     template: { name: Collection, collection: 87359, order: release }
-    url_poster: "https://api.mediux.pro/assets/0cfce984-dd6e-4ec9-a7c9-14acbfeef774"
+    url_poster: "https://api.mediux.pro/assets/b268ec04-9bd6-4d5b-a523-2a5de06ea93b"
     url_background: "https://image.tmdb.org/t/p/original/jgxT4sP7uJUXSdjZsOPy27RmjPe.jpg"

@@ -1,26 +1,26 @@
 # Posters from:
-# https://mediux.pro/sets/28680
-# https://theposterdb.com/set/233497 (Backup?)
+# https://mediux.pro/sets/33402
 
 metadata:
 
   275274: # Rick and Morty (2013)
-    url_poster: "https://api.mediux.pro/assets/9fc9a81f-e2e6-46be-8569-93a83b226a94"
-    url_background: "https://api.mediux.pro/assets/5e030d76-e1b2-4a38-9f32-d1e78c86aa9e"
+    url_poster: "https://api.mediux.pro/assets/3e288d65-570c-4b9b-959a-71a5ddcdcf85"
     seasons:
 #      0:
-#        url_poster: "https://api.mediux.pro/assets/994ada49-409b-4ef1-9905-9fc51b5d415e"
+#        url_poster: "https://api.mediux.pro/assets/e079fc93-0127-4df2-8edc-563e239cb903"
       1:
-        url_poster: "https://api.mediux.pro/assets/49c1614d-b724-4e87-b931-91068dafbeb7"
+        url_poster: "https://api.mediux.pro/assets/a0d3d374-1e61-443a-8ba9-e4d8f05f9c09"
       2:
-        url_poster: "https://api.mediux.pro/assets/2e703fb9-e38b-4541-877d-f38adb29d83a"
+        url_poster: "https://api.mediux.pro/assets/57b6641c-0de2-432a-9e41-9ceb66872163"
       3:
-        url_poster: "https://api.mediux.pro/assets/59d71434-24ab-4883-b429-b5adff740cae"
+        url_poster: "https://api.mediux.pro/assets/87391214-502a-486f-8e68-db4f17633009"
       4:
-        url_poster: "https://api.mediux.pro/assets/804697bc-a341-4ac3-8549-b2512381c9f2"
+        url_poster: "https://api.mediux.pro/assets/20eaef47-a992-4286-955e-88e43b6aca15"
       5:
-        url_poster: "https://api.mediux.pro/assets/7c6df6bb-ce38-4499-9620-26f737e32a36"
+        url_poster: "https://api.mediux.pro/assets/5e7d1970-15f4-4faf-bcd3-eaf8af55dfdd"
       6:
-        url_poster: "https://api.mediux.pro/assets/c5203756-d8ac-4075-8a75-f65b92e154c8"
+        url_poster: "https://api.mediux.pro/assets/9db56e54-aabb-4f41-bc2c-f998b3909ca6"
       7:
-        url_poster: "https://api.mediux.pro/assets/ce1c4d32-65df-447c-8ea5-9b4811815ebf"
+        url_poster: "https://api.mediux.pro/assets/ac66a5f5-fe66-4e03-a579-8f6b82169514"
+      8:
+        url_poster: "https://api.mediux.pro/assets/5a4e0a3d-9408-4736-b0fc-e6b344dfe83a"

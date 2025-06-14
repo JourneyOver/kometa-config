@@ -1,25 +1,28 @@
 # Posters from:
-# https://mediux.pro/sets/8298
+# https://mediux.pro/sets/33637
 
 metadata:
 
   954: # Mission: Impossible (1996)
-    url_poster: "https://api.mediux.pro/assets/74612455-95c6-4a21-aece-ef1bcd90d98a"
+    url_poster: "https://api.mediux.pro/assets/e88e7ad5-e7cf-4ae9-bc02-be379062a1d7"
 
   955: # Mission: Impossible II (2000)
-    url_poster: "https://api.mediux.pro/assets/c8087158-87a9-4cd7-a0f0-85eb77b2d9be"
+    url_poster: "https://api.mediux.pro/assets/ad94c8d9-260d-47df-86fa-4938b1a7bac8"
 
   956: # Mission: Impossible III (2006)
-    url_poster: "https://api.mediux.pro/assets/ebce9516-91ae-4f60-8270-acdcf0da1457"
+    url_poster: "https://api.mediux.pro/assets/c061b7e3-2da8-486a-bdaa-2e2177a6d65f"
 
   56292: # Mission: Impossible - Ghost Protocol (2011)
-    url_poster: "https://api.mediux.pro/assets/0012ab94-9767-4399-bc86-ebb8f23b0c51"
+    url_poster: "https://api.mediux.pro/assets/41f502ac-85df-4d41-a48f-7088dc7bd148"
 
   177677: # Mission: Impossible - Rogue Nation (2015)
-    url_poster: "https://api.mediux.pro/assets/62f4216a-f342-4cf1-85e2-5f740194b4d0"
+    url_poster: "https://api.mediux.pro/assets/3fe490e9-be1d-4279-903b-3a9f4369d289"
 
   353081: # Mission: Impossible - Fallout (2018)
-    url_poster: "https://api.mediux.pro/assets/5eec5305-deca-4313-a7a7-682ce7ee1da2"
+    url_poster: "https://api.mediux.pro/assets/9723cc4c-18c7-4a39-85c5-e77162adf414"
 
   575264: # Mission: Impossible - Dead Reckoning Part One (2023)
-    url_poster: "https://api.mediux.pro/assets/cf428b22-6997-4662-a83d-75da11256e3e"
+    url_poster: "https://api.mediux.pro/assets/08e78fe0-139c-496b-b4fd-66bd44d7e53f"
+
+#  575265: # Mission: Impossible - The Final Reckoning (2025)
+#    url_poster: "https://api.mediux.pro/assets/bb626fb3-681e-4ceb-b4ca-1536b9a8d8e8"
