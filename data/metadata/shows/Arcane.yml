@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/27880
+
+metadata:
+
+  371028: # Arcane (2021)
+    url_poster: "https://api.mediux.pro/assets/0e7cfb88-2f78-4569-839c-c45441101dd8"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/2a8c4a5e-4f52-4fd3-bbf4-56417372ed00"
+      2:
+        url_poster: "https://api.mediux.pro/assets/bac3e823-7bf8-41ab-8e7c-39e1e33d5729"

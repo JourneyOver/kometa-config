@@ -1,22 +1,22 @@
 # Posters from:
-# https://theposterdb.com/set/101438
+# https://mediux.pro/sets/34457
 
 metadata:
 
   9532: # Final Destination (2000)
-    url_poster: "https://theposterdb.com/api/assets/165947"
+    url_poster: "https://api.mediux.pro/assets/38eec56d-4bb6-4367-bdd1-9f3aa73bd7b8"
 
   9358: # Final Destination 2 (2003)
-    url_poster: "https://theposterdb.com/api/assets/165948"
+    url_poster: "https://api.mediux.pro/assets/c5d8a169-9787-4f83-8eeb-14e34d3d8886"
 
   9286: # Final Destination 3 (2006)
-    url_poster: "https://theposterdb.com/api/assets/165949"
+    url_poster: "https://api.mediux.pro/assets/aadf72dc-8ab6-4553-8cab-576c96571081"
 
   19912: # The Final Destination (2009)
-    url_poster: "https://theposterdb.com/api/assets/165950"
+    url_poster: "https://api.mediux.pro/assets/ebdd177c-4ad1-4511-b234-2d1cc0c5188a"
 
   55779: # Final Destination 5 (2011)
-    url_poster: "https://theposterdb.com/api/assets/165951"
+    url_poster: "https://api.mediux.pro/assets/1a013172-6eb8-4770-b1cc-b780b1baba92"
 
-#  574475: # Final Destination Bloodlines (2025)
-#    url_poster: ""
+  574475: # Final Destination Bloodlines (2025)
+    url_poster: "https://api.mediux.pro/assets/83b84849-67b0-4adf-9a9c-9b070d9f32b8"
