@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/227399
+
+metadata:
+
+  421855: # Shangri-La Frontier (2023)
+    url_poster: "https://theposterdb.com/api/assets/407889"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/439984"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/407890"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/520277"

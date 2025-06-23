@@ -1,7 +1,11 @@
 # Posters from:
 # https://theposterdb.com/set/38323
+# https://theposterdb.com/set/38327
 
 metadata:
 
   923: # Dawn of the Dead (1978)
     url_poster: "https://theposterdb.com/api/assets/60045"
+
+  924: # Dawn of the Dead (2004)
+    url_poster: "https://theposterdb.com/api/assets/60053"

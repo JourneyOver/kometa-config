@@ -1,0 +1,39 @@
+# Posters from:
+# https://mediux.pro/sets/8077
+# https://mediux.pro/sets/8087
+# https://mediux.pro/sets/8088
+
+metadata:
+
+  11: # Star Wars (1977)
+    url_poster: "https://api.mediux.pro/assets/5b1cfb54-4b57-4f23-b4e7-f54aa51b424d"
+
+  1891: # The Empire Strikes Back (1980)
+    url_poster: "https://api.mediux.pro/assets/4aa8cadf-c162-459c-85ae-938453048617"
+
+  1892: # Return of the Jedi (1983)
+    url_poster: "https://api.mediux.pro/assets/784dc969-db54-4547-824e-179439a6a75e"
+
+  1893: # Star Wars: Episode I - The Phantom Menace (1999)
+    url_poster: "https://api.mediux.pro/assets/d83d8fb9-aeed-4c27-b0fb-33c6317d288c"
+
+  1894: # Star Wars: Episode II - Attack of the Clones (2002)
+    url_poster: "https://api.mediux.pro/assets/ad0eb2d1-9eb9-49d9-8c17-c4c15acce3af"
+
+  1895: # Star Wars: Episode III - Revenge of the Sith (2005)
+    url_poster: "https://api.mediux.pro/assets/aac26f61-0a20-424d-bd06-2deffafc6991"
+
+  140607: # Star Wars: The Force Awakens (2015)
+    url_poster: "https://api.mediux.pro/assets/f064c961-894f-4c0a-a268-cfb73ab73812"
+
+  330459: # Rogue One: A Star Wars Story (2016)
+    url_poster: "https://api.mediux.pro/assets/257ad48a-8d43-43dd-b440-1030afd0acd4"
+
+  181808: # Star Wars: The Last Jedi (2017)
+    url_poster: "https://api.mediux.pro/assets/3e2cb806-37aa-48ea-b9b1-d5eb1694d1b8"
+
+  348350: # Solo: A Star Wars Story (2018)
+    url_poster: "https://api.mediux.pro/assets/80c77057-f2c9-47d4-9b81-534ba2060330"
+
+  181812: # Star Wars: The Rise of Skywalker (2019)
+    url_poster: "https://api.mediux.pro/assets/5fd0a162-463f-4c93-99d6-af17c5081a99"

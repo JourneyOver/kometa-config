@@ -1,0 +1,12 @@
+# Poster from:
+# https://mediux.pro/boxsets/385
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Star Wars":
+    template: { name: Collection, collection: 10, movies: "330459, 348350", order: release }
+    url_poster: "https://api.mediux.pro/assets/4ac7ba4c-51a7-4ae9-94f9-0e876045d87f"
+    url_background: "https://image.tmdb.org/t/p/original/iY2ujEY2m68OTTlPFTiHub9joHS.jpg"
