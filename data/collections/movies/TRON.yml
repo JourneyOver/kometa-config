@@ -1,0 +1,12 @@
+# Poster from:
+# https://mediux.pro/sets/9490
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "TRON":
+    template: { name: Collection, collection: 63043, order: release }
+    url_poster: "https://api.mediux.pro/assets/7c3f6974-232b-42b0-a05a-0b2da31ff471"
+    url_background: "https://image.tmdb.org/t/p/original/x2G00OWzUAYwus1FgpeYZM9CZP9.jpg"

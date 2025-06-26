@@ -1,0 +1,20 @@
+# Posters from:
+# https://mediux.pro/sets/14837
+
+metadata:
+
+  81189: # Breaking Bad (2008)
+    url_poster: "https://api.mediux.pro/assets/5f37f2cd-0bde-40de-acf9-02b8c3efc209"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/561e3f7d-26d5-49ef-9ca3-2960a502d789"
+      1:
+        url_poster: "https://api.mediux.pro/assets/3e130bb1-3152-4b32-8cb8-3af0df2ff8f3"
+      2:
+        url_poster: "https://api.mediux.pro/assets/8ad44125-86d2-4f73-adfe-ca4e90c0cd2a"
+      3:
+        url_poster: "https://api.mediux.pro/assets/92fc4af1-2c6a-42a4-b906-2b78c11886bd"
+      4:
+        url_poster: "https://api.mediux.pro/assets/8eca557e-7834-4349-b704-4af30db84f9d"
+      5:
+        url_poster: "https://api.mediux.pro/assets/14fd6209-49d0-40d0-9264-6eee5336db35"

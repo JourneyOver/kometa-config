@@ -1,0 +1,16 @@
+# Posters from:
+# https://theposterdb.com/set/110221
+
+metadata:
+
+  74413: # The Boondocks (2005)
+    url_poster: "https://theposterdb.com/api/assets/181130"
+    seasons:
+      1:
+        url_poster: "https://theposterdb.com/api/assets/181131"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/181132"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/181133"
+      4:
+        url_poster: "https://theposterdb.com/api/assets/181134"

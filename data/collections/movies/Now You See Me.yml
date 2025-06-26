@@ -1,0 +1,12 @@
+# Poster from:
+# https://mediux.pro/sets/13812
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Now You See Me":
+    template: { name: Collection, collection: 382685, order: release }
+    url_poster: "https://api.mediux.pro/assets/d7734187-40f1-47a5-915c-0c0fd069ff0a"
+    url_background: "https://image.tmdb.org/t/p/original/uCPudzd2npoDl0gA5HvEDbwYQHV.jpg"
