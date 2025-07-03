@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/10242
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Old Guard":
+    template: { name: Collection, collection: 847029, order: release }
+    url_poster: "https://api.mediux.pro/assets/7ca96935-8626-4670-9b07-565e670d0a99"
+    url_background: "https://image.tmdb.org/t/p/original/A7fKA5gQEUh2Rf9s4zaYyIpCU6o.jpg"
+    sort_title: "Old Guard"

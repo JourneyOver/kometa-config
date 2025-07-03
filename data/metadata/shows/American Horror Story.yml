@@ -1,0 +1,32 @@
+# Posters from:
+# https://mediux.pro/sets/35069
+
+metadata:
+
+  250487: # American Horror Story (2011)
+    url_poster: "https://api.mediux.pro/assets/54c538c7-9c9d-4c4a-b2a8-116936e3995a"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/9c9376f4-7ab1-42ff-aeec-13c586b6187e"
+      2:
+        url_poster: "https://api.mediux.pro/assets/32bf3551-5114-4738-8441-d070a3ca4f5f"
+      3:
+        url_poster: "https://api.mediux.pro/assets/8d3f0a79-951a-466e-875f-2af4401c0640"
+      4:
+        url_poster: "https://api.mediux.pro/assets/2a6a76ac-ba3a-4096-b001-96ae20850bd8"
+      5:
+        url_poster: "https://api.mediux.pro/assets/47593b44-6837-46cb-8b95-c4a0c9ec7e73"
+      6:
+        url_poster: "https://api.mediux.pro/assets/64cac480-3340-4346-b73f-bbb0670d18d8"
+      7:
+        url_poster: "https://api.mediux.pro/assets/4e8cc6b5-60f6-4da5-bb01-20d3d892d1bf"
+      8:
+        url_poster: "https://api.mediux.pro/assets/8eb049c0-7780-4e73-a347-18a8d96a365c"
+      9:
+        url_poster: "https://api.mediux.pro/assets/e40d2c55-3f80-44a5-9e33-933fdd576da3"
+      10:
+        url_poster: "https://api.mediux.pro/assets/9b270ec4-b26d-4b4b-8714-a6259ffd5483"
+      11:
+        url_poster: "https://api.mediux.pro/assets/413e1bd2-5e68-4473-9b8a-29c59552b941"
+      12:
+        url_poster: "https://api.mediux.pro/assets/2661ae4a-92a8-402a-b8fd-da7b53b81f07"
