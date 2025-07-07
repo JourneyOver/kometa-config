@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/218692
+
+metadata:
+
+  431162: # The Apothecary Diaries (2023)
+    url_poster: "https://theposterdb.com/api/assets/388822"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/474397"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/388823"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/474395"

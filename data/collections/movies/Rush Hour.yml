@@ -1,0 +1,12 @@
+# Poster from:
+# https://theposterdb.com/set/6836
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Rush Hour":
+    template: { name: Collection, collection: 90863, order: release }
+    url_poster: "https://theposterdb.com/api/assets/13266"
+    url_background: "https://image.tmdb.org/t/p/original/uoDt3eCCKpcxSQVWjPTgN8T0gjm.jpg"

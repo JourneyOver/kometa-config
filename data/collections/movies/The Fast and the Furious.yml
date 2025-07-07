@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/9740
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Fast and the Furious":
+    template: { name: Collection, collection: 9485, order: release }
+    url_poster: "https://api.mediux.pro/assets/17403228-8503-4ce5-89f6-289f53e6938c"
+    url_background: "https://image.tmdb.org/t/p/original/z5A5W3WYJc3UVEWljSGwdjDgQ0j.jpg"
+    sort_title: "Fast and the Furious"

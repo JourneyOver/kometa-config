@@ -1,0 +1,22 @@
+# Posters from:
+# https://mediux.pro/sets/31164
+
+metadata:
+
+  321239: # The Handmaid's Tale (2017)
+    url_poster: "https://api.mediux.pro/assets/36cf597f-a846-4e87-b5a0-eb23098476f5"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/fb64334f-5aa6-4937-9e30-e0b03284957f"
+      1:
+        url_poster: "https://api.mediux.pro/assets/9e41cbe4-c9b2-4950-a581-b252bd266e3b"
+      2:
+        url_poster: "https://api.mediux.pro/assets/04a49d87-3b87-4557-ac2d-16a33fde9ab5"
+      3:
+        url_poster: "https://api.mediux.pro/assets/f5f107db-0305-44f9-b3a1-fac76291bc9d"
+      4:
+        url_poster: "https://api.mediux.pro/assets/9342a42f-3b7b-417b-8780-dee35487b387"
+      5:
+        url_poster: "https://api.mediux.pro/assets/acb41e9b-56d5-493a-bb6b-452573beab19"
+      6:
+        url_poster: "https://api.mediux.pro/assets/b1354481-fe9a-4d2e-b79c-3e97b85418f5"

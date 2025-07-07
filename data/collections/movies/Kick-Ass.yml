@@ -1,0 +1,12 @@
+# Poster from:
+# https://mediux.pro/sets/13813
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Kick-Ass":
+    template: { name: Collection, collection: 179892, order: release }
+    url_poster: "https://api.mediux.pro/assets/af2ef8e3-9faf-44d5-8863-2a89f6d72802"
+    url_background: "https://image.tmdb.org/t/p/original/fYMsCXEMguNlSORJIHydfBgOnty.jpg"

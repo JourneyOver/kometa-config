@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/21209
+
+metadata:
+
+  345246: # The Haunting (2018)
+    url_poster: "https://api.mediux.pro/assets/70501fe8-1278-4d16-93d5-599c214e2e09"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/7bd47b85-67b7-47bb-83ec-1f010c41db0d"
+      2:
+        url_poster: "https://api.mediux.pro/assets/0a87bb72-3635-4bb3-85be-14005433c1dc"

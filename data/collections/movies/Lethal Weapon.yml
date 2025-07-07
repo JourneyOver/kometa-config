@@ -1,0 +1,12 @@
+# Poster from:
+# https://theposterdb.com/set/58018
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Lethal Weapon":
+    template: { name: Collection, collection: 945, order: release }
+    url_poster: "https://theposterdb.com/api/assets/91430"
+    url_background: "https://image.tmdb.org/t/p/original/jSslTHuJS86fp4SVJKP9oBhE4s6.jpg"

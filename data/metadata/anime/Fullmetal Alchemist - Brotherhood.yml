@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/204843
+
+metadata:
+
+  85249: # Fullmetal Alchemist: Brotherhood (2009)
+    url_poster: "https://theposterdb.com/api/assets/358866"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/358867"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/358868"

@@ -1,10 +1,12 @@
 # Posters from:
-# https://theposterdb.com/set/295284
+# https://mediux.pro/sets/26655
 
 metadata:
 
   432832: # Dan Da Dan (2024)
-    url_poster: "https://theposterdb.com/api/assets/531630"
+    url_poster: "https://api.mediux.pro/assets/50726022-9493-4e1a-b2ec-1f8d788a353a"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/531631"
+        url_poster: "https://api.mediux.pro/assets/7e3ee763-052d-4974-a7b4-eb67a33b5280"
+      2:
+        url_poster: "https://api.mediux.pro/assets/f51aef45-a8f0-4335-be7d-926e32b2b17e"

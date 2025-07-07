@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/636
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Equalizer":
+    template: { name: Collection, collection: 523855, order: release }
+    url_poster: "https://api.mediux.pro/assets/75fce238-a1f3-40a3-add1-0cb5290a89b6"
+    url_background: "https://image.tmdb.org/t/p/original/wac5llYhh0lC24yNWljrcOe4sR9.jpg"
+    sort_title: "Equalizer"

@@ -1,0 +1,12 @@
+# Poster from:
+# https://theposterdb.com/set/61023
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Train to Busan":
+    template: { name: Collection, collection: 619537, order: release }
+    url_poster: "https://theposterdb.com/api/assets/96438"
+    url_background: "https://image.tmdb.org/t/p/original/6Gt3NvpelUyox2oH0Dh31KuL9dG.jpg"

@@ -1,5 +1,5 @@
 # Poster from:
-#
+# https://mediux.pro/sets/14996
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "Alice in Wonderland":
     template: { name: Collection, collection: 261307, order: release }
-#    url_poster: ""
-#    url_background: ""
+    url_poster: "https://api.mediux.pro/assets/ba75cbf4-f940-4cd5-8029-1c1dd4805c9d"
+    url_background: "https://image.tmdb.org/t/p/original/fzGOQGhDukbx12UdPbaXOlZPX67.jpg"

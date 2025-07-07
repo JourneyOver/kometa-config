@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/30856
+
+metadata:
+
+  361013: # BEASTARS (2019)
+    url_poster: "https://api.mediux.pro/assets/2e0af6ed-4a3d-4985-a1af-c4c1aef05cf2"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/e576755a-d7f0-4633-a2c0-1928612a1ce6"
+      2:
+        url_poster: "https://api.mediux.pro/assets/bb138741-0a5c-4f9a-a8db-46aa259d873b"
+      3:
+        url_poster: "https://api.mediux.pro/assets/91e81be5-669a-4cd9-93a9-4ea89debb1f2"

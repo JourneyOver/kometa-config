@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/204818
+
+metadata:
+
+  75579: # Fullmetal Alchemist (2003)
+    url_poster: "https://theposterdb.com/api/assets/358833"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/358834"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/358835"
