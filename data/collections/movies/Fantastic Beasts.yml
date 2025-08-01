@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 435259, order: release }
     url_poster: "https://api.mediux.pro/assets/c69751fd-479b-494e-8788-e5cbff0b8771"
     url_background: "https://image.tmdb.org/t/p/original/bS043RNCoBf9UoPjv4EMzKbyAnZ.jpg"
+    summary: "In a magical world filled with extraordinary creatures and dark secrets, a talented magizoologist and his allies confront rising threats that could change the fate of wizardkind. Their journey spans continents and reveals hidden truths, where loyalty, courage, and the battle between good and evil shape their destinies."

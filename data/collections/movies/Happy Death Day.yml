@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 526380, order: release }
     url_poster: "https://theposterdb.com/api/assets/49481"
     url_background: "https://image.tmdb.org/t/p/original/arJ8VLhhp0QrGZ4kQcDXB2Im1vA.jpg"
+    summary: "Trapped in a looping nightmare, a college student relives the day of her murder over and over, uncovering secrets and confronting dangers with each reset. Balancing suspense and dark humor, her fight to break the cycle reveals unexpected truths about fate, identity, and second chances."

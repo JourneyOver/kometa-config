@@ -1,0 +1,13 @@
+# Poster from:
+#
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "DC Universe":
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/dc-universe, order: release }
+#    url_poster: ""
+#    url_background: ""
+#    summary: ""

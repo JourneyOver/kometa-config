@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 1570, order: release }
     url_poster: "https://api.mediux.pro/assets/e8e504a8-b517-455a-8b02-fbdc539bc5bd"
     url_background: "https://image.tmdb.org/t/p/original/7LSSYjSt94Hs3YYDzMGLkAdGLoF.jpg"
+    summary: "New York cop John McClane finds himself caught in the middle of relentless terrorist attacks and impossible odds. With quick wit, grit, and sheer determination, he battles through explosive situations, saving lives while pushing the limits of survival and heroism."

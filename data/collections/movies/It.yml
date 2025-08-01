@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 477962, order: release }
     url_poster: "https://theposterdb.com/api/assets/44798"
     url_background: "https://image.tmdb.org/t/p/original/5tvPVxhkFwcL9gnS7RXai3PL6dc.jpg"
+    summary: "In the small town of Derry, a group of childhood friends confronts a terrifying, shape-shifting entity that feeds on fear. Years later, they must reunite to face the darkness once more, as the haunting presence tests their courage, friendship, and the strength to overcome their deepest fears."

@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 264, order: release }
     url_poster: "https://theposterdb.com/api/assets/108170"
     url_background: "https://image.tmdb.org/t/p/original/jahCHmGrfVg66FWhwkibjJyszHT.jpg"
+    summary: "When teenager Marty McFly and eccentric inventor Doc Brown tamper with time using a DeLorean, they spark a chain of thrilling, hilarious, and sometimes dangerous adventures through the past, present, and future. As they race to fix history and protect their loved ones, every jump through time brings new surprises and unforgettable twists."

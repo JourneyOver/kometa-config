@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/35087
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Lilo & Stitch":
+    template: { name: Collection, collection: 1504372, order: release }
+#    url_poster: ""
+#    url_background: "https://image.tmdb.org/t/p/original/g4uH9acht2dhW2rUCxmzLO1s3Fi.jpg"
+    summary: "A lonely girl and a chaotic alien creature form an unexpected connection that transforms their lives in extraordinary ways. Set against the backdrop of Hawaii, their journey is filled with humor, heart, and the reminder that family means no one gets left behind."

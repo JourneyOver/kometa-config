@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 404609, order: release }
     url_poster: "https://api.mediux.pro/assets/11363094-d4f6-46f0-ac5b-b0fc484f1e4b"
     url_background: "https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg"
+    summary: "A legendary assassin is pulled back into a deadly underworld he tried to leave behind. Fueled by vengeance and unyielding determination, he faces relentless enemies and impossible odds, turning every fight into a masterclass of precision, survival, and retribution."

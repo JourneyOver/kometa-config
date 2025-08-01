@@ -1,5 +1,5 @@
 # Poster from:
-# https://mediux.pro/sets/8959
+# https://theposterdb.com/set/325635
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "The Karate Kid":
     template: { name: Collection, collection: 8580, order: release }
-    url_poster: "https://api.mediux.pro/assets/6779dc3a-1bbe-4283-b3fb-c21875dcef2b"
+    url_poster: "https://theposterdb.com/api/assets/585545"
     url_background: "https://image.tmdb.org/t/p/original/dATAxK1eWnqHPRqrkc3cEHMRhXn.jpg"
     sort_title: "Karate Kid"

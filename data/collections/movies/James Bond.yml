@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 645, order: release }
     url_poster: "https://api.mediux.pro/assets/ae69f8ed-3102-4846-894c-c490cf860b99"
     url_background: "https://image.tmdb.org/t/p/original/peKR7ulbgkWVOU6kFkG3EUDJOSM.jpg"
+    summary: "Agent 007 navigates a world of espionage, danger, and high-stakes missions with charm, skill, and cutting-edge gadgets. From exotic locations to deadly adversaries, his relentless pursuit of justice and loyalty tests his wit, courage, and resolve in a timeless battle against global threats."

@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 386382, order: release }
     url_poster: "https://api.mediux.pro/assets/2f0ce32f-2968-48dc-b263-d5c22f424399"
     url_background: "https://image.tmdb.org/t/p/original/k21wXgC9AVnKoHW1lRPS0UUGCZ4.jpg"
+    summary: "In the enchanted kingdom of Arendelle, sisters Elsa and Anna navigate the challenges of love, courage, and self-discovery. With magical powers, loyal friends, and epic journeys through mystical lands, they face both inner and outer storms, revealing the enduring power of family and hope."

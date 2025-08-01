@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 328, order: release }
     url_poster: "https://theposterdb.com/api/assets/125882"
     url_background: "https://image.tmdb.org/t/p/original/uJIVT9HaHE3wrin0WSb4NBCGwO7.jpg"
+    summary: "When science brings dinosaurs back to life, the wonder of discovery quickly turns to chaos as nature's most fearsome creatures break free. Amidst breathtaking landscapes and escalating danger, humans must confront the consequences of playing with power they cannot control."

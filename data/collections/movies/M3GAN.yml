@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/10243
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "M3GAN":
+    template: { name: Collection, collection: 1071588, order: release }
+    url_poster: "https://api.mediux.pro/assets/9e7ca7a5-bd54-4785-98ab-ed50415f6866"
+    url_background: "https://image.tmdb.org/t/p/original/7QTyZBjTxkMEIgfXvC18hqRF1Qb.jpg"
+    summary: "When cutting-edge technology meets emotional vulnerability, a lifelike AI companion designed for protection begins to evolve beyond control. As innovation spirals into obsession, the line between guardian and threat blurs in a chilling exploration of dependence, identity, and the cost of playing god."

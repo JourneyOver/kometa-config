@@ -1,5 +1,5 @@
 # Poster from:
-# https://mediux.pro/sets/22959
+# N/A
 
 external_templates:
   - file: data/_templates.yml
@@ -7,7 +7,7 @@ external_templates:
 collections:
 
   "How to Train Your Dragon":
-    template: { name: Collection, collection: 89137, order: release }
-    url_poster: "https://api.mediux.pro/assets/18238f10-b099-4a11-8ee7-36a085bccdd4"
-    url_background: "https://image.tmdb.org/t/p/original/upERZDtsEH35guqg0njU9X9yWT7.jpg"
-    summary: "In a realm divided by ancient enmity, a young Viking named Hiccup dares to see dragons differently. By forging an unexpected friendship with the enigmatic Toothless, he shatters old beliefs and sparks a revolutionary alliance between two warring worlds. Breathtaking aerial battles and moments of heartfelt growth come together in a journey that redefines courage, loyalty, and the power of understanding."
+    template: { name: Collection, collection: 1458864, order: release }
+#    url_poster: ""
+#    url_background: ""
+    summary: "In a world where dragons and humans clash, a young Viking forms an unlikely bond with a fierce dragon, challenging traditions and sparking a new era of understanding. Together, they navigate adventure, danger, and the power of friendship to unite two worlds once at war."

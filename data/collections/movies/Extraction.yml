@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 735127, order: release }
     url_poster: "https://api.mediux.pro/assets/fde308f7-9f0d-4cde-aa4c-44731df521b1"
     url_background: "https://image.tmdb.org/t/p/original/gxBbFVb2SUWtHTJQXjwAtEPTWcA.jpg"
+    summary: "A skilled operative takes on dangerous missions in hostile territories to rescue those caught in the crossfire of crime and corruption. Facing relentless enemies and impossible odds, his journey is a pulse-pounding fight for redemption, survival, and justice."

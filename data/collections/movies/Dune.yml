@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 726871, order: release }
     url_poster: "https://theposterdb.com/api/assets/356988"
     url_background: "https://image.tmdb.org/t/p/original/fahk0Fu7VUUfK6IkTt1R3waOD9F.jpg"
+    summary: "On the desert planet Arrakis, a young noble faces political intrigue, ancient prophecy, and deadly forces vying for control of the galaxy's most valuable resource. As power shifts and destinies collide, the struggle for survival and leadership unfolds amid vast landscapes, mysterious traditions, and unforgettable heroes."

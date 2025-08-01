@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/351219
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Happy Gilmore":
+    template: { name: Collection, collection: 1263259, order: release }
+    url_poster: "https://theposterdb.com/api/assets/628363"
+    url_background: "https://image.tmdb.org/t/p/original/mhrE9ij30cIvPFVFRXZSwwTchUg.jpg"
+    summary: "A hot-tempered hockey player with a powerful swing takes the golf world by storm in the most unconventional way possible. As he battles rivals, personal challenges, and outrageous odds, his wild journey turns into a hilarious quest for respect, redemption, and a whole lot of laughs."

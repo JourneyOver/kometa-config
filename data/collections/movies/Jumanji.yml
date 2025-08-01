@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 495527, order: release }
     url_poster: "https://api.mediux.pro/assets/471192f5-8084-415d-9ea0-b6b0c94b3712"
     url_background: "https://image.tmdb.org/t/p/original/9PCsWrw1GvrZkrd1GCxRqscgZu0.jpg"
+    summary: "A mysterious game transports players into wild, unpredictable worlds where courage, teamwork, and quick thinking are the keys to survival. Facing jungle dangers and unexpected challenges, each adventure reveals the power of friendship and the thrill of the unknown."

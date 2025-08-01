@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 179892, order: release }
     url_poster: "https://api.mediux.pro/assets/af2ef8e3-9faf-44d5-8863-2a89f6d72802"
     url_background: "https://image.tmdb.org/t/p/original/fYMsCXEMguNlSORJIHydfBgOnty.jpg"
+    summary: "A teenage boy with no powers decides to become a superhero, inspiring a wave of costumed vigilantes and attracting dangerous enemies. With brutal action and dark humor, this story explores what happens when ordinary people take justice into their own hands."

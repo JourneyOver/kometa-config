@@ -1,0 +1,14 @@
+# Poster from:
+# https://mediux.pro/sets/11712
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Lilo & Stitch (Animation)":
+    template: { name: Collection, collection: 97461, order: release }
+    url_poster: "https://api.mediux.pro/assets/f5a7e1d4-86ba-4ff6-8113-fb21e976155f"
+    url_background: "https://image.tmdb.org/t/p/original/fmQpyiY2g2muOOLXQ0S0mTPij8I.jpg"
+    sort_title: "Lilo & Stitch"
+    summary: "On the islands of Hawaii, a spirited girl and a mischievous alien experiment form an unbreakable bond that defies expectations. As new threats emerge and their ohana grows, they face chaos, adventure, and heartfelt moments that celebrate family, friendship, and the power of belonging."

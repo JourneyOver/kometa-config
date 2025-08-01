@@ -1,5 +1,5 @@
 # Poster from:
-#
+# https://mediux.pro/sets/770
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,6 @@ collections:
 
   "Child's Play":
     template: { name: Collection, collection: 10455, movies: 533642, order: release }
-#    url_poster: ""
-#    url_background: ""
+    url_poster: "https://api.mediux.pro/assets/2a6d345e-fe8f-4265-9c17-cce03b1a868c"
+    url_background: "https://image.tmdb.org/t/p/original/k52STDUoVxWxzCVeQTl5wG27t12.jpg"
+    summary: "A seemingly innocent doll becomes a terrifying vessel for a relentless killer, unleashing chaos and fear wherever it goes. From haunted homes to dark secrets, the twisted saga explores the battle between innocence and evil, blending horror, dark humor, and chilling suspense."

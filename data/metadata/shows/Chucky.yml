@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/771
+
+metadata:
+
+  349415: # Chucky (2021)
+    url_poster: "https://api.mediux.pro/assets/fa5f7887-8610-45f0-9dbc-78bf1d500065"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/04347ecf-c81c-48b5-9f07-19963685c30a"
+      2:
+        url_poster: "https://api.mediux.pro/assets/e673a5a6-3a15-4c7f-8989-df87bd2d9e3a"
+      3:
+        url_poster: "https://api.mediux.pro/assets/661503c3-1198-4cf1-8da3-07e9bc513aa3"

@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/158803
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Chronicles of Riddick":
+    template: { name: Collection, collection: 2794, order: release }
+    url_poster: "https://theposterdb.com/api/assets/266345"
+    url_background: "https://image.tmdb.org/t/p/original/kwIk8MxT9TG0uJGsyLUyNfuqRQu.jpg"
+    sort_title: "Chronicles of Riddick"

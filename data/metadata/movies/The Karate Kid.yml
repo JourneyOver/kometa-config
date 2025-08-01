@@ -1,20 +1,22 @@
 # Posters from:
-# https://mediux.pro/sets/8959
-# https://mediux.pro/sets/2200
+# https://theposterdb.com/set/325635
 
 metadata:
 
   1885: # The Karate Kid (1984)
-    url_poster: "https://api.mediux.pro/assets/15761dd0-bc44-4299-a22f-049b76ba779f"
+    url_poster: "https://theposterdb.com/api/assets/585550"
 
   8856: # The Karate Kid Part II (1986)
-    url_poster: "https://api.mediux.pro/assets/dc577571-4877-4173-b02c-157ca7e377e2"
+    url_poster: "https://theposterdb.com/api/assets/585549"
 
   10495: # The Karate Kid Part III (1989)
-    url_poster: "https://api.mediux.pro/assets/ce6fef1d-d292-4dfa-bd3c-926ba6f158b6"
+    url_poster: "https://theposterdb.com/api/assets/585548"
 
   11231: # The Next Karate Kid (1994)
-    url_poster: "https://api.mediux.pro/assets/737fd108-8625-4ded-8a2e-83841f886187"
+    url_poster: "https://theposterdb.com/api/assets/585547"
 
   38575: # The Karate Kid (2010)
-    url_poster: "https://api.mediux.pro/assets/dcf41eb6-204f-4a90-bcf8-fac0f14de82e"
+    url_poster: "https://theposterdb.com/api/assets/585546"
+
+  1011477: # Karate Kid: Legends (2025)
+    url_poster: "https://theposterdb.com/api/assets/585551"

@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 508783, order: release }
     url_poster: "https://theposterdb.com/api/assets/20482"
     url_background: "https://image.tmdb.org/t/p/original/hMOwqSghhz4AStkXxCjL1BjXdV0.jpg"
+    summary: "When the supernatural escapes from the pages of a mysterious book, ordinary kids must face bizarre creatures and eerie mysteries. Blending thrills, laughs, and a touch of the unexpected, their adventures prove that courage and friendship can overcome even the spookiest challenges."

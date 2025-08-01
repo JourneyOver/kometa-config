@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 1006, order: release }
     url_poster: "https://api.mediux.pro/assets/90c21044-6274-4b74-8886-71ebcd313085"
     url_background: "https://image.tmdb.org/t/p/original/awVbmnFGpkeHvIDbt6jjdgFe18Q.jpg"
+    summary: "Groovy British spy Austin Powers battles eccentric villains, outrageous plots, and the awkwardness of modern times with charm, absurd gadgets, and shagadelic flair. From swinging '60s style to time-traveling escapades, his quest to stop evil never skips a beat or a punchline."

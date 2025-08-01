@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 14890, order: release }
     url_poster: "https://api.mediux.pro/assets/9cba9788-3e8d-44e1-9d73-17a4c43f8c07"
     url_background: "https://image.tmdb.org/t/p/original/r8kZJbi6UNhilLhM5WhauYELIR8.jpg"
+    summary: "Two Miami detectives with a sharp wit and unbreakable bond face high-stakes cases that push their limits. Between explosive action, fast cars, and relentless criminals, their partnership balances chaos and camaraderie, proving that loyalty and friendship are their greatest weapons."

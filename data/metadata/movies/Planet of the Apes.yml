@@ -1,13 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/640
+
 metadata:
 
   61791: # Rise of the Planet of the Apes (2011)
-    url_poster: "https://theposterdb.com/api/assets/138600"
+    url_poster: "https://api.mediux.pro/assets/038d754a-f1f5-4dfa-9885-9b2bb2159810"
 
   119450: # Dawn of the Planet of the Apes (2014)
-    url_poster: "https://theposterdb.com/api/assets/138601"
+    url_poster: "https://api.mediux.pro/assets/e40bd02a-18b3-4f87-9ebb-17d9b547f5ed"
 
   281338: # War for the Planet of the Apes (2017)
-    url_poster: "https://theposterdb.com/api/assets/138602"
+    url_poster: "https://api.mediux.pro/assets/32cf229f-b89b-42e3-bf56-ae5e8cce709c"
 
   653346: # Kingdom of the Planet of the Apes (2024)
-    url_poster: "https://theposterdb.com/api/assets/483882"
+    url_poster: "https://api.mediux.pro/assets/b5dd7298-4088-4294-8597-8a70828cf299"

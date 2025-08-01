@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 1960, movies: "109428, 713704", order: release }
     url_poster: "https://theposterdb.com/api/assets/466418"
     url_background: "https://image.tmdb.org/t/p/original/52ucWq0dQLUTb6PPH9q4jm9MY7f.jpg"
+    summary: "In isolated cabins and dark places, unsuspecting individuals confront ancient, malevolent forces that unleash terror and madness. Blending horror and dark humor, their fight against relentless evil becomes a harrowing and sometimes hilarious battle for survival against supernatural darkness."

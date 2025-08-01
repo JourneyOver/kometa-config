@@ -11,3 +11,4 @@ collections:
     template: { name: Collection, collection: 84, order: release }
     url_poster: "https://theposterdb.com/api/assets/87730"
     url_background: "https://image.tmdb.org/t/p/original/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg"
+    summary: "Adventurous archaeologist Indiana Jones travels the globe uncovering ancient relics and confronting dangerous foes. From hidden temples to secret societies, his daring exploits blend action, wit, and history as he races against time to protect powerful artifacts from falling into the wrong hands."

@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 72119, order: release }
     url_poster: "https://theposterdb.com/api/assets/27434"
     url_background: "https://image.tmdb.org/t/p/original/sfT3NqSnjEDY1449qBgQRWOIcaq.jpg"
+    summary: "When a quirky inventor's experiments go wildly wrong, his family finds themselves shrinking, growing, and facing everyday dangers from a brand-new perspective. Packed with inventive humor and heart, their adventures turn the ordinary into extraordinary challenges filled with laughter and love."

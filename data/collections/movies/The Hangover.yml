@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/28943
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Hangover":
+    template: { name: Collection, collection: 86119, order: release }
+    url_poster: "https://api.mediux.pro/assets/d49dcc44-7f71-4add-bc4e-a5350b786c75"
+    url_background: "https://image.tmdb.org/t/p/original/9tpB49XNPEvxEkdsIkJWP0sZWtf.jpg"
+    sort_title: "Hangover"

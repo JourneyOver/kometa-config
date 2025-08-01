@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 87096, order: release }
     url_poster: "https://theposterdb.com/api/assets/277976"
     url_background: "https://image.tmdb.org/t/p/original/i7wJUZCq3L3cuH5PLum6jqbG0pr.jpg"
+    summary: "On the breathtaking moon of Pandora, the struggle to protect a sacred land unfolds through epic battles, deep bonds, and evolving destinies. As the Na'vi fight to preserve their way of life from those who seek to exploit it, love, family, and connection to nature guide their path through awe-inspiring worlds and growing threats."

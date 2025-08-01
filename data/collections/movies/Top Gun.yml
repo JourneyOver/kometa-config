@@ -1,0 +1,12 @@
+# Poster from:
+# https://mediux.pro/sets/8981
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Top Gun":
+    template: { name: Collection, collection: 531330, order: release }
+    url_poster: "https://api.mediux.pro/assets/dd98bc27-6966-4a7c-af88-3889b2f47f48"
+    url_background: "https://image.tmdb.org/t/p/original/eNupRRVv0a4dkVTxOMvG7LhNBaq.jpg"
