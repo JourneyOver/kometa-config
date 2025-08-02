@@ -1,16 +1,19 @@
+# Posters from:
+# https://mediux.pro/sets/8780
+
 metadata:
 
   85: # Raiders of the Lost Ark (1981)
-    url_poster: "https://theposterdb.com/api/assets/87731"
+    url_poster: "https://api.mediux.pro/assets/10e19d82-6480-46b3-8ae0-1e67b5fb2b6a"
 
   87: # Indiana Jones and the Temple of Doom (1984)
-    url_poster: "https://theposterdb.com/api/assets/87732"
+    url_poster: "https://api.mediux.pro/assets/3a41993e-6c8a-433b-87bd-d69266d8444b"
 
   89: # Indiana Jones and the Last Crusade (1989)
-    url_poster: "https://theposterdb.com/api/assets/87733"
+    url_poster: "https://api.mediux.pro/assets/2e0057c4-ecd7-43ca-b02e-2003878c4c15"
 
   217: # Indiana Jones and the Kingdom of the Crystal Skull (2008)
-    url_poster: "https://theposterdb.com/api/assets/87734"
+    url_poster: "https://api.mediux.pro/assets/9f505a29-0573-4b24-bc88-9c68daafeaf9"
 
   335977: # Indiana Jones and the Dial of Destiny (2023)
-    url_poster: "https://theposterdb.com/api/assets/383349"
+    url_poster: "https://api.mediux.pro/assets/48e74e9e-cd57-4f5b-8481-4ef22b1d3aad"

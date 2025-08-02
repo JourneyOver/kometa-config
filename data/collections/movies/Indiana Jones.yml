@@ -1,6 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/55628
-# https://theposterdb.com/poster/383349
+# https://mediux.pro/sets/8780
 
 external_templates:
   - file: data/_templates.yml
@@ -9,6 +8,6 @@ collections:
 
   "Indiana Jones":
     template: { name: Collection, collection: 84, order: release }
-    url_poster: "https://theposterdb.com/api/assets/87730"
+    url_poster: "https://api.mediux.pro/assets/f06e771e-66d7-4a80-9171-055a0c1a8259"
     url_background: "https://image.tmdb.org/t/p/original/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg"
     summary: "Adventurous archaeologist Indiana Jones travels the globe uncovering ancient relics and confronting dangerous foes. From hidden temples to secret societies, his daring exploits blend action, wit, and history as he races against time to protect powerful artifacts from falling into the wrong hands."

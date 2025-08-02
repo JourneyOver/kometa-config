@@ -1,0 +1,14 @@
+# Poster from:
+# https://mediux.pro/sets/12313
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Chronicles of Narnia":
+    template: { name: Collection, collection: 420, order: release }
+    url_poster: "https://api.mediux.pro/assets/3ba31c69-899b-408d-beeb-3076d87d26ef"
+    url_background: "https://image.tmdb.org/t/p/original/7e5Xn4Nxp7IbSaRZJsz7Zwqhm0X.jpg"
+    sort_title: "Chronicles of Narnia"
+    summary: "Four siblings discover a hidden world where mythical creatures, ancient prophecies, and epic battles await. Guided by courage and the noble lion Aslan, they journey through magical lands to confront darkness, restore peace, and uncover their true destinies."
