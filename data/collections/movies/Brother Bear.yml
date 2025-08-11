@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/11524
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Brother Bear":
+    template: { name: Collection, collection: 96472, order: release }
+    url_poster: "https://api.mediux.pro/assets/30381485-0a78-4e4e-816e-cab4d820f6b4"
+    url_background: "https://image.tmdb.org/t/p/original/gZnnMrlpDcKYGz9RbbNlVQqRqyT.jpg"
+    summary: "After a life-changing encounter with the spirit world, a young man is transformed and set on a path of self-discovery through the eyes of a bear. Alongside his newfound brother and the beauty of the natural world, he learns powerful lessons about love, forgiveness, and the deep bonds that connect all living things."

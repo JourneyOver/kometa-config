@@ -21,5 +21,5 @@ metadata:
   507086: # Jurassic World Dominion (2022)
     url_poster: "https://api.mediux.pro/assets/718e073b-449a-489d-962e-38640cd01814"
 
-#  1234821: # Jurassic World Rebirth (2025)
-#    url_poster: "https://api.mediux.pro/assets/e669a6ba-a569-4205-9658-be0c59db8136"
+  1234821: # Jurassic World Rebirth (2025)
+    url_poster: "https://api.mediux.pro/assets/e669a6ba-a569-4205-9658-be0c59db8136"

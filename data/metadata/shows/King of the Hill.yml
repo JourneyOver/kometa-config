@@ -1,36 +1,38 @@
 # Posters from:
-# https://theposterdb.com/set/217200
+# https://mediux.pro/sets/35973
 
 metadata:
 
   73903: # King of the Hill (1997)
-    url_poster: "https://theposterdb.com/api/assets/386223"
+    url_poster: "https://api.mediux.pro/assets/00a28003-40e7-4bcd-96ea-7804a4c4dd9d"
     seasons:
       0:
-        url_poster: "https://theposterdb.com/api/assets/386224"
+        url_poster: "https://api.mediux.pro/assets/52ec8fc6-adb4-4846-a46d-3f15d7125b75"
       1:
-        url_poster: "https://theposterdb.com/api/assets/386225"
+        url_poster: "https://api.mediux.pro/assets/dfc4b52c-72a0-49fd-9ee3-21ffc7299f5a"
       2:
-        url_poster: "https://theposterdb.com/api/assets/386226"
+        url_poster: "https://api.mediux.pro/assets/f109015b-7aa7-4f79-b501-c39bd7dce95a"
       3:
-        url_poster: "https://theposterdb.com/api/assets/386227"
+        url_poster: "https://api.mediux.pro/assets/ac65039a-da00-44e6-93b5-219bdd51922d"
       4:
-        url_poster: "https://theposterdb.com/api/assets/386228"
+        url_poster: "https://api.mediux.pro/assets/1cbfa46e-11d2-4135-8d48-04dd3cd8805d"
       5:
-        url_poster: "https://theposterdb.com/api/assets/386230"
+        url_poster: "https://api.mediux.pro/assets/b219d443-68a0-4bc0-befc-351555c183b5"
       6:
-        url_poster: "https://theposterdb.com/api/assets/386231"
+        url_poster: "https://api.mediux.pro/assets/737f8f12-22b7-438f-8f4d-1b804817961f"
       7:
-        url_poster: "https://theposterdb.com/api/assets/386232"
+        url_poster: "https://api.mediux.pro/assets/df8f99f4-0ed0-447e-a451-42cc9a4c7172"
       8:
-        url_poster: "https://theposterdb.com/api/assets/386233"
+        url_poster: "https://api.mediux.pro/assets/8eb7754f-c22f-4a89-8400-9a674d46c2e6"
       9:
-        url_poster: "https://theposterdb.com/api/assets/386234"
+        url_poster: "https://api.mediux.pro/assets/325852c9-4151-4bb1-9043-2fb0c113b69e"
       10:
-        url_poster: "https://theposterdb.com/api/assets/386235"
+        url_poster: "https://api.mediux.pro/assets/4ea85c96-aebc-44e9-941a-3ba9d85ddf88"
       11:
-        url_poster: "https://theposterdb.com/api/assets/386236"
+        url_poster: "https://api.mediux.pro/assets/52c852ee-e8d2-46b8-aacf-727c9013fba4"
       12:
-        url_poster: "https://theposterdb.com/api/assets/386237"
+        url_poster: "https://api.mediux.pro/assets/36d79bf3-5885-4bf8-92f1-c24c7fec5563"
       13:
-        url_poster: "https://theposterdb.com/api/assets/386238"
+        url_poster: "https://api.mediux.pro/assets/7e4fb3bd-5495-4399-99ca-b28f2e45c70c"
+      14:
+        url_poster: "https://api.mediux.pro/assets/1c2d9637-186a-4d34-8c80-94f3cab73491"

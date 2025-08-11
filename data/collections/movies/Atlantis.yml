@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/11950
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Atlantis":
+    template: { name: Collection, collection: 100965, order: release }
+    url_poster: "https://theposterdb.com/api/assets/20692"
+    url_background: "https://image.tmdb.org/t/p/original/rN2E6dcbp4FvjWnNo5uVHeYHMQI.jpg"
+    summary: "A curious linguist joins a daring expedition to uncover the secrets of a long-lost civilization hidden beneath the sea. As ancient wonders and unexpected dangers emerge, newfound allies must protect Atlantis from those who seek to exploit its power and mystery."

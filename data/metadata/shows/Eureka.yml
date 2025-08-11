@@ -1,0 +1,20 @@
+# Posters from:
+# https://theposterdb.com/set/78932
+
+metadata:
+
+  79334: # Eureka (2006)
+    url_poster: "https://theposterdb.com/api/assets/126218"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/126219"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/126220"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/126221"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/126222"
+      4:
+        url_poster: "https://theposterdb.com/api/assets/126223"
+      5:
+        url_poster: "https://theposterdb.com/api/assets/126224"

@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/8307
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Cinderella":
+    template: { name: Collection, collection: 55419, order: release }
+    url_poster: "https://api.mediux.pro/assets/ba079fcc-6da1-49ff-91e5-fea95a3a3f6d"
+    url_background: "https://image.tmdb.org/t/p/original/yNq1UsclAyXaQGhXVSDoyS9wpFo.jpg"
+    summary: "From magical beginnings to royal challenges, a kind-hearted young woman rises above adversity with grace, courage, and a little help from enchantment. As she embraces her new life, she faces unexpected trials that test her strength and shape her happily ever after."

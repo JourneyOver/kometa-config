@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/11811
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Mulan":
+    template: { name: Collection, collection: 87236, order: release }
+    url_poster: "https://api.mediux.pro/assets/90a47a62-fe5b-4fb4-b8ad-a4ec9adff068"
+    url_background: "https://image.tmdb.org/t/p/original/1KkIBhX5MTwVoNJzD0JMv059Ck0.jpg"
+    summary: "To protect her family and honor her name, a brave young woman disguises herself as a soldier and defies expectations on the battlefield. As new challenges arise, her strength, loyalty, and heart are tested in a journey that celebrates courage, love, and the power of staying true to oneself."
