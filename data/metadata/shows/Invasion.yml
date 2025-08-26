@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/2464
+
+metadata:
+
+  404492: # Invasion (2021)
+    url_poster: "https://api.mediux.pro/assets/ee817c79-cb25-4b62-a8e1-941610038a73"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/7ca4a71f-37b5-402a-b6f5-69a906d6dfb6"
+      2:
+        url_poster: "https://api.mediux.pro/assets/f82999b0-8b41-4cfc-a20a-5ba7806b9bdb"
+      3:
+        url_poster: "https://api.mediux.pro/assets/4af3822a-1a5a-40b6-a44d-f2cfcc703296"

@@ -1,0 +1,14 @@
+# Poster from:
+# https://mediux.pro/sets/36514
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Bad Guys":
+    template: { name: Collection, collection: 1231053, order: release }
+    url_poster: "https://api.mediux.pro/assets/a39648a8-911c-4e43-ba09-bbc231ed6e03"
+    url_background: "https://image.tmdb.org/t/p/original/i3CknOVjxNEbTJnaX3ryyTeCYxn.jpg"
+    sort_title: "Bad Guys"
+    summary: "A crew of notorious animal outlaws, feared by the world for their daring heists, set out to prove they can become heroes instead of villains. As they face bigger challenges and surprising twists, the gang must discover whether redemption, friendship, and a little chaos can truly change their lives for the better."

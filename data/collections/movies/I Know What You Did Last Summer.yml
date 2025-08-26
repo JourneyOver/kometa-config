@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/37614
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "I Know What You Did Last Summer":
+    template: { name: Collection, collection: 3601, order: release }
+    url_poster: "https://theposterdb.com/api/assets/58933"
+    url_background: "https://image.tmdb.org/t/p/original/bhr2Pc6b5o09DSFrpYkJuAew830.jpg"
+    summary: "A group of young friends find their lives shattered after a deadly secret from one fateful night refuses to stay buried. Haunted by a relentless figure who stalks their every move, they are forced to confront guilt, fear, and the terrifying consequences of their choices as the past comes back with a vengeance."

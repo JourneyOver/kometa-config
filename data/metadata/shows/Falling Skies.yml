@@ -1,0 +1,20 @@
+# Posters from:
+# https://mediux.pro/sets/15009
+
+metadata:
+
+  205281: # Falling Skies (2011)
+    url_poster: "https://api.mediux.pro/assets/f47438b3-754b-4b7d-aab9-3db46095d841"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/d2455301-9ad0-4e15-84f8-41e51d992ec1"
+      1:
+        url_poster: "https://api.mediux.pro/assets/c682574e-fa1d-44e6-83c3-aee0f0350f87"
+      2:
+        url_poster: "https://api.mediux.pro/assets/1447a2c0-cac1-4a93-8d6a-1420c6933978"
+      3:
+        url_poster: "https://api.mediux.pro/assets/bcb6816c-94e7-4918-a116-18507894418a"
+      4:
+        url_poster: "https://api.mediux.pro/assets/b274ba55-bc48-4794-87dd-2434ec4c5421"
+      5:
+        url_poster: "https://api.mediux.pro/assets/6eeca18a-1d1b-4906-9ed1-e03855dc848f"
