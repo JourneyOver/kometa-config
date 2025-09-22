@@ -1,0 +1,22 @@
+# Posters from:
+# https://mediux.pro/sets/13069
+
+metadata:
+
+  295759: # Supergirl (2015)
+    url_poster: "https://api.mediux.pro/assets/64fb50e2-890b-4c3d-ab10-5113c2751505"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/74be50a5-3cee-43f9-9b43-57d11f0a8eef"
+      1:
+        url_poster: "https://api.mediux.pro/assets/054e6dde-6035-43c0-932d-4d1e801a0875"
+      2:
+        url_poster: "https://api.mediux.pro/assets/3b9169b4-27de-4eaa-8c5f-df1117d8b892"
+      3:
+        url_poster: "https://api.mediux.pro/assets/1a3b4c1c-1b22-4ea9-9407-848b7b8532c2"
+      4:
+        url_poster: "https://api.mediux.pro/assets/d774d556-af6e-4e67-be62-94e0f2de582b"
+      5:
+        url_poster: "https://api.mediux.pro/assets/95b8e733-0e08-4072-92b5-2cf61a0131f7"
+      6:
+        url_poster: "https://api.mediux.pro/assets/5bfeb111-84cb-4f72-9d46-2af3f8933619"

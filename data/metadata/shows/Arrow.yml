@@ -1,0 +1,26 @@
+# Posters from:
+# https://mediux.pro/sets/12922
+
+metadata:
+
+  257655: # Arrow (2012)
+    url_poster: "https://api.mediux.pro/assets/40b4325a-e26c-4103-9599-e635dfec354b"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/b06c035c-7ee8-4d16-8ea7-7f9d31bdbc95"
+      1:
+        url_poster: "https://api.mediux.pro/assets/7dc0b0e9-aad4-4659-ae08-47d67a9a304e"
+      2:
+        url_poster: "https://api.mediux.pro/assets/54c4b91e-415b-42ea-ad03-e7b37efdf5da"
+      3:
+        url_poster: "https://api.mediux.pro/assets/a1add14a-b2c1-4d18-8f21-f792d6417e62"
+      4:
+        url_poster: "https://api.mediux.pro/assets/56bb1207-1626-4336-bf90-26fc50ee699a"
+      5:
+        url_poster: "https://api.mediux.pro/assets/25a6e454-4793-4ad1-8189-c2a4499ca510"
+      6:
+        url_poster: "https://api.mediux.pro/assets/5906125a-6b4e-42de-a934-37fbb5f79d0e"
+      7:
+        url_poster: "https://api.mediux.pro/assets/d04eae45-98d3-4d69-a149-db1ba9e75712"
+      8:
+        url_poster: "https://api.mediux.pro/assets/ed5426d4-ba38-4097-b324-3a0f1c592f41"

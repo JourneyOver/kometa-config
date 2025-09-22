@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/36748
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Nobody":
+    template: { name: Collection, collection: 1129084, order: release }
+    url_poster: "https://api.mediux.pro/assets/47365e7f-042c-445e-9e12-1df4e1ece310"
+    url_background: "https://image.tmdb.org/t/p/original/AcUE9Fw00FgTh69VLncBh5UKqsX.jpg"
+    summary: "An unassuming man living a quiet life hides a violent past that refuses to stay buried. When circumstances force him back into a world of brutality, his skills and instincts resurface, setting off a chain of explosive confrontations that test his limits and redefine who he really is."

@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/12923
+
+metadata:
+
+  361315: # Batwoman (2019)
+    url_poster: "https://api.mediux.pro/assets/ee8a0f83-5159-4328-8d72-23ef533949ad"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/bada5bee-8c62-4495-9678-e4951a558c96"
+      2:
+        url_poster: "https://api.mediux.pro/assets/2cc4f4f2-cbd1-4365-a5fc-00ee7b196e21"
+      3:
+        url_poster: "https://api.mediux.pro/assets/4d68250d-bff1-411c-8d8f-5ca1b2fa465e"

@@ -1,0 +1,28 @@
+# Posters from:
+# https://mediux.pro/sets/13070
+
+metadata:
+
+  279121: # The Flash (2014)
+    url_poster: "https://api.mediux.pro/assets/b5e9669a-6463-42e2-9158-affefc2e3122"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/9ec3ac95-4840-4991-81c7-36bbbfeaa154"
+      1:
+        url_poster: "https://api.mediux.pro/assets/296020ff-27c8-4112-a1cd-59ebd2d21ee0"
+      2:
+        url_poster: "https://api.mediux.pro/assets/8563afa1-2258-436f-8da8-8c07f83494cc"
+      3:
+        url_poster: "https://api.mediux.pro/assets/63cd0e65-a72b-4f86-8984-2d42ab1c7039"
+      4:
+        url_poster: "https://api.mediux.pro/assets/80b1c417-849b-432a-89a2-3ec468f9ad9b"
+      5:
+        url_poster: "https://api.mediux.pro/assets/13d7b52f-82be-45c7-81e9-53bb2491c32a"
+      6:
+        url_poster: "https://api.mediux.pro/assets/01f3f06e-9183-4d11-8146-492c897c8046"
+      7:
+        url_poster: "https://api.mediux.pro/assets/b794e48b-a311-4ce1-935e-1a20c4142cfe"
+      8:
+        url_poster: "https://api.mediux.pro/assets/b65421f3-677e-4219-9712-c9d0c2529215"
+      9:
+        url_poster: "https://api.mediux.pro/assets/37b3267f-e315-41eb-ab83-9516ccb69338"

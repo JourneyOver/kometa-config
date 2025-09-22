@@ -1,0 +1,22 @@
+# Posters from:
+# https://mediux.pro/sets/15013
+
+metadata:
+
+  73739: # Lost (2004)
+    url_poster: "https://api.mediux.pro/assets/056640ae-827a-4c12-9de7-ddecb581bc63"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/2c3cc849-4f2f-4811-b14a-7214a6d5e9a9"
+      1:
+        url_poster: "https://api.mediux.pro/assets/dd3d7f71-a444-46e8-8667-ffc7e10d76fb"
+      2:
+        url_poster: "https://api.mediux.pro/assets/549d73f9-8114-42fe-95a5-56239d56e6ad"
+      3:
+        url_poster: "https://api.mediux.pro/assets/b23f78ee-9af5-4c7b-bc0c-19c0ad5b0969"
+      4:
+        url_poster: "https://api.mediux.pro/assets/6d166302-6330-4906-b59d-37041f93eaca"
+      5:
+        url_poster: "https://api.mediux.pro/assets/8c4efd16-007b-4def-b740-f5303c5a880f"
+      6:
+        url_poster: "https://api.mediux.pro/assets/63fba018-ea05-49e4-bee5-49580be7b36c"

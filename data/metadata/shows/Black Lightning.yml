@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/7422
+
+metadata:
+
+  332525: # Black Lightning (2018)
+    url_poster: "https://api.mediux.pro/assets/0496983c-873b-40a0-982d-29aaaf1d9203"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/76337132-e172-45b7-a879-5bf4b3884f8d"
+      2:
+        url_poster: "https://api.mediux.pro/assets/76fb7f5e-34a2-4d94-9366-8011e08b5dca"
+      3:
+        url_poster: "https://api.mediux.pro/assets/89794775-b564-45a2-9ac1-5bce366b52b8"
+      4:
+        url_poster: "https://api.mediux.pro/assets/1614e491-19c5-4eec-be6a-b858e8a6ebd2"

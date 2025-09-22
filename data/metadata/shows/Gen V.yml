@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/29158
+# https://mediux.pro/sets/2446
 
 metadata:
 
   417909: # Gen V (2023)
-    url_poster: "https://api.mediux.pro/assets/4b7f88a3-a13f-4269-9253-bc076ccff24e"
+    url_poster: "https://api.mediux.pro/assets/142ceb75-8507-41e0-9d39-023ad4feaa89"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/70d2860e-5dd0-4b85-abfc-3cddd3909627"
+        url_poster: "https://api.mediux.pro/assets/b4513741-c733-427a-8f50-d24bbced7c70"
+      2:
+        url_poster: "https://api.mediux.pro/assets/187e5484-54ca-47f2-8c84-7278ff33cf6c"

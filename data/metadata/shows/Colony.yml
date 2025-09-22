@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/15010
+
+metadata:
+
+  284210: # Colony (2016)
+    url_poster: "https://api.mediux.pro/assets/4edde243-406c-4e80-9e1f-00d42103ffed"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/e2a50665-8cb8-4cae-a6d4-81ea4740d2db"
+      2:
+        url_poster: "https://api.mediux.pro/assets/abeb60df-b07f-46ad-88f5-1008a21fd17a"
+      3:
+        url_poster: "https://api.mediux.pro/assets/befd05d1-f391-43ce-b990-353bd7f43da5"

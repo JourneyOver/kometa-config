@@ -1,0 +1,24 @@
+# Posters from:
+# https://mediux.pro/sets/7425
+
+metadata:
+
+  295760: # DC's Legends of Tomorrow (2016)
+    url_poster: "https://api.mediux.pro/assets/de792dc3-9f21-414c-a283-a1d49b431e09"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/aaebf32f-00fd-4fb9-b0de-8cf3859d8bdd"
+      1:
+        url_poster: "https://api.mediux.pro/assets/de20d385-2cd9-48b1-b7f2-68236431cdcd"
+      2:
+        url_poster: "https://api.mediux.pro/assets/d1896e7d-29b0-4744-81bc-97d550de07b3"
+      3:
+        url_poster: "https://api.mediux.pro/assets/d3874512-6dc0-4554-bfb6-262290d07845"
+      4:
+        url_poster: "https://api.mediux.pro/assets/dd512971-9fad-4fbe-b599-93191ba146f0"
+      5:
+        url_poster: "https://api.mediux.pro/assets/8c693774-7336-4dac-ad8e-16183ffd173e"
+      6:
+        url_poster: "https://api.mediux.pro/assets/3adbb654-25f7-4522-a701-6959d14f76ee"
+      7:
+        url_poster: "https://api.mediux.pro/assets/d96d0b71-4461-42ff-bbf2-cee30918e24d"

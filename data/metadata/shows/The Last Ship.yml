@@ -1,0 +1,20 @@
+# Posters from:
+# https://mediux.pro/sets/14679
+
+metadata:
+
+  269533: # The Last Ship (2014)
+    url_poster: "https://api.mediux.pro/assets/8df3ca98-991e-4649-ab7c-86fca9cb8512"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/2c97ed9b-0eae-4dd9-aa8d-01fb93dfe9cc"
+      1:
+        url_poster: "https://api.mediux.pro/assets/59e09c47-2131-4f3c-8684-724f209aa7bc"
+      2:
+        url_poster: "https://api.mediux.pro/assets/1a4e5ecc-35f9-4a7a-b47e-d01a28856186"
+      3:
+        url_poster: "https://api.mediux.pro/assets/dbb4aea1-4326-4d5b-aa12-cecfc0e376d1"
+      4:
+        url_poster: "https://api.mediux.pro/assets/af3c2947-91de-417f-9daa-84deac8ef5ee"
+      5:
+        url_poster: "https://api.mediux.pro/assets/0d1186ee-5aa0-4fa1-bb95-dc9f9ac45eb6"

@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/357887
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Naked Gun":
+    template: { name: Collection, collection: 37139, movies: 1035259, order: release }
+    url_poster: "https://theposterdb.com/api/assets/639669"
+    url_background: "https://image.tmdb.org/t/p/original/ayVqHkNAGbtvZszD4sgQRvc3fvV.jpg"
+    summary: "Clumsy yet determined detective Frank Drebin stumbles his way through outrageous cases filled with absurd mishaps, over-the-top villains, and nonstop gags. From political scandals to criminal conspiracies, his chaotic brand of crime fighting guarantees mayhem, laughter, and plenty of unforgettable blunders."
