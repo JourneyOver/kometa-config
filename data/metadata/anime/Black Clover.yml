@@ -1,0 +1,18 @@
+# Posters from:
+# https://theposterdb.com/set/142951
+
+metadata:
+
+  331753: # Black Clover (2017)
+    url_poster: "https://theposterdb.com/api/assets/237863"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/237864"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/237865"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/237866"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/237867"
+      4:
+        url_poster: "https://theposterdb.com/api/assets/237868"

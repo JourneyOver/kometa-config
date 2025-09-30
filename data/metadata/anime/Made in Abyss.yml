@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/142723
+
+metadata:
+
+  326109: # Made in Abyss (2017)
+    url_poster: "https://theposterdb.com/api/assets/237542"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/237543"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/237544"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/237545"

@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/6881
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Bleach":
+    template: { name: Collection, collection: 23497, order: release }
+    url_poster: "https://api.mediux.pro/assets/f56705c0-a253-4278-86c7-830d3674d4fe"
+    url_background: "https://image.tmdb.org/t/p/original/thrutuVvlp1GZkrOFBaPyoNcwYo.jpg"
+    summary: "Ichigo Kurosaki and his allies are drawn into battles that reach beyond the human world, facing powerful enemies born from betrayal, vengeance, and the supernatural. As threats emerge from forgotten memories, icy rebellions, twisted illusions, and the depths of Hell itself, their strength and bonds are pushed to the edge in the fight to protect both the living and the spirit realms."

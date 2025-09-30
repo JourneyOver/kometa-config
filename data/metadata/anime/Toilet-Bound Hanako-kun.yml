@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/235307
+
+metadata:
+
+  368364: # Toilet-Bound Hanako-kun (2020)
+    url_poster: "https://theposterdb.com/api/assets/425164"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/554614"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/425165"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/450293"

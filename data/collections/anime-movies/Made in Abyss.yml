@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/142722
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Made in Abyss":
+    template: { name: Collection, collection: 688209, order: release }
+    url_poster: "https://theposterdb.com/api/assets/237538"
+    url_background: "https://image.tmdb.org/t/p/original/q55s0jn3cM5nAJE7EeHAiobU3tU.jpg"
+    summary: "In a world where a vast chasm holds ancient relics and unimaginable creatures, a young girl and her mysterious companion descend into its depths in search of truth and connection. Their journey uncovers both breathtaking wonders and harrowing dangers, testing their courage, friendship, and resolve against the Abyss itself."
