@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/287352
+
+metadata:
+
+  293267: # Prison School (2015)
+    url_poster: "https://theposterdb.com/api/assets/517296"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/517297"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/517298"

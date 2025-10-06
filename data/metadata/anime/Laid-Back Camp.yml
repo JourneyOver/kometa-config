@@ -1,0 +1,16 @@
+# Posters from:
+# https://theposterdb.com/set/230577
+
+metadata:
+
+  330692: # Laid-Back Camp (2018)
+    url_poster: "https://theposterdb.com/api/assets/415230"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/415231"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/415232"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/415233"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/467916"

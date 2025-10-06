@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/263834
+
+metadata:
+
+  325197: # Tsukigakirei (2017)
+    url_poster: "https://theposterdb.com/api/assets/479928"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/479929"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/479930"

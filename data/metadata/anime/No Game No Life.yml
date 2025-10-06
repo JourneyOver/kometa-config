@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/284003
+
+metadata:
+
+  278155: # No Game No Life (2014)
+    url_poster: "https://theposterdb.com/api/assets/512122"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/512123"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/512124"
