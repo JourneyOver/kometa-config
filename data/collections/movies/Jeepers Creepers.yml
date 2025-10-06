@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/27733
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Jeepers Creepers":
+    template: { name: Collection, collection: 94899, movies: 717728, order: release }
+    url_poster: "https://theposterdb.com/api/assets/44581"
+    url_background: "https://image.tmdb.org/t/p/original/4ndFUfbAHzeb6OcTbfDm2nme94A.jpg"
+    summary: "Every twenty-three years, an ancient winged creature known as the Creeper awakens to feed, hunting the unsuspecting with terrifying precision. From lonely highways to small towns, its reign of terror leaves a trail of fear and death in its wake. As new victims uncover the truth about its dark origins, they must confront an evil that cannot be reasoned with and may never die."

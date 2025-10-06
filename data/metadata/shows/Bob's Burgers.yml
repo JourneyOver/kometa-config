@@ -1,42 +1,42 @@
 # Posters from:
-# https://mediux.pro/sets/1836
+# https://theposterdb.com/set/212259
 
 metadata:
 
   194031: # Bob's Burgers (2011)
-    url_poster: "https://api.mediux.pro/assets/2e044118-bb2b-4e32-89ed-fcafbbc8bd60"
+    url_poster: "https://theposterdb.com/api/assets/375865"
     seasons:
 #      0:
-#        url_poster: "https://api.mediux.pro/assets/72c7a96a-4f22-49be-a64f-b6b94dab017e"
+#        url_poster: "https://theposterdb.com/api/assets/375866"
       1:
-        url_poster: "https://api.mediux.pro/assets/2831dae8-2b5f-45c8-8ef9-a01ef1ea54e3"
+        url_poster: "https://theposterdb.com/api/assets/375867"
       2:
-        url_poster: "https://api.mediux.pro/assets/5456f544-398a-434c-97c2-be80f955d45f"
+        url_poster: "https://theposterdb.com/api/assets/375868"
       3:
-        url_poster: "https://api.mediux.pro/assets/b05ef7f2-4aa4-4da8-ade8-5a5266a68687"
+        url_poster: "https://theposterdb.com/api/assets/375869"
       4:
-        url_poster: "https://api.mediux.pro/assets/505cffd0-b8d1-4ca4-a181-afc2a7daf517"
+        url_poster: "https://theposterdb.com/api/assets/375870"
       5:
-        url_poster: "https://api.mediux.pro/assets/4ed0ba79-46a2-4a53-9da6-629e5b68ba8b"
+        url_poster: "https://theposterdb.com/api/assets/375871"
       6:
-        url_poster: "https://api.mediux.pro/assets/f769ffd8-1d87-45f7-a498-a2fd94f7c481"
+        url_poster: "https://theposterdb.com/api/assets/375872"
       7:
-        url_poster: "https://api.mediux.pro/assets/1a3b577c-9c7d-417e-bb46-2a4948bba77a"
+        url_poster: "https://theposterdb.com/api/assets/375873"
       8:
-        url_poster: "https://api.mediux.pro/assets/0ec7c8bd-6e94-40e5-89ad-950deb260675"
+        url_poster: "https://theposterdb.com/api/assets/375874"
       9:
-        url_poster: "https://api.mediux.pro/assets/f653b9c3-9fb5-419a-b913-b18a2f17b2f5"
+        url_poster: "https://theposterdb.com/api/assets/375875"
       10:
-        url_poster: "https://api.mediux.pro/assets/3009d41d-3b4d-4c9d-91f2-b570a8bf0cbd"
+        url_poster: "https://theposterdb.com/api/assets/375876"
       11:
-        url_poster: "https://api.mediux.pro/assets/107bab60-c5df-43a0-a2db-c499573f199e"
+        url_poster: "https://theposterdb.com/api/assets/375877"
       12:
-        url_poster: "https://api.mediux.pro/assets/b736f2d3-70ad-4bbb-8573-9100095e851f"
+        url_poster: "https://theposterdb.com/api/assets/375878"
       13:
-        url_poster: "https://api.mediux.pro/assets/0610af34-6111-4d9e-bf45-fab3b6ebf035"
+        url_poster: "https://theposterdb.com/api/assets/375879"
       14:
-        url_poster: "https://api.mediux.pro/assets/39a253a7-fb5b-4acb-87a4-1b291c67da62"
+        url_poster: "https://theposterdb.com/api/assets/375880"
       15:
-        url_poster: "https://api.mediux.pro/assets/eb1fa527-e64e-4496-b89f-6091e333b489"
-#      16:
-#        url_poster: ""
+        url_poster: "https://theposterdb.com/api/assets/528434"
+      16:
+        url_poster: "https://theposterdb.com/api/assets/645367"

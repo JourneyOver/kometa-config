@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/337802
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Violet Evergarden":
+    template: { name: Collection, collection: 1431054, order: release }
+    url_poster: "https://theposterdb.com/api/assets/606142"
+    url_background: "https://image.tmdb.org/t/p/original/9Htaft3Aax28UH1c1ui62kqakhQ.jpg"
+    summary: "Violet Evergarden journeys through a world of letters and emotions as she seeks to understand the meaning of love and the memories left behind. From helping others convey their deepest feelings to confronting her own past, she discovers the power of connection, healing, and the lasting impact of heartfelt words. Across her travels, courage and compassion guide her as she learns to embrace life beyond the battlefield."

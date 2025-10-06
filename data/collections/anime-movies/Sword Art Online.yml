@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/26712
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Sword Art Online":
+    template: { name: Collection, collection: 893713, movies: 1012404, order: release }
+    url_poster: "https://api.mediux.pro/assets/ed09c856-5608-4341-a2da-25f9c008798b"
+    url_background: "https://image.tmdb.org/t/p/original/zOGhx3jiDIdZHJdfELirg3TI9rF.jpg"
+    summary: "In virtual worlds where life and death collide, Kirito, Asuna, and their friends face challenges that test their skills, courage, and bonds. From high-stakes battles to mysterious new realms, they navigate dangers both digital and real, uncovering secrets and confronting powerful adversaries. Through every adventure, friendship, love, and determination guide them as they strive to protect each other and the worlds they hold dear."

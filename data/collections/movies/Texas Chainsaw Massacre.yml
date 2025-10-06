@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/126219
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Texas Chainsaw Massacre":
+    template: { name: Collection, collection: 111751, movies: "9373, 10781", order: release }
+    url_poster: "https://theposterdb.com/api/assets/209103"
+    url_background: "https://image.tmdb.org/t/p/original/9V5kaGBAjzwHmqvmZuazY9SbZwi.jpg"
+    summary: "Deep in the heart of Texas, a legacy of terror is born when a group of unsuspecting travelers stumbles upon a family with a taste for blood. What begins as a fight for survival becomes a decades-long nightmare fueled by madness, violence, and vengeance. From the haunting origins of Leatherface to the carnage that follows in his wake, every encounter is a brutal reminder that some horrors never die—they evolve, waiting for the next scream to echo through the darkness."

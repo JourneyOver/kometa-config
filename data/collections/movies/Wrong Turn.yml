@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/13811
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Wrong Turn":
+    template: { name: Collection, collection: 52985, movies: 630586, order: release }
+    url_poster: "https://api.mediux.pro/assets/31e8fe42-302b-48d2-8e41-3c8fa506c412"
+    url_background: "https://image.tmdb.org/t/p/original/32IsLLCoj3mIkZbLfCKSXZVqd3k.jpg"
+    summary: "Deep in the Appalachian wilderness, unsuspecting travelers stumble into gruesome traps set by a clan of deformed cannibals, from the dense forests of West Virginia to isolated snowy retreats. Each harrowing journey tests human resilience against primal savagery, blending visceral fear with fleeting glimpses of defiance, leaving a lingering dread of nature's untamed corners."

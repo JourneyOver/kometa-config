@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/23444
+
+metadata:
+
+  330139: # Violet Evergarden (2018)
+    url_poster: "https://api.mediux.pro/assets/c78b6a29-0d7d-4f51-81bf-15ac5ee8c2f8"
+    seasons:
+      0:
+        url_poster: "https://api.mediux.pro/assets/76900a76-276c-4a6f-88f2-a635d1a1ba93"
+      1:
+        url_poster: "https://api.mediux.pro/assets/cd677ebb-030a-41d1-a282-3f4ccc58c69c"

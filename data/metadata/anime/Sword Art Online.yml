@@ -1,0 +1,18 @@
+# Posters from:
+# https://mediux.pro/sets/26710
+
+metadata:
+
+  259640: # Sword Art Online (2012)
+    url_poster: "https://api.mediux.pro/assets/e0d18c92-31bf-46a3-921d-0a2e11b8b409"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/e8c9482c-74d8-4d99-9d0a-006a8f449136"
+      1:
+        url_poster: "https://api.mediux.pro/assets/91184b55-e574-4f11-9ade-796bf92a5f39"
+      2:
+        url_poster: "https://api.mediux.pro/assets/5191a24e-5f22-45dc-b7a8-6a76e671b00f"
+      3:
+        url_poster: "https://api.mediux.pro/assets/1a03b85c-eb7f-401a-a4cc-d65238b18ff8"
+      4:
+        url_poster: "https://api.mediux.pro/assets/4338fe9c-eca7-4c43-a3e6-5ee81ba76e69"

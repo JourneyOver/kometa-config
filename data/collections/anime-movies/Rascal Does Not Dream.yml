@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/323032
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Rascal Does Not Dream":
+    template: { name: Collection, collection: 1073290, order: release }
+    url_poster: "https://theposterdb.com/api/assets/580890"
+    url_background: "https://image.tmdb.org/t/p/original/sXquFU7JD3spyfhipHd6lbGEogj.jpg"
+    summary: "In a world where strange phenomena mirror the hidden struggles of adolescence, Sakuta Azusagawa encounters girls whose lives are inexplicably altered by mysterious ailments. As he helps them confront their fears, secrets, and desires, he discovers that empathy, courage, and understanding can bridge the gap between the ordinary and the extraordinary. Each encounter weaves together moments of humor, emotion, and heartwarming connection."

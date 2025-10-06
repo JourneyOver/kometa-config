@@ -1,0 +1,14 @@
+# Poster from:
+# https://theposterdb.com/set/129832
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Hills Have Eyes":
+    template: { name: Collection, collection: 8918, order: release }
+    url_poster: "https://theposterdb.com/api/assets/215251"
+    url_background: "https://image.tmdb.org/t/p/original/A0LX8YBYBZtfj0gR5Pkgz87cmcb.jpg"
+    sort_title: "Hills Have Eyes"
+    summary: "In the desolate wastelands of the American desert, unsuspecting travelers become the prey of a brutal and deformed clan lurking in the hills. As isolation turns to terror, survival becomes a savage struggle against relentless horrors born of radiation and revenge. The scorching sun hides no mercy, and every shadow conceals a new nightmare waiting to strike."

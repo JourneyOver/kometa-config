@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/327427
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Children of the Corn":
+    template: { name: Collection, collection: 115225, movies: "25754, 701121", order: release }
+    url_poster: "https://theposterdb.com/api/assets/588572c"
+    url_background: "https://image.tmdb.org/t/p/original/6QH470KLXz8xDPP29aDwBTdjG47.jpg"
+    summary: "In the heartland of America, a sinister presence grips small rural towns where children turn against their elders under the command of a malevolent force lurking in the cornfields. As outsiders uncover the dark secrets buried within the stalks, they find themselves trapped in a cycle of fear, faith, and bloodshed. From the first chilling uprising to the modern reawakening of the evil that started it all, the terror of the corn endures, feeding on those who dare to enter its shadow."
