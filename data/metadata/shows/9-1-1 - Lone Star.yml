@@ -5,7 +5,6 @@ metadata:
 
   364080: # 9-1-1: Lone Star (2020)
     url_poster: "https://api.mediux.pro/assets/d5396548-ce28-42e4-bd1d-332dcbc600b2"
-    url_background: "https://api.mediux.pro/assets/558c3b0d-9d8b-4733-9a08-965ed2d4bd6d"
     seasons:
       1:
         url_poster: "https://api.mediux.pro/assets/bd25eb97-bf77-489c-9d4f-2e5bd306cd1c"

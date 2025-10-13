@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/162885
+
+metadata:
+
+  381406: # Uzaki-chan Wants to Hang Out! (2020)
+    url_poster: "https://theposterdb.com/api/assets/273659"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/604472"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/273660"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/273661"

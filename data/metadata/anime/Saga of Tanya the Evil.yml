@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/230185
+
+metadata:
+
+  315500: # Saga of Tanya the Evil (2017)
+    url_poster: "https://theposterdb.com/api/assets/414446"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/414447"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/414448"
+#      2:
+#        url_poster: "https://theposterdb.com/api/assets/414449"

@@ -1,0 +1,12 @@
+# Posters from:
+# https://www.themoviedb.org/tv/99080/images/posters
+
+metadata:
+
+  379923: # Peter Grill and the Philosopher's Time (2020)
+    url_poster: "https://image.tmdb.org/t/p/original/iE2aagh3IGcgU0F8qr4aEGYpAnk.jpg"
+    seasons:
+      1:
+        url_poster: "https://image.tmdb.org/t/p/original/tFllSOouhQkawmZ3SThdVeqsiP1.jpg"
+      2:
+        url_poster: "https://image.tmdb.org/t/p/original/gQuMkqnbmrJP3I60v12r8beR8Tj.jpg"

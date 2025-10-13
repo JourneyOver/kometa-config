@@ -5,7 +5,6 @@ metadata:
 
   337907: # 9-1-1 (2018)
     url_poster: "https://api.mediux.pro/assets/46bfb78a-f9af-4c5d-8062-8f241fd6bfc5"
-    url_background: "https://api.mediux.pro/assets/7a539d46-8d9e-44a1-9f1c-dee6c016d78d"
     seasons:
       1:
         url_poster: "https://api.mediux.pro/assets/26ef9e10-1570-4ff8-9e36-fbb6dedfbc81"
@@ -23,3 +22,5 @@ metadata:
         url_poster: "https://api.mediux.pro/assets/06f859a5-5dc4-4b67-a594-85a9514eae15"
       8:
         url_poster: "https://api.mediux.pro/assets/7c6a5bfc-0230-4038-815a-af88690711de"
+      9:
+        url_poster: "https://api.mediux.pro/assets/cba32282-bfa1-4af5-a881-35356a1454ae"
