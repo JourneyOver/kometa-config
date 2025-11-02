@@ -5,7 +5,6 @@ metadata:
 
   420063: # Fire Country (2022)
     url_poster: "https://api.mediux.pro/assets/ac010306-2b65-4e33-9a5d-719749eb1975"
-    url_background: "https://api.mediux.pro/assets/fe935f0c-0f5f-4e5e-8216-147f42709cc7"
     seasons:
       1:
         url_poster: "https://api.mediux.pro/assets/e8ae43df-0d25-46cb-8fc2-733382b11314"
@@ -13,3 +12,5 @@ metadata:
         url_poster: "https://api.mediux.pro/assets/ce880c8f-a9ef-45c3-9299-f59d4009445f"
       3:
         url_poster: "https://api.mediux.pro/assets/d59d8818-f52f-45a6-b4a2-0df83d6ca29f"
+      4:
+        url_poster: "https://api.mediux.pro/assets/c1485d3c-b1d3-4565-b86c-e374044c1a8f"

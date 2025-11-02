@@ -5,7 +5,8 @@ metadata:
 
   448023: # Georgie & Mandy's First Marriage (2024)
     url_poster: "https://api.mediux.pro/assets/f24a1883-c474-4917-ba11-e580a0d3fcf0"
-    url_background: "https://api.mediux.pro/assets/13a67551-c099-4550-9c21-885fd55f8721"
     seasons:
       1:
         url_poster: "https://api.mediux.pro/assets/f0811e08-15e6-49fa-bfdf-a649769481e9"
+      2:
+        url_poster: "https://api.mediux.pro/assets/340b93f0-c563-4d6b-8eba-2dc0c343c855"

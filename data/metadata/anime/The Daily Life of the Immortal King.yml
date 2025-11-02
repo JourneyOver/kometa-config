@@ -1,0 +1,18 @@
+# Posters from:
+# https://theposterdb.com/set/193483
+
+metadata:
+
+  376751: # The Daily Life of the Immortal King (2020)
+    url_poster: "https://theposterdb.com/api/assets/332212"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/627822"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/332213"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/332214"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/332215"
+      4:
+        url_poster: "https://theposterdb.com/api/assets/627823"

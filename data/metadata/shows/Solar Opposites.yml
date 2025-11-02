@@ -1,18 +1,22 @@
 # Posters from:
-# https://theposterdb.com/set/149515
+# https://mediux.pro/sets/39480
 
 metadata:
 
   375892: # Solar Opposites (2020)
-    url_poster: "https://theposterdb.com/api/assets/250218"
+    url_poster: "https://api.mediux.pro/assets/eedad4f3-b058-4f52-8b57-7a66312bcde0"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/c5fa4a8a-4003-4360-8163-c0856089027f"
       1:
-        url_poster: "https://theposterdb.com/api/assets/250219"
+        url_poster: "https://api.mediux.pro/assets/73d818da-60dc-4ebb-9b4a-1964e39b7b1d"
       2:
-        url_poster: "https://theposterdb.com/api/assets/250220"
+        url_poster: "https://api.mediux.pro/assets/126340ee-eb1b-48b1-89ef-6a8755f1a93c"
       3:
-        url_poster: "https://theposterdb.com/api/assets/250221"
+        url_poster: "https://api.mediux.pro/assets/25e0ec93-d8db-483f-b35c-a7939d53247e"
       4:
-        url_poster: "https://theposterdb.com/api/assets/397828"
+        url_poster: "https://api.mediux.pro/assets/539499c9-733f-4803-bc69-23248b4d3a57"
       5:
-        url_poster: "https://theposterdb.com/api/assets/516760"
+        url_poster: "https://api.mediux.pro/assets/08376346-58a8-4e87-829f-89441311fad0"
+      6:
+        url_poster: "https://api.mediux.pro/assets/5edf1670-e62b-43fd-a2bd-4f1ac549563b"
