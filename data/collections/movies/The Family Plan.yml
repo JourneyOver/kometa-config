@@ -1,0 +1,14 @@
+# Poster from:
+# https://mediux.pro/sets/40657
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "The Family Plan":
+    template: { name: Collection, collection: 1363124, order: release }
+    url_poster: "https://api.mediux.pro/assets/8dc00c59-f827-4277-8ab9-da72b1189a55"
+    url_background: "https://image.tmdb.org/t/p/original/1nCczfmL9rNDOBJ53w4NrSqJu6F.jpg"
+    sort_title: "Family Plan"
+    summary: "Dan Morgan's quiet life as a devoted husband and father keeps colliding with the past he worked hard to bury. When old threats resurface, his family gets swept into a whirlwind of action, unexpected revelations, and heartfelt moments that test their trust in one another. Through chaos and close calls, they discover what truly holds them together and how far they're willing to go to protect it."

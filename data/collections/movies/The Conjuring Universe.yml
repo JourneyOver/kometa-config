@@ -7,7 +7,7 @@ external_templates:
 collections:
 
   "The Conjuring Universe":
-    template: { name: Collection, collection_trakt: https://trakt.tv/users/hermescati/lists/the-conjuring-universe, order: custom }
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/jd30303/lists/the-conjuring-universe, order: custom }
     url_poster: "https://theposterdb.com/api/assets/23524"
     url_background: "https://cdn.myportfolio.com/82eae4f0-7840-46b1-a8a2-d723a66224aa/625c225a-f673-4045-93b4-fc2fac74e0ca.jpg?h=f896b4a4795323227bede723d832fed4"
     sort_title: "Conjuring Universe"

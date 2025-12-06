@@ -1,7 +1,10 @@
 # Posters from:
-# https://theposterdb.com/set/150157
+# https://mediux.pro/sets/39808
 
 metadata:
 
   756999: # The Black Phone (2022)
-    url_poster: "https://theposterdb.com/api/assets/251398"
+    url_poster: "https://api.mediux.pro/assets/26193fe6-1a06-4aac-aa5f-f9b41d9b9fd0"
+
+  1197137: # Black Phone 2 (2025)
+    url_poster: "https://api.mediux.pro/assets/33bb841d-2c99-44c1-9989-4313dfc40ec3"

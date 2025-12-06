@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/246302
+# https://mediux.pro/sets/39808
 
 external_templates:
   - file: data/_templates.yml
@@ -8,7 +8,7 @@ collections:
 
   "The Black Phone":
     template: { name: Collection, collection: 1197140, order: release }
-    url_poster: "https://theposterdb.com/api/assets/445401"
+    url_poster: "https://api.mediux.pro/assets/96118662-7596-44f9-9bef-db46bff5df63"
     url_background: "https://image.tmdb.org/t/p/original/uGGFkrGhXYeF8JAjo0N4UWwMvuw.jpg"
     sort_title: "Black Phone"
     summary: "In the wake of unspeakable terror, the line between the living and the dead blurs as dark forces reach out from beyond. A kidnapped boy discovers an eerie connection to past victims, uncovering secrets that may be his only hope for survival. As fear tightens its grip, voices from the shadows whisper warnings, and the fight to escape becomes a battle against something far more sinister than just a captor."

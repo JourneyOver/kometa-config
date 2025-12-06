@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/poster/133635
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "V/H/S":
+    template: { name: Collection, collection: 207621, order: release }
+    url_poster: "https://theposterdb.com/api/assets/222111"
+    url_background: "https://image.tmdb.org/t/p/original/m3xmiaeZKsjnHiGJvFGb1W6Ti81.jpg"
+    summary: "A chilling archive of found footage reveals horrifying glimpses into the unknown, where distorted tapes capture encounters with the supernatural, the grotesque, and the unexplainable. Each recording unravels fragments of terror that grow darker with every discovery, blurring the line between reality and nightmare. Through twisted stories and haunting imagery, the curse of the tapes endures, feeding on fear long after the screen goes dark."
