@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/371086
+
+metadata:
+
+  444613: # The War Between the Land and the Sea (2025)
+    url_poster: "https://theposterdb.com/api/assets/662506"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/662507"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/662509"

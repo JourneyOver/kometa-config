@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/315273
+
+metadata:
+
+  397934: # Chainsaw Man (2022)
+    url_poster: "https://theposterdb.com/api/assets/567743"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/567744"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/567745"
