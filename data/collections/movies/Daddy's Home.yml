@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/41303
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Daddy's Home":
+    template: { name: Collection, collection: 473971, order: release }
+    url_poster: "https://api.mediux.pro/assets/f495bbfe-3c66-478d-8c71-b65ec0932773"
+    url_background: "https://image.tmdb.org/t/p/original/umOVzY5wG2vNcZmyTLrZYAYj7yn.jpg"
+    summary: "A mild-mannered radio executive's life is turned upside down when his more successful, macho brother-in-law comes to visit for the holidays. As the two men clash over their differing lifestyles and parenting styles, they must navigate the challenges of family dynamics, personal insecurities, and the true meaning of fatherhood."

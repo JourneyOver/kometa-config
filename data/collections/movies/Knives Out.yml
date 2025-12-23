@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/376099
+# https://mediux.pro/sets/41211
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Knives Out":
     template: { name: Collection, collection: 722971, order: release }
-    url_poster: "https://theposterdb.com/api/assets/672375"
+    url_poster: "https://api.mediux.pro/assets/4549f0c5-b720-4f1f-8c50-da18b6360ca0"
     url_background: "https://image.tmdb.org/t/p/original/G7qYINSq5xyDd0I0zn3DpAssA0.jpg"
     summary: "Master detective Benoit Blanc unravels layers of deception as seemingly straightforward cases spiral into clever games of misdirection. From wealthy estates to sun soaked retreats and shadowy gatherings, every investigation exposes greed, secrets, and carefully crafted lies. With sharp wit and mounting tension, truth emerges piece by piece, proving that no one is ever as innocent as they appear."

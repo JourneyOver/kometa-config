@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/373113
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Home Alone":
+    template: { name: Collection, collection: 9888, order: release }
+    url_poster: "https://theposterdb.com/api/assets/666886"
+    url_background: "https://image.tmdb.org/t/p/original/tpmfRWL1ecFxFOOeqvp6hDf41ac.jpg"
+    summary: "When a resourceful young boy is accidentally left behind during the holidays, he turns an empty home and later a sprawling city into a playground of clever traps and hard learned courage. Facing bungling criminals with wit, heart, and surprising bravery, he discovers that family, kindness, and believing in himself matter more than being alone, even in the middle of chaos."

@@ -1,5 +1,5 @@
 # Poster from:
-# https://mediux.pro/sets/13812
+# https://theposterdb.com/set/357793
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,6 @@ collections:
 
   "Now You See Me":
     template: { name: Collection, collection: 382685, order: release }
-    url_poster: "https://api.mediux.pro/assets/d7734187-40f1-47a5-915c-0c0fd069ff0a"
+    url_poster: "https://theposterdb.com/api/assets/639519"
     url_background: "https://image.tmdb.org/t/p/original/uCPudzd2npoDl0gA5HvEDbwYQHV.jpg"
+    summary: "A group of elite illusionists known as the Four Horsemen use breathtaking magic and elaborate misdirection to pull off impossible feats in front of the world. As their performances blur the line between spectacle and crime, a deeper game unfolds involving secret societies, shifting loyalties, and hidden agendas. With every reveal, the pursuit of truth becomes part of the illusion, where nothing is ever quite what it seems."
