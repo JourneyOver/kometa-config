@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/27903
+# https://mediux.pro/sets/41503
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "It":
     template: { name: Collection, collection: 477962, order: release }
-    url_poster: "https://theposterdb.com/api/assets/44798"
+    url_poster: "https://api.mediux.pro/assets/2b902f6b-1723-4939-a9f4-dadffbcf8d1b"
     url_background: "https://image.tmdb.org/t/p/original/5tvPVxhkFwcL9gnS7RXai3PL6dc.jpg"
     summary: "In the small town of Derry, a group of childhood friends confronts a terrifying, shape-shifting entity that feeds on fear. Years later, they must reunite to face the darkness once more, as the haunting presence tests their courage, friendship, and the strength to overcome their deepest fears."

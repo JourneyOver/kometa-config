@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/43300
+# https://mediux.pro/sets/41693
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Independence Day":
     template: { name: Collection, collection: 304378, order: release }
-    url_poster: "https://theposterdb.com/api/assets/68261"
+    url_poster: "https://api.mediux.pro/assets/8cefe05a-57b9-40f1-b8b2-6e38fffbbf25"
     url_background: "https://image.tmdb.org/t/p/original/ou70x2658dVnbycIRaC37sEeafS.jpg"
     summary: "When an overwhelming alien invasion threatens Earth, humanity unites to fight back with courage and ingenuity. From massive battles to personal sacrifices, the struggle for survival becomes a testament to resilience and hope against a seemingly unstoppable force."

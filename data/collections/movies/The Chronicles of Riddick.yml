@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/158803
+# https://mediux.pro/sets/41685
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,7 @@ collections:
 
   "The Chronicles of Riddick":
     template: { name: Collection, collection: 2794, order: release }
-    url_poster: "https://theposterdb.com/api/assets/266345"
+    url_poster: "https://api.mediux.pro/assets/cce568f6-d560-4ee1-968f-ff79823ae4c2"
     url_background: "https://image.tmdb.org/t/p/original/kwIk8MxT9TG0uJGsyLUyNfuqRQu.jpg"
     sort_title: "Chronicles of Riddick"
+    summary: "A dangerous survivor with a predatory edge drifts from one hostile world to the next, hunted by empires, monsters, and his own violent past. As ancient prophecies awaken and brutal powers rise, survival becomes entangled with destiny, forcing him to confront who he is and where he comes from. In a universe ruled by darkness, only strength, instinct, and defiance keep him alive."

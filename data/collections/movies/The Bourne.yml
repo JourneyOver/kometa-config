@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/131315
+# https://mediux.pro/sets/12742
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,7 @@ collections:
 
   "The Bourne":
     template: { name: Collection, collection: 31562, order: release }
-    url_poster: "https://theposterdb.com/api/assets/217820"
+    url_poster: "https://api.mediux.pro/assets/e4bb7f44-9a12-47bf-81d3-a66644bc71af"
     url_background: "https://image.tmdb.org/t/p/original/dDDyEGgLvTSSRcp36eJcPDUErap.jpg"
     sort_title: "Bourne"
+    summary: "A man with no memory is pulled into a shadow war of secret programs, assassins, and governments willing to erase their mistakes. As fragments of his past resurface across continents, the search for identity becomes a fight for survival against those who created him and those who fear what he now knows. Each step closer to the truth raises the stakes, forcing hard choices between freedom, responsibility, and the cost of uncovering buried sins."

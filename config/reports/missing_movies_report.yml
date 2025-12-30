@@ -106,16 +106,12 @@ Peter Rabbit:
   Movies Missing (TMDb IDs):
     381719: Peter Rabbit (2018)
     522478: 'Peter Rabbit 2: The Runaway (2021)'
-The Bourne:
-  Movies Missing (TMDb IDs):
-    2501: The Bourne Identity (2002)
-    2502: The Bourne Supremacy (2004)
-    2503: The Bourne Ultimatum (2007)
-    49040: The Bourne Legacy (2012)
-    324668: Jason Bourne (2016)
 The Fast and the Furious:
   Movies Missing (TMDb IDs):
     755679: 'Fast X: Part 2'
+Five Nights at Freddy's:
+  Movies Missing (TMDb IDs):
+    1598067: Five Nights at Freddy's 3
 Super Troopers:
   Movies Missing (TMDb IDs):
     39939: Super Troopers (2001)
@@ -129,6 +125,10 @@ Happy Death Day:
 Dune:
   Movies Missing (TMDb IDs):
     1170608: 'Dune: Part Three (2026)'
+Home Alone:
+  Movies Missing (TMDb IDs):
+    9714: Home Alone 3 (1997)
+    12536: Home Alone 4 (2002)
 Terrifier:
   Movies Missing (TMDb IDs):
     1320786: Terrifier 4 (2026)
@@ -150,6 +150,10 @@ Mad Max:
   Movies Missing (TMDb IDs):
     1272837: '28 Years Later: The Bone Temple (2026)'
     1273002: 28 Years Later Part 3
+Wicked:
+  Movies Added (TMDb IDs):
+    402431: Wicked
+    967941: 'Wicked: For Good'
 Before...:
   Movies Missing (TMDb IDs):
     76: Before Sunrise (1995)

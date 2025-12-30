@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/40519
+
+metadata:
+
+  449162: # Last Samurai Standing (2025)
+    url_poster: "https://api.mediux.pro/assets/73347f3d-371b-4c5c-b35f-02c64a0b37fc"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/6aaa9ee2-3ad8-4312-a889-6f5f57213123"
+      1:
+        url_poster: "https://api.mediux.pro/assets/ddf6eca4-86e6-47e6-9b6f-055dbc35b5f6"

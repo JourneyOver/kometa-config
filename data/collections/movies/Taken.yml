@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/2277
+# https://mediux.pro/sets/41700
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,6 @@ collections:
 
   "Taken":
     template: { name: Collection, collection: 135483, order: release }
-    url_poster: "https://theposterdb.com/api/assets/5430"
+    url_poster: "https://api.mediux.pro/assets/13ff9bef-03e1-42f7-9596-502f0392dea0"
     url_background: "https://image.tmdb.org/t/p/original/9GbKnEBfPLsoDjP2RbmYHOSlX8f.jpg"
+    summary: "When his family is torn from him by ruthless criminals, a relentless protector unleashes a singular set of skills forged through years of hard experience. What begins as a desperate rescue escalates into a personal war against those who believe they can act without consequence. Driven by love and unyielding resolve, he proves that threats against his family will always be answered."

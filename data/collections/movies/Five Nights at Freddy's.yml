@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/328812
+# https://mediux.pro/sets/41463
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Five Nights at Freddy's":
     template: { name: Collection, collection: 1240438, order: release }
-    url_poster: "https://theposterdb.com/api/assets/590839"
+    url_poster: "https://api.mediux.pro/assets/9b12666e-813f-477c-843b-b09f0abf5bda"
     url_background: "https://image.tmdb.org/t/p/original/dGd6T2LmDb4YCIuKkbsxWrzpHd3.jpg"
     summary: "Drawn into a forgotten family entertainment venue, a troubled night guard uncovers a legacy of loss, buried crimes, and restless spirits that refuse to stay silent. As each night deepens the mystery, survival depends on confronting the past, enduring escalating terror, and facing the truth behind the haunted mascots that turn innocence into something monstrous."

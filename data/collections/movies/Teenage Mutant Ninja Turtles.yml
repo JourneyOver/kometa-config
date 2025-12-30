@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/37880
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Teenage Mutant Ninja Turtles":
+    template: { name: Collection, collection: 1582, order: release }
+    url_poster: "https://theposterdb.com/api/assets/59350"
+    url_background: "https://image.tmdb.org/t/p/original/gMorXdYQnzP8hDvFCfdoP8EkPzs.jpg"
+    summary: "Raised in the shadows of the city, four unlikely brothers emerge to protect a world that barely knows they exist. Guided by loyalty, humor, and hard fought lessons, they face ruthless enemies, dangerous experiments, and threats that test their bond as a family. Through teamwork and heart, they learn that being heroes means standing together, no matter how strange the odds."

@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/2591
+
+metadata:
+
+  270633: # True Detective (2014)
+    url_poster: "https://api.mediux.pro/assets/07d43bed-06c6-4f8b-bc62-61e4421ec25d"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/a99b0775-826e-4827-af8a-dbdbe6808508"
+      2:
+        url_poster: "https://api.mediux.pro/assets/b2d91063-8bcc-4719-abf9-a8fbfc4a9b07"
+      3:
+        url_poster: "https://api.mediux.pro/assets/e1057e63-1f01-49af-bef2-cc2b7ebc2ec3"
+      4:
+        url_poster: "https://api.mediux.pro/assets/017c2d74-7caf-4684-8064-ce76598c04f9"

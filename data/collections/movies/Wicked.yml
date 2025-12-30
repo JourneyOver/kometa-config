@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/29554
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Wicked":
+    template: { name: Collection, collection: 968080, order: release }
+    url_poster: "https://api.mediux.pro/assets/4c924aa2-da9f-4a08-9027-e6a13bb6caed"
+    url_background: "https://image.tmdb.org/t/p/original/xFcLusbzDM86mla4vjdEBHi7jLW.jpg"
+    summary: "In a land where appearances shape destiny, two young women form an unlikely bond that will define their lives and the future of Oz. As power, prejudice, and ambition pull them onto opposing paths, friendship is tested by hard truths and impossible choices. What begins as a shared journey of discovery becomes a powerful reckoning with identity, sacrifice, and what it truly means to be good."

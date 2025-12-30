@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/23077
+# https://mediux.pro/sets/41501
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Bad Santa":
     template: { name: Collection, collection: 423173, order: release }
-    url_poster: "https://theposterdb.com/api/assets/37643"
+    url_poster: "https://api.mediux.pro/assets/61d1af01-6a7b-494f-ae65-7406de7ee5f6"
     url_background: "https://image.tmdb.org/t/p/original/plVMZOMBsHUNNkCQEoY1rW0B5Qb.jpg"
     summary: "A foul mouthed, hard drinking con artist dressed as Santa Claus turns the holiday season into a twisted scam, targeting crowded malls and unsuspecting shoppers. As his cynical schemes collide with unlikely emotional connections, his selfish routines are challenged by moments of regret, chaos, and dark humor. Through outrageous misbehavior and unexpected heart, the holidays become a messy reckoning with redemption, temptation, and second chances."

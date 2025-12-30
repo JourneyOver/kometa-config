@@ -1,16 +1,13 @@
 # Posters from:
-# https://theposterdb.com/set/158803
+# https://mediux.pro/sets/41685
 
 metadata:
 
   2787: # Pitch Black (2000)
-    url_poster: "https://theposterdb.com/api/assets/266346"
+    url_poster: "https://api.mediux.pro/assets/6197cd62-67b6-4513-ad40-5ef04b6ddca5"
 
   2789: # The Chronicles of Riddick (2004)
-    url_poster: "https://theposterdb.com/api/assets/266347"
-
-#  2791: # The Chronicles of Riddick: Dark Fury (2004)
-#    url_poster: "https://theposterdb.com/api/assets/266348"
+    url_poster: "https://api.mediux.pro/assets/2fc1b1c7-bd4a-40fd-b03d-0b592c43831e"
 
   87421: # Riddick (2013)
-    url_poster: "https://theposterdb.com/api/assets/266349"
+    url_poster: "https://api.mediux.pro/assets/36d9bf5b-33dc-479e-82bd-56fb3746fb3d"

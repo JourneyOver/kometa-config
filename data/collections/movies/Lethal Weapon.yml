@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/58018
+# https://mediux.pro/sets/41694
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Lethal Weapon":
     template: { name: Collection, collection: 945, order: release }
-    url_poster: "https://theposterdb.com/api/assets/91430"
+    url_poster: "https://api.mediux.pro/assets/7faf89b7-9b2f-48b8-b467-e23c46df979f"
     url_background: "https://image.tmdb.org/t/p/original/jSslTHuJS86fp4SVJKP9oBhE4s6.jpg"
     summary: "A volatile detective and his level-headed partner form an unlikely bond as they take on L.A.'s most dangerous criminals. From explosive shootouts to personal struggles, their partnership is tested through high-stakes cases, growing trust, and sharp banter that turns chaos into camaraderie."

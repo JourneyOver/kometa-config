@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/86887
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Teenage Mutant Ninja Turtles (Remake)":
+    template: { name: Collection, collection: 401562, order: release }
+    url_poster: "https://theposterdb.com/api/assets/139451"
+    url_background: "https://image.tmdb.org/t/p/original/tfpOdV9gvqbGJEeLGSu5X1vOLKV.jpg"
+    summary: "Hidden beneath the city, four brothers step into a world that fears what it does not understand, forced to become heroes before they are ready. As criminal empires rise and ancient rivalries resurface, their strength is tested not just in battle but in trust, identity, and loyalty to one another. Together they learn that family is their greatest weapon, and the surface world is worth fighting for."
