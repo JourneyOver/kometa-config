@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/102023
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "RoboCop":
+    template: { name: Collection, collection: 5547, order: release }
+    url_poster: "https://theposterdb.com/api/assets/166876"
+    url_background: "https://image.tmdb.org/t/p/original/9HGtm8Cn6Favg7C35tLSPwSalQm.jpg"
+    summary: "In a crime-ravaged Detroit, the line between justice and corporate control is tested through a fallen officer rebuilt as a symbol of law and order. As technology advances and power struggles intensify, humanity clashes with programming, profit motives, and public image. Violence, satire, and ethical conflict expose what is lost and what remains when a man becomes a machine in the name of progress."

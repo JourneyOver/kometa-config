@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/82824
+# https://mediux.pro/sets/12008
 
 external_templates:
   - file: data/_templates.yml
@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 595693, order: release }
     url_poster: "https://theposterdb.com/api/assets/133032"
     url_background: "https://image.tmdb.org/t/p/original/gwKcnZiRcdYPqJpxUSrIUanfm3Z.jpg"
+    summary: "Mischief and charm fill the countryside as a clever rabbit and his friends balance playful rebellion with the bonds of family. What begins as garden chaos grows into a journey of self-discovery, responsibility, and belonging beyond familiar fields. Humor, heart, and colorful adventure highlight the struggle between independence and knowing where one truly belongs."

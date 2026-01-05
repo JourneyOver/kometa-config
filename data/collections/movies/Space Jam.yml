@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/11693
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Space Jam":
+    template: { name: Collection, collection: 722961, order: release }
+    url_poster: "https://api.mediux.pro/assets/9523a1e8-961c-481b-8b1c-950e8ea26b0f"
+    url_background: "https://image.tmdb.org/t/p/original/gCOjz39o8xdgzHM6yiSuXtnylbG.jpg"
+    summary: "A high-energy mix of live action and animation where basketball becomes the battleground for pride, freedom, and family. From a superstar pulled into a cartoon world to a new generation facing digital control and identity, familiar Looney Tunes chaos fuels epic games against overwhelming odds. Humor, spectacle, and heart collide as teamwork, self-belief, and the joy of play shape victories both on and off the court."

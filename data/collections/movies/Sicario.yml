@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/7034
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Sicario":
+    template: { name: Collection, collection: 496796, order: release }
+    url_poster: "https://api.mediux.pro/assets/40b74491-670c-4ea2-947e-5ab2788dd4b1"
+    url_background: "https://image.tmdb.org/t/p/original/moZq1nt3Go7Kkz5t1gu2Wmo1jU7.jpg"
+    summary: "A grim descent into the hidden war along the US Mexico border, where law enforcement, covert operatives, and political agendas collide in moral gray zones. Tension builds through brutal operations, shifting loyalties, and the cost of fighting unseen enemies. Power, vengeance, and the erosion of boundaries shape a relentless portrait of justice pursued at any price."

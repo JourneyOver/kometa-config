@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/132688
+# https://mediux.pro/sets/41703
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,6 @@ collections:
 
   "Super Troopers":
     template: { name: Collection, collection: 449462, order: release }
-    url_poster: "https://theposterdb.com/api/assets/220021"
+    url_poster: "https://api.mediux.pro/assets/4ee94f38-76b5-478e-9437-13b0a9609249"
     url_background: "https://image.tmdb.org/t/p/original/v9N8AxyHf9crA9Iza9fF5ntPJFj.jpg"
+    summary: "A group of mischievous state troopers turn law enforcement into a playground of pranks, rivalries, and absurd authority. What starts as routine patrols escalates into larger jurisdictional chaos filled with over-the-top antics and loyalty tests. Crude humor, camaraderie, and unapologetic stupidity drive a comedy built on friendship and bending the rules for fun."

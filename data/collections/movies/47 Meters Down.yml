@@ -1,5 +1,5 @@
 # Poster from:
-#
+# https://theposterdb.com/set/12543
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "47 Meters Down":
     template: { name: Collection, collection: 635922, order: release }
-#    url_poster: ""
-#    url_background: ""
-    summary: "Two sisters find themselves trapped in a shark cage at the bottom of the ocean. With less than an hour of oxygen left and surrounded by hungry sharks, they must fight to survive."
+    url_poster: "https://theposterdb.com/api/assets/21610"
+    url_background: "https://image.tmdb.org/t/p/original/6prLHzEHOMaMEr9OMpV93TPrwJN.jpg"
+    summary: "A claustrophobic fight for survival unfolds beneath the ocean surface, where isolation, failing equipment, and unseen predators turn every breath into a risk. As characters descend into darker and more dangerous waters, panic and courage collide in a relentless struggle against time. Fear, resilience, and the instinct to survive define these deadly encounters in the deep."

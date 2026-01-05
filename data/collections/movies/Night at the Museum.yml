@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/244
+# https://mediux.pro/sets/41696
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,6 @@ collections:
 
   "Night at the Museum":
     template: { name: Collection, collection: 85943, order: release }
-    url_poster: "https://theposterdb.com/api/assets/864"
-    url_background: "https://image.tmdb.org/t/p/original/z0nqqHwEY3niKa41kKbR4zhnvHw.jpg"
+    url_poster: "https://api.mediux.pro/assets/73ecafae-94b9-42dd-abd9-02bbb1751943"
+    url_background: "https://image.tmdb.org/t/p/original/3mvDUFgd6t52P2G2JKYuINwMxcd.jpg"
+    summary: "When night falls, history comes alive in ways both chaotic and heartfelt. An ordinary night watchman is drawn into extraordinary events as legendary figures awaken, friendships form across centuries, and museums become stages for adventure. As the journey expands from local halls to world-famous landmarks and ancient secrets, courage, loyalty, and letting go define the struggle to protect the magic that brings the past to life."

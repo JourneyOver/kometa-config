@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/11217
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Blade Runner":
+    template: { name: Collection, collection: 422837, order: release }
+    url_poster: "https://api.mediux.pro/assets/2aec6c80-14b6-44e7-9e9d-51bac4c452be"
+    url_background: "https://image.tmdb.org/t/p/original/li3buIx57ph3RX5XlbpMzJPewZ0.jpg"
+    summary: "In a rain-soaked future shaped by neon lights and moral decay, hunters track artificial beings who blur the line between machine and human. As time passes and secrets resurface, questions of identity, memory, and free will deepen. Loneliness, purpose, and the search for meaning define a haunting vision of humanity reflected through those it created."
