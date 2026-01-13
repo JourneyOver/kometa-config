@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/11118
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "All Dogs Go to Heaven":
+    template: { name: Collection, collection: 140910, order: release }
+    url_poster: "https://api.mediux.pro/assets/9be664c4-e787-406b-a9a4-7c695557b547"
+    url_background: "https://image.tmdb.org/t/p/original/haJ6SsjxfhSRG61LMy4QJWxCNAb.jpg"
+    summary: "Beyond the streets of New Orleans and into realms touched by the afterlife, a group of unforgettable canine companions wrestle with second chances, loyalty, and the meaning of redemption. Through mischief, danger, and moments of heartfelt sacrifice, friendship and compassion prove stronger than greed or fear. Humor, warmth, and emotional highs come together to explore forgiveness, the bonds between friends, and the belief that even the most flawed souls can find their way home."

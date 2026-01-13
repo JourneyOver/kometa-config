@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/336808
+
+metadata:
+
+  351953: # Zombie Land Saga (2018)
+    url_poster: "https://theposterdb.com/api/assets/604453"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/604454"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/604455"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/604456"

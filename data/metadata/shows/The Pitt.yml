@@ -5,7 +5,8 @@ metadata:
 
   448176: # The Pitt (2025)
     url_poster: "https://api.mediux.pro/assets/7003a342-c1f0-477c-a35d-76a7c9ab9e98"
-    url_background: "https://api.mediux.pro/assets/3c33139c-87d2-4446-b627-2932f32df309"
     seasons:
       1:
         url_poster: "https://api.mediux.pro/assets/64ca809e-57d1-4bad-a6aa-e0abf9de861d"
+      2:
+        url_poster: "https://api.mediux.pro/assets/113545c5-70f4-40dd-b37d-5691f9e9c756"
