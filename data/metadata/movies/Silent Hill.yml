@@ -1,10 +1,13 @@
 # Posters from:
-# https://theposterdb.com/set/5883
+# https://mediux.pro/sets/42141
 
 metadata:
 
   588: # Silent Hill (2006)
-    url_poster: "https://theposterdb.com/api/assets/11691"
+    url_poster: "https://api.mediux.pro/assets/de3e533a-6be0-4f71-9598-d93ae23cd4f6"
 
   61012: # Silent Hill: Revelation 3D (2012)
-    url_poster: "https://theposterdb.com/api/assets/11693"
+    url_poster: "https://api.mediux.pro/assets/334b6e2f-08c4-4927-b636-2a06b4142e45"
+
+#  680493: # Return to Silent Hill (2026)
+#    url_poster: "https://api.mediux.pro/assets/5b8475f2-2684-48be-afd9-f7a8e032c219"

@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/5883
+# https://mediux.pro/sets/42141
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Silent Hill":
     template: { name: Collection, collection: 64748, order: release }
-    url_poster: "https://theposterdb.com/api/assets/11690"
+    url_poster: "https://api.mediux.pro/assets/e4b08176-24da-44b6-a6e5-2b9f79662223"
     url_background: "https://image.tmdb.org/t/p/original/jWF319ozJUsXY6x8y4XghLoX8cD.jpg"
     summary: "A cursed town shrouded in fog draws the lost and the desperate into a nightmare shaped by guilt, faith, and buried trauma. As shifting realities reveal monsters born from inner torment, the search for loved ones becomes a confrontation with personal sins and dark cult influence. Horror, symbolism, and psychological dread intertwine as Silent Hill exposes the price of unresolved pain."

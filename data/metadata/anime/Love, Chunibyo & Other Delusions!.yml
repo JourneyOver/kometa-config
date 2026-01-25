@@ -6,8 +6,8 @@ metadata:
   261862: # Love, Chunibyo & Other Delusions! (2012)
     url_poster: "https://theposterdb.com/api/assets/512988"
     seasons:
-#      0:
-#        url_poster: "https://theposterdb.com/api/assets/512989"
+      0:
+        url_poster: "https://theposterdb.com/api/assets/512989"
       1:
         url_poster: "https://theposterdb.com/api/assets/512990"
       2:

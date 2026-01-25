@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/378721
+
+metadata:
+
+  463334: # An Adventurer's Daily Grind at Age 29 (2026)
+    url_poster: "https://theposterdb.com/api/assets/677263"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/677264"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/677265"

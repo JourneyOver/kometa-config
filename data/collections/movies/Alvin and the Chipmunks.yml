@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/8350
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Alvin and the Chipmunks":
+    template: { name: Collection, collection: 167613, order: release }
+    url_poster: "https://api.mediux.pro/assets/fa5f16be-f569-4a3e-a2a1-0132efb287fb"
+    url_background: "https://image.tmdb.org/t/p/original/oLbsrl70GSwntrXxRxusfeLid0F.jpg"
+    summary: "Mischievous chipmunk brothers Alvin, Simon, and Theodore team up with their patient guardian Dave Seville in a whirlwind of high-pitched harmonies, wild antics, and unstoppable energy. From chaotic home life and school rivalries to island castaways and cross-country chases, their adventures burst with catchy tunes, unbreakable loyalty, and the joyful chaos of family, proving that music and togetherness can conquer any mess."

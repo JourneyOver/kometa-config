@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/344454
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Pulse":
+    template: { name: Collection, collection: 124188, order: release }
+    url_poster: "https://theposterdb.com/api/assets/617494"
+    url_background: "https://image.tmdb.org/t/p/original/54ZHuruIzDvqMPCNvBFXDxQEy5G.jpg"
+    summary: "An eerie curse spreads through modern technology, blurring the boundary between the living and a haunted digital afterlife. As loneliness, fear, and unseen forces seep through screens and signals, humanity faces an overwhelming sense of isolation that grows darker with every connection made. Bleak atmosphere, psychological dread, and apocalyptic tension combine to explore how the search for connection can open doors best left closed."

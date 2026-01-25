@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/377119
+# https://mediux.pro/sets/42235
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Sisu":
     template: { name: Collection, collection: 1262937, order: release }
-    url_poster: "https://theposterdb.com/api/assets/674062"
+    url_poster: "https://api.mediux.pro/assets/2cbb5031-d5ed-4dce-a11e-c74674071096"
     url_background: "https://image.tmdb.org/t/p/original/eKivcdAvXsWaXHoKQTzjeptsdCJ.jpg"
     summary: "In the brutal final days of World War II, a solitary survivor with unbreakable resolve crosses paths with merciless enemies who underestimate what it means to take everything from a man who has nothing left to lose. What begins as a fight for survival becomes a relentless pursuit of vengeance, where endurance, grit, and an iron will turn the road itself into a battlefield."

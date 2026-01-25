@@ -3,7 +3,7 @@ playlists:
   The Walking Dead Universe:
     sync_to_users: all
     sync_mode: sync
-    libraries: Movies, TV Shows
+    libraries: TV Shows
     trakt_list: https://trakt.tv/users/journey-over/lists/the-walking-dead-universe?sort=rank,asc
     summary: The Walking Dead Universe in Chronological Order
     url_poster: https://theposterdb.com/api/assets/176383

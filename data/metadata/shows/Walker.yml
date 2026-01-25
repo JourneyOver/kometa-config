@@ -1,18 +1,16 @@
 # Posters from:
-# https://mediux.pro/sets/21106
-# https://mediux.pro/sets/16042
+# https://theposterdb.com/set/113203
 
 metadata:
 
   371768: # Walker (2021)
-    url_poster: "https://api.mediux.pro/assets/b9045f23-1f98-4775-bef3-355e6e88ed4d"
-    url_background: "https://api.mediux.pro/assets/10b6b510-8995-41d3-9edb-a815bf3f2f70"
+    url_poster: "https://theposterdb.com/api/assets/186717"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/7a918499-7741-4ac5-a758-a272ef0cc115"
+        url_poster: "https://theposterdb.com/api/assets/186718"
       2:
-        url_poster: "https://api.mediux.pro/assets/3c263f4c-65b8-41f4-b733-ee84570827ab"
+        url_poster: "https://theposterdb.com/api/assets/186719"
       3:
-        url_poster: "https://api.mediux.pro/assets/e78c434e-3f0c-430a-8fef-1c15d425154f"
+        url_poster: "https://theposterdb.com/api/assets/272713"
       4:
-        url_poster: "https://api.mediux.pro/assets/1b5ae1e3-4e91-4e7f-a755-a8bd8a28fdcb"
+        url_poster: "https://theposterdb.com/api/assets/468904"

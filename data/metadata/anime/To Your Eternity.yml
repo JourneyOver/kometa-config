@@ -1,0 +1,16 @@
+# Posters from:
+# https://theposterdb.com/set/361305
+
+metadata:
+
+  375271: # To Your Eternity (2021)
+    url_poster: "https://theposterdb.com/api/assets/645536"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/645537"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/645538"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/645539"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/645540"
