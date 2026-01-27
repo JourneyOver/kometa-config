@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/47142
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Lake Placid":
+    template: { name: Collection, collection: 97768, order: release }
+    url_poster: "https://theposterdb.com/api/assets/74017"
+    url_background: "https://image.tmdb.org/t/p/original/fKijuk5TTzTxFitleJ9Molzzti1.jpg"
+    summary: "Beneath the tranquil surface of Maine's Black Lake, an ancient and insatiable hunger lurks within the murky depths. Unsuspecting locals and outmatched authorities find themselves hunted by massive, prehistoric predators that turn the scenic wilderness into a gruesome feeding ground. As the body count rises and the scale of the infestation grows, survival depends on outsmarting nature's most perfect killing machines before the water runs red."

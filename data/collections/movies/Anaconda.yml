@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/46194
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Anaconda":
+    template: { name: Collection, collection: 105995, order: release }
+    url_poster: "https://theposterdb.com/api/assets/72418"
+    url_background: "https://image.tmdb.org/t/p/original/uR7j2TEwJVCMz7CDJgNPuhty4J9.jpg"
+    summary: "Giant anacondas inhabit remote jungles and rivers, where they attack intruders with lethal force. Expeditions in search of riches, cures, or secrets are repeatedly turned into battles for survival against the snakes."

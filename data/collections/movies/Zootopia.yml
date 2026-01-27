@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/40910
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Zootopia":
+    template: { name: Collection, collection: 1084247, order: release }
+    url_poster: "https://api.mediux.pro/assets/4d20ec88-6eb6-49ea-8d51-c9cbf16b6323"
+    url_background: "https://image.tmdb.org/t/p/original/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg"
+    summary: "In the vibrant metropolis of Zootopia, a city where every species struggles to coexist in a fragile balance, idealism collides with fear, ambition, and deeply rooted prejudice. As Judy Hopps and Nick Wilde navigate tangled mysteries and rising tensions, their growing trust becomes a powerful force against corruption, division, and social fracture. Heart, humor, and high-stakes adventure intertwine in a world where courage, empathy, and the fight for equality shape the future of an entire society."
