@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/8465
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Clash of the Titans":
+    template: { name: Collection, collection: 86780, order: release }
+    url_poster: "https://api.mediux.pro/assets/82d87d32-28e8-4923-9d60-7ab0867da84a"
+    url_background: "https://image.tmdb.org/t/p/original/vmE52XvE2yWWQFt4g1x17K070gY.jpg"
+    summary: "Mythic spectacle rooted in Greek legend, where gods meddle in mortal fate and heroes confront monsters, prophecy, and personal sacrifice while the balance between Olympus and humanity hangs in the balance."

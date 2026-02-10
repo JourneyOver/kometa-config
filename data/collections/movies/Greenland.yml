@@ -1,5 +1,5 @@
 # Poster from:
-# https://mediux.pro/sets/40570
+# https://mediux.pro/sets/42406
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Greenland":
     template: { name: Collection, collection: 840465, order: release }
-    url_poster: "https://api.mediux.pro/assets/a202a7ec-7ed2-4a6c-943d-8d7606ee8ac9"
+    url_poster: "https://api.mediux.pro/assets/b00cb154-b97c-4284-aa1f-bc207f149eb1"
     url_background: "https://image.tmdb.org/t/p/original/ePFY35rECK4tR8aQYZwQ0xzR3xO.jpg"
     summary: "A tense survival journey unfolds as a family struggles to stay together during a planet-altering catastrophe. With civilization collapsing and time running out, desperate choices must be made amid mass evacuations, shattered trust, and uncertain refuge. Hope persists through resilience, love, and the will to endure as humanity searches for a future after devastation."
