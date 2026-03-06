@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/1128
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Big Momma's House":
+    template: { name: Collection, collection: 44979, order: release }
+    url_poster: "https://api.mediux.pro/assets/1695fea6-00bd-4a22-9f16-ff332599825a"
+    url_background: "https://image.tmdb.org/t/p/original/gQbQSCoHyYLDUnxIN3doGY6lcZ8.jpg"
+    summary: "Disguises, family chaos, and undercover hijinks collide as an oversized Southern matriarch becomes the unlikely key to cracking crimes and holding fractured families together. From suburban homes to high school hallways, the humor leans on physical comedy, mistaken identities, and heartfelt moments about parenting, loyalty, and finding connection in the most absurd circumstances."

@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/370214
+
+metadata:
+
+  401726: # Dead End: Paranormal Park (2022)
+    url_poster: "https://theposterdb.com/api/assets/660849"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/660850"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/660851"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/660852"

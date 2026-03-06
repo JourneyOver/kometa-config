@@ -1,0 +1,18 @@
+# Posters from:
+# https://mediux.pro/sets/15969
+
+metadata:
+
+  73545: # Battlestar Galactica (2004)
+    url_poster: "https://api.mediux.pro/assets/46390858-4d78-451f-a4d3-1c24bf2298ef"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/87d1ecb9-3ebd-4911-b15e-e31890fa3f85"
+      1:
+        url_poster: "https://api.mediux.pro/assets/6ebb1ae6-1511-4db2-a1df-f83255f3df38"
+      2:
+        url_poster: "https://api.mediux.pro/assets/aac016e0-67cf-47e6-b41b-64972d6ec28d"
+      3:
+        url_poster: "https://api.mediux.pro/assets/b2254793-b120-43b1-9cbe-98fe31e9df03"
+      4:
+        url_poster: "https://api.mediux.pro/assets/2be731bb-753a-46eb-b5aa-dda3e0be0b3f"

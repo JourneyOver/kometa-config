@@ -9,5 +9,5 @@ metadata:
   61012: # Silent Hill: Revelation 3D (2012)
     url_poster: "https://api.mediux.pro/assets/334b6e2f-08c4-4927-b636-2a06b4142e45"
 
-#  680493: # Return to Silent Hill (2026)
-#    url_poster: "https://api.mediux.pro/assets/5b8475f2-2684-48be-afd9-f7a8e032c219"
+  680493: # Return to Silent Hill (2026)
+    url_poster: "https://api.mediux.pro/assets/5b8475f2-2684-48be-afd9-f7a8e032c219"
