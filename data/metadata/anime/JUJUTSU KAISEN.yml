@@ -1,0 +1,16 @@
+# Posters from:
+# https://theposterdb.com/set/379425
+
+metadata:
+
+  377543: # JUJUTSU KAISEN (2020)
+    url_poster: "https://theposterdb.com/api/assets/678519"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/678520"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/678521"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/678522"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/678523"

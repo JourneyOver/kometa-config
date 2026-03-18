@@ -1,24 +1,24 @@
 # Posters from:
-# https://mediux.pro/sets/15153
+# https://theposterdb.com/set/206396
 
 metadata:
 
   270408: # Outlander (2014)
-    url_poster: "https://api.mediux.pro/assets/5df5543f-ab13-496e-836c-f46cb6694eb5"
+    url_poster: "https://theposterdb.com/api/assets/361972"
     seasons:
-#      0:
-#        url_poster: "https://api.mediux.pro/assets/f206da65-269a-4f3f-ab99-fc8e907d1e8b"
       1:
-        url_poster: "https://api.mediux.pro/assets/a69a0231-cf2b-430e-93ab-9ef523a14327"
+        url_poster: "https://theposterdb.com/api/assets/361973"
       2:
-        url_poster: "https://api.mediux.pro/assets/e6f35982-544d-4c38-82bb-fd0471d6cf7c"
+        url_poster: "https://theposterdb.com/api/assets/361974"
       3:
-        url_poster: "https://api.mediux.pro/assets/2f991c11-e0e9-4d00-9daa-991264a755ca"
+        url_poster: "https://theposterdb.com/api/assets/361975"
       4:
-        url_poster: "https://api.mediux.pro/assets/6445a6b5-bcd8-4a05-bba5-3d46c36493ae"
+        url_poster: "https://theposterdb.com/api/assets/361976"
       5:
-        url_poster: "https://api.mediux.pro/assets/543be10a-1311-4e9a-a7e5-f89b2b51a179"
+        url_poster: "https://theposterdb.com/api/assets/361977"
       6:
-        url_poster: "https://api.mediux.pro/assets/90d2656c-0cd9-417a-94e1-3000e5eba7ce"
+        url_poster: "https://theposterdb.com/api/assets/361978"
       7:
-        url_poster: "https://api.mediux.pro/assets/237f0935-85a9-4b4b-8aa6-a059788d9c43"
+        url_poster: "https://theposterdb.com/api/assets/361979"
+      8:
+        url_poster: "https://theposterdb.com/api/assets/696600"

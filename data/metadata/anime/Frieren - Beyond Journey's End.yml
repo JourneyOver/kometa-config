@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/218691
+
+metadata:
+
+  424536: # Frieren: Beyond Journey's End (2023)
+    url_poster: "https://theposterdb.com/api/assets/388818"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/421200"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/388819"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/580572"

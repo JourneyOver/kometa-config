@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/214066
+
+metadata:
+
+  429310: # Zom 100: Bucket List of the Dead (2023)
+    url_poster: "https://theposterdb.com/api/assets/380200"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/561859"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/380201"
