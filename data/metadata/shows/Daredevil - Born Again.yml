@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/31084
+# https://mediux.pro/sets/45923
 
 metadata:
 
   422712: # Daredevil: Born Again (2025)
-    url_poster: "https://api.mediux.pro/assets/8e0aaa18-1ef3-4cb7-85fa-0c385651a7b0"
+    url_poster: "https://api.mediux.pro/assets/7928b4c9-5ae0-4ddf-9152-f955bafce522"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/bf6e89f9-1ff3-44b5-aff0-db53c79432d2"
+        url_poster: "https://api.mediux.pro/assets/cd133ace-0750-43c0-84fc-f7f5b5a9d218"
+      2:
+        url_poster: "https://api.mediux.pro/assets/621ab1f0-50c6-4751-891f-e2d62c10e8bb"

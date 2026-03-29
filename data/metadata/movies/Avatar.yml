@@ -1,10 +1,13 @@
 # Posters from:
-# https://theposterdb.com/set/165522
+# https://mediux.pro/sets/46033
 
 metadata:
 
   19995: # Avatar (2009)
-    url_poster: "https://theposterdb.com/api/assets/277977"
+    url_poster: "https://api.mediux.pro/assets/a338a19f-e24e-429f-91a2-710042390b8d"
 
   76600: # Avatar: The Way of Water (2022)
-    url_poster: "https://theposterdb.com/api/assets/277978"
+    url_poster: "https://api.mediux.pro/assets/b2beb2b9-720e-4e20-86f5-b550ebf8ee04"
+
+  83533: # Avatar: Fire and Ash (2025)
+    url_poster: "https://api.mediux.pro/assets/51f2e47c-12f6-40f3-a7a2-5d8172494fb0"
