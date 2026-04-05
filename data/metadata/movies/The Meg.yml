@@ -1,7 +1,10 @@
+# Posters from:
+# https://mediux.pro/sets/10215
+
 metadata:
 
   345940: # The Meg (2018)
-    url_poster: "https://theposterdb.com/api/assets/401501"
+    url_poster: "https://api.mediux.pro/assets/d98f8ad9-2320-46ae-8181-2c063c890267"
 
   615656: # Meg 2: The Trench (2023)
-    url_poster: "https://theposterdb.com/api/assets/401502"
+    url_poster: "https://api.mediux.pro/assets/11135f91-8f58-427a-8c2d-c77ec291c0bc"

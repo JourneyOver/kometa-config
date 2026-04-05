@@ -7,7 +7,7 @@ external_templates:
 collections:
 
   "The Hunger Games":
-    template: { name: Collection, collection: 131635, order: release }
+    template: { name: Collection, collection: 131635, movies: "695721, 1300968", order: release }
     url_poster: "https://api.mediux.pro/assets/2d74542d-7a66-4d01-a662-63514227f04e"
     url_background: "https://image.tmdb.org/t/p/original/sCv97nXYJhoLrTgGHFsMnqVDTcF.jpg"
     sort_title: "Hunger Games"

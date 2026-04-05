@@ -1,16 +1,18 @@
 # Posters from:
-# https://theposterdb.com/set/207756
+# https://mediux.pro/sets/46137
 
 metadata:
 
   296762: # Westworld (2016)
-    url_poster: "https://theposterdb.com/api/assets/365716"
+    url_poster: "https://api.mediux.pro/assets/d7a15498-0290-46d5-86e6-97f58d4265c0"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/64d60000-d23e-4bf2-9f50-785200761d1a"
       1:
-        url_poster: "https://theposterdb.com/api/assets/365717"
+        url_poster: "https://api.mediux.pro/assets/8040d7a2-c8d1-4651-8dc3-e8809901c6de"
       2:
-        url_poster: "https://theposterdb.com/api/assets/365718"
+        url_poster: "https://api.mediux.pro/assets/eeb932e2-8fb1-40fa-b46c-4d12021fc581"
       3:
-        url_poster: "https://theposterdb.com/api/assets/365719"
+        url_poster: "https://api.mediux.pro/assets/892b6507-bfcd-4c07-b55b-3d8ce28c9a29"
       4:
-        url_poster: "https://theposterdb.com/api/assets/365720"
+        url_poster: "https://api.mediux.pro/assets/fe97181e-7c85-4c95-8e0a-f5ca05274d98"

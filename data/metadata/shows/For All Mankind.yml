@@ -1,16 +1,20 @@
 # Posters from:
-# https://mediux.pro/sets/2438
+# https://mediux.pro/sets/45985
 
 metadata:
 
   356202: # For All Mankind (2019)
-    url_poster: "https://api.mediux.pro/assets/7b5afcf4-ccfe-4100-bfc8-9056a18b1c73"
+    url_poster: "https://api.mediux.pro/assets/55dd5110-ddf6-4b7a-ac85-a063055d5f22"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/d78171af-f4d2-4b96-93d6-d4571a1aeeb5"
       1:
-        url_poster: "https://api.mediux.pro/assets/907d91fa-c1aa-4de3-b451-d8dffe966a87"
+        url_poster: "https://api.mediux.pro/assets/5a6b482c-686d-4e6e-8d6e-4a61ea85f4bd"
       2:
-        url_poster: "https://api.mediux.pro/assets/8bbc880f-89fe-43ee-a2a1-b435ac7fef29"
+        url_poster: "https://api.mediux.pro/assets/aad1db56-5042-4ac4-811a-0f5b940a32c6"
       3:
-        url_poster: "https://api.mediux.pro/assets/2300f816-fbdc-4d2b-a8cd-eab62b280f9a"
+        url_poster: "https://api.mediux.pro/assets/68d72a5e-d1fd-409c-bd8a-f7014ff9322d"
       4:
-        url_poster: "https://api.mediux.pro/assets/cabbc33f-ad29-4f15-a52a-e98a7f5b30d4"
+        url_poster: "https://api.mediux.pro/assets/4e29be5b-15f7-4e1c-8e57-9d9f3f99cd72"
+      5:
+        url_poster: "https://api.mediux.pro/assets/4d670783-d20e-4fc8-a861-bd8dea9aa45e"

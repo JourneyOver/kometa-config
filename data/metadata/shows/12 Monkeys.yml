@@ -1,19 +1,18 @@
 # Posters from:
-# https://theposterdb.com/set/149129
+# https://mediux.pro/sets/46070
 
 metadata:
 
   272644: # 12 Monkeys (2015)
-    url_poster: "https://theposterdb.com/api/assets/249295"
-    url_background: "https://api.mediux.pro/assets/0652957a-d559-40d5-8a0b-ba6c9e3aecfe"
+    url_poster: "https://api.mediux.pro/assets/d8a08d11-add3-4479-8b85-fe7a51dd3abb"
     seasons:
 #      0:
-#        url_poster: "https://theposterdb.com/api/assets/249296"
+#        url_poster: "https://api.mediux.pro/assets/c5b51727-a791-4d69-b1ce-d6d497e4c392"
       1:
-        url_poster: "https://theposterdb.com/api/assets/249297"
+        url_poster: "https://api.mediux.pro/assets/748ae187-50c1-4e2b-8381-6db9717fa53d"
       2:
-        url_poster: "https://theposterdb.com/api/assets/249298"
+        url_poster: "https://api.mediux.pro/assets/c876fe72-aeab-48d7-9748-c71cd32347a4"
       3:
-        url_poster: "https://theposterdb.com/api/assets/249299"
+        url_poster: "https://api.mediux.pro/assets/d5a84a8d-a9f4-41a6-b82f-a0d7e4b516d3"
       4:
-        url_poster: "https://theposterdb.com/api/assets/249300"
+        url_poster: "https://api.mediux.pro/assets/b7e65ba7-e344-4bf8-9c9c-9701f6e87ba6"

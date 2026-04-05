@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/224773
+# https://mediux.pro/sets/10215
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "The Meg":
     template: { name: Collection, collection: 742536, order: release }
-    url_poster: "https://theposterdb.com/api/assets/401500"
+    url_poster: "https://api.mediux.pro/assets/634c503b-c819-4e2f-8076-268b97279b29"
     url_background: "https://image.tmdb.org/t/p/original/iu9bKeJeARqBy0fxXHq7U3kGDqw.jpg"
     sort_title: "Meg"

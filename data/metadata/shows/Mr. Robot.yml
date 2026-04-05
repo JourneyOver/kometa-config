@@ -1,16 +1,18 @@
 # Posters from:
-# https://mediux.pro/sets/693
+# https://mediux.pro/sets/46071
 
 metadata:
 
   289590: # Mr. Robot (2015)
-    url_poster: "https://api.mediux.pro/assets/830ce70e-8a2f-4ae3-836d-76b5f5e4950e"
+    url_poster: "https://api.mediux.pro/assets/b0f15c53-39be-43d8-9057-f0b54adf2333"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/09b17134-f8a9-4e70-b8e8-1a54a008793c"
       1:
-        url_poster: "https://api.mediux.pro/assets/4b1ef954-35d4-4512-b93c-9d30acaa3d8c"
+        url_poster: "https://api.mediux.pro/assets/bbfa9f73-c9fa-44bc-b831-815283383f8f"
       2:
-        url_poster: "https://api.mediux.pro/assets/3bb96aee-be65-435f-aae5-b0465e0ae653"
+        url_poster: "https://api.mediux.pro/assets/ded2e247-1be1-4a25-9c41-cb6702b7d8b7"
       3:
-        url_poster: "https://api.mediux.pro/assets/1015ac7b-cbce-4cec-81b3-6f214f286108"
+        url_poster: "https://api.mediux.pro/assets/37ecea0e-3db7-4540-9fdb-8b7326423cac"
       4:
-        url_poster: "https://api.mediux.pro/assets/696706c6-7eef-48ef-bdc2-edb9d7a0fc32"
+        url_poster: "https://api.mediux.pro/assets/4a7a3a7c-799a-4d5c-821d-1bc3dd3bc064"
