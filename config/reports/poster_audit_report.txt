@@ -1,0 +1,281 @@
+POSTER AUDIT REPORT
+============================================================
+Total .yml files scanned: 1171
+
+============================================================
+SECTION 1: MISSING "# Posters from:" HEADER
+============================================================
+movies\Halloween.yml
+movies\Hostel.yml
+movies\How to Train Your Dragon (Animation).yml
+movies\Ice Age.yml
+movies\Inside Out.yml
+movies\Jack Reacher.yml
+movies\Kung Fu Panda.yml
+movies\Madagascar.yml
+movies\Maze Runner.yml
+movies\Monsters, Inc..yml
+movies\My Spy.yml
+movies\Pet Sematary (Reboot).yml
+movies\Pet Sematary.yml
+movies\Pirates of the Caribbean.yml
+movies\Puss in Boots.yml
+movies\Ratatouille.yml
+movies\Raya and the Last Dragon.yml
+movies\Ready Player One.yml
+movies\Red One.yml
+movies\Resident Evil (Animated).yml
+movies\Resident Evil.yml
+movies\Rio.yml
+movies\Saw.yml
+movies\Scary Movie.yml
+movies\Scouts Guide to the Zombie Apocalypse.yml
+movies\Shaolin Soccer.yml
+movies\Shaun of the Dead.yml
+movies\Sherlock Holmes.yml
+movies\Shrek.yml
+movies\Shutter Island.yml
+movies\Sinister.yml
+movies\Smile.yml
+movies\Sonic the Hedgehog.yml
+movies\Soul.yml
+movies\Spies in Disguise.yml
+movies\Tarzan (Animation).yml
+movies\Tenet.yml
+movies\Terrifier.yml
+movies\The Bob's Burgers Movie.yml
+movies\The Fox and the Hound.yml
+movies\The Good Dinosaur.yml
+movies\The Gorge.yml
+movies\The Green Mile.yml
+movies\The Incredibles.yml
+movies\The Lion King (Animation).yml
+movies\The Lion King.yml
+movies\The Martian.yml
+movies\The Mummy.yml
+movies\The Shining.yml
+movies\The Simpsons Movie.yml
+movies\The Sixth Sense.yml
+movies\The Town.yml
+movies\The Wild Robot.yml
+movies\The Wolf of Wall Street.yml
+movies\Toy Story.yml
+movies\Trap.yml
+movies\Turning Red.yml
+movies\Twister.yml
+movies\Unbreakable.yml
+movies\Up.yml
+movies\WALL·E.yml
+movies\Winchester.yml
+movies\Wish.yml
+movies\Wonka.yml
+movies\Wreck-It Ralph.yml
+movies\Zombieland.yml
+
+============================================================
+SECTION 2: FILES USING theposterdb.com
+============================================================
+movies\100% wolf.yml
+movies\A Nightmare on Elm Street.yml
+movies\A Quiet Place.yml
+movies\Anaconda.yml
+movies\Atlantis.yml
+movies\Back to the Future.yml
+movies\Ballerina.yml
+movies\Children of the Corn.yml
+movies\Cloverfield.yml
+movies\Cowboys & Aliens.yml
+movies\Coyotes.yml
+movies\Crawl.yml
+movies\Crazy, Stupid, Love..yml
+movies\Cujo.yml
+movies\Daddy's Head.yml
+movies\Dead Man's Wire.yml
+movies\Diabolic.yml
+movies\Don't Look Up.yml
+movies\Dune.yml
+movies\Elf.yml
+movies\Enemy of the State.yml
+movies\Everything Everywhere All at Once.yml
+movies\Evil Dead.yml
+movies\Family Switch.yml
+movies\Fear Street.yml
+movies\Fight Club.yml
+movies\Firestarter.yml
+movies\Five Feet Apart.yml
+movies\Flow.yml
+movies\Forrest Gump.yml
+movies\Friday the 13th.yml
+movies\Get Out.yml
+movies\Ghosts of War.yml
+movies\Gladiator.yml
+movies\Gone Girl.yml
+movies\Good Grief.yml
+movies\Good Will Hunting.yml
+movies\Goosebumps.yml
+movies\Grabbers.yml
+movies\Gran Torino.yml
+movies\Groundhog Day.yml
+movies\Hamnet.yml
+movies\Happy Death Day.yml
+movies\Harold and the Purple Crayon.yml
+movies\Harriet.yml
+movies\Her.yml
+movies\Home Alone.yml
+movies\Home Sweet Home - Rebirth.yml
+movies\Hunting Season.yml
+movies\I Know What You Did Last Summer.yml
+movies\If I Had Legs I'd Kick You.yml
+movies\In Your Dreams.yml
+movies\Invader Zim - Enter the Florpus.yml
+movies\Jeepers Creepers.yml
+movies\La La Land.yml
+movies\Lake Placid.yml
+movies\Let Me In.yml
+movies\Light of My Life.yml
+movies\Limitless.yml
+movies\Looper.yml
+movies\Love and Monsters.yml
+movies\Lucy.yml
+movies\Matchstick Men.yml
+movies\Me Before You.yml
+movies\Midnight in Paris.yml
+movies\Midsommar.yml
+movies\Misery.yml
+movies\Naked Gun.yml
+movies\No Country for Old Men.yml
+movies\Nope.yml
+movies\Not Without Hope.yml
+movies\October Sky.yml
+movies\Odd Thomas.yml
+movies\Old School.yml
+movies\Oliver & Company.yml
+movies\Orion and the Dark.yml
+movies\Outbreak.yml
+movies\Pan's Labyrinth.yml
+movies\Piglet.yml
+movies\Pride & Prejudice.yml
+movies\Prisoners.yml
+movies\Pulse.yml
+movies\Queen of Bones.yml
+movies\Ready or Not.yml
+movies\Real Steel.yml
+movies\Remember the Titans.yml
+movies\Resurrection Road.yml
+movies\RoboCop.yml
+movies\Rosencrantz & Guildenstern Are Dead.yml
+movies\Rush Hour.yml
+movies\STRAW.yml
+movies\Seeking a Friend for the End of the World.yml
+movies\Sleepy Hollow.yml
+movies\St. Vincent.yml
+movies\Starship Troopers.yml
+movies\Stranger Than Fiction.yml
+movies\Super Mario Bros..yml
+movies\Superbad.yml
+movies\TRON.yml
+movies\Teenage Mutant Ninja Turtles (Remake).yml
+movies\Teenage Mutant Ninja Turtles.yml
+movies\Texas Chainsaw Massacre.yml
+movies\The Conjuring Universe.yml
+movies\The Crazies.yml
+movies\The Day the Earth Blew Up - A Looney Tunes Movie.yml
+movies\The Devil's Advocate.yml
+movies\The Finest Hours.yml
+movies\The Grey.yml
+movies\The Hills Have Eyes.yml
+movies\The Hitchhiker's Guide to the Galaxy.yml
+movies\The Karate Kid.yml
+movies\The Last Samurai.yml
+movies\The Last of the Mohicans.yml
+movies\The Mist.yml
+movies\The Notebook.yml
+movies\The Number 23.yml
+movies\The Other Guys.yml
+movies\The People Under the Stairs.yml
+movies\The Perks of Being a Wallflower.yml
+movies\The Phoenician Scheme.yml
+movies\The Pursuit of Happyness.yml
+movies\The Shallows.yml
+movies\The Terminal.yml
+movies\The Thing.yml
+movies\The Ugly Stepsister.yml
+movies\The Unbearable Weight of Massive Talent.yml
+movies\The Unbreakable Boy.yml
+movies\The Unholy Trinity.yml
+movies\The Village.yml
+movies\The Warriors.yml
+movies\Thir13en Ghosts.yml
+movies\This Is the End.yml
+movies\Togo.yml
+movies\Tornado.yml
+movies\Train to Busan.yml
+movies\Transcendence.yml
+movies\Transformers.yml
+movies\Trap House.yml
+movies\Triangle.yml
+movies\Trick 'r Treat.yml
+movies\Tropic Thunder.yml
+movies\Troy.yml
+movies\Turbulence.yml
+movies\Unforgiven.yml
+movies\Upgrade.yml
+movies\Us.yml
+movies\V-H-S.yml
+movies\Valiant One.yml
+movies\War of the Worlds.yml
+movies\What Dreams May Come.yml
+movies\When Harry Met Sally....yml
+movies\Where the Wild Things Are.yml
+movies\White Chicks.yml
+movies\Wind River.yml
+movies\X+Y.yml
+movies\living-dead\Dawn of the Dead.yml
+movies\living-dead\Day of the Dead.yml
+movies\living-dead\Land of the Dead.yml
+movies\living-dead\Night of the Living Dead.yml
+movies\middle-earth\The Hobbit.yml
+movies\middle-earth\The Lord of the Rings.yml
+movies\tick, tick... BOOM.yml
+shows\Adventure Time - Distant Lands.yml
+shows\Adventure Time - Fionna & Cake.yml
+shows\American Dad.yml
+shows\Amphibia.yml
+shows\Archer.yml
+shows\Black Summer.yml
+shows\Bob's Burgers.yml
+shows\Community.yml
+shows\Dead End - Paranormal Park.yml
+shows\Disenchantment.yml
+shows\Haunted Hotel.yml
+shows\Helluva Boss.yml
+shows\Inside Job.yml
+shows\Jentry Chau vs. the Underworld.yml
+shows\Legacies.yml
+shows\NOS4A2.yml
+shows\Outlander.yml
+shows\Pennyworth.yml
+shows\Preacher.yml
+shows\RESIDENT EVIL - Infinite Darkness.yml
+shows\Resident Evil.yml
+shows\Sanctuary - A Witch's Tale.yml
+shows\Star vs. the Forces of Evil.yml
+shows\Stargate Atlantis.yml
+shows\Stargate SG-1.yml
+shows\Stargate Universe.yml
+shows\The Amazing Digital Circus.yml
+shows\The Boondocks.yml
+shows\The Hot Zone.yml
+shows\The Librarians.yml
+shows\The Lord of the Rings - The Rings of Power.yml
+shows\The Man Who Fell to Earth.yml
+shows\The Mighty Nein.yml
+shows\The Originals.yml
+shows\The Owl House.yml
+shows\The Simpsons.yml
+shows\The Twilight Zone (2019).yml
+shows\The Vampire Diaries.yml
+shows\The War Between the Land and the Sea.yml
+shows\This Is Us.yml
+shows\Walker.yml
+shows\Warehouse 13.yml

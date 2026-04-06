@@ -1,11 +1,10 @@
 # Posters from:
-# https://theposterdb.com/set/152427
+# https://mediux.pro/sets/46299
 
 metadata:
 
   301824: # 11.22.63 (2016)
-    url_poster: "https://theposterdb.com/api/assets/255247"
-    url_background: "https://api.mediux.pro/assets/2f6ee08b-a34d-4558-bf76-da751ac40fa0"
+    url_poster: "https://api.mediux.pro/assets/53c3d76f-c0d1-4e10-b3ae-99f6c665f11c"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/255248"
+        url_poster: "https://api.mediux.pro/assets/37be044b-f4b8-46a7-a762-782eefe1851d"
