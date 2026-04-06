@@ -1,10 +1,12 @@
 # Posters from:
-# https://theposterdb.com/set/127080
+# https://mediux.pro/sets/46215
 
 metadata:
 
   382142: # All of Us Are Dead (2022)
-    url_poster: "https://theposterdb.com/api/assets/210649"
+    url_poster: "https://api.mediux.pro/assets/017173a2-3de9-4e1e-80b0-30c8c20fcf7b"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/210650"
+        url_poster: "https://api.mediux.pro/assets/ee6894f4-d791-4fe7-91e8-f032ac628447"
+#      2:
+#        url_poster: "https://api.mediux.pro/assets/04c035d3-73ce-45f6-9c60-4baa30f40e95"

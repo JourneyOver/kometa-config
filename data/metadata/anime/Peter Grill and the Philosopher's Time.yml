@@ -1,12 +1,12 @@
 # Posters from:
-# https://www.themoviedb.org/tv/99080/images/posters
+# https://mediux.pro/sets/46221
 
 metadata:
 
   379923: # Peter Grill and the Philosopher's Time (2020)
-    url_poster: "https://image.tmdb.org/t/p/original/iE2aagh3IGcgU0F8qr4aEGYpAnk.jpg"
+    url_poster: "https://api.mediux.pro/assets/0e61ee7a-d51e-4c98-8f88-389615a27c7c"
     seasons:
       1:
-        url_poster: "https://image.tmdb.org/t/p/original/tFllSOouhQkawmZ3SThdVeqsiP1.jpg"
+        url_poster: "https://api.mediux.pro/assets/84571f9f-3e3a-4d9c-a4c8-da12be86cb2c"
       2:
-        url_poster: "https://image.tmdb.org/t/p/original/gQuMkqnbmrJP3I60v12r8beR8Tj.jpg"
+        url_poster: "https://api.mediux.pro/assets/dbdcca11-eda5-4abf-a10f-25c750cddfe3"

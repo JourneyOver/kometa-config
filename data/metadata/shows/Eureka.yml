@@ -1,20 +1,20 @@
 # Posters from:
-# https://theposterdb.com/set/78932
+# https://mediux.pro/sets/46217
 
 metadata:
 
   79334: # Eureka (2006)
-    url_poster: "https://theposterdb.com/api/assets/126218"
+    url_poster: "https://api.mediux.pro/assets/1db91219-d4ac-4f63-bb94-236ee23126aa"
     seasons:
 #      0:
-#        url_poster: "https://theposterdb.com/api/assets/126219"
+#        url_poster: "https://api.mediux.pro/assets/a7bdcff0-77b7-4204-a620-911e1cadbaf4"
       1:
-        url_poster: "https://theposterdb.com/api/assets/126220"
+        url_poster: "https://api.mediux.pro/assets/9d7b22dc-8e35-4efb-af73-e88833dc1fc1"
       2:
-        url_poster: "https://theposterdb.com/api/assets/126221"
+        url_poster: "https://api.mediux.pro/assets/ced6fe83-a30c-406a-b13e-918a397b4dc7"
       3:
-        url_poster: "https://theposterdb.com/api/assets/126222"
+        url_poster: "https://api.mediux.pro/assets/004576be-6605-4a7e-8851-14188ad3d476"
       4:
-        url_poster: "https://theposterdb.com/api/assets/126223"
+        url_poster: "https://api.mediux.pro/assets/9e3edd0c-cc49-46e3-b2ec-ae990a918478"
       5:
-        url_poster: "https://theposterdb.com/api/assets/126224"
+        url_poster: "https://api.mediux.pro/assets/f4f2597d-8ef0-4a29-9636-870ee3acdc6c"

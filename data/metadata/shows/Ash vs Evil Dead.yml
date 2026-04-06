@@ -1,14 +1,16 @@
 # Posters from:
-# https://theposterdb.com/set/254938
+# https://mediux.pro/sets/46213
 
 metadata:
 
   296295: # Ash vs Evil Dead (2015)
-    url_poster: "https://theposterdb.com/api/assets/463394"
+    url_poster: "https://api.mediux.pro/assets/fc0260f7-5bea-48d2-81b6-e8362648a82e"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/a428c355-b231-4483-8cbf-d491b127c420"
       1:
-        url_poster: "https://theposterdb.com/api/assets/463395"
+        url_poster: "https://api.mediux.pro/assets/3cd81b11-185a-4020-b3a7-57fbb7f617ba"
       2:
-        url_poster: "https://theposterdb.com/api/assets/463396"
+        url_poster: "https://api.mediux.pro/assets/2ebe042e-f867-4d51-a6f9-7e1ddec983a7"
       3:
-        url_poster: "https://theposterdb.com/api/assets/463397"
+        url_poster: "https://api.mediux.pro/assets/acc2a9c6-28c8-4a61-844f-352209659819"
