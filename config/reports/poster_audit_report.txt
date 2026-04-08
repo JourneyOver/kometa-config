@@ -1,281 +1,360 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned: 1171
+Total .yml files scanned (metadata): 1176
+Total .yml files scanned (collections): 194
 
 ============================================================
-SECTION 1: MISSING "# Posters from:" HEADER
+SECTION 1: METADATA - MISSING "# Posters from:" HEADER
+Count: 55
 ============================================================
-movies\Halloween.yml
-movies\Hostel.yml
-movies\How to Train Your Dragon (Animation).yml
-movies\Ice Age.yml
-movies\Inside Out.yml
-movies\Jack Reacher.yml
-movies\Kung Fu Panda.yml
-movies\Madagascar.yml
-movies\Maze Runner.yml
-movies\Monsters, Inc..yml
-movies\My Spy.yml
-movies\Pet Sematary (Reboot).yml
-movies\Pet Sematary.yml
-movies\Pirates of the Caribbean.yml
-movies\Puss in Boots.yml
-movies\Ratatouille.yml
-movies\Raya and the Last Dragon.yml
-movies\Ready Player One.yml
-movies\Red One.yml
-movies\Resident Evil (Animated).yml
-movies\Resident Evil.yml
-movies\Rio.yml
-movies\Saw.yml
-movies\Scary Movie.yml
-movies\Scouts Guide to the Zombie Apocalypse.yml
-movies\Shaolin Soccer.yml
-movies\Shaun of the Dead.yml
-movies\Sherlock Holmes.yml
-movies\Shrek.yml
-movies\Shutter Island.yml
-movies\Sinister.yml
-movies\Smile.yml
-movies\Sonic the Hedgehog.yml
-movies\Soul.yml
-movies\Spies in Disguise.yml
-movies\Tarzan (Animation).yml
-movies\Tenet.yml
-movies\Terrifier.yml
-movies\The Bob's Burgers Movie.yml
-movies\The Fox and the Hound.yml
-movies\The Good Dinosaur.yml
-movies\The Gorge.yml
-movies\The Green Mile.yml
-movies\The Incredibles.yml
-movies\The Lion King (Animation).yml
-movies\The Lion King.yml
-movies\The Martian.yml
-movies\The Mummy.yml
-movies\The Shining.yml
-movies\The Simpsons Movie.yml
-movies\The Sixth Sense.yml
-movies\The Town.yml
-movies\The Wild Robot.yml
-movies\The Wolf of Wall Street.yml
-movies\Toy Story.yml
-movies\Trap.yml
-movies\Turning Red.yml
-movies\Twister.yml
-movies\Unbreakable.yml
-movies\Up.yml
-movies\WALL·E.yml
-movies\Winchester.yml
-movies\Wish.yml
-movies\Wonka.yml
-movies\Wreck-It Ralph.yml
-movies\Zombieland.yml
+metadata/movies/Halloween.yml
+metadata/movies/Hostel.yml
+metadata/movies/How to Train Your Dragon (Animation).yml
+metadata/movies/Ice Age.yml
+metadata/movies/Inside Out.yml
+metadata/movies/Jack Reacher.yml
+metadata/movies/Kung Fu Panda.yml
+metadata/movies/Madagascar.yml
+metadata/movies/Maze Runner.yml
+metadata/movies/Monsters, Inc..yml
+metadata/movies/My Spy.yml
+metadata/movies/Pet Sematary (Reboot).yml
+metadata/movies/Pet Sematary.yml
+metadata/movies/Pirates of the Caribbean.yml
+metadata/movies/Puss in Boots.yml
+metadata/movies/Ratatouille.yml
+metadata/movies/Resident Evil (Animated).yml
+metadata/movies/Resident Evil.yml
+metadata/movies/Rio.yml
+metadata/movies/Saw.yml
+metadata/movies/Scary Movie.yml
+metadata/movies/Sherlock Holmes.yml
+metadata/movies/Shrek.yml
+metadata/movies/Sinister.yml
+metadata/movies/Smile.yml
+metadata/movies/Sonic the Hedgehog.yml
+metadata/movies/Soul.yml
+metadata/movies/Spies in Disguise.yml
+metadata/movies/Tarzan (Animation).yml
+metadata/movies/Terrifier.yml
+metadata/movies/The Bob's Burgers Movie.yml
+metadata/movies/The Fox and the Hound.yml
+metadata/movies/The Good Dinosaur.yml
+metadata/movies/The Gorge.yml
+metadata/movies/The Green Mile.yml
+metadata/movies/The Incredibles.yml
+metadata/movies/The Lion King (Animation).yml
+metadata/movies/The Lion King.yml
+metadata/movies/The Martian.yml
+metadata/movies/The Mummy.yml
+metadata/movies/The Shining.yml
+metadata/movies/The Simpsons Movie.yml
+metadata/movies/The Sixth Sense.yml
+metadata/movies/The Town.yml
+metadata/movies/The Wild Robot.yml
+metadata/movies/Toy Story.yml
+metadata/movies/Trap.yml
+metadata/movies/Turning Red.yml
+metadata/movies/Twister.yml
+metadata/movies/Unbreakable.yml
+metadata/movies/Up.yml
+metadata/movies/WALL·E.yml
+metadata/movies/Wish.yml
+metadata/movies/Wreck-It Ralph.yml
+metadata/movies/Zombieland.yml
 
 ============================================================
-SECTION 2: FILES USING theposterdb.com
+SECTION 2: METADATA - MISSING URL AFTER SECOND "#" LINE
+Count: 0
 ============================================================
-movies\100% wolf.yml
-movies\A Nightmare on Elm Street.yml
-movies\A Quiet Place.yml
-movies\Anaconda.yml
-movies\Atlantis.yml
-movies\Back to the Future.yml
-movies\Ballerina.yml
-movies\Children of the Corn.yml
-movies\Cloverfield.yml
-movies\Cowboys & Aliens.yml
-movies\Coyotes.yml
-movies\Crawl.yml
-movies\Crazy, Stupid, Love..yml
-movies\Cujo.yml
-movies\Daddy's Head.yml
-movies\Dead Man's Wire.yml
-movies\Diabolic.yml
-movies\Don't Look Up.yml
-movies\Dune.yml
-movies\Elf.yml
-movies\Enemy of the State.yml
-movies\Everything Everywhere All at Once.yml
-movies\Evil Dead.yml
-movies\Family Switch.yml
-movies\Fear Street.yml
-movies\Fight Club.yml
-movies\Firestarter.yml
-movies\Five Feet Apart.yml
-movies\Flow.yml
-movies\Forrest Gump.yml
-movies\Friday the 13th.yml
-movies\Get Out.yml
-movies\Ghosts of War.yml
-movies\Gladiator.yml
-movies\Gone Girl.yml
-movies\Good Grief.yml
-movies\Good Will Hunting.yml
-movies\Goosebumps.yml
-movies\Grabbers.yml
-movies\Gran Torino.yml
-movies\Groundhog Day.yml
-movies\Hamnet.yml
-movies\Happy Death Day.yml
-movies\Harold and the Purple Crayon.yml
-movies\Harriet.yml
-movies\Her.yml
-movies\Home Alone.yml
-movies\Home Sweet Home - Rebirth.yml
-movies\Hunting Season.yml
-movies\I Know What You Did Last Summer.yml
-movies\If I Had Legs I'd Kick You.yml
-movies\In Your Dreams.yml
-movies\Invader Zim - Enter the Florpus.yml
-movies\Jeepers Creepers.yml
-movies\La La Land.yml
-movies\Lake Placid.yml
-movies\Let Me In.yml
-movies\Light of My Life.yml
-movies\Limitless.yml
-movies\Looper.yml
-movies\Love and Monsters.yml
-movies\Lucy.yml
-movies\Matchstick Men.yml
-movies\Me Before You.yml
-movies\Midnight in Paris.yml
-movies\Midsommar.yml
-movies\Misery.yml
-movies\Naked Gun.yml
-movies\No Country for Old Men.yml
-movies\Nope.yml
-movies\Not Without Hope.yml
-movies\October Sky.yml
-movies\Odd Thomas.yml
-movies\Old School.yml
-movies\Oliver & Company.yml
-movies\Orion and the Dark.yml
-movies\Outbreak.yml
-movies\Pan's Labyrinth.yml
-movies\Piglet.yml
-movies\Pride & Prejudice.yml
-movies\Prisoners.yml
-movies\Pulse.yml
-movies\Queen of Bones.yml
-movies\Ready or Not.yml
-movies\Real Steel.yml
-movies\Remember the Titans.yml
-movies\Resurrection Road.yml
-movies\RoboCop.yml
-movies\Rosencrantz & Guildenstern Are Dead.yml
-movies\Rush Hour.yml
-movies\STRAW.yml
-movies\Seeking a Friend for the End of the World.yml
-movies\Sleepy Hollow.yml
-movies\St. Vincent.yml
-movies\Starship Troopers.yml
-movies\Stranger Than Fiction.yml
-movies\Super Mario Bros..yml
-movies\Superbad.yml
-movies\TRON.yml
-movies\Teenage Mutant Ninja Turtles (Remake).yml
-movies\Teenage Mutant Ninja Turtles.yml
-movies\Texas Chainsaw Massacre.yml
-movies\The Conjuring Universe.yml
-movies\The Crazies.yml
-movies\The Day the Earth Blew Up - A Looney Tunes Movie.yml
-movies\The Devil's Advocate.yml
-movies\The Finest Hours.yml
-movies\The Grey.yml
-movies\The Hills Have Eyes.yml
-movies\The Hitchhiker's Guide to the Galaxy.yml
-movies\The Karate Kid.yml
-movies\The Last Samurai.yml
-movies\The Last of the Mohicans.yml
-movies\The Mist.yml
-movies\The Notebook.yml
-movies\The Number 23.yml
-movies\The Other Guys.yml
-movies\The People Under the Stairs.yml
-movies\The Perks of Being a Wallflower.yml
-movies\The Phoenician Scheme.yml
-movies\The Pursuit of Happyness.yml
-movies\The Shallows.yml
-movies\The Terminal.yml
-movies\The Thing.yml
-movies\The Ugly Stepsister.yml
-movies\The Unbearable Weight of Massive Talent.yml
-movies\The Unbreakable Boy.yml
-movies\The Unholy Trinity.yml
-movies\The Village.yml
-movies\The Warriors.yml
-movies\Thir13en Ghosts.yml
-movies\This Is the End.yml
-movies\Togo.yml
-movies\Tornado.yml
-movies\Train to Busan.yml
-movies\Transcendence.yml
-movies\Transformers.yml
-movies\Trap House.yml
-movies\Triangle.yml
-movies\Trick 'r Treat.yml
-movies\Tropic Thunder.yml
-movies\Troy.yml
-movies\Turbulence.yml
-movies\Unforgiven.yml
-movies\Upgrade.yml
-movies\Us.yml
-movies\V-H-S.yml
-movies\Valiant One.yml
-movies\War of the Worlds.yml
-movies\What Dreams May Come.yml
-movies\When Harry Met Sally....yml
-movies\Where the Wild Things Are.yml
-movies\White Chicks.yml
-movies\Wind River.yml
-movies\X+Y.yml
-movies\living-dead\Dawn of the Dead.yml
-movies\living-dead\Day of the Dead.yml
-movies\living-dead\Land of the Dead.yml
-movies\living-dead\Night of the Living Dead.yml
-movies\middle-earth\The Hobbit.yml
-movies\middle-earth\The Lord of the Rings.yml
-movies\tick, tick... BOOM.yml
-shows\Adventure Time - Distant Lands.yml
-shows\Adventure Time - Fionna & Cake.yml
-shows\American Dad.yml
-shows\Amphibia.yml
-shows\Archer.yml
-shows\Black Summer.yml
-shows\Bob's Burgers.yml
-shows\Community.yml
-shows\Dead End - Paranormal Park.yml
-shows\Disenchantment.yml
-shows\Haunted Hotel.yml
-shows\Helluva Boss.yml
-shows\Inside Job.yml
-shows\Jentry Chau vs. the Underworld.yml
-shows\Legacies.yml
-shows\NOS4A2.yml
-shows\Outlander.yml
-shows\Pennyworth.yml
-shows\Preacher.yml
-shows\RESIDENT EVIL - Infinite Darkness.yml
-shows\Resident Evil.yml
-shows\Sanctuary - A Witch's Tale.yml
-shows\Star vs. the Forces of Evil.yml
-shows\Stargate Atlantis.yml
-shows\Stargate SG-1.yml
-shows\Stargate Universe.yml
-shows\The Amazing Digital Circus.yml
-shows\The Boondocks.yml
-shows\The Hot Zone.yml
-shows\The Librarians.yml
-shows\The Lord of the Rings - The Rings of Power.yml
-shows\The Man Who Fell to Earth.yml
-shows\The Mighty Nein.yml
-shows\The Originals.yml
-shows\The Owl House.yml
-shows\The Simpsons.yml
-shows\The Twilight Zone (2019).yml
-shows\The Vampire Diaries.yml
-shows\The War Between the Land and the Sea.yml
-shows\This Is Us.yml
-shows\Walker.yml
-shows\Warehouse 13.yml
+
+============================================================
+SECTION 3: METADATA - FILES USING theposterdb.com
+(Excludes anime/ and anime-movies/ directories)
+Count: 202
+============================================================
+metadata/movies/100% wolf.yml
+metadata/movies/A Nightmare on Elm Street.yml
+metadata/movies/A Quiet Place.yml
+metadata/movies/Anaconda.yml
+metadata/movies/Atlantis.yml
+metadata/movies/Back to the Future.yml
+metadata/movies/Ballerina.yml
+metadata/movies/Children of the Corn.yml
+metadata/movies/Cloverfield.yml
+metadata/movies/Cowboys & Aliens.yml
+metadata/movies/Coyotes.yml
+metadata/movies/Crawl.yml
+metadata/movies/Crazy, Stupid, Love..yml
+metadata/movies/Cujo.yml
+metadata/movies/Daddy's Head.yml
+metadata/movies/Dead Man's Wire.yml
+metadata/movies/Diabolic.yml
+metadata/movies/Don't Look Up.yml
+metadata/movies/Dune.yml
+metadata/movies/Elf.yml
+metadata/movies/Enemy of the State.yml
+metadata/movies/Evil Dead.yml
+metadata/movies/Family Switch.yml
+metadata/movies/Fear Street.yml
+metadata/movies/Fight Club.yml
+metadata/movies/Firestarter.yml
+metadata/movies/Five Feet Apart.yml
+metadata/movies/Flow.yml
+metadata/movies/Forrest Gump.yml
+metadata/movies/Friday the 13th.yml
+metadata/movies/Get Out.yml
+metadata/movies/Ghosts of War.yml
+metadata/movies/Gladiator.yml
+metadata/movies/Gone Girl.yml
+metadata/movies/Good Grief.yml
+metadata/movies/Good Will Hunting.yml
+metadata/movies/Goosebumps.yml
+metadata/movies/Grabbers.yml
+metadata/movies/Gran Torino.yml
+metadata/movies/Groundhog Day.yml
+metadata/movies/Hamnet.yml
+metadata/movies/Happy Death Day.yml
+metadata/movies/Harold and the Purple Crayon.yml
+metadata/movies/Harriet.yml
+metadata/movies/Her.yml
+metadata/movies/Home Alone.yml
+metadata/movies/Home Sweet Home - Rebirth.yml
+metadata/movies/Hunting Season.yml
+metadata/movies/I Know What You Did Last Summer.yml
+metadata/movies/If I Had Legs I'd Kick You.yml
+metadata/movies/In Your Dreams.yml
+metadata/movies/Invader Zim - Enter the Florpus.yml
+metadata/movies/Jeepers Creepers.yml
+metadata/movies/La La Land.yml
+metadata/movies/Lake Placid.yml
+metadata/movies/Let Me In.yml
+metadata/movies/Light of My Life.yml
+metadata/movies/Limitless.yml
+metadata/movies/Looper.yml
+metadata/movies/Love and Monsters.yml
+metadata/movies/Lucy.yml
+metadata/movies/Matchstick Men.yml
+metadata/movies/Me Before You.yml
+metadata/movies/Midnight in Paris.yml
+metadata/movies/Midsommar.yml
+metadata/movies/Misery.yml
+metadata/movies/Naked Gun.yml
+metadata/movies/No Country for Old Men.yml
+metadata/movies/Nope.yml
+metadata/movies/Not Without Hope.yml
+metadata/movies/October Sky.yml
+metadata/movies/Odd Thomas.yml
+metadata/movies/Old School.yml
+metadata/movies/Oliver & Company.yml
+metadata/movies/Orion and the Dark.yml
+metadata/movies/Outbreak.yml
+metadata/movies/Pan's Labyrinth.yml
+metadata/movies/Piglet.yml
+metadata/movies/Pride & Prejudice.yml
+metadata/movies/Prisoners.yml
+metadata/movies/Pulse.yml
+metadata/movies/Queen of Bones.yml
+metadata/movies/Ready or Not.yml
+metadata/movies/Real Steel.yml
+metadata/movies/Remember the Titans.yml
+metadata/movies/Resurrection Road.yml
+metadata/movies/RoboCop.yml
+metadata/movies/Rosencrantz & Guildenstern Are Dead.yml
+metadata/movies/Rush Hour.yml
+metadata/movies/STRAW.yml
+metadata/movies/Seeking a Friend for the End of the World.yml
+metadata/movies/Sleepy Hollow.yml
+metadata/movies/St. Vincent.yml
+metadata/movies/Starship Troopers.yml
+metadata/movies/Stranger Than Fiction.yml
+metadata/movies/Super Mario Bros..yml
+metadata/movies/Superbad.yml
+metadata/movies/TRON.yml
+metadata/movies/Teenage Mutant Ninja Turtles (Remake).yml
+metadata/movies/Teenage Mutant Ninja Turtles.yml
+metadata/movies/Texas Chainsaw Massacre.yml
+metadata/movies/The Conjuring Universe.yml
+metadata/movies/The Crazies.yml
+metadata/movies/The Day the Earth Blew Up - A Looney Tunes Movie.yml
+metadata/movies/The Devil's Advocate.yml
+metadata/movies/The Finest Hours.yml
+metadata/movies/The Grey.yml
+metadata/movies/The Hills Have Eyes.yml
+metadata/movies/The Hitchhiker's Guide to the Galaxy.yml
+metadata/movies/The Karate Kid.yml
+metadata/movies/The Last Samurai.yml
+metadata/movies/The Last of the Mohicans.yml
+metadata/movies/The Mist.yml
+metadata/movies/The Notebook.yml
+metadata/movies/The Number 23.yml
+metadata/movies/The Other Guys.yml
+metadata/movies/The People Under the Stairs.yml
+metadata/movies/The Perks of Being a Wallflower.yml
+metadata/movies/The Phoenician Scheme.yml
+metadata/movies/The Pursuit of Happyness.yml
+metadata/movies/The Shallows.yml
+metadata/movies/The Terminal.yml
+metadata/movies/The Thing.yml
+metadata/movies/The Ugly Stepsister.yml
+metadata/movies/The Unbearable Weight of Massive Talent.yml
+metadata/movies/The Unbreakable Boy.yml
+metadata/movies/The Unholy Trinity.yml
+metadata/movies/The Village.yml
+metadata/movies/The Warriors.yml
+metadata/movies/Thir13en Ghosts.yml
+metadata/movies/This Is the End.yml
+metadata/movies/Togo.yml
+metadata/movies/Tornado.yml
+metadata/movies/Train to Busan.yml
+metadata/movies/Transcendence.yml
+metadata/movies/Transformers.yml
+metadata/movies/Trap House.yml
+metadata/movies/Triangle.yml
+metadata/movies/Trick 'r Treat.yml
+metadata/movies/Tropic Thunder.yml
+metadata/movies/Troy.yml
+metadata/movies/Turbulence.yml
+metadata/movies/Unforgiven.yml
+metadata/movies/Upgrade.yml
+metadata/movies/Us.yml
+metadata/movies/V-H-S.yml
+metadata/movies/Valiant One.yml
+metadata/movies/War of the Worlds.yml
+metadata/movies/What Dreams May Come.yml
+metadata/movies/When Harry Met Sally....yml
+metadata/movies/Where the Wild Things Are.yml
+metadata/movies/White Chicks.yml
+metadata/movies/Wind River.yml
+metadata/movies/X+Y.yml
+metadata/movies/living-dead/Dawn of the Dead.yml
+metadata/movies/living-dead/Day of the Dead.yml
+metadata/movies/living-dead/Land of the Dead.yml
+metadata/movies/living-dead/Night of the Living Dead.yml
+metadata/movies/middle-earth/The Hobbit.yml
+metadata/movies/middle-earth/The Lord of the Rings.yml
+metadata/movies/tick, tick... BOOM.yml
+metadata/shows/Adventure Time - Distant Lands.yml
+metadata/shows/Adventure Time - Fionna & Cake.yml
+metadata/shows/American Dad.yml
+metadata/shows/Amphibia.yml
+metadata/shows/Black Summer.yml
+metadata/shows/Bob's Burgers.yml
+metadata/shows/Community.yml
+metadata/shows/Dead End - Paranormal Park.yml
+metadata/shows/Disenchantment.yml
+metadata/shows/Haunted Hotel.yml
+metadata/shows/Helluva Boss.yml
+metadata/shows/Inside Job.yml
+metadata/shows/Jentry Chau vs. the Underworld.yml
+metadata/shows/Legacies.yml
+metadata/shows/NOS4A2.yml
+metadata/shows/Outlander.yml
+metadata/shows/Pennyworth.yml
+metadata/shows/Preacher.yml
+metadata/shows/RESIDENT EVIL - Infinite Darkness.yml
+metadata/shows/Resident Evil.yml
+metadata/shows/Sanctuary - A Witch's Tale.yml
+metadata/shows/Star vs. the Forces of Evil.yml
+metadata/shows/Stargate Atlantis.yml
+metadata/shows/Stargate SG-1.yml
+metadata/shows/Stargate Universe.yml
+metadata/shows/The Amazing Digital Circus.yml
+metadata/shows/The Boondocks.yml
+metadata/shows/The Hot Zone.yml
+metadata/shows/The Librarians.yml
+metadata/shows/The Lord of the Rings - The Rings of Power.yml
+metadata/shows/The Man Who Fell to Earth.yml
+metadata/shows/The Mighty Nein.yml
+metadata/shows/The Originals.yml
+metadata/shows/The Owl House.yml
+metadata/shows/The Simpsons.yml
+metadata/shows/The Twilight Zone (2019).yml
+metadata/shows/The Vampire Diaries.yml
+metadata/shows/The War Between the Land and the Sea.yml
+metadata/shows/This Is Us.yml
+metadata/shows/Walker.yml
+metadata/shows/Warehouse 13.yml
+
+============================================================
+SECTION 4: COLLECTIONS - MISSING "# Poster from:" HEADER
+Count: 0
+============================================================
+
+============================================================
+SECTION 5: COLLECTIONS - MISSING URL AFTER SECOND "#" LINE
+Count: 5
+============================================================
+collections/movies/Before.yml
+collections/movies/How to Train Your Dragon.yml
+collections/movies/Paddington.yml
+collections/movies/The Super Mario Bros..yml
+collections/movies/dc/DC Universe.yml
+
+============================================================
+SECTION 6: COLLECTIONS - FILES USING theposterdb.com
+(Excludes anime/ and anime-movies/ directories)
+Count: 62
+============================================================
+collections/movies/100% Wolf.yml
+collections/movies/A Nightmare on Elm Street.yml
+collections/movies/A Quiet Place.yml
+collections/movies/Alien-Predator Universe.yml
+collections/movies/Anaconda.yml
+collections/movies/Atlantis.yml
+collections/movies/Back to the Future.yml
+collections/movies/Blair Witch.yml
+collections/movies/Children of the Corn.yml
+collections/movies/Cloverfield.yml
+collections/movies/Dune.yml
+collections/movies/Evil Dead.yml
+collections/movies/Fear Street.yml
+collections/movies/Friday the 13th.yml
+collections/movies/Ghostbusters.yml
+collections/movies/Gladiator.yml
+collections/movies/Goosebumps.yml
+collections/movies/Halloween.yml
+collections/movies/Happy Death Day.yml
+collections/movies/Home Alone.yml
+collections/movies/Honey, I Shrunk the Kids.yml
+collections/movies/Hostel.yml
+collections/movies/I Know What You Did Last Summer.yml
+collections/movies/Jeepers Creepers.yml
+collections/movies/Lake Placid.yml
+collections/movies/Middle-Earth.yml
+collections/movies/My Spy.yml
+collections/movies/Naked Gun.yml
+collections/movies/Pet Sematary (Reboot).yml
+collections/movies/Pet Sematary.yml
+collections/movies/Pulse.yml
+collections/movies/Resident Evil (Animated).yml
+collections/movies/Resident Evil.yml
+collections/movies/RoboCop.yml
+collections/movies/Rush Hour.yml
+collections/movies/Sinister.yml
+collections/movies/Starship Troopers.yml
+collections/movies/Tarzan (Animation).yml
+collections/movies/Teenage Mutant Ninja Turtles (Remake).yml
+collections/movies/Teenage Mutant Ninja Turtles.yml
+collections/movies/Terrifier.yml
+collections/movies/Texas Chainsaw Massacre.yml
+collections/movies/The Conjuring Universe.yml
+collections/movies/The Hills Have Eyes.yml
+collections/movies/The Karate Kid.yml
+collections/movies/The MonsterVerse.yml
+collections/movies/The Shining.yml
+collections/movies/The Thing.yml
+collections/movies/Train to Busan.yml
+collections/movies/Transformers.yml
+collections/movies/Tremors.yml
+collections/movies/Unbreakable.yml
+collections/movies/V-H-S.yml
+collections/movies/Zombieland.yml
+collections/movies/dc/DC Extended Universe.yml
+collections/movies/marvel/Marvel Cinematic Universe.yml
+collections/shows/Arrowverse.yml
+collections/shows/Doctor Who.yml
+collections/shows/Marvel Cinematic Universe.yml
+collections/shows/The Boys.yml
+collections/shows/The Walking Dead.yml
+collections/shows/World of Ice and Fire.yml

@@ -1,39 +1,38 @@
 # Posters from:
-# https://theposterdb.com/set/220742
+# https://mediux.pro/sets/46301
 
 metadata:
 
   110381: # Archer (2009)
-    url_poster: "https://theposterdb.com/api/assets/392971"
-    url_background: "https://api.mediux.pro/assets/32b8fd78-7cd3-4b42-9923-a928571d6c24"
+    url_poster: "https://api.mediux.pro/assets/7c0a9d99-8ae4-4591-ba8f-0381031924a9"
     seasons:
       0:
-        url_poster: "https://theposterdb.com/api/assets/392972"
+        url_poster: "https://api.mediux.pro/assets/f02ebe4e-32dc-4b9f-a1ad-e2ba72bef201"
       1:
-        url_poster: "https://theposterdb.com/api/assets/392973"
+        url_poster: "https://api.mediux.pro/assets/140140e6-4d3a-4fd6-8796-58e87c143f95"
       2:
-        url_poster: "https://theposterdb.com/api/assets/392974"
+        url_poster: "https://api.mediux.pro/assets/bf3a6711-8629-40fe-9cf9-4cefb5cfdd22"
       3:
-        url_poster: "https://theposterdb.com/api/assets/392975"
+        url_poster: "https://api.mediux.pro/assets/6dabed9f-c8e4-4f17-a50b-8c0a955d0257"
       4:
-        url_poster: "https://theposterdb.com/api/assets/392976"
+        url_poster: "https://api.mediux.pro/assets/0d78238d-687b-4550-ada8-2f9763f2b793"
       5:
-        url_poster: "https://theposterdb.com/api/assets/392977"
+        url_poster: "https://api.mediux.pro/assets/21ada06a-eb99-407a-aa82-623ded55500d"
       6:
-        url_poster: "https://theposterdb.com/api/assets/392978"
+        url_poster: "https://api.mediux.pro/assets/ffbca378-6e7a-4078-9b7f-cde31a248101"
       7:
-        url_poster: "https://theposterdb.com/api/assets/392979"
+        url_poster: "https://api.mediux.pro/assets/8dc282a5-afb4-4abc-b5ec-7c54657598b0"
       8:
-        url_poster: "https://theposterdb.com/api/assets/392980"
+        url_poster: "https://api.mediux.pro/assets/70c9730a-3dfc-4b38-9cbd-8fdbfc997681"
       9:
-        url_poster: "https://theposterdb.com/api/assets/392981"
+        url_poster: "https://api.mediux.pro/assets/20c27ec3-f43a-463f-8a54-29e5ffc5f2f3"
       10:
-        url_poster: "https://theposterdb.com/api/assets/392982"
+        url_poster: "https://api.mediux.pro/assets/abfab6fa-c64e-4880-832f-0157dba01f96"
       11:
-        url_poster: "https://theposterdb.com/api/assets/392983"
+        url_poster: "https://api.mediux.pro/assets/f4edeeeb-9f63-415f-9d48-a625bdbbbba7"
       12:
-        url_poster: "https://theposterdb.com/api/assets/392984"
+        url_poster: "https://api.mediux.pro/assets/775d4fc4-cd40-4deb-837c-ea9bd381cafa"
       13:
-        url_poster: "https://theposterdb.com/api/assets/392985"
+        url_poster: "https://api.mediux.pro/assets/6171a421-d56a-4185-88b1-63e4330c3a8d"
       14:
-        url_poster: "https://theposterdb.com/api/assets/392987"
+        url_poster: "https://api.mediux.pro/assets/35d04f1c-71ad-4c66-8043-06b97cc6013d"
