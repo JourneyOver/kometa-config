@@ -1,0 +1,54 @@
+Total YML files scanned: 1197
+Total unique YML poster entries: 1784
+Total missing posters: 42
+------------------------------------------------------------
+
+=== Anime (6) ===
+Baki (2018)
+Baki Hanma (2021)
+Baki the Grappler (2001)
+BAKI-DOU: The Invincible Samurai (2026)
+Reign: The Conqueror (1997)
+The Testament of Sister New Devil (2015)
+
+=== Anime-Movies (0) ===
+
+=== Movies (32) ===
+A Kid Like Jake (2018)
+Bodycam (2025)
+Mortal Kombat (2021)
+One Mile (2026)
+One Mile: Chapter Two (2026)
+Red Plague (2025)
+Rock Dog (2016)
+S.T.A.L.K.E.R.: Shadow of the Zone (2024)
+Shaky Shivers (2023)
+Silent Zone (2025)
+Space/Time (2025)
+Steven Universe: The Movie (2019)
+Summer of 84 (2018)
+Tarot (2024)
+Thanksgiving (2023)
+The Bluff (2026)
+The Golem (2018)
+The Great Flood (2025)
+The Internship (2026)
+The Legend of Ochi (2025)
+The Map That Leads to You (2025)
+The Mountain Between Us (2017)
+The School for Good and Evil (2022)
+The Secret: Dare to Dream (2020)
+The Shape of Water (2017)
+The Stranger in My Home (2025)
+Totally Killer (2023)
+Tucker and Dale vs Evil (2010)
+Uncharted (2022)
+Underwater (2020)
+Violent Ends (2025)
+Violent Night (2022)
+
+=== TV-Shows (4) ===
+Dead Boy Detectives (2024)
+Mike Judge Presents: Tales From the Tour Bus (2017)
+Steven Universe (2013)
+Steven Universe Future (2019)

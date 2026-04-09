@@ -1,9 +1,10 @@
 import os, glob
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
-base = os.path.join(script_dir, 'data', 'metadata')
-collections_base = os.path.join(script_dir, 'data', 'collections')
-reports_dir = os.path.join(script_dir, 'config', 'reports')
+base_root = os.path.dirname(script_dir)
+base = os.path.join(base_root, 'data', 'metadata')
+collections_base = os.path.join(base_root, 'data', 'collections')
+reports_dir = os.path.join(base_root, 'config', 'reports')
 os.makedirs(reports_dir, exist_ok=True)
 out = os.path.join(reports_dir, 'poster_audit_report.txt')
 

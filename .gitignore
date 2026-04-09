@@ -3,3 +3,4 @@ config/UUID
 config/config.cache
 config/logs
 config/reports/missing_*.yml
+plex/*

@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/197237
+
+metadata:
+
+  402474: # Hell's Paradise (2023)
+    url_poster: "https://theposterdb.com/api/assets/341624"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/450298"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/341625"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/450297"
