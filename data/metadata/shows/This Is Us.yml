@@ -1,22 +1,20 @@
 # Posters from:
-# https://theposterdb.com/set/62070
+# https://mediux.pro/sets/46588
 
 metadata:
 
   311714: # This Is Us (2016)
-    url_poster: "https://theposterdb.com/api/assets/98079"
+    url_poster: "https://api.mediux.pro/assets/5f98ce95-2998-4b24-af0b-873a15ed1470"
     seasons:
-#      0:
-#        url_poster: "https://theposterdb.com/api/assets/98080"
       1:
-        url_poster: "https://theposterdb.com/api/assets/98081"
+        url_poster: "https://api.mediux.pro/assets/b77fca9c-1df7-4a37-8079-4033c4a0ed4a"
       2:
-        url_poster: "https://theposterdb.com/api/assets/98082"
+        url_poster: "https://api.mediux.pro/assets/616c7201-2d57-430f-abeb-0a2896f992dd"
       3:
-        url_poster: "https://theposterdb.com/api/assets/98083"
+        url_poster: "https://api.mediux.pro/assets/8bdb6e53-7bf1-4705-9885-a2f92427858b"
       4:
-        url_poster: "https://theposterdb.com/api/assets/98084"
+        url_poster: "https://api.mediux.pro/assets/925a57e8-5b83-4518-8f5a-3df4b322c248"
       5:
-        url_poster: "https://theposterdb.com/api/assets/115880"
+        url_poster: "https://api.mediux.pro/assets/e3916132-18db-4097-b2c8-6fce016b3faa"
       6:
-        url_poster: "https://theposterdb.com/api/assets/208235"
+        url_poster: "https://api.mediux.pro/assets/0767c5b0-da02-4d81-9bc4-0cc5d1509ad7"
