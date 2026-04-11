@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/284039
+# https://mediux.pro/sets/46638
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,5 @@ collections:
 
   "My Spy":
     template: { name: Collection, collection: 1090373, order: release }
-    url_poster: "https://theposterdb.com/api/assets/512195"
+    url_poster: "https://api.mediux.pro/assets/6bfbeb22-df72-4bf8-b1e0-69954f7587c4"
     url_background: "https://image.tmdb.org/t/p/original/kfB7C0UaHyNpD9FX7PTGP99DFq3.jpg"

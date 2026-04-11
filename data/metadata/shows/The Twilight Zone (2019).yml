@@ -1,12 +1,12 @@
 # Posters from:
-# https://theposterdb.com/set/153056
+# https://mediux.pro/sets/46598
 
 metadata:
 
   358915: # The Twilight Zone (2019)
-    url_poster: "https://theposterdb.com/api/assets/256439"
+    url_poster: "https://api.mediux.pro/assets/ca235522-cb0b-41f2-9174-37d7a63e5bca"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/256440"
+        url_poster: "https://api.mediux.pro/assets/5cfaedab-ffec-4fac-a7a9-e28e94ab05c8"
       2:
-        url_poster: "https://theposterdb.com/api/assets/256441"
+        url_poster: "https://api.mediux.pro/assets/295681ca-2e6d-487b-bbf6-844fa8948522"

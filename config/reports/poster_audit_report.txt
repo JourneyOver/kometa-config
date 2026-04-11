@@ -5,19 +5,8 @@ Total .yml files scanned (collections): 194
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 55
+Count: 42
 ============================================================
-metadata/movies/Halloween.yml
-metadata/movies/Hostel.yml
-metadata/movies/How to Train Your Dragon (Animation).yml
-metadata/movies/Ice Age.yml
-metadata/movies/Inside Out.yml
-metadata/movies/Jack Reacher.yml
-metadata/movies/Kung Fu Panda.yml
-metadata/movies/Madagascar.yml
-metadata/movies/Maze Runner.yml
-metadata/movies/Monsters, Inc..yml
-metadata/movies/My Spy.yml
 metadata/movies/Pet Sematary (Reboot).yml
 metadata/movies/Pet Sematary.yml
 metadata/movies/Pirates of the Caribbean.yml
@@ -40,7 +29,6 @@ metadata/movies/Terrifier.yml
 metadata/movies/The Bob's Burgers Movie.yml
 metadata/movies/The Fox and the Hound.yml
 metadata/movies/The Good Dinosaur.yml
-metadata/movies/The Gorge.yml
 metadata/movies/The Green Mile.yml
 metadata/movies/The Incredibles.yml
 metadata/movies/The Lion King (Animation).yml
@@ -53,7 +41,6 @@ metadata/movies/The Sixth Sense.yml
 metadata/movies/The Town.yml
 metadata/movies/The Wild Robot.yml
 metadata/movies/Toy Story.yml
-metadata/movies/Trap.yml
 metadata/movies/Turning Red.yml
 metadata/movies/Twister.yml
 metadata/movies/Unbreakable.yml
@@ -113,6 +100,7 @@ metadata/movies/Goosebumps.yml
 metadata/movies/Grabbers.yml
 metadata/movies/Gran Torino.yml
 metadata/movies/Groundhog Day.yml
+metadata/movies/Halloween.yml
 metadata/movies/Hamnet.yml
 metadata/movies/Happy Death Day.yml
 metadata/movies/Harold and the Purple Crayon.yml
@@ -120,6 +108,7 @@ metadata/movies/Harriet.yml
 metadata/movies/Her.yml
 metadata/movies/Home Alone.yml
 metadata/movies/Home Sweet Home - Rebirth.yml
+metadata/movies/Hostel.yml
 metadata/movies/Hunting Season.yml
 metadata/movies/I Know What You Did Last Summer.yml
 metadata/movies/If I Had Legs I'd Kick You.yml
@@ -269,10 +258,8 @@ metadata/shows/The Mighty Nein.yml
 metadata/shows/The Originals.yml
 metadata/shows/The Owl House.yml
 metadata/shows/The Simpsons.yml
-metadata/shows/The Twilight Zone (2019).yml
 metadata/shows/The Vampire Diaries.yml
 metadata/shows/The War Between the Land and the Sea.yml
-metadata/shows/This Is Us.yml
 metadata/shows/Walker.yml
 metadata/shows/Warehouse 13.yml
 
@@ -294,7 +281,7 @@ collections/movies/dc/DC Universe.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 62
+Count: 61
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -322,7 +309,6 @@ collections/movies/I Know What You Did Last Summer.yml
 collections/movies/Jeepers Creepers.yml
 collections/movies/Lake Placid.yml
 collections/movies/Middle-Earth.yml
-collections/movies/My Spy.yml
 collections/movies/Naked Gun.yml
 collections/movies/Pet Sematary (Reboot).yml
 collections/movies/Pet Sematary.yml
