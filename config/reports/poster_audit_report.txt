@@ -5,7 +5,7 @@ Total .yml files scanned (collections): 194
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 42
+Count: 37
 ============================================================
 metadata/movies/Pet Sematary (Reboot).yml
 metadata/movies/Pet Sematary.yml
@@ -29,15 +29,10 @@ metadata/movies/Terrifier.yml
 metadata/movies/The Bob's Burgers Movie.yml
 metadata/movies/The Fox and the Hound.yml
 metadata/movies/The Good Dinosaur.yml
-metadata/movies/The Green Mile.yml
 metadata/movies/The Incredibles.yml
 metadata/movies/The Lion King (Animation).yml
 metadata/movies/The Lion King.yml
-metadata/movies/The Martian.yml
 metadata/movies/The Mummy.yml
-metadata/movies/The Shining.yml
-metadata/movies/The Simpsons Movie.yml
-metadata/movies/The Sixth Sense.yml
 metadata/movies/The Town.yml
 metadata/movies/The Wild Robot.yml
 metadata/movies/Toy Story.yml
@@ -58,7 +53,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 202
+Count: 190
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -69,18 +64,7 @@ metadata/movies/Back to the Future.yml
 metadata/movies/Ballerina.yml
 metadata/movies/Children of the Corn.yml
 metadata/movies/Cloverfield.yml
-metadata/movies/Cowboys & Aliens.yml
-metadata/movies/Coyotes.yml
-metadata/movies/Crawl.yml
-metadata/movies/Crazy, Stupid, Love..yml
-metadata/movies/Cujo.yml
-metadata/movies/Daddy's Head.yml
-metadata/movies/Dead Man's Wire.yml
-metadata/movies/Diabolic.yml
-metadata/movies/Don't Look Up.yml
 metadata/movies/Dune.yml
-metadata/movies/Elf.yml
-metadata/movies/Enemy of the State.yml
 metadata/movies/Evil Dead.yml
 metadata/movies/Family Switch.yml
 metadata/movies/Fear Street.yml
@@ -260,7 +244,6 @@ metadata/shows/The Owl House.yml
 metadata/shows/The Simpsons.yml
 metadata/shows/The Vampire Diaries.yml
 metadata/shows/The War Between the Land and the Sea.yml
-metadata/shows/Walker.yml
 metadata/shows/Warehouse 13.yml
 
 ============================================================
@@ -281,7 +264,7 @@ collections/movies/dc/DC Universe.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 61
+Count: 60
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -328,7 +311,6 @@ collections/movies/The Conjuring Universe.yml
 collections/movies/The Hills Have Eyes.yml
 collections/movies/The Karate Kid.yml
 collections/movies/The MonsterVerse.yml
-collections/movies/The Shining.yml
 collections/movies/The Thing.yml
 collections/movies/Train to Busan.yml
 collections/movies/Transformers.yml
