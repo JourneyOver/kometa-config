@@ -1,6 +1,6 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1223
+Total .yml files scanned (metadata): 1228
 Total .yml files scanned (collections): 194
 
 ============================================================
@@ -53,7 +53,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 190
+Count: 175
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -66,24 +66,10 @@ metadata/movies/Children of the Corn.yml
 metadata/movies/Cloverfield.yml
 metadata/movies/Dune.yml
 metadata/movies/Evil Dead.yml
-metadata/movies/Family Switch.yml
 metadata/movies/Fear Street.yml
-metadata/movies/Fight Club.yml
-metadata/movies/Firestarter.yml
-metadata/movies/Five Feet Apart.yml
-metadata/movies/Flow.yml
-metadata/movies/Forrest Gump.yml
 metadata/movies/Friday the 13th.yml
-metadata/movies/Get Out.yml
-metadata/movies/Ghosts of War.yml
 metadata/movies/Gladiator.yml
-metadata/movies/Gone Girl.yml
-metadata/movies/Good Grief.yml
-metadata/movies/Good Will Hunting.yml
 metadata/movies/Goosebumps.yml
-metadata/movies/Grabbers.yml
-metadata/movies/Gran Torino.yml
-metadata/movies/Groundhog Day.yml
 metadata/movies/Halloween.yml
 metadata/movies/Hamnet.yml
 metadata/movies/Happy Death Day.yml
@@ -222,7 +208,6 @@ metadata/shows/Inside Job.yml
 metadata/shows/Jentry Chau vs. the Underworld.yml
 metadata/shows/Legacies.yml
 metadata/shows/NOS4A2.yml
-metadata/shows/Outlander.yml
 metadata/shows/Pennyworth.yml
 metadata/shows/Preacher.yml
 metadata/shows/RESIDENT EVIL - Infinite Darkness.yml
