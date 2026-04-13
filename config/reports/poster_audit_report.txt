@@ -53,7 +53,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 175
+Count: 167
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -74,18 +74,10 @@ metadata/movies/Halloween.yml
 metadata/movies/Hamnet.yml
 metadata/movies/Happy Death Day.yml
 metadata/movies/Harold and the Purple Crayon.yml
-metadata/movies/Harriet.yml
-metadata/movies/Her.yml
 metadata/movies/Home Alone.yml
-metadata/movies/Home Sweet Home - Rebirth.yml
 metadata/movies/Hostel.yml
-metadata/movies/Hunting Season.yml
 metadata/movies/I Know What You Did Last Summer.yml
-metadata/movies/If I Had Legs I'd Kick You.yml
-metadata/movies/In Your Dreams.yml
-metadata/movies/Invader Zim - Enter the Florpus.yml
 metadata/movies/Jeepers Creepers.yml
-metadata/movies/La La Land.yml
 metadata/movies/Lake Placid.yml
 metadata/movies/Let Me In.yml
 metadata/movies/Light of My Life.yml
