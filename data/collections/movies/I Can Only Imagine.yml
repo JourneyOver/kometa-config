@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/396321
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "I Can Only Imagine":
+    template: { name: Collection, collection: 1474745, order: release }
+    url_poster: "https://theposterdb.com/api/assets/706856"
+    url_background: "https://deadline.com/wp-content/uploads/2026/02/I-can-only-imagine-2.jpg"
+    summary: "Faith, forgiveness, and the healing power of music guide a journey from painful beginnings to personal redemption, as lives shaped by broken relationships and second chances find hope through belief and creative expression. Grounded in emotional struggles and spiritual growth, the story highlights the courage it takes to confront the past and embrace grace."

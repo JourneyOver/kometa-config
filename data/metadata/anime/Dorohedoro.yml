@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/248980
+
+metadata:
+
+  370761: # Dorohedoro (2020)
+    url_poster: "https://theposterdb.com/api/assets/450294"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/450295"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/450296"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/698877"

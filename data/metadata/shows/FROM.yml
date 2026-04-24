@@ -1,17 +1,16 @@
 # Posters from:
-# https://mediux.pro/sets/26706
+# https://mediux.pro/sets/46930
 
 metadata:
 
   401003: # FROM (2022)
-    url_poster: "https://api.mediux.pro/assets/2f9f587f-4491-4d6f-9a24-12bc8c8973f0"
-    url_background: "https://api.mediux.pro/assets/b7d1d3e4-9b80-4112-a14b-7ea6c01b76ab"
+    url_poster: "https://api.mediux.pro/assets/1909e3fd-1213-466b-ae8a-ee5f6540a529"
     seasons:
-#      0:
-#        url_poster: "https://api.mediux.pro/assets/8a891c97-ced6-4555-91ac-0824d94654fe"
       1:
-        url_poster: "https://api.mediux.pro/assets/9c584ed3-9047-44db-b58e-ce77c01e9d03"
+        url_poster: "https://api.mediux.pro/assets/e97d9b81-b4ca-47ed-8e62-22f5e14568a4"
       2:
-        url_poster: "https://api.mediux.pro/assets/0db4ae40-d44a-4ef2-8bba-039acc76c10d"
+        url_poster: "https://api.mediux.pro/assets/ab80db5f-df9f-4f3e-a110-983a372a62e8"
       3:
-        url_poster: "https://api.mediux.pro/assets/e86a674b-3324-4b95-a495-5ce6705f9d7e"
+        url_poster: "https://api.mediux.pro/assets/966b7ae8-ed67-436f-9150-8cf1cc237391"
+      4:
+        url_poster: "https://api.mediux.pro/assets/047a2373-92fd-4c9a-8925-a953336338a8"

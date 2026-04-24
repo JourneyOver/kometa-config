@@ -1,0 +1,13 @@
+ # Poster from:
+# https://theposterdb.com/set/230567
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Re:ZERO -Starting Life in Another World-":
+    template: { name: Collection, collection: 689287, order: release }
+    url_poster: "https://theposterdb.com/api/assets/415218"
+    url_background: "https://image.tmdb.org/t/p/original/dRn9EOhDWNDJuxSz0WXgxfHbLyn.jpg"
+    summary: "Beneath the chaos of battles and curses, quieter bonds form in the spaces between. A carefree village outing masks a deeper truth about love and sacrifice, while a tale of frozen tears reveals the heartbreaking origin of a fateful promise. Across snow-covered memories and frost-bitten pasts, these stories explore what it means to protect the ones who matter, and the weight of treasures held close in the heart long after winter."

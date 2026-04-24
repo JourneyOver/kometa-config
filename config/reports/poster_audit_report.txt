@@ -1,6 +1,6 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1228
+Total .yml files scanned (metadata): 1237
 Total .yml files scanned (collections): 194
 
 ============================================================
@@ -53,7 +53,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 167
+Count: 166
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -170,7 +170,6 @@ metadata/movies/Unforgiven.yml
 metadata/movies/Upgrade.yml
 metadata/movies/Us.yml
 metadata/movies/V-H-S.yml
-metadata/movies/Valiant One.yml
 metadata/movies/War of the Worlds.yml
 metadata/movies/What Dreams May Come.yml
 metadata/movies/When Harry Met Sally....yml

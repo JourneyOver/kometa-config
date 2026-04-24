@@ -1,0 +1,18 @@
+# Posters from:
+# https://theposterdb.com/set/230566
+
+metadata:
+
+  305089: # Re:ZERO -Starting Life in Another World- (2016)
+    url_poster: "https://theposterdb.com/api/assets/415214"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/415215"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/415216"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/415217"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/472336"
+      4:
+        url_poster: "https://theposterdb.com/api/assets/592281"

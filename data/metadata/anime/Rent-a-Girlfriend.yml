@@ -1,0 +1,20 @@
+# Posters from:
+# https://theposterdb.com/set/148403
+
+metadata:
+
+  380654: # Rent-a-Girlfriend (2020)
+    url_poster: "https://theposterdb.com/api/assets/248048"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/368842"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/368843"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/368844"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/368845"
+      4:
+        url_poster: "https://theposterdb.com/api/assets/576097"
+      5:
+        url_poster: "https://theposterdb.com/api/assets/701161"
