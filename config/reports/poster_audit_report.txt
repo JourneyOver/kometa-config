@@ -1,18 +1,17 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1237
-Total .yml files scanned (collections): 194
+Total .yml files scanned (metadata): 1271
+Total .yml files scanned (collections): 196
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 37
+Count: 36
 ============================================================
 metadata/movies/Pet Sematary (Reboot).yml
 metadata/movies/Pet Sematary.yml
 metadata/movies/Pirates of the Caribbean.yml
 metadata/movies/Puss in Boots.yml
 metadata/movies/Ratatouille.yml
-metadata/movies/Resident Evil (Animated).yml
 metadata/movies/Resident Evil.yml
 metadata/movies/Rio.yml
 metadata/movies/Saw.yml
@@ -76,6 +75,7 @@ metadata/movies/Happy Death Day.yml
 metadata/movies/Harold and the Purple Crayon.yml
 metadata/movies/Home Alone.yml
 metadata/movies/Hostel.yml
+metadata/movies/I Can Only Imagine.yml
 metadata/movies/I Know What You Did Last Summer.yml
 metadata/movies/Jeepers Creepers.yml
 metadata/movies/Lake Placid.yml
@@ -201,7 +201,6 @@ metadata/shows/Legacies.yml
 metadata/shows/NOS4A2.yml
 metadata/shows/Pennyworth.yml
 metadata/shows/Preacher.yml
-metadata/shows/RESIDENT EVIL - Infinite Darkness.yml
 metadata/shows/Resident Evil.yml
 metadata/shows/Sanctuary - A Witch's Tale.yml
 metadata/shows/Star vs. the Forces of Evil.yml
@@ -264,6 +263,7 @@ collections/movies/Happy Death Day.yml
 collections/movies/Home Alone.yml
 collections/movies/Honey, I Shrunk the Kids.yml
 collections/movies/Hostel.yml
+collections/movies/I Can Only Imagine.yml
 collections/movies/I Know What You Did Last Summer.yml
 collections/movies/Jeepers Creepers.yml
 collections/movies/Lake Placid.yml
@@ -272,7 +272,6 @@ collections/movies/Naked Gun.yml
 collections/movies/Pet Sematary (Reboot).yml
 collections/movies/Pet Sematary.yml
 collections/movies/Pulse.yml
-collections/movies/Resident Evil (Animated).yml
 collections/movies/Resident Evil.yml
 collections/movies/RoboCop.yml
 collections/movies/Rush Hour.yml

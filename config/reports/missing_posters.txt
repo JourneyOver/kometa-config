@@ -1,5 +1,5 @@
-Total YML files scanned: 1237
-Total unique YML poster entries: 1824
+Total YML files scanned: 1271
+Total unique YML poster entries: 1860
 Total missing posters: 16
 ------------------------------------------------------------
 
@@ -14,7 +14,7 @@ The Testament of Sister New Devil (2015)
 === Anime-Movies (0) ===
 
 === Movies (7) ===
-Bodycam (2025)
+Bodycam (2026)
 Mortal Kombat (2021)
 One Mile (2026)
 One Mile: Chapter Two (2026)

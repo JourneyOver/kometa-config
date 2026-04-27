@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/45649
+
+metadata:
+
+  445829: # Wistoria: Wand and Sword (2024)
+    url_poster: "https://theposterdb.com/api/assets/474505"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/699204"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/474506"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/699205"
