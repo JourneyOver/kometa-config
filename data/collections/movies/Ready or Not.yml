@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/398801
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Ready or Not":
+    template: { name: Collection, collection: 1267164, order: release }
+    url_poster: "https://theposterdb.com/api/assets/711040"
+    url_background: "https://image.tmdb.org/t/p/original/mpbJGCN9l5Nw6KEi9rKiKC4c6Hd.jpg"
+    summary: "In the shadow of a wealthy family's twisted wedding tradition, a newlywed's night of terror becomes a relentless fight for survival against a clan bound by a blood oath. As the hunt escalates and the family's dark legacy unravels, the line between predator and prey blurs, with greed, desperation, and the will to live driving every brutal encounter. Survival becomes the only currency as the stakes rise, turning a celebration into a never-ending nightmare of betrayal and bloodshed."

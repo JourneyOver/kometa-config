@@ -1,7 +1,7 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1286
-Total .yml files scanned (collections): 196
+Total .yml files scanned (metadata): 1288
+Total .yml files scanned (collections): 197
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
@@ -52,7 +52,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 166
+Count: 167
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -145,6 +145,7 @@ metadata/movies/The Perks of Being a Wallflower.yml
 metadata/movies/The Phoenician Scheme.yml
 metadata/movies/The Pursuit of Happyness.yml
 metadata/movies/The Shallows.yml
+metadata/movies/The Super Mario.yml
 metadata/movies/The Terminal.yml
 metadata/movies/The Thing.yml
 metadata/movies/The Ugly Stepsister.yml
@@ -228,18 +229,17 @@ Count: 0
 
 ============================================================
 SECTION 5: COLLECTIONS - MISSING URL AFTER SECOND "#" LINE
-Count: 5
+Count: 4
 ============================================================
 collections/movies/Before.yml
 collections/movies/How to Train Your Dragon.yml
 collections/movies/Paddington.yml
-collections/movies/The Super Mario Bros..yml
 collections/movies/dc/DC Universe.yml
 
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 60
+Count: 62
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -272,6 +272,7 @@ collections/movies/Naked Gun.yml
 collections/movies/Pet Sematary (Reboot).yml
 collections/movies/Pet Sematary.yml
 collections/movies/Pulse.yml
+collections/movies/Ready or Not.yml
 collections/movies/Resident Evil.yml
 collections/movies/RoboCop.yml
 collections/movies/Rush Hour.yml
@@ -286,6 +287,7 @@ collections/movies/The Conjuring Universe.yml
 collections/movies/The Hills Have Eyes.yml
 collections/movies/The Karate Kid.yml
 collections/movies/The MonsterVerse.yml
+collections/movies/The Super Mario.yml
 collections/movies/The Thing.yml
 collections/movies/Train to Busan.yml
 collections/movies/Transformers.yml
