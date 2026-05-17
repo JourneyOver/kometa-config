@@ -1,19 +1,18 @@
-Total YML files scanned: 1288
-Total unique YML poster entries: 1879
+Total YML files scanned: 1292
+Total unique YML poster entries: 1883
 Total missing posters: 17
 ------------------------------------------------------------
 
-=== Anime (6) ===
+=== Anime (5) ===
 Baki (2018)
 Baki Hanma (2021)
 Baki the Grappler (2001)
 BAKI-DOU: The Invincible Samurai (2026)
 Reign: The Conqueror (1997)
-The Testament of Sister New Devil (2015)
 
 === Anime-Movies (0) ===
 
-=== Movies (8) ===
+=== Movies (9) ===
 Bodycam (2026)
 Mortal Kombat (2021)
 One Mile: Chapter One (2026)
@@ -22,6 +21,7 @@ Red Plague (2025)
 S.T.A.L.K.E.R.: Shadow of the Zone (2024)
 Shaky Shivers (2023)
 Swapped (2026)
+The Magic Faraway Tree (2026)
 
 === TV-Shows (3) ===
 Mike Judge Presents: Tales From the Tour Bus (2017)

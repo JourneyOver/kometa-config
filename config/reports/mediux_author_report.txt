@@ -1,0 +1,449 @@
+MEDIUX AUTHOR AUDIT REPORT
+============================================================
+Total YML files scanned: 1292
+Total files with MediuX set URLs: 907
+Total unique MediuX set IDs found: 927
+Cached authors reused: 0
+Set pages scraped this run: 927
+Files with non-approved authors: 215
+Files with unresolved set authors: 0
+Set scrape failures: 0
+
+=== Files with non-approved authors (215) ===
+metadata/anime-movies/Belle.yml
+  - 22828 | MiniZaki
+metadata/anime-movies/Bleach.yml
+  - 6881 | MiniZaki
+metadata/anime-movies/Castle in the Sky.yml
+  - 3451 | MiniZaki
+metadata/anime-movies/Earwig and the Witch.yml
+  - 3452 | MiniZaki
+metadata/anime-movies/From Up on Poppy Hill.yml
+  - 3453 | MiniZaki
+metadata/anime-movies/Grave of the Fireflies.yml
+  - 3454 | MiniZaki
+metadata/anime-movies/Howl's Moving Castle.yml
+  - 3455 | MiniZaki
+metadata/anime-movies/Kiki's Delivery Service.yml
+  - 3456 | MiniZaki
+metadata/anime-movies/Lupin the Third - The Castle of Cagliostro.yml
+  - 6411 | MiniZaki
+metadata/anime-movies/Mirai.yml
+  - 22832 | MiniZaki
+metadata/anime-movies/My Neighbor Totoro.yml
+  - 3457 | MiniZaki
+metadata/anime-movies/My Neighbors the Yamadas.yml
+  - 3458 | MiniZaki
+metadata/anime-movies/Nausicaä of the Valley of the Wind.yml
+  - 3459 | MiniZaki
+metadata/anime-movies/Ocean Waves.yml
+  - 3460 | MiniZaki
+metadata/anime-movies/Only Yesterday.yml
+  - 3461 | MiniZaki
+metadata/anime-movies/Pom Poko.yml
+  - 3462 | MiniZaki
+metadata/anime-movies/Ponyo.yml
+  - 3463 | MiniZaki
+metadata/anime-movies/Porco Rosso.yml
+  - 3464 | MiniZaki
+metadata/anime-movies/Princess Mononoke.yml
+  - 3465 | MiniZaki
+metadata/anime-movies/Spirited Away.yml
+  - 3466 | MiniZaki
+metadata/anime-movies/Summer Wars.yml
+  - 22831 | MiniZaki
+metadata/anime-movies/Sword Art Online.yml
+  - 26712 | MiniZaki
+metadata/anime-movies/Tales from Earthsea.yml
+  - 3467 | MiniZaki
+metadata/anime-movies/The Boy and the Beast.yml
+  - 22837 | MiniZaki
+metadata/anime-movies/The Boy and the Heron.yml
+  - 3468 | MiniZaki
+metadata/anime-movies/The Cat Returns.yml
+  - 3469 | MiniZaki
+metadata/anime-movies/The Girl Who Leapt Through Time.yml
+  - 22838 | MiniZaki
+metadata/anime-movies/The Secret World of Arrietty.yml
+  - 3471 | MiniZaki
+metadata/anime-movies/The Tale of The Princess Kaguya.yml
+  - 3472 | MiniZaki
+metadata/anime-movies/The Wind Rises.yml
+  - 3473 | MiniZaki
+metadata/anime-movies/Violet Evergarden.yml
+  - 23446 | MiniZaki
+metadata/anime-movies/When Marnie Was There.yml
+  - 3474 | MiniZaki
+metadata/anime-movies/Whisper of the Heart.yml
+  - 3475 | MiniZaki
+metadata/anime-movies/Wolf Children.yml
+  - 22836 | MiniZaki
+metadata/anime/BEASTARS.yml
+  - 30856 | MiniZaki
+metadata/anime/Bleach.yml
+  - 21631 | MiniZaki
+metadata/anime/Cowboy Bebop.yml
+  - 39543 | Stuthejedi
+metadata/anime/High School of the Dead.yml
+  - 24429 | MiniZaki
+metadata/anime/Secrets of the Silent Witch.yml
+  - 35127 | MiniZaki
+metadata/anime/Solo Leveling.yml
+  - 15071 | MiniZaki
+metadata/anime/Suppose a Kid From the Last Dungeon Boonies Moved to a Starter Town.yml
+  - 24590 | MiniZaki
+metadata/anime/Sword Art Online Alternative - Gun Gale Online.yml
+  - 26711 | MiniZaki
+metadata/anime/Sword Art Online.yml
+  - 26710 | MiniZaki
+metadata/anime/The Water Magician.yml
+  - 35082 | MiniZaki
+metadata/anime/Violet Evergarden.yml
+  - 23444 | MiniZaki
+metadata/anime/Wistoria - Wand and Sword.yml
+  - 45649 | MiniZaki
+metadata/anime/Xam'd - Lost Memories.yml
+  - 24321 | MiniZaki
+metadata/movies/12 Years a Slave.yml
+  - 27727 | willtong93
+metadata/movies/300.yml
+  - 8346 | RuviLev
+metadata/movies/8 mile.yml
+  - 7273 | MiniZaki
+metadata/movies/Aladdin (Animation).yml
+  - 8301 | RuviLev
+metadata/movies/All Dogs Go to Heaven.yml
+  - 11118 | RuviLev
+metadata/movies/Almighty.yml
+  - 24701 | RuviLev
+metadata/movies/Alvin and the Chipmunks.yml
+  - 8350 | RuviLev
+metadata/movies/Bad Boys.yml
+  - 23175 | MiniZaki
+metadata/movies/Beverly Hills Cop.yml
+  - 27721 | willtong93
+metadata/movies/Big Momma's House.yml
+  - 1128 | Aloha_Alona
+metadata/movies/Bolt.yml
+  - 11539 | RuviLev
+metadata/movies/Brave.yml
+  - 8331 | RuviLev
+metadata/movies/Brother Bear.yml
+  - 11524 | RuviLev
+metadata/movies/Child's Play.yml
+  - 770 | Koltom
+metadata/movies/Chip 'n Dale - Rescue Rangers.yml
+  - 13314 | RuviLev
+metadata/movies/Cinderella.yml
+  - 8307 | RuviLev
+metadata/movies/Clash of the Titans.yml
+  - 8465 | RuviLev
+metadata/movies/Coco.yml
+  - 11554 | RuviLev
+metadata/movies/Conclave.yml
+  - 33142 | willtong93
+metadata/movies/Coraline.yml
+  - 7803 | Praythea
+metadata/movies/Despicable Me.yml
+  - 8308 | RuviLev
+metadata/movies/Die Alone.yml
+  - 32713 | Wikid82
+metadata/movies/Die Hard.yml
+  - 8789 | RuviLev
+metadata/movies/Django Unchained.yml
+  - 9481 | RuviLev
+metadata/movies/Dumbo.yml
+  - 11562 | RuviLev
+metadata/movies/E.T. the Extra-Terrestrial.yml
+  - 28950 | IdentityTheft
+metadata/movies/Elemental.yml
+  - 11564 | RuviLev
+metadata/movies/Elio.yml
+  - 36395 | MiniZaki
+metadata/movies/Encanto.yml
+  - 11566 | RuviLev
+metadata/movies/Extraction.yml
+  - 2303 | Praythea
+metadata/movies/Finding Nemo.yml
+  - 22966 | MrSaiclops
+metadata/movies/Frozen.yml
+  - 11535 | RuviLev
+metadata/movies/Futurama.yml
+  - 37019 | MrMonkey
+metadata/movies/Get Away.yml
+  - 29966 | Danmark
+metadata/movies/Ghostbusters.yml
+  - 19034 | tallinex
+  - 19035 | tallinex
+metadata/movies/Hancock.yml
+  - 9512 | brikim
+metadata/movies/How the Grinch Stole Christmas! (Animation).yml
+  - 13341 | RuviLev
+metadata/movies/How the Grinch Stole Christmas.yml
+  - 9297 | RuviLev
+metadata/movies/How to Train Your Dragon (Animation).yml
+  - 22959 | MrSaiclops
+metadata/movies/Ice Age.yml
+  - 8311 | RuviLev
+metadata/movies/If.yml
+  - 21477 | MiniZaki
+metadata/movies/Inside Out.yml
+  - 24005 | MrSaiclops
+metadata/movies/Jumanji.yml
+  - 9361 | RuviLev
+metadata/movies/KPop Demon Hunters.yml
+  - 34837 | MiniZaki
+metadata/movies/Kubo and the Two Strings.yml
+  - 11706 | RuviLev
+metadata/movies/Kung Fu Panda.yml
+  - 22958 | MrSaiclops
+metadata/movies/Liar Liar.yml
+  - 9296 | RuviLev
+metadata/movies/Lilo & Stitch (Animation).yml
+  - 11712 | RuviLev
+metadata/movies/Lilo & Stitch.yml
+  - 35087 | MiniZaki
+metadata/movies/Madagascar.yml
+  - 8313 | RuviLev
+  - 8314 | RuviLev
+metadata/movies/marvel/Deadpool.yml
+  - 7251 | RuviLev
+metadata/movies/Moana.yml
+  - 11760 | RuviLev
+metadata/movies/Monsters, Inc..yml
+  - 22968 | MrSaiclops
+metadata/movies/Mulan.yml
+  - 11811 | RuviLev
+metadata/movies/Peter Rabbit.yml
+  - 12008 | RuviLev
+metadata/movies/Pinocchio.yml
+  - 12016 | RuviLev
+metadata/movies/Primitive War.yml
+  - 36914 | tallinex
+metadata/movies/Robin Hood.yml
+  - 13404 | RuviLev
+metadata/movies/Ron's Gone Wrong.yml
+  - 12048 | RuviLev
+metadata/movies/School of Rock.yml
+  - 9264 | RuviLev
+metadata/movies/Scream.yml
+  - 44197 | willtong93
+metadata/movies/Signs.yml
+  - 12128 | brikim
+metadata/movies/Silent Hill.yml
+  - 42141 | willtong93
+metadata/movies/Sleeping Beauty.yml
+  - 12057 | RuviLev
+metadata/movies/Snow White and the Seven Dwarfs.yml
+  - 12068 | RuviLev
+metadata/movies/Tangled.yml
+  - 12191 | RuviLev
+metadata/movies/Tango & Cash.yml
+  - 5818 | Aloha_Alona
+metadata/movies/The Chronicles of Narnia.yml
+  - 12313 | RuviLev
+metadata/movies/The Curious Case of Benjamin Button.yml
+  - 26184 | willtong93
+metadata/movies/The Great Mouse Detective.yml
+  - 13418 | RuviLev
+metadata/movies/The Grinch.yml
+  - 12326 | RuviLev
+metadata/movies/The Imitation Game.yml
+  - 27703 | willtong93
+metadata/movies/The Iron Giant.yml
+  - 11710 | RuviLev
+metadata/movies/The Last Rodeo.yml
+  - 35105 | plexstreaming
+metadata/movies/The Mask.yml
+  - 13428 | RuviLev
+metadata/movies/the Perfect Neighbor.yml
+  - 39137 | MrMonkey
+metadata/movies/The Polar Express.yml
+  - 12342 | RuviLev
+metadata/movies/The Road to El Dorado.yml
+  - 12347 | RuviLev
+metadata/movies/The Secret Life of Pets.yml
+  - 12349 | RuviLev
+metadata/movies/The Secret of NIMH.yml
+  - 26175 | MiniZaki
+metadata/movies/The Simpsons Movie.yml
+  - 13434 | RuviLev
+metadata/movies/The Substance.yml
+  - 27003 | cundallini
+metadata/movies/The Sword in the Stone.yml
+  - 13435 | RuviLev
+metadata/movies/Treasure Planet.yml
+  - 12525 | RuviLev
+metadata/movies/V for Vendetta.yml
+  - 5929 | Aloha_Alona
+metadata/movies/We're All Gonna Die.yml
+  - 35530 | Danmark
+metadata/movies/Whiplash.yml
+  - 25562 | willtong93
+metadata/movies/Willy Wonka & the Chocolate Factory.yml
+  - 30438 | IdentityTheft
+metadata/movies/World War Z.yml
+  - 28970 | willtong93
+metadata/shows/1883.yml
+  - 15716 | RuviLev
+metadata/shows/A Good Girl's Guide to Murder.yml
+  - 22078 | fwlolx
+metadata/shows/Adventure Time.yml
+  - 13523 | TheMedeusa
+metadata/shows/American Horror Story.yml
+  - 35069 | Brainwasher_01
+metadata/shows/Arrow.yml
+  - 12922 | RuviLev
+metadata/shows/Avatar - The Last Airbender.yml
+  - 14264 | MiniZaki
+metadata/shows/Battlestar Galactica.yml
+  - 15969 | RuviLev
+metadata/shows/Batwoman.yml
+  - 12923 | RuviLev
+metadata/shows/Black Lightning.yml
+  - 7422 | RuviLev
+metadata/shows/Bosch - Legacy.yml
+  - 13922 | fwlolx
+metadata/shows/Bosch.yml
+  - 13921 | fwlolx
+metadata/shows/Chernobyl.yml
+  - 12739 | RuviLev
+metadata/shows/Chucky.yml
+  - 771 | Koltom
+metadata/shows/Constantine.yml
+  - 7424 | RuviLev
+metadata/shows/DC's Legends of Tomorrow.yml
+  - 7425 | RuviLev
+metadata/shows/DC's Stargirl.yml
+  - 7428 | RuviLev
+metadata/shows/Dexter - New Blood.yml
+  - 2301 | Praythea
+metadata/shows/Dexter - Original Sin.yml
+  - 29179 | Praythea
+metadata/shows/Dexter - Resurrection.yml
+  - 35206 | Praythea
+metadata/shows/Dexter.yml
+  - 2298 | Praythea
+metadata/shows/Doctor Who (2005).yml
+  - 15049 | Recker_Man
+metadata/shows/Doctor Who (2023).yml
+  - 18507 | Recker_Man
+metadata/shows/Doom Patrol.yml
+  - 12927 | RuviLev
+metadata/shows/Family Guy.yml
+  - 12456 | RuviLev
+  - 45260 | jc_tv
+metadata/shows/Gotham Knights.yml
+  - 21156 | valexv
+metadata/shows/Gotham.yml
+  - 26846 | RuviLev
+metadata/shows/Gravity Falls.yml
+  - 13168 | Yatesfox
+metadata/shows/Hilda.yml
+  - 7808 | fwlolx
+metadata/shows/iZombie.yml
+  - 7770 | RuviLev
+metadata/shows/Last Samurai Standing.yml
+  - 40519 | cundallini
+metadata/shows/Let the Right One In.yml
+  - 18058 | fwlolx
+metadata/shows/Little Demon.yml
+  - 18066 | fwlolx
+metadata/shows/Lockwood & Co..yml
+  - 18067 | fwlolx
+metadata/shows/Looking for Alaska.yml
+  - 8794 | DrWhoDalek
+metadata/shows/Lucifer.yml
+  - 16035 | RuviLev
+metadata/shows/Man vs Baby.yml
+  - 40928 | fwlolx
+metadata/shows/Man vs Bee.yml
+  - 18266 | fwlolx
+metadata/shows/Mayor of Kingstown.yml
+  - 11027 | fwlolx
+metadata/shows/Me.yml
+  - 22739 | DrWhoDalek
+metadata/shows/Naomi.yml
+  - 26849 | RuviLev
+metadata/shows/Outlander - Blood of My Blood.yml
+  - 36023 | fwlolx
+metadata/shows/Pantheon.yml
+  - 11038 | fwlolx
+metadata/shows/School Spirits.yml
+  - 30097 | fwlolx
+metadata/shows/Secret Service.yml
+  - 47589 | DrWhoDalek
+metadata/shows/Sherlock & Daughter.yml
+  - 31917 | fwlolx
+metadata/shows/Sherlock.yml
+  - 708 | Koltom
+metadata/shows/Silo.yml
+  - 2339 | Praythea
+metadata/shows/Splinter Cell - Deathwatch.yml
+  - 38937 | DrWhoDalek
+metadata/shows/Supergirl.yml
+  - 13069 | RuviLev
+metadata/shows/Supernatural.yml
+  - 785 | Koltom
+metadata/shows/Swamp Thing.yml
+  - 7430 | RuviLev
+metadata/shows/Sweet Tooth.yml
+  - 20888 | ChamikaNLakshan
+metadata/shows/Teacup.yml
+  - 26563 | fwlolx
+metadata/shows/The 100.yml
+  - 13826 | Recker_Man
+metadata/shows/The Ark.yml
+  - 22240 | fwlolx
+metadata/shows/The Big Bang Theory.yml
+  - 7777 | RuviLev
+metadata/shows/The Edge of Sleep.yml
+  - 27038 | DrWhoDalek
+metadata/shows/The Expanse.yml
+  - 15003 | Recker_Man
+metadata/shows/The Flash.yml
+  - 13070 | RuviLev
+metadata/shows/The Great North.yml
+  - 29627 | Kwickflix
+metadata/shows/The Handmaid's Tale.yml
+  - 31164 | fwlolx
+metadata/shows/The Haunting.yml
+  - 21209 | Recker_Man
+metadata/shows/The Leftovers.yml
+  - 12692 | 71622495t
+metadata/shows/The Librarians - The Next Chapter.yml
+  - 32915 | fwlolx
+metadata/shows/The Pendragon Cycle - Rise of the Merlin.yml
+  - 42156 | fwlolx
+metadata/shows/The Penguin.yml
+  - 25512 | RuviLev
+metadata/shows/The Recruit.yml
+  - 30098 | fwlolx
+metadata/shows/The Winchesters.yml
+  - 21166 | valexv
+metadata/shows/Time Bandits.yml
+  - 22746 | fwlolx
+metadata/shows/Titans.yml
+  - 13071 | RuviLev
+metadata/shows/Tom Clancy's Jack Ryan.yml
+  - 15724 | RuviLev
+metadata/shows/Torchwood.yml
+  - 16102 | Recker_Man
+metadata/shows/Tracker.yml
+  - 8828 | fwlolx
+metadata/shows/Washington Black.yml
+  - 35612 | fwlolx
+metadata/shows/Watson.yml
+  - 30155 | fwlolx
+metadata/shows/Will Trent.yml
+  - 8832 | fwlolx
+metadata/shows/Wolf Pack.yml
+  - 10626 | fwlolx
+metadata/shows/Yellowstone.yml
+  - 15728 | RuviLev
+metadata/shows/Young Sheldon.yml
+  - 13167 | RuviLev
+
+=== Files with unresolved set authors (0) ===
+
+=== Set scrape failures (0) ===
