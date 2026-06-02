@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/158784
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Heaven's Lost Property":
+    template: { name: Collection, collection: 388790, order: release }
+    url_poster: "https://theposterdb.com/api/assets/266307"
+    url_background: "https://image.tmdb.org/t/p/original/yJWQCcFXT5JoOYeXxVYhsf8hFQ3.jpg"
+    summary: "Above the clouds, a celestial realm holds secrets that bind artificial hearts to human souls. When a mysterious angeloid with the power to manipulate time descends from Synapse, the fragile peace between worlds begins to crack. Through laughter, tears, and battles that blur the line between machine and miracle, an impossible bond between a boy and his angel is pushed to its breaking point, where the ultimate question is not what you are made of, but who you choose to be."

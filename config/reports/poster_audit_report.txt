@@ -1,7 +1,7 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1317
-Total .yml files scanned (collections): 197
+Total .yml files scanned (metadata): 1322
+Total .yml files scanned (collections): 200
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
@@ -52,7 +52,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 168
+Count: 169
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -98,6 +98,7 @@ metadata/movies/October Sky.yml
 metadata/movies/Odd Thomas.yml
 metadata/movies/Old School.yml
 metadata/movies/Oliver & Company.yml
+metadata/movies/One Mile.yml
 metadata/movies/Orion and the Dark.yml
 metadata/movies/Outbreak.yml
 metadata/movies/Pan's Labyrinth.yml
@@ -240,7 +241,7 @@ collections/movies/dc/DC Universe.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 62
+Count: 63
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -270,6 +271,7 @@ collections/movies/Jeepers Creepers.yml
 collections/movies/Lake Placid.yml
 collections/movies/Middle-Earth.yml
 collections/movies/Naked Gun.yml
+collections/movies/One Mile.yml
 collections/movies/Pet Sematary (Reboot).yml
 collections/movies/Pet Sematary.yml
 collections/movies/Pulse.yml

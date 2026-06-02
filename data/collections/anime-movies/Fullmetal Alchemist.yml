@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/366867
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Fullmetal Alchemist":
+    template: { name: Collection, collection: 140612, order: release }
+    url_poster: "https://theposterdb.com/api/assets/655135"
+    url_background: "https://image.tmdb.org/t/p/original/tfDXESZa80X9GgG9lHej7Ea1fOR.jpg"
+    summary: "Alchemy bridges two worlds, binding brotherhood across dimensions and borders. From the shadow of a rising fascist regime in 1920s Germany to a rebellion stoked by a mysterious star in a foreign land, Edward and Alphonse Elric confront the dark consequences of tampering with forbidden knowledge. Through sacrifice, loss, and an unbreakable bond, the pursuit of truth reveals that the greatest power lies not in transmuting matter, but in protecting the ones you love."

@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/403283
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "One Mile":
+    template: { name: Collection, collection: 1327693, order: release }
+    url_poster: "https://theposterdb.com/api/assets/718584"
+    url_background: "https://image.tmdb.org/t/p/original/wTB9a6EwJdsAh0e8ReaTGaOYVi.jpg"
+    summary: "A father's desperate fight to save his daughter turns a remote island into a brutal battleground. When a violent, secretive community targets his family, an ex-special forces operative must unleash every skill he has to survive the endless hunt. Through savage encounters and harrowing choices, the line between protector and predator dissolves, revealing just how far a parent will go when there is nowhere left to run."
