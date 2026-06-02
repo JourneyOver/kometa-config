@@ -1,6 +1,6 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1292
+Total .yml files scanned (metadata): 1317
 Total .yml files scanned (collections): 197
 
 ============================================================
@@ -52,7 +52,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 167
+Count: 168
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -187,6 +187,7 @@ metadata/movies/middle-earth/The Lord of the Rings.yml
 metadata/movies/tick, tick... BOOM.yml
 metadata/shows/Adventure Time - Distant Lands.yml
 metadata/shows/Adventure Time - Fionna & Cake.yml
+metadata/shows/Aftermath.yml
 metadata/shows/American Dad.yml
 metadata/shows/Amphibia.yml
 metadata/shows/Black Summer.yml

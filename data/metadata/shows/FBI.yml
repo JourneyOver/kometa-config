@@ -1,0 +1,24 @@
+# Posters from:
+# https://mediux.pro/sets/6188
+
+metadata:
+
+  350071: # FBI (2018)
+    url_poster: "https://api.mediux.pro/assets/3b6f47fe-9442-48bd-a83d-cd1a92e0612d"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/a68788a4-e415-405a-850a-77c8912a8657"
+      2:
+        url_poster: "https://api.mediux.pro/assets/4548c00c-3c3c-43bc-bd0c-3a9dd625ec40"
+      3:
+        url_poster: "https://api.mediux.pro/assets/dd3ebcc7-f5e3-4d6f-a253-0064d3033a0a"
+      4:
+        url_poster: "https://api.mediux.pro/assets/4de86373-c23d-42b2-9311-3df493ba0e91"
+      5:
+        url_poster: "https://api.mediux.pro/assets/370ff621-78bb-42ae-be59-bf2162296a8a"
+      6:
+        url_poster: "https://api.mediux.pro/assets/84fffb42-2e1e-4cbe-b6e1-9cb92b13f85a"
+      7:
+        url_poster: "https://api.mediux.pro/assets/d48db220-f06b-4fb9-afa9-5eb0cd4259cd"
+      8:
+        url_poster: "https://api.mediux.pro/assets/70b4a2e8-de1e-4af7-a370-11f08830237f"

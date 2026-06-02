@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/361255
+
+metadata:
+
+  452801: # Petals of Reincarnation (2026)
+    url_poster: "https://theposterdb.com/api/assets/645377"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/698914"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/645378"

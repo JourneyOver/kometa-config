@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/22078
+# https://mediux.pro/sets/51283
 
 metadata:
 
   430061: # A Good Girl's Guide to Murder (2024)
-    url_poster: "https://api.mediux.pro/assets/a0777625-75ec-4065-a95b-e779b7d204f3"
+    url_poster: "https://api.mediux.pro/assets/1c2655cf-cf31-48f8-9971-8040ed836be4"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/0d2fde3f-9f1a-4f35-8e15-1c528dfcbe4f"
+        url_poster: "https://api.mediux.pro/assets/711cb453-004a-4d14-8bab-7f65a81f2173"
+      2:
+        url_poster: "https://api.mediux.pro/assets/38ba60f0-c0c6-4876-9580-f8643db900ae"

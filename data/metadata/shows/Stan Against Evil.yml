@@ -1,0 +1,17 @@
+# Posters from:
+# https://mediux.pro/sets/31200
+
+metadata:
+
+  315153: # Stan Against Evil (2016)
+    url_poster: "https://api.mediux.pro/assets/79d4bb66-93c3-4e0d-b288-2f34292a3975"
+    url_background: "https://api.mediux.pro/assets/4e525156-0165-4e8f-aaa2-0b0f9738b59e"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/c08e5b64-8261-4608-95dd-85ff906296fe"
+      1:
+        url_poster: "https://api.mediux.pro/assets/01b2e401-4a54-4a7d-a0f7-1f58f5e00645"
+      2:
+        url_poster: "https://api.mediux.pro/assets/4ef4ad93-7dd6-42dc-9067-1c79a327de69"
+      3:
+        url_poster: "https://api.mediux.pro/assets/aa135b44-5f93-4b00-8b4d-7ed36193a162"

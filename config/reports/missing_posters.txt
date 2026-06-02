@@ -1,16 +1,14 @@
-Total YML files scanned: 1292
-Total unique YML poster entries: 1883
-Total missing posters: 17
+Total YML files scanned: 1317
+Total unique YML poster entries: 1908
+Total missing posters: 15
 ------------------------------------------------------------
 
-=== Anime (5) ===
-Baki (2018)
-Baki Hanma (2021)
-Baki the Grappler (2001)
-BAKI-DOU: The Invincible Samurai (2026)
+=== Anime (1) ===
 Reign: The Conqueror (1997)
 
-=== Anime-Movies (0) ===
+=== Anime-Movies (2) ===
+Fullmetal Alchemist the Movie: Conqueror of Shamballa (2005)
+Fullmetal Alchemist: The Sacred Star of Milos (2011)
 
 === Movies (9) ===
 Bodycam (2026)

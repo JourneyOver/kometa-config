@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/51741
+
+metadata:
+
+  348204: # The War of the Worlds (2019)
+    url_poster: "https://api.mediux.pro/assets/4fa77843-7c1f-4074-947a-52e62002a43d"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/35588440-9ba8-4757-8a6b-4bb550487fca"
+      1:
+        url_poster: "https://api.mediux.pro/assets/6d1cf121-c95f-4a28-87b6-0bd1f51e3f08"

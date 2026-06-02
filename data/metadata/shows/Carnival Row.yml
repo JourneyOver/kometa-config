@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/51750
+
+metadata:
+
+  365026: # Carnival Row (2019)
+    url_poster: "https://api.mediux.pro/assets/5facadb4-4f9f-4843-a97e-90d545132119"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/3803e7df-a161-4f21-9b58-eb579fe68813"
+      1:
+        url_poster: "https://api.mediux.pro/assets/68efb002-15fe-4bb7-bdde-2a9f2f2966d9"
+      2:
+        url_poster: "https://api.mediux.pro/assets/00eed4e1-fb1c-4b65-aa4b-06ac110b191f"
