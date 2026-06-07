@@ -7,7 +7,7 @@ external_templates:
 collections:
 
   "The Walking Dead Universe":
-    template: { name: Collection, collection_trakt: https://trakt.tv/users/marcynas1/lists/the-walking-dead-universe, order: release }
+    template: { name: Collection, list_tvdb: https://thetvdb.com/lists/the-walking-dead, order: release }
     url_poster: "https://theposterdb.com/api/assets/176383"
     url_background: "https://images.theposterdb.com/prod/public/images/meta/collections/optimized/737825/banner.webp"
     sort_title: "Walking Dead Universe"

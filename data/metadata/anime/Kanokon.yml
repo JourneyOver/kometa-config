@@ -6,7 +6,7 @@ metadata:
   81830: # Kanokon (2008)
     url_poster: "https://theposterdb.com/api/assets/544300"
     seasons:
-#      0:
-#        url_poster: "https://theposterdb.com/api/assets/544301"
+      0:
+        url_poster: "https://theposterdb.com/api/assets/544301"
       1:
         url_poster: "https://theposterdb.com/api/assets/544302"
