@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/20517
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Becky":
+    template: { name: Collection, collection: 986072, order: release }
+    url_poster: "https://api.mediux.pro/assets/39345e7f-ebdd-4f06-acc5-b13ca1def386"
+    url_background: "https://image.tmdb.org/t/p/original/htkf2MLOc8rtbyH8lZ9t7MUAYg9.jpg"
+    summary: "A quiet girl hides a storm inside her. When the world comes for what little she has left, a violent force awakens, turning sorrow into a weapon sharp enough to cut through any threat. From a lake house invasion to a relentless hunt for justice, each confrontation peels back another layer of rage that has been simmering beneath the surface for too long. The only question left is who will be left standing when the storm finally breaks."

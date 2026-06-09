@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/20583
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Harold & Kumar":
+    template: { name: Collection, collection: 30663, order: release }
+    url_poster: "https://theposterdb.com/api/assets/33872"
+    url_background: "https://image.tmdb.org/t/p/original/b70mFgsSn2hl3CvC0nRx0SHUEX0.jpg"
+    summary: "A craving for sliders sparks a journey that defies all reason, dragging two unlikely friends through a gauntlet of absurd obstacles, government conspiracies, and holiday chaos. From the search for the perfect burger to an escape from a tropical prison and a race to save Christmas, their bond is tested by the most outrageous circumstances imaginable. Through it all, Harold's straight-laced logic and Kumar's unhinged spontaneity prove that no matter how far life pulls them apart, some friendships are worth every detour."

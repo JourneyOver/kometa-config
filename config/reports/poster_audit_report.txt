@@ -1,7 +1,7 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1340
-Total .yml files scanned (collections): 200
+Total .yml files scanned (metadata): 1365
+Total .yml files scanned (collections): 203
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
@@ -52,7 +52,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 169
+Count: 171
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -72,6 +72,7 @@ metadata/movies/Goosebumps.yml
 metadata/movies/Halloween.yml
 metadata/movies/Hamnet.yml
 metadata/movies/Happy Death Day.yml
+metadata/movies/Harold & Kumar.yml
 metadata/movies/Harold and the Purple Crayon.yml
 metadata/movies/Home Alone.yml
 metadata/movies/Hostel.yml
@@ -212,6 +213,7 @@ metadata/shows/Stargate SG-1.yml
 metadata/shows/Stargate Universe.yml
 metadata/shows/The Amazing Digital Circus.yml
 metadata/shows/The Boondocks.yml
+metadata/shows/The Four Seasons.yml
 metadata/shows/The Hot Zone.yml
 metadata/shows/The Librarians.yml
 metadata/shows/The Lord of the Rings - The Rings of Power.yml
@@ -241,7 +243,7 @@ collections/movies/dc/DC Universe.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 63
+Count: 64
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -262,6 +264,7 @@ collections/movies/Gladiator.yml
 collections/movies/Goosebumps.yml
 collections/movies/Halloween.yml
 collections/movies/Happy Death Day.yml
+collections/movies/Harold & Kumar.yml
 collections/movies/Home Alone.yml
 collections/movies/Honey, I Shrunk the Kids.yml
 collections/movies/Hostel.yml

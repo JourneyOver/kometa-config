@@ -1,12 +1,14 @@
 # Posters from:
-# https://mediux.pro/sets/19725
+# https://mediux.pro/sets/52484
 
 metadata:
 
   405535: # Interview with the Vampire (2022)
-    url_poster: "https://api.mediux.pro/assets/96350806-00ef-48e2-9724-3f1f97c3b45f"
+    url_poster: "https://api.mediux.pro/assets/0535e127-3c5d-4966-9cd7-277934c041d0"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/5adac43b-6b5b-4efa-89c5-b1cb0a44a91b"
+        url_poster: "https://api.mediux.pro/assets/a8bbd2e7-3948-4cea-b89d-3d0488de47b8"
       2:
-        url_poster: "https://api.mediux.pro/assets/2a8291aa-75e1-4d2f-8dc9-9ee1b68c70e2"
+        url_poster: "https://api.mediux.pro/assets/e9b9ac9d-d223-4071-ace0-dd0b7f3eac23"
+      3:
+        url_poster: "https://api.mediux.pro/assets/21f3a0aa-54fe-492a-b991-b0b59e74ed23"

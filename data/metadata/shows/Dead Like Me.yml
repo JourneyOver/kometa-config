@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/32153
+
+metadata:
+
+  72129: # Dead Like Me (2003)
+    url_poster: "https://api.mediux.pro/assets/00efec42-d2eb-42fd-8030-a0fe620e4213"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/f0c8d894-4bd7-4bc8-9bba-30e241553004"
+      2:
+        url_poster: "https://api.mediux.pro/assets/1972eeea-abfa-4692-a3a1-4893b9513d58"

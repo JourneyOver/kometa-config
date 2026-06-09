@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/9003
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Mortal Kombat":
+    template: { name: Collection, collection: 931431, order: release }
+    url_poster: "https://api.mediux.pro/assets/ea94193e-3069-40f1-908b-33ea389eef15"
+    url_background: "https://image.tmdb.org/t/p/original/mI8xgtdaKDwnfaZ6CahOaYKdfSU.jpg"
+    summary: "Born from an ancient bloodline, a new champion rises to defend Earthrealm against the forces of Outworld. Bound by destiny and driven by a centuries-old feud between fire and ice, the battle for survival spills across realms where every fight carries the weight of annihilation. As old grudges ignite and new threats emerge, courage and sacrifice become the only weapons strong enough to stand against an empire that will stop at nothing to conquer."

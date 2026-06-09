@@ -1,6 +1,6 @@
-Total YML files scanned: 1340
-Total unique YML poster entries: 1933
-Total missing posters: 9
+Total YML files scanned: 1365
+Total unique YML poster entries: 1962
+Total missing posters: 5
 ------------------------------------------------------------
 
 === Anime (1) ===
@@ -8,12 +8,8 @@ Reign: The Conqueror (1997)
 
 === Anime-Movies (0) ===
 
-=== Movies (5) ===
-Mortal Kombat (2021)
-Red Plague (2025)
+=== Movies (1) ===
 S.T.A.L.K.E.R.: Shadow of the Zone (2024)
-Shaky Shivers (2023)
-The Magic Faraway Tree (2026)
 
 === TV-Shows (3) ===
 Mike Judge Presents: Tales From the Tour Bus (2017)
