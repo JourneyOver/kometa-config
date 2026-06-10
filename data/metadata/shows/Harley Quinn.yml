@@ -1,0 +1,20 @@
+# Posters from:
+# https://mediux.pro/sets/52591
+
+metadata:
+
+  365677: # Harley Quinn (2019)
+    url_poster: "https://api.mediux.pro/assets/7984b096-4acb-4a12-98ce-58858c6c991f"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/192fa3fd-6fac-42dd-8692-e0298fd73e0f"
+      1:
+        url_poster: "https://api.mediux.pro/assets/4154ca0b-842b-4def-9cb7-e9197b465611"
+      2:
+        url_poster: "https://api.mediux.pro/assets/4c0e96f3-e429-4650-89a4-62d7bde419ff"
+      3:
+        url_poster: "https://api.mediux.pro/assets/4110f316-bfa5-4468-a0d6-1f31a9bba956"
+      4:
+        url_poster: "https://api.mediux.pro/assets/fdd9dd77-7b93-4bfa-8d03-ace45ff9bbe3"
+      5:
+        url_poster: "https://api.mediux.pro/assets/9a5d3454-164c-4ba5-964c-120b6e0ebb8e"

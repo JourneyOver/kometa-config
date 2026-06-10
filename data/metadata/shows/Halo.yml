@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/2001
+
+metadata:
+
+  366524: # Halo (2022)
+    url_poster: "https://api.mediux.pro/assets/56f08f92-278c-4b33-b2b5-772f653df859"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/5564e634-5882-4cf9-a6aa-e1a60b8081b9"
+      2:
+        url_poster: "https://api.mediux.pro/assets/cd2139b5-7fe7-4b31-9025-868d00e3e694"

@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/348780
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Dexter Universe":
+    template: { name: Collection, list_tvdb: https://thetvdb.com/lists/dexter, order: release }
+    url_poster: "https://theposterdb.com/api/assets/624557"
+    url_background: "https://images4.alphacoders.com/638/thumb-1920-638529.jpg"
+    summary: "A monster wears a human mask, bound by a code that turns bloodlust into a twisted form of justice. From the sun-scorched streets of Miami to the frozen quiet of a small town, the hunt follows Dexter Morgan across every stage of his life, from the birth of his dark passenger to the legacy he leaves behind. As fathers and sons inherit the same curse, the line between predator and protector blurs, revealing that some shadows can never be outrun."

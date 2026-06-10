@@ -1,0 +1,13 @@
+# Poster from:
+# https://theposterdb.com/set/170702
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Yellowstone Universe":
+    template: { name: Collection, list_tvdb: https://thetvdb.com/lists/yellowstone, order: release }
+    url_poster: "https://theposterdb.com/api/assets/287923"
+    url_background: "https://image.tmdb.org/t/p/original/hFFAYkK8XkvIlQss9GYxo8TOhFi.jpg"
+    summary: "Blood and soil bind a dynasty across generations, where every acre of land is paid for in sacrifice. From the wagon trains carving a new life across an untamed frontier to the modern battles over legacy and power, the fight to protect a birthright echoes through decades. Lawmen, outlaws, ranchers, and reckoners all play their part in a sprawling story of ambition, loss, and the unyielding will to leave something behind that lasts longer than memory."
