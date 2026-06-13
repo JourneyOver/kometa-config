@@ -1,0 +1,16 @@
+# Posters from:
+# https://theposterdb.com/set/221200
+
+metadata:
+
+  355480: # Fire Force (2019)
+    url_poster: "https://theposterdb.com/api/assets/393847"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/393848"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/393849"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/393850"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/506500"

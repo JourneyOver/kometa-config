@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/308490
+
+metadata:
+
+  446692: # Anyway, I'm Falling in Love with You. (2025)
+    url_poster: "https://theposterdb.com/api/assets/555458"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/667761"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/555459"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/667762"

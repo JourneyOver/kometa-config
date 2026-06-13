@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/307990
+
+metadata:
+
+  433953: # Medalist (2025)
+    url_poster: "https://theposterdb.com/api/assets/554606"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/554607"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/554608"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/588435"
