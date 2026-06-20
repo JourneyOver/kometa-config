@@ -1,7 +1,7 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1365
-Total .yml files scanned (collections): 203
+Total .yml files scanned (metadata): 1424
+Total .yml files scanned (collections): 205
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
@@ -52,7 +52,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 171
+Count: 177
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -187,6 +187,8 @@ metadata/movies/living-dead/Night of the Living Dead.yml
 metadata/movies/middle-earth/The Hobbit.yml
 metadata/movies/middle-earth/The Lord of the Rings.yml
 metadata/movies/tick, tick... BOOM.yml
+metadata/shows/1883.yml
+metadata/shows/1923.yml
 metadata/shows/Adventure Time - Distant Lands.yml
 metadata/shows/Adventure Time - Fionna & Cake.yml
 metadata/shows/Aftermath.yml
@@ -197,11 +199,14 @@ metadata/shows/Bob's Burgers.yml
 metadata/shows/Community.yml
 metadata/shows/Dead End - Paranormal Park.yml
 metadata/shows/Disenchantment.yml
+metadata/shows/Dutton Ranch.yml
 metadata/shows/Haunted Hotel.yml
 metadata/shows/Helluva Boss.yml
 metadata/shows/Inside Job.yml
 metadata/shows/Jentry Chau vs. the Underworld.yml
+metadata/shows/Lawmen - Bass Reeves.yml
 metadata/shows/Legacies.yml
+metadata/shows/Marshals.yml
 metadata/shows/NOS4A2.yml
 metadata/shows/Pennyworth.yml
 metadata/shows/Preacher.yml
@@ -225,6 +230,7 @@ metadata/shows/The Simpsons.yml
 metadata/shows/The Vampire Diaries.yml
 metadata/shows/The War Between the Land and the Sea.yml
 metadata/shows/Warehouse 13.yml
+metadata/shows/Yellowstone.yml
 
 ============================================================
 SECTION 4: COLLECTIONS - MISSING "# Poster from:" HEADER
@@ -243,7 +249,7 @@ collections/movies/dc/DC Universe.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 64
+Count: 66
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -304,8 +310,10 @@ collections/movies/Zombieland.yml
 collections/movies/dc/DC Extended Universe.yml
 collections/movies/marvel/Marvel Cinematic Universe.yml
 collections/shows/Arrowverse.yml
+collections/shows/Dexter.yml
 collections/shows/Doctor Who.yml
 collections/shows/Marvel Cinematic Universe.yml
 collections/shows/The Boys.yml
 collections/shows/The Walking Dead.yml
 collections/shows/World of Ice and Fire.yml
+collections/shows/Yellowstone.yml

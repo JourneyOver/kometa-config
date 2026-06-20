@@ -1,0 +1,18 @@
+# Posters from:
+# https://mediux.pro/sets/14943
+
+metadata:
+
+  311711: # The Good Place (2016)
+    url_poster: "https://api.mediux.pro/assets/e25d2b23-431e-4b27-a1a8-daf3bd7ca7ab"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/eb280117-cc50-4438-aad7-f40d35a76e26"
+      1:
+        url_poster: "https://api.mediux.pro/assets/fdba5c06-28e8-49bd-b048-eeb460a544f4"
+      2:
+        url_poster: "https://api.mediux.pro/assets/194b4110-40fb-46b2-a5b6-8da170faa93a"
+      3:
+        url_poster: "https://api.mediux.pro/assets/6e4b0aa1-4d93-4da3-8b19-f51313cb249c"
+      4:
+        url_poster: "https://api.mediux.pro/assets/53e42b9d-99d8-4c2b-81b3-3c7d65ef44d8"

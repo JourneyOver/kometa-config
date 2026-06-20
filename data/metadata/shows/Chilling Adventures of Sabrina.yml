@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/53779
+
+metadata:
+
+  338947: # Chilling Adventures of Sabrina (2018)
+    url_poster: "https://api.mediux.pro/assets/58528b48-bbaf-4c23-bbbc-eac3442dbf39"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/50122c06-911c-42c4-8e86-b501ac4e6b49"
+      2:
+        url_poster: "https://api.mediux.pro/assets/1319084e-97b2-4ede-82f2-cb17147bbc7a"

@@ -6,8 +6,8 @@ metadata:
   71663: # The Simpsons (1989)
     url_poster: "https://theposterdb.com/api/assets/372802"
     seasons:
-#      0:
-#        url_poster: "https://theposterdb.com/api/assets/372803"
+      0:
+        url_poster: "https://theposterdb.com/api/assets/372803"
       1:
         url_poster: "https://theposterdb.com/api/assets/372804"
       2:
