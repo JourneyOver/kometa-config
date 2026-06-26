@@ -1,12 +1,14 @@
 # Posters from:
-# https://mediux.pro/sets/19469
+# https://mediux.pro/sets/53995
 
 metadata:
 
   403172: # My Adventures with Superman (2023)
-    url_poster: "https://api.mediux.pro/assets/598d6fff-2917-44ef-91cc-46722f186976"
+    url_poster: "https://api.mediux.pro/assets/6cbf8531-ac01-461c-96d7-5e21462cbbd3"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/763aba86-9931-471a-8e35-baf4c5b5a9fc"
+        url_poster: "https://api.mediux.pro/assets/f26d4c87-64ec-4e7f-8525-2d05976dc188"
       2:
-        url_poster: "https://api.mediux.pro/assets/955656be-c87d-4cac-bb9f-b3b5f08bedda"
+        url_poster: "https://api.mediux.pro/assets/c0bde4e2-8c0b-49ae-84c3-889144d05f21"
+      3:
+        url_poster: "https://api.mediux.pro/assets/aa3dbb10-a26a-4c1d-b01d-935be5f33a23"

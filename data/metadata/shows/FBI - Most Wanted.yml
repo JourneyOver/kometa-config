@@ -1,0 +1,20 @@
+# Posters from:
+# https://mediux.pro/sets/6192
+
+metadata:
+
+  364088: # FBI: Most Wanted (2020)
+    url_poster: "https://api.mediux.pro/assets/0241f8e3-e9b7-4675-9832-b37bc4ecd2b7"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/32bad058-f7d8-4e14-8304-cb4db44b0387"
+      2:
+        url_poster: "https://api.mediux.pro/assets/7778b5bf-9b02-4c17-9971-72485555e921"
+      3:
+        url_poster: "https://api.mediux.pro/assets/a6b14fe6-a0e4-4efa-84ac-4f93a9ba3355"
+      4:
+        url_poster: "https://api.mediux.pro/assets/40d007db-80a2-4485-9f48-814069e6f217"
+      5:
+        url_poster: "https://api.mediux.pro/assets/fa9668cf-bf72-4ebd-8a3e-a742ce1e356b"
+      6:
+        url_poster: "https://api.mediux.pro/assets/f61ed192-2831-47d4-a516-ddb219a39673"

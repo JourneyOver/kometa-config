@@ -1,0 +1,20 @@
+# Posters from:
+# https://mediux.pro/sets/54051
+
+metadata:
+
+  75164: # Samurai Jack (2001)
+    url_poster: "https://api.mediux.pro/assets/d28645c9-2f28-4cca-860c-660719914515"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/b06874da-e51b-45a0-b464-9ac63bc9f3d5"
+      1:
+        url_poster: "https://api.mediux.pro/assets/a878ba0d-d099-49d4-93c8-69087215cde7"
+      2:
+        url_poster: "https://api.mediux.pro/assets/8d8d5dbd-eed1-401c-bba3-547b0681619d"
+      3:
+        url_poster: "https://api.mediux.pro/assets/323c3ce7-c602-473d-9078-297736eaff3e"
+      4:
+        url_poster: "https://api.mediux.pro/assets/55b3b47f-6f06-4ce8-b663-27f871573761"
+      5:
+        url_poster: "https://api.mediux.pro/assets/1f97e693-03ee-497f-ad47-41fd30cb6ed7"

@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/5020
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "101 Dalmatians":
+    template: { name: Collection, collection: 124916, order: release }
+    url_poster: "https://api.mediux.pro/assets/2753ff85-58a3-4361-92b2-d2822c975718"
+    url_background: "https://image.tmdb.org/t/p/original/i4X6HnxTksnE30sIZkO9AyU5H48.jpg"
+    summary: "A woman's obsession with fashion turns into a mad hunt for the ultimate accessory, setting off a chain of chaos across London. From a daring puppy rescue to a Parisian chase filled with clever canines and close calls, the battle between greed and loyalty plays out with wit, mischief, and an army of spotted defenders. No matter how many schemes she hatches, the heart of a Dalmatian always finds a way to outsmart the most devious of villains."

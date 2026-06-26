@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/14264
+# https://mediux.pro/sets/54285
 
 metadata:
 
   385925: # Avatar the Last Airbender (2024)
-    url_poster: "https://api.mediux.pro/assets/bbb62c7f-cc5b-4b54-ac63-5c19ff5d495d"
+    url_poster: "https://api.mediux.pro/assets/7e329303-b742-4af3-af49-659f5a1db7af"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/3b14a1c4-c779-4100-823d-664058181048"
+        url_poster: "https://api.mediux.pro/assets/7c26cd60-0940-4a08-ae53-11c19c2ea89a"
+      2:
+        url_poster: "https://api.mediux.pro/assets/c6bb5f2b-a47e-4130-a999-8266acb37146"

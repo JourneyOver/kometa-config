@@ -1,0 +1,14 @@
+# Poster from:
+# https://mediux.pro/sets/8299
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "101 Dalmatians (Animation)":
+    template: { name: Collection, collection: 100693, order: release }
+    url_poster: "https://api.mediux.pro/assets/ea908411-036c-41c9-b043-c26bf43bff72"
+    url_background: "https://image.tmdb.org/t/p/original/80EQd8FUDM1bFr3IgobHN1BdJTG.jpg"
+    sort_title: "101 Dalmatians"
+    summary: "A spotted army proves that courage comes in all sizes when a stylish villain threatens the most precious things of all. From a daring rescue through the snowy English countryside to a young pup's discovery that being one of many doesn't mean being forgotten, every bark carries the spirit of family, loyalty, and the mischievous cleverness that always triumphs over greed."
