@@ -1,0 +1,9 @@
+playlists:
+
+  FBI:
+    sync_to_users: all
+    sync_mode: sync
+    libraries: TV Shows
+    trakt_list: https://trakt.tv/users/minimyself/lists/fbi-watch-order?sort=rank,asc
+    summary: FBI Watch Order
+    url_poster: https://theposterdb.com/api/assets/676714

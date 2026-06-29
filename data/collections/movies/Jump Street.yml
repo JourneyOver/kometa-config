@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/10012
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Jump Street":
+    template: { name: Collection, collection: 212562, order: release }
+    url_poster: "https://api.mediux.pro/assets/29860367-24a2-442d-8847-15f4ab12ce9b"
+    url_background: "https://image.tmdb.org/t/p/original/ho5mvyMag8NXIhkaG0kKKgEBO9x.jpg"
+    summary: "Two misfit cops get a second shot at the glory they never had, trading badges for backpacks in a high-stakes game of undercover chaos. From the halls of high school to the frat houses of college, every assignment turns into a collision of youthful reinvention and grown-up consequences. Through fistfights, bad decisions, and the bonds that form in the unlikeliest of partnerships, the line between playing a role and becoming someone new blurs with hilarious and explosive results."

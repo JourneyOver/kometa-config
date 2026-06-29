@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/54677
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Friday":
+    template: { name: Collection, collection: 43563, order: release }
+    url_poster: "https://api.mediux.pro/assets/67289b23-0287-4a63-81ab-566c6e5703e3"
+    url_background: "https://image.tmdb.org/t/p/original/pXszT8ZWGj3fohU9FY0niA0IDEw.jpg"
+    summary: "On the front porch of South Central, every day brings a new kind of trouble. From dodging the neighborhood bully to chasing stolen rent money and surviving family chaos, Craig and Smokey navigate the ups and downs of life with nothing but quick wit and stubborn resilience. Through backyard barbecues, Christmas eves, and the long road ahead, the grind never stops, but the laughs keep coming when you have the right people by your side."
