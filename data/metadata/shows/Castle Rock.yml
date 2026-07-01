@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/15377
+
+metadata:
+
+  331600: # Castle Rock (2018)
+    url_poster: "https://api.mediux.pro/assets/9197f6d1-2498-47fa-b0cf-1ee0188f5c1a"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/0f5cc506-300b-4e49-af66-5e4f2cf9659b"
+      2:
+        url_poster: "https://api.mediux.pro/assets/00def28b-45d8-4c06-8790-76f70e00080a"

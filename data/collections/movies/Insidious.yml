@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/14212
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Insidious":
+    template: { name: Collection, collection: 228446, order: release }
+    url_poster: "https://api.mediux.pro/assets/31b2daaa-167c-4412-a2f5-a38855094973"
+    url_background: "https://image.tmdb.org/t/p/original/7SEDo1e0QlNheqnskP0fXwmooDW.jpg"
+    summary: "Beyond the realm of the living lies a place where forgotten souls and hungry spirits wait in the dark. Every door opened to the Further invites something back, binding families across generations to a nightmare they cannot escape. From the first whisper in a child's room to the deepest corners of a tortured mind, the dead refuse to stay buried, and the only way forward is to face the shadows that have been waiting all along."

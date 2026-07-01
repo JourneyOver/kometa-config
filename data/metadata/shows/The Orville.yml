@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/31688
+
+metadata:
+
+  328487: # The Orville (2017)
+    url_poster: "https://api.mediux.pro/assets/7f25e0fb-60de-4c7e-8a76-a07923f547e4"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/be269c9a-aa36-41c7-b5a5-9f75b51210f2"
+      2:
+        url_poster: "https://api.mediux.pro/assets/3377156b-0495-44da-968f-d3cd384243b5"
+      3:
+        url_poster: "https://api.mediux.pro/assets/e2865975-ed82-4cd0-bccb-01b7a157fa82"

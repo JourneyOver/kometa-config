@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/15012
+
+metadata:
+
+  264492: # Under the Dome (2013)
+    url_poster: "https://api.mediux.pro/assets/821b3084-2f0b-4ff3-bd1c-6d7de383900c"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/fa4bc067-7fb0-4b68-bb00-462b5cb31cc6"
+      2:
+        url_poster: "https://api.mediux.pro/assets/9adab707-0ad0-44dc-99e6-313795191427"
+      3:
+        url_poster: "https://api.mediux.pro/assets/ad062c73-7ac5-4034-b307-f93d2399abf5"

@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/272509
+# https://mediux.pro/sets/20400
 
 external_templates:
   - file: data/_templates.yml
@@ -8,5 +8,6 @@ collections:
 
   "Zombieland":
     template: { name: Collection, collection: 537982, order: release }
-    url_poster: "https://theposterdb.com/api/assets/494128"
+    url_poster: "https://api.mediux.pro/assets/baddac72-1422-4743-b0ff-73102870e39e"
     url_background: "https://api.mediux.pro/assets/b3681074-3248-46f1-8aba-49abb4cec2f1"
+    summary: "When civilization falls, a handful of misfits discover that the real challenge isn't surviving the undead, it's surviving each other. Armed with a list of hard-won rules and a craving for the last Twinkie on earth, an unlikely family of strangers roams a world gone mad. Through abandoned amusement parks, unexpected detours, and the constant threat of being eaten, they learn that even in the apocalypse, the only thing worth holding onto is the people who make you feel alive."

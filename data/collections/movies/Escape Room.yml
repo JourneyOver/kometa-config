@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/14206
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Escape Room":
+    template: { name: Collection, collection: 769423, order: release }
+    url_poster: "https://api.mediux.pro/assets/e0b7ba33-ab11-463b-a1dd-506e3814a54d"
+    url_background: "https://image.tmdb.org/t/p/original/adCkjAt5Hc4uv0gouVslziGmB9d.jpg"
+    summary: "Behind every locked door waits a new test of will, where the clever survive and the hesitant are left behind. Strangers are pulled into a deadly game of puzzles that prey on their deepest fears and darkest secrets, with each room designed not just to trap, but to unravel. As the games grow more elaborate and the players more desperate, the only way out is to trust those who have just as much reason to betray you."
