@@ -1,11 +1,11 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1432
-Total .yml files scanned (collections): 205
+Total .yml files scanned (metadata): 1545
+Total .yml files scanned (collections): 211
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 36
+Count: 34
 ============================================================
 metadata/movies/Pet Sematary (Reboot).yml
 metadata/movies/Pet Sematary.yml
@@ -31,7 +31,6 @@ metadata/movies/The Good Dinosaur.yml
 metadata/movies/The Incredibles.yml
 metadata/movies/The Lion King (Animation).yml
 metadata/movies/The Lion King.yml
-metadata/movies/The Mummy.yml
 metadata/movies/The Town.yml
 metadata/movies/The Wild Robot.yml
 metadata/movies/Toy Story.yml
@@ -42,7 +41,6 @@ metadata/movies/Up.yml
 metadata/movies/WALL·E.yml
 metadata/movies/Wish.yml
 metadata/movies/Wreck-It Ralph.yml
-metadata/movies/Zombieland.yml
 
 ============================================================
 SECTION 2: METADATA - MISSING URL AFTER SECOND "#" LINE
@@ -249,7 +247,7 @@ collections/movies/dc/DC Universe.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 66
+Count: 65
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -306,7 +304,6 @@ collections/movies/Transformers.yml
 collections/movies/Tremors.yml
 collections/movies/Unbreakable.yml
 collections/movies/V-H-S.yml
-collections/movies/Zombieland.yml
 collections/movies/dc/DC Extended Universe.yml
 collections/movies/marvel/Marvel Cinematic Universe.yml
 collections/shows/Arrowverse.yml

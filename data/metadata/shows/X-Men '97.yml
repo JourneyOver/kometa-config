@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/14826
+# https://mediux.pro/sets/54960
 
 metadata:
 
   412432: # X-Men '97 (2024)
-    url_poster: "https://api.mediux.pro/assets/2803c3b5-b47d-4d2d-862c-1780c8d68725"
+    url_poster: "https://api.mediux.pro/assets/a96b2052-47cc-412b-b7c3-0114f2094ea6"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/d12945c6-4fa5-464a-82c2-1b03b18ca2fc"
+        url_poster: "https://api.mediux.pro/assets/88215c66-a2e4-429a-8d93-5d43be7fc212"
+      2:
+        url_poster: "https://api.mediux.pro/assets/8c9044ff-0c9b-4b98-8fd2-d02e14b95113"

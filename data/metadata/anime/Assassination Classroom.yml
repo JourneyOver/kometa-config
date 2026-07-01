@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/188142
+
+metadata:
+
+  283947: # Assassination Classroom (2015)
+    url_poster: "https://theposterdb.com/api/assets/319799"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/319800"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/319801"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/319802"
