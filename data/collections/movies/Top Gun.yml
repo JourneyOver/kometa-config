@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 531330, order: release }
     url_poster: "https://api.mediux.pro/assets/dd98bc27-6966-4a7c-af88-3889b2f47f48"
     url_background: "https://image.tmdb.org/t/p/original/eNupRRVv0a4dkVTxOMvG7LhNBaq.jpg"
+    summary: "A need for speed becomes a way of life, pushing pilots to the ragged edge of what is possible in the sky. From the roar of engines over the Pacific to the razor's edge of an impossible mission, a maverick flyer spends decades outrunning his past and the ghosts of those he left behind. Through loss, mentorship, and the unrelenting pull of the cockpit, each generation of aviators learns that the greatest enemy is not the one in the other plane, but the doubt that lives inside."

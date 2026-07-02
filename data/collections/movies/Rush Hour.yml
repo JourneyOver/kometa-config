@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 90863, order: release }
     url_poster: "https://theposterdb.com/api/assets/13266"
     url_background: "https://image.tmdb.org/t/p/original/uoDt3eCCKpcxSQVWjPTgN8T0gjm.jpg"
+    summary: "Two cops from different worlds collide in a storm of wisecracks and flying fists, proving that the strangest partnerships get the job done. From the docks of Hong Kong to the streets of Paris and back again, a by-the-book detective and a loudmouthed loose cannon trade insults and saves across three continents. Through kidnapped diplomats, stolen artifacts, and triads that never learn their lesson, the greatest discovery is not the criminal they keep chasing, but the friendship they never saw coming."

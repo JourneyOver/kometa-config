@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 86055, movies: 479455, order: release }
     url_poster: "https://api.mediux.pro/assets/bf323064-a005-4dc6-9892-3c3cad940f44"
     url_background: "https://image.tmdb.org/t/p/original/xKz6YaOvmnIJQ3MYIpnaa7FBaAB.jpg"
+    summary: "Behind the sunglasses and the silence, a secret force keeps Earth safe from the chaos beyond the stars. From the streets of New York to the corridors of a global headquarters, agents in black stand between humanity and the galaxy's strangest threats. Through time travel, alien conspiracies, and the weight of a truth the world can never know, a simple suit becomes a badge of honor for those willing to protect a planet that will never remember their names."

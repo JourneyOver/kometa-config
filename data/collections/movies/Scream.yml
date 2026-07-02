@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 2602, order: release }
     url_poster: "https://api.mediux.pro/assets/73d8653e-1377-47b7-9bed-534f16ef254c"
     url_background: "https://image.tmdb.org/t/p/original/wEgBj2fxZsltc6IeHlA9JLyn6pE.jpg"
+    summary: "A phone rings in the dark, and the game begins again. Across decades, a mask stays the same but the faces behind it keep changing, each new killer rewriting the rules of horror with a blade in one hand and a film degree in the other. Through survivors who refuse to stay dead and legacy that refuses to be forgotten, every scream carries the weight of loss, the sting of betrayal, and the fight to tell your own story before someone writes a bloody ending for you."

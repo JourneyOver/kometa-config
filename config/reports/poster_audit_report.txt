@@ -1,7 +1,7 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1545
-Total .yml files scanned (collections): 211
+Total .yml files scanned (metadata): 1546
+Total .yml files scanned (collections): 212
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
@@ -50,7 +50,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 177
+Count: 155
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -68,37 +68,16 @@ metadata/movies/Friday the 13th.yml
 metadata/movies/Gladiator.yml
 metadata/movies/Goosebumps.yml
 metadata/movies/Halloween.yml
-metadata/movies/Hamnet.yml
 metadata/movies/Happy Death Day.yml
 metadata/movies/Harold & Kumar.yml
-metadata/movies/Harold and the Purple Crayon.yml
 metadata/movies/Home Alone.yml
 metadata/movies/Hostel.yml
 metadata/movies/I Can Only Imagine.yml
 metadata/movies/I Know What You Did Last Summer.yml
 metadata/movies/Jeepers Creepers.yml
 metadata/movies/Lake Placid.yml
-metadata/movies/Let Me In.yml
-metadata/movies/Light of My Life.yml
-metadata/movies/Limitless.yml
-metadata/movies/Looper.yml
-metadata/movies/Love and Monsters.yml
-metadata/movies/Lucy.yml
-metadata/movies/Matchstick Men.yml
-metadata/movies/Me Before You.yml
-metadata/movies/Midnight in Paris.yml
-metadata/movies/Midsommar.yml
-metadata/movies/Misery.yml
 metadata/movies/Naked Gun.yml
-metadata/movies/No Country for Old Men.yml
-metadata/movies/Nope.yml
-metadata/movies/Not Without Hope.yml
-metadata/movies/October Sky.yml
-metadata/movies/Odd Thomas.yml
-metadata/movies/Old School.yml
-metadata/movies/Oliver & Company.yml
 metadata/movies/One Mile.yml
-metadata/movies/Orion and the Dark.yml
 metadata/movies/Outbreak.yml
 metadata/movies/Pan's Labyrinth.yml
 metadata/movies/Piglet.yml
@@ -127,7 +106,6 @@ metadata/movies/Teenage Mutant Ninja Turtles.yml
 metadata/movies/Texas Chainsaw Massacre.yml
 metadata/movies/The Conjuring Universe.yml
 metadata/movies/The Crazies.yml
-metadata/movies/The Day the Earth Blew Up - A Looney Tunes Movie.yml
 metadata/movies/The Devil's Advocate.yml
 metadata/movies/The Finest Hours.yml
 metadata/movies/The Grey.yml

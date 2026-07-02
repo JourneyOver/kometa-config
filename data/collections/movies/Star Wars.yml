@@ -7,6 +7,7 @@ external_templates:
 collections:
 
   "Star Wars":
-    template: { name: Collection, collection: 10, movies: "330459, 348350", order: release }
+    template: { name: Collection, collection: 10, movies: "330459, 348350, 1228710", order: release }
     url_poster: "https://api.mediux.pro/assets/4ac7ba4c-51a7-4ae9-94f9-0e876045d87f"
     url_background: "https://image.tmdb.org/t/p/original/iY2ujEY2m68OTTlPFTiHub9joHS.jpg"
+    summary: "A galaxy of hope and darkness stretches across time, where the fate of countless worlds rests on the choices of the brave and the fallen. From the fall of a Jedi to the rise of a rebellion, the battle between freedom and tyranny echoes through generations of heroes, scoundrels, and those caught between the light and the dark. Through the hum of a lightsaber and the quiet of the Force, every soul carries the power to shape destiny, proving that even the smallest spark can ignite a fire that will burn across the stars."

@@ -10,4 +10,4 @@ collections:
     template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/dc-universe, order: release }
 #    url_poster: ""
 #    url_background: ""
-#    summary: ""
+    summary: "A new dawn rises over a universe of gods, monsters, and the flawed heroes caught between them. From the heartland of Smallville to the farthest reaches of space, legends old and new are reborn in a world where power does not always mean goodness. Through clay-born villains, shape-shifting detectives, and orphans who become warriors, every corner of this world pulses with the question of what it truly means to wear a mask. Strength is tested not in battle alone, but in the courage to protect a world that has every reason to fear the extraordinary."

@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/10257
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "National Treasure":
+    template: { name: Collection, collection: 52984, order: release }
+    url_poster: "https://api.mediux.pro/assets/580a6e68-3a45-4cbc-b549-bbe9d5109cce"
+    url_background: "https://image.tmdb.org/t/p/original/a0GLVfaDSf5GNZKK5H4FgGCD2VW.jpg"
+    summary: "Beneath the monuments and symbols of a nation lies a history written in secrets, waiting for those brave enough to follow the clues. From the ink of the Declaration of Independence to the hidden chambers of Mount Rushmore, a historian with a family legacy of adventure turns every landmark into a piece of a puzzle spanning centuries. Through daring heists and impossible escapes, the hunt for lost treasure becomes a race against those who would rather destroy history than let it be shared with the world."

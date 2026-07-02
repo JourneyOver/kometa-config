@@ -10,3 +10,4 @@ collections:
     template: { name: Collection, collection: 987044, order: release }
     url_poster: "https://api.mediux.pro/assets/eb88d17d-4c2f-4521-8da4-bfc502c6c722"
     url_background: "https://image.tmdb.org/t/p/original/2VTsu0poIvNrsCuyDIuRYBxBLv6.jpg"
+    summary: "A lonely man dissolves into the cracks of a city that never saw him, until the weight of a thousand cruelties finally breaks through. From the grime of Gotham's streets to the echoing halls of Arkham, every laugh hides a wound and every smile is a mask. When a kindred spirit finds him in the dark, their shared delusion sparks something beautiful and terrifying, proving that even the most broken souls can find connection, even if it burns the world down around them."
