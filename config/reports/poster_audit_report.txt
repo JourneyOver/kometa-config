@@ -1,6 +1,6 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1546
+Total .yml files scanned (metadata): 1556
 Total .yml files scanned (collections): 212
 
 ============================================================
@@ -50,7 +50,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 155
+Count: 130
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -92,12 +92,9 @@ metadata/movies/Resurrection Road.yml
 metadata/movies/RoboCop.yml
 metadata/movies/Rosencrantz & Guildenstern Are Dead.yml
 metadata/movies/Rush Hour.yml
-metadata/movies/STRAW.yml
-metadata/movies/Seeking a Friend for the End of the World.yml
 metadata/movies/Sleepy Hollow.yml
 metadata/movies/St. Vincent.yml
 metadata/movies/Starship Troopers.yml
-metadata/movies/Stranger Than Fiction.yml
 metadata/movies/Super Mario Bros..yml
 metadata/movies/Superbad.yml
 metadata/movies/TRON.yml
@@ -105,20 +102,15 @@ metadata/movies/Teenage Mutant Ninja Turtles (Remake).yml
 metadata/movies/Teenage Mutant Ninja Turtles.yml
 metadata/movies/Texas Chainsaw Massacre.yml
 metadata/movies/The Conjuring Universe.yml
-metadata/movies/The Crazies.yml
 metadata/movies/The Devil's Advocate.yml
 metadata/movies/The Finest Hours.yml
 metadata/movies/The Grey.yml
 metadata/movies/The Hills Have Eyes.yml
-metadata/movies/The Hitchhiker's Guide to the Galaxy.yml
 metadata/movies/The Karate Kid.yml
 metadata/movies/The Last Samurai.yml
 metadata/movies/The Last of the Mohicans.yml
-metadata/movies/The Mist.yml
 metadata/movies/The Notebook.yml
-metadata/movies/The Number 23.yml
 metadata/movies/The Other Guys.yml
-metadata/movies/The People Under the Stairs.yml
 metadata/movies/The Perks of Being a Wallflower.yml
 metadata/movies/The Phoenician Scheme.yml
 metadata/movies/The Pursuit of Happyness.yml
@@ -139,30 +131,13 @@ metadata/movies/Tornado.yml
 metadata/movies/Train to Busan.yml
 metadata/movies/Transcendence.yml
 metadata/movies/Transformers.yml
-metadata/movies/Trap House.yml
-metadata/movies/Triangle.yml
-metadata/movies/Trick 'r Treat.yml
-metadata/movies/Tropic Thunder.yml
-metadata/movies/Troy.yml
-metadata/movies/Turbulence.yml
-metadata/movies/Unforgiven.yml
-metadata/movies/Upgrade.yml
-metadata/movies/Us.yml
 metadata/movies/V-H-S.yml
-metadata/movies/War of the Worlds.yml
-metadata/movies/What Dreams May Come.yml
-metadata/movies/When Harry Met Sally....yml
-metadata/movies/Where the Wild Things Are.yml
-metadata/movies/White Chicks.yml
-metadata/movies/Wind River.yml
-metadata/movies/X+Y.yml
 metadata/movies/living-dead/Dawn of the Dead.yml
 metadata/movies/living-dead/Day of the Dead.yml
 metadata/movies/living-dead/Land of the Dead.yml
 metadata/movies/living-dead/Night of the Living Dead.yml
 metadata/movies/middle-earth/The Hobbit.yml
 metadata/movies/middle-earth/The Lord of the Rings.yml
-metadata/movies/tick, tick... BOOM.yml
 metadata/shows/1883.yml
 metadata/shows/1923.yml
 metadata/shows/Adventure Time - Distant Lands.yml

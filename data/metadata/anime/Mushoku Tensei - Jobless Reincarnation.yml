@@ -1,0 +1,16 @@
+# Posters from:
+# https://theposterdb.com/set/394055
+
+metadata:
+
+  371310: # Mushoku Tensei: Jobless Reincarnation (2021)
+    url_poster: "https://theposterdb.com/api/assets/331086"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/331087"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/331088"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/336561"
+#      3:
+#        url_poster: "https://theposterdb.com/api/assets/708082"

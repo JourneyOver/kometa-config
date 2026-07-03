@@ -1,0 +1,14 @@
+# Posters from:
+# https://theposterdb.com/set/192203
+
+metadata:
+
+  422981: # The Dangers in My Heart (2023)
+    url_poster: "https://theposterdb.com/api/assets/329781"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/458970"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/329782"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/414463"

@@ -1,13 +1,14 @@
 # Posters from:
-# https://mediux.pro/sets/2339
+# https://mediux.pro/sets/55202
 
 metadata:
 
   403245: # Silo (2023)
-    url_poster: "https://api.mediux.pro/assets/eb8e0e0d-488c-41d9-aab9-8b8b591973f6"
-    url_background: "https://api.mediux.pro/assets/8d58498f-41d5-44aa-b352-0fba416312f9"
+    url_poster: "https://api.mediux.pro/assets/bcf75409-a185-4c91-9f23-e9beac1937dc"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/a5849be1-81ec-4c99-9ca7-b7fb820012b3"
+        url_poster: "https://api.mediux.pro/assets/274e0889-da01-4cb6-bb9c-84629f5dc1b9"
       2:
-        url_poster: "https://api.mediux.pro/assets/04463b9e-941f-48b7-a9c1-bf425334b3f4"
+        url_poster: "https://api.mediux.pro/assets/96eae6a7-9846-4256-b77a-222def8ad1cd"
+      3:
+        url_poster: "https://api.mediux.pro/assets/57c48299-f4bc-4d1d-a000-b3c37f3b9949"

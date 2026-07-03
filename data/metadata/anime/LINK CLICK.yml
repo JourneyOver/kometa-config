@@ -1,0 +1,16 @@
+# Posters from:
+# https://theposterdb.com/set/309666
+
+metadata:
+
+  402033: # LINK CLICK (2021)
+    url_poster: "https://theposterdb.com/api/assets/557912"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/557913"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/557914"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/557915"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/557916"
