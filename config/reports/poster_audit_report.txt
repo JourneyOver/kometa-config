@@ -1,6 +1,6 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1556
+Total .yml files scanned (metadata): 1557
 Total .yml files scanned (collections): 212
 
 ============================================================
@@ -50,7 +50,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 130
+Count: 129
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -167,7 +167,6 @@ metadata/shows/Star vs. the Forces of Evil.yml
 metadata/shows/Stargate Atlantis.yml
 metadata/shows/Stargate SG-1.yml
 metadata/shows/Stargate Universe.yml
-metadata/shows/The Amazing Digital Circus.yml
 metadata/shows/The Boondocks.yml
 metadata/shows/The Four Seasons.yml
 metadata/shows/The Hot Zone.yml

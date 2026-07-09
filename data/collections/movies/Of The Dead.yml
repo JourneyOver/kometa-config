@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/55622
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Of The Dead":
+    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/of-the-dead, order: custom }
+    url_poster: "https://api.mediux.pro/assets/6b2e60f9-b829-4440-826c-539203025964"
+    url_background: "https://image.tmdb.org/t/p/original/xacnP6WJBhs5vptIcYE8RCDVKIo.jpg"
+    summary: "The dead rise and the world falls, leaving the living to pick through the ruins of everything they once knew. From a lonely farmhouse under siege to a shopping mall turned fortress, from a military bunker to a penthouse city of the privileged, each desperate struggle reveals the same truth: the real horror is not the shambling corpses at the door, but what people become when civilization crumbles and survival is the only law left."

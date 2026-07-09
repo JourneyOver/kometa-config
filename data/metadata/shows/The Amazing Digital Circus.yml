@@ -1,10 +1,12 @@
 # Posters from:
-# https://theposterdb.com/set/318832
+# https://mediux.pro/sets/55259
 
 metadata:
 
   440853: # The Amazing Digital Circus (2023)
-    url_poster: "https://theposterdb.com/api/assets/573850"
+    url_poster: "https://api.mediux.pro/assets/97f401e9-5e05-461b-9e4c-f79b511e4fdd"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/7ac56478-ac68-495e-943f-797d0d466ab7"
       1:
-        url_poster: "https://theposterdb.com/api/assets/573851"
+        url_poster: "https://api.mediux.pro/assets/eebfe0fa-3314-4482-8179-5d90f9cca7bf"

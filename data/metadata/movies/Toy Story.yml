@@ -1,13 +1,19 @@
+# Posters from:
+# https://mediux.pro/sets/55390
+
 metadata:
 
   862: # Toy Story (1995)
-    url_poster: "https://api.mediux.pro/assets/f636105f-cd18-45ec-b141-2414c689aa1b"
+    url_poster: "https://api.mediux.pro/assets/1353bf50-80d0-45c3-ace7-83da7f2b9a0e"
 
   863: # Toy Story 2 (1999)
-    url_poster: "https://api.mediux.pro/assets/c643f7e9-ad67-447c-bda4-52a2c391e8b5"
+    url_poster: "https://api.mediux.pro/assets/1b23b05e-1770-42a1-823d-b329f80c8b61"
 
   10193: # Toy Story 3 (2010)
-    url_poster: "https://api.mediux.pro/assets/bd213772-2a93-4680-b8dc-98565b5e973e"
+    url_poster: "https://api.mediux.pro/assets/5ad0c75f-2ae1-422d-9b5d-6671f412a61c"
 
   301528: # Toy Story 4 (2019)
-    url_poster: "https://api.mediux.pro/assets/ee61294e-e542-44f7-8737-767b6ca4cd4c"
+    url_poster: "https://api.mediux.pro/assets/eca833bc-530f-4731-af99-8080005657ae"
+
+#  1084244: # Toy Story 5 (2026)
+#    url_poster: "https://api.mediux.pro/assets/c62305b0-b191-4fd1-825a-1bd0159a49d8"

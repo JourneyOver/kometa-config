@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/409204
+
+metadata:
+
+  450475: # THE GHOST IN THE SHELL (2026)
+    url_poster: "https://theposterdb.com/api/assets/728023"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/728069"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/728024"

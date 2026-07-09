@@ -1,0 +1,18 @@
+# Posters from:
+# https://mediux.pro/sets/55265
+
+metadata:
+
+  251085: # The Legend of Korra (2012)
+    url_poster: "https://api.mediux.pro/assets/b4acad25-29d1-4fff-b198-5110f180e182"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/7a7693ee-b3cd-4bf5-b9ff-9f7594cfe28d"
+      1:
+        url_poster: "https://api.mediux.pro/assets/c0672e9c-9b39-4a0e-a9e6-65474acc1405"
+      2:
+        url_poster: "https://api.mediux.pro/assets/4a51fbd5-c2ea-4ea8-9a95-8f0f6c6d89e8"
+      3:
+        url_poster: "https://api.mediux.pro/assets/56836b4d-a6fa-414c-9384-44e363184dc8"
+      4:
+        url_poster: "https://api.mediux.pro/assets/5ea1c3d3-8e5f-43e2-9c1d-0ab3675669c7"

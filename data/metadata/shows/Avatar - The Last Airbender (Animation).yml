@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/55264
+
+metadata:
+
+  74852: # Avatar: The Last Airbender (2005)
+    url_poster: "https://api.mediux.pro/assets/a1741062-fa92-44c8-a319-abdb4ba836b7"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/b678438b-4663-4dd1-b1ca-2a0f4aad839f"
+      1:
+        url_poster: "https://api.mediux.pro/assets/24940410-084b-47f6-961f-89242f78fbad"
+      2:
+        url_poster: "https://api.mediux.pro/assets/c92efce6-e25f-465c-8aa2-67469c019f0c"
+      3:
+        url_poster: "https://api.mediux.pro/assets/251296ab-06f6-49e9-b975-89e304daf18d"
