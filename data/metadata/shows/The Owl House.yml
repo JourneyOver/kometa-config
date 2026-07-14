@@ -1,16 +1,16 @@
 # Posters from:
-# https://theposterdb.com/set/199097
+# https://mediux.pro/sets/56228
 
 metadata:
 
   349578: # The Owl House (2020)
-    url_poster: "https://theposterdb.com/api/assets/346003"
+    url_poster: "https://api.mediux.pro/assets/3ecb43e6-86f6-4be1-98bb-13c990c46ee8"
     seasons:
 #      0:
-#        url_poster: "https://theposterdb.com/api/assets/346004"
+#        url_poster: "https://api.mediux.pro/assets/78569025-4ee7-4135-9d8d-dcc24d5370ac"
       1:
-        url_poster: "https://theposterdb.com/api/assets/346005"
+        url_poster: "https://api.mediux.pro/assets/5a6af420-e3aa-4013-ae04-64f4e62b8e5a"
       2:
-        url_poster: "https://theposterdb.com/api/assets/346006"
+        url_poster: "https://api.mediux.pro/assets/c3041928-256e-43a1-b3df-eddbabb69f44"
       3:
-        url_poster: "https://theposterdb.com/api/assets/346007"
+        url_poster: "https://api.mediux.pro/assets/7147a84e-74cc-455e-aa40-c7494b706102"

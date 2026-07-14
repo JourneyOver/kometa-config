@@ -1,11 +1,11 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1557
-Total .yml files scanned (collections): 212
+Total .yml files scanned (metadata): 1578
+Total .yml files scanned (collections): 213
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 34
+Count: 26
 ============================================================
 metadata/movies/Pet Sematary (Reboot).yml
 metadata/movies/Pet Sematary.yml
@@ -21,8 +21,6 @@ metadata/movies/Shrek.yml
 metadata/movies/Sinister.yml
 metadata/movies/Smile.yml
 metadata/movies/Sonic the Hedgehog.yml
-metadata/movies/Soul.yml
-metadata/movies/Spies in Disguise.yml
 metadata/movies/Tarzan (Animation).yml
 metadata/movies/Terrifier.yml
 metadata/movies/The Bob's Burgers Movie.yml
@@ -32,14 +30,8 @@ metadata/movies/The Incredibles.yml
 metadata/movies/The Lion King (Animation).yml
 metadata/movies/The Lion King.yml
 metadata/movies/The Town.yml
-metadata/movies/The Wild Robot.yml
-metadata/movies/Toy Story.yml
-metadata/movies/Turning Red.yml
 metadata/movies/Twister.yml
 metadata/movies/Unbreakable.yml
-metadata/movies/Up.yml
-metadata/movies/WALL·E.yml
-metadata/movies/Wish.yml
 metadata/movies/Wreck-It Ralph.yml
 
 ============================================================
@@ -50,7 +42,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 129
+Count: 109
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -78,38 +70,23 @@ metadata/movies/Jeepers Creepers.yml
 metadata/movies/Lake Placid.yml
 metadata/movies/Naked Gun.yml
 metadata/movies/One Mile.yml
-metadata/movies/Outbreak.yml
-metadata/movies/Pan's Labyrinth.yml
 metadata/movies/Piglet.yml
-metadata/movies/Pride & Prejudice.yml
-metadata/movies/Prisoners.yml
 metadata/movies/Pulse.yml
-metadata/movies/Queen of Bones.yml
 metadata/movies/Ready or Not.yml
-metadata/movies/Real Steel.yml
-metadata/movies/Remember the Titans.yml
-metadata/movies/Resurrection Road.yml
 metadata/movies/RoboCop.yml
 metadata/movies/Rosencrantz & Guildenstern Are Dead.yml
 metadata/movies/Rush Hour.yml
-metadata/movies/Sleepy Hollow.yml
-metadata/movies/St. Vincent.yml
 metadata/movies/Starship Troopers.yml
 metadata/movies/Super Mario Bros..yml
-metadata/movies/Superbad.yml
 metadata/movies/TRON.yml
 metadata/movies/Teenage Mutant Ninja Turtles (Remake).yml
 metadata/movies/Teenage Mutant Ninja Turtles.yml
 metadata/movies/Texas Chainsaw Massacre.yml
 metadata/movies/The Conjuring Universe.yml
-metadata/movies/The Devil's Advocate.yml
-metadata/movies/The Finest Hours.yml
 metadata/movies/The Grey.yml
 metadata/movies/The Hills Have Eyes.yml
 metadata/movies/The Karate Kid.yml
 metadata/movies/The Last Samurai.yml
-metadata/movies/The Last of the Mohicans.yml
-metadata/movies/The Notebook.yml
 metadata/movies/The Other Guys.yml
 metadata/movies/The Perks of Being a Wallflower.yml
 metadata/movies/The Phoenician Scheme.yml
@@ -132,10 +109,6 @@ metadata/movies/Train to Busan.yml
 metadata/movies/Transcendence.yml
 metadata/movies/Transformers.yml
 metadata/movies/V-H-S.yml
-metadata/movies/living-dead/Dawn of the Dead.yml
-metadata/movies/living-dead/Day of the Dead.yml
-metadata/movies/living-dead/Land of the Dead.yml
-metadata/movies/living-dead/Night of the Living Dead.yml
 metadata/movies/middle-earth/The Hobbit.yml
 metadata/movies/middle-earth/The Lord of the Rings.yml
 metadata/shows/1883.yml
@@ -175,7 +148,6 @@ metadata/shows/The Lord of the Rings - The Rings of Power.yml
 metadata/shows/The Man Who Fell to Earth.yml
 metadata/shows/The Mighty Nein.yml
 metadata/shows/The Originals.yml
-metadata/shows/The Owl House.yml
 metadata/shows/The Simpsons.yml
 metadata/shows/The Vampire Diaries.yml
 metadata/shows/The War Between the Land and the Sea.yml
