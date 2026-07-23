@@ -8,5 +8,5 @@ metadata:
     seasons:
       1:
         url_poster: "https://theposterdb.com/api/assets/710503"
-#      2:
-#        url_poster: "https://theposterdb.com/api/assets/710504"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/710504"

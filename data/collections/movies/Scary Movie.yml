@@ -1,5 +1,5 @@
 # Poster from:
-# https://mediux.pro/sets/9534
+# https://mediux.pro/sets/56382
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Scary Movie":
     template: { name: Collection, collection: 4246, order: release }
-    url_poster: "https://api.mediux.pro/assets/c36d64e4-00f7-4923-bb6c-bc0ddee57101"
+    url_poster: "https://api.mediux.pro/assets/ca93c469-1ca5-47f9-8708-8e7b0604a7b0"
     url_background: "https://image.tmdb.org/t/p/original/rpzbedRGnWd5YzZZmgG6H076AzJ.jpg"
     summary: "No genre is safe, no celebrity is sacred, and no audience is ready for what comes next. From the moment a masked killer picks up the phone, every horror cliche gets turned inside out in a storm of ridiculous gags, absurd costumes, and jokes that land harder than any knife ever could. As the years roll on and the targets change, the mission stays the same: make you laugh so hard you forget to be scared, then remind you there is always another sequel waiting to be destroyed."

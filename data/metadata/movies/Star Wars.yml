@@ -2,6 +2,7 @@
 # https://mediux.pro/sets/8077
 # https://mediux.pro/sets/8087
 # https://mediux.pro/sets/8088
+# https://mediux.pro/sets/56387
 
 metadata:
 
@@ -37,3 +38,6 @@ metadata:
 
   181812: # Star Wars: The Rise of Skywalker (2019)
     url_poster: "https://api.mediux.pro/assets/5fd0a162-463f-4c93-99d6-af17c5081a99"
+
+  1228710: # The Mandalorian and Grogu (2026)
+    url_poster: "https://api.mediux.pro/assets/9b875d88-5b49-4ef6-90d1-121f76fdb64d"

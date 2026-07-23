@@ -1,16 +1,22 @@
+# Posters from:
+# https://mediux.pro/sets/56382
+
 metadata:
 
   4247: # Scary Movie (2000)
-    url_poster: "https://api.mediux.pro/assets/fbc5a8f6-188b-480c-a4d8-9694868ce671"
+    url_poster: "https://api.mediux.pro/assets/64ff4388-4163-4e5a-a22a-b68a194c0187"
 
   4248: # Scary Movie 2 (2001)
-    url_poster: "https://api.mediux.pro/assets/706a8f55-2cb2-4e5a-ab45-7876c35a3dd1"
+    url_poster: "https://api.mediux.pro/assets/6bfb5f0b-89e5-4dd7-9206-f000a98eebcb"
 
   4256: # Scary Movie 3 (2003)
-    url_poster: "https://api.mediux.pro/assets/390b5b3d-3d75-4a8b-9487-03ab0d1499ac"
+    url_poster: "https://api.mediux.pro/assets/42023625-e123-465e-b265-885eb22cb7f5"
 
   4257: # Scary Movie 4 (2006)
-    url_poster: "https://api.mediux.pro/assets/14f6e736-0fab-4f41-8d74-c5ca602174e5"
+    url_poster: "https://api.mediux.pro/assets/3f170ce0-fe14-4af6-9cbb-60243003db16"
 
   4258: # Scary Movie 5 (2013)
-    url_poster: "https://api.mediux.pro/assets/94d2a273-65f0-4024-b89e-62e7bff644ad"
+    url_poster: "https://api.mediux.pro/assets/40afe317-ecfb-44b5-b96a-8ea02d81c4b4"
+
+  1273221: # Scary Movie (2026)
+    url_poster: "https://api.mediux.pro/assets/8b6d3a51-5d10-4a93-98ab-41ae40def1bd"
