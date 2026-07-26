@@ -1,6 +1,6 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1592
+Total .yml files scanned (metadata): 1591
 Total .yml files scanned (collections): 213
 
 ============================================================
@@ -40,7 +40,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 94
+Count: 88
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -72,21 +72,15 @@ metadata/movies/Piglet.yml
 metadata/movies/Pulse.yml
 metadata/movies/Ready or Not.yml
 metadata/movies/RoboCop.yml
-metadata/movies/Rosencrantz & Guildenstern Are Dead.yml
 metadata/movies/Rush Hour.yml
 metadata/movies/Starship Troopers.yml
-metadata/movies/Super Mario Bros..yml
 metadata/movies/TRON.yml
 metadata/movies/Teenage Mutant Ninja Turtles (Remake).yml
 metadata/movies/Teenage Mutant Ninja Turtles.yml
 metadata/movies/Texas Chainsaw Massacre.yml
 metadata/movies/The Conjuring Universe.yml
-metadata/movies/The Grey.yml
 metadata/movies/The Hills Have Eyes.yml
 metadata/movies/The Karate Kid.yml
-metadata/movies/The Last Samurai.yml
-metadata/movies/The Other Guys.yml
-metadata/movies/The Perks of Being a Wallflower.yml
 metadata/movies/The Super Mario.yml
 metadata/movies/The Thing.yml
 metadata/movies/Train to Busan.yml
