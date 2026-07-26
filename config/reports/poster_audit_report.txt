@@ -1,11 +1,11 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1578
+Total .yml files scanned (metadata): 1592
 Total .yml files scanned (collections): 213
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 26
+Count: 24
 ============================================================
 metadata/movies/Pet Sematary (Reboot).yml
 metadata/movies/Pet Sematary.yml
@@ -15,7 +15,6 @@ metadata/movies/Ratatouille.yml
 metadata/movies/Resident Evil.yml
 metadata/movies/Rio.yml
 metadata/movies/Saw.yml
-metadata/movies/Scary Movie.yml
 metadata/movies/Sherlock Holmes.yml
 metadata/movies/Shrek.yml
 metadata/movies/Sinister.yml
@@ -30,7 +29,6 @@ metadata/movies/The Incredibles.yml
 metadata/movies/The Lion King (Animation).yml
 metadata/movies/The Lion King.yml
 metadata/movies/The Town.yml
-metadata/movies/Twister.yml
 metadata/movies/Unbreakable.yml
 metadata/movies/Wreck-It Ralph.yml
 
@@ -42,7 +40,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 109
+Count: 94
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -89,24 +87,9 @@ metadata/movies/The Karate Kid.yml
 metadata/movies/The Last Samurai.yml
 metadata/movies/The Other Guys.yml
 metadata/movies/The Perks of Being a Wallflower.yml
-metadata/movies/The Phoenician Scheme.yml
-metadata/movies/The Pursuit of Happyness.yml
-metadata/movies/The Shallows.yml
 metadata/movies/The Super Mario.yml
-metadata/movies/The Terminal.yml
 metadata/movies/The Thing.yml
-metadata/movies/The Ugly Stepsister.yml
-metadata/movies/The Unbearable Weight of Massive Talent.yml
-metadata/movies/The Unbreakable Boy.yml
-metadata/movies/The Unholy Trinity.yml
-metadata/movies/The Village.yml
-metadata/movies/The Warriors.yml
-metadata/movies/Thir13en Ghosts.yml
-metadata/movies/This Is the End.yml
-metadata/movies/Togo.yml
-metadata/movies/Tornado.yml
 metadata/movies/Train to Busan.yml
-metadata/movies/Transcendence.yml
 metadata/movies/Transformers.yml
 metadata/movies/V-H-S.yml
 metadata/movies/middle-earth/The Hobbit.yml
