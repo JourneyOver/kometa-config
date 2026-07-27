@@ -1,11 +1,13 @@
 # Posters from:
-# https://mediux.pro/sets/31502
+# https://mediux.pro/sets/56983
 
 metadata:
 
   253463: # Black Mirror (2011)
     url_poster: "https://api.mediux.pro/assets/cd0c210c-0c18-43a3-ae76-0fa992d46709"
     seasons:
+#      0:
+#        url_poster: ""
       1:
         url_poster: "https://api.mediux.pro/assets/9cc52ef0-a954-499b-89ce-46a32f2c0311"
       2:

@@ -6,6 +6,8 @@ metadata:
   295648: # Superstore (2015)
     url_poster: "https://api.mediux.pro/assets/b99ac647-7517-41b4-9d0c-91b3572ce1a8"
     seasons:
+#      0:
+#        url_poster: ""
       1:
         url_poster: "https://api.mediux.pro/assets/731dc425-24be-4548-8f9b-7293b5900d81"
       2:

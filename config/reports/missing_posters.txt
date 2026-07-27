@@ -1,17 +1,27 @@
 Total YML files scanned: 1594
-Total unique YML poster entries: 2213
-Total missing posters: 5
+Total unique YML poster entries: 2157
+Total missing series/movie posters: 5
+Total missing seasonal posters: 5
 ------------------------------------------------------------
 
-=== Anime (1) ===
+=== Anime (Missing Series/Movie Posters: 1) ===
 Reign: The Conqueror (1997)
 
-=== Anime-Movies (0) ===
+=== Anime-Movies (Missing Series/Movie Posters: 0) ===
 
-=== Movies (1) ===
+=== Movies (Missing Series/Movie Posters: 1) ===
 S.T.A.L.K.E.R.: Shadow of the Zone (2024)
 
-=== TV-Shows (3) ===
+=== TV-Shows (Missing Series/Movie Posters: 3) ===
 Mike Judge Presents: Tales From the Tour Bus (2017)
 Steven Universe (2013)
 Steven Universe Future (2019)
+
+=== Anime (Missing Seasonal Posters: 1) ===
+Reign: The Conqueror (1997) (Missing Seasons: 1)
+
+=== TV-Shows (Missing Seasonal Posters: 4) ===
+King of the Hill (1997) (Missing Seasons: 15)
+Mike Judge Presents: Tales From the Tour Bus (2017) (Missing Seasons: 1, 2)
+Steven Universe (2013) (Missing Seasons: 1, 2, 3, 4, 5)
+Steven Universe Future (2019) (Missing Seasons: 1)
