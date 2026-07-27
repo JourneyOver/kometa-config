@@ -1,6 +1,6 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1591
+Total .yml files scanned (metadata): 1594
 Total .yml files scanned (collections): 213
 
 ============================================================
@@ -40,7 +40,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 88
+Count: 87
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -120,7 +120,6 @@ metadata/shows/Stargate Universe.yml
 metadata/shows/The Boondocks.yml
 metadata/shows/The Four Seasons.yml
 metadata/shows/The Hot Zone.yml
-metadata/shows/The Librarians.yml
 metadata/shows/The Lord of the Rings - The Rings of Power.yml
 metadata/shows/The Man Who Fell to Earth.yml
 metadata/shows/The Mighty Nein.yml
@@ -138,17 +137,16 @@ Count: 0
 
 ============================================================
 SECTION 5: COLLECTIONS - MISSING URL AFTER SECOND "#" LINE
-Count: 4
+Count: 3
 ============================================================
 collections/movies/Before.yml
 collections/movies/How to Train Your Dragon.yml
 collections/movies/Paddington.yml
-collections/movies/dc/DC Universe.yml
 
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 65
+Count: 66
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -206,6 +204,7 @@ collections/movies/Tremors.yml
 collections/movies/Unbreakable.yml
 collections/movies/V-H-S.yml
 collections/movies/dc/DC Extended Universe.yml
+collections/movies/dc/DC Universe.yml
 collections/movies/marvel/Marvel Cinematic Universe.yml
 collections/shows/Arrowverse.yml
 collections/shows/Dexter.yml

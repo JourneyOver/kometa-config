@@ -1,16 +1,16 @@
 # Posters from:
-# https://theposterdb.com/set/83594
+# https://mediux.pro/sets/56916
 
 metadata:
 
   281709: # The Librarians (2014)
-    url_poster: "https://theposterdb.com/api/assets/134233"
+    url_poster: "https://api.mediux.pro/assets/df0df043-50ec-49ef-b552-51759318e8f4"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/134234"
+        url_poster: "https://api.mediux.pro/assets/29796b3f-8ae9-49ff-b868-6fc9781d950d"
       2:
-        url_poster: "https://theposterdb.com/api/assets/134235"
+        url_poster: "https://api.mediux.pro/assets/56b8c796-96d3-4d65-95ed-289c9fb6cc44"
       3:
-        url_poster: "https://theposterdb.com/api/assets/134236"
+        url_poster: "https://api.mediux.pro/assets/6cb8dd70-240e-4b52-aa39-278a92588113"
       4:
-        url_poster: "https://theposterdb.com/api/assets/134237"
+        url_poster: "https://api.mediux.pro/assets/c8ad5e35-bfa6-4a55-814f-a00faff7f38c"

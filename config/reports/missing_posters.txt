@@ -1,5 +1,5 @@
-Total YML files scanned: 1591
-Total unique YML poster entries: 2210
+Total YML files scanned: 1594
+Total unique YML poster entries: 2213
 Total missing posters: 5
 ------------------------------------------------------------
 

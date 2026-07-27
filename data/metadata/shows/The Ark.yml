@@ -1,12 +1,14 @@
 # Posters from:
-# https://mediux.pro/sets/22240
+# https://mediux.pro/sets/56917
 
 metadata:
 
   415089: # The Ark (2023)
-    url_poster: "https://api.mediux.pro/assets/a14a3dc4-156d-4e77-8d15-503c6912865f"
+    url_poster: "https://api.mediux.pro/assets/e6434e9d-93f5-4798-8140-6d9ddee85a25"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/b20b1637-6072-444a-91eb-ec9e4048eec1"
+        url_poster: "https://api.mediux.pro/assets/82100a55-4520-435a-8360-7855f544a716"
       2:
-        url_poster: "https://api.mediux.pro/assets/10ce95b6-b754-45e1-988d-8a1ca9561f9f"
+        url_poster: "https://api.mediux.pro/assets/a72356be-896b-4a7e-8636-ac82bb71cba1"
+#      3:
+#        url_poster: "https://api.mediux.pro/assets/99d1ab15-edbc-42c2-a3de-b68cb9728299"

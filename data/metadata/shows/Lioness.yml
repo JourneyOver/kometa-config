@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/56914
+
+metadata:
+
+  388589: # Lioness (2023)
+    url_poster: "https://api.mediux.pro/assets/dd43031a-c636-479d-b455-0d14d7a8e962"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/4b3a245d-9917-4bc5-b1f3-ed3246005fda"
+      2:
+        url_poster: "https://api.mediux.pro/assets/799a4d3d-2b6a-429a-8611-ac87db4f7ede"
+#      3:
+#        url_poster: "https://api.mediux.pro/assets/02874d48-d396-41dc-9afc-15e91a1c1944"

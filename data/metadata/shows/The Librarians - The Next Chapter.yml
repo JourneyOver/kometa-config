@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/32915
+# https://mediux.pro/sets/56915
 
 metadata:
 
   435078: # The Librarians: The Next Chapter (2025)
-    url_poster: "https://api.mediux.pro/assets/b6589637-2b8d-429d-b356-026783ecc603"
+    url_poster: "https://api.mediux.pro/assets/9c7a7423-2129-48c3-9086-b2a0f63a0785"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/11567e5b-b685-4f78-aaf7-eaf8b8f5e53a"
+        url_poster: "https://api.mediux.pro/assets/be2717e0-91df-40ec-9c23-7d8e29543ea1"
+#      2:
+#        url_poster: "https://api.mediux.pro/assets/c8334c4f-aef9-4179-b4a3-2b0a7404ff27"
