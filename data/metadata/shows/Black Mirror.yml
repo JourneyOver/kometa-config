@@ -1,24 +1,24 @@
 # Posters from:
-# https://mediux.pro/sets/56983
+# https://mediux.pro/sets/57033
 
 metadata:
 
   253463: # Black Mirror (2011)
-    url_poster: "https://api.mediux.pro/assets/cd0c210c-0c18-43a3-ae76-0fa992d46709"
+    url_poster: "https://api.mediux.pro/assets/7c099106-1abb-430f-b1e8-4e0e880fa01a"
     seasons:
-#      0:
-#        url_poster: ""
+      0:
+        url_poster: "https://api.mediux.pro/assets/ba6b99a8-fc83-4206-94d6-ed90b4f4e3a8"
       1:
-        url_poster: "https://api.mediux.pro/assets/9cc52ef0-a954-499b-89ce-46a32f2c0311"
+        url_poster: "https://api.mediux.pro/assets/3011f493-8b5b-4c85-b871-8cf92e7603f1"
       2:
-        url_poster: "https://api.mediux.pro/assets/7b767d1b-9b92-482e-b88f-64f3f0787a47"
+        url_poster: "https://api.mediux.pro/assets/51f831a3-5175-4376-a2b5-ee2eb3b1b095"
       3:
-        url_poster: "https://api.mediux.pro/assets/eb6f99f8-a4f5-4a52-8971-92507510ceb0"
+        url_poster: "https://api.mediux.pro/assets/de2eb3ab-6b41-4f16-9a28-ab7a347acee1"
       4:
-        url_poster: "https://api.mediux.pro/assets/66fc24ee-e282-4810-82ac-ee0895043fe0"
+        url_poster: "https://api.mediux.pro/assets/47bbce6f-9f26-4227-a06c-8600ac9c4278"
       5:
-        url_poster: "https://api.mediux.pro/assets/187efca9-0b1f-4a7a-8095-a125a7df3052"
+        url_poster: "https://api.mediux.pro/assets/75702862-4692-49c4-9510-bdf9e7024120"
       6:
-        url_poster: "https://api.mediux.pro/assets/eaccd8aa-16d5-48df-a747-04ca345d7a8b"
+        url_poster: "https://api.mediux.pro/assets/be50f724-5342-43c5-b73e-231abac81ca7"
       7:
-        url_poster: "https://api.mediux.pro/assets/db16506a-aa80-4254-8677-9f56d96c8d05"
+        url_poster: "https://api.mediux.pro/assets/3a6963bb-93d3-487c-9b7b-3579af35caf9"

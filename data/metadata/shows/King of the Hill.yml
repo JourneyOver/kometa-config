@@ -1,6 +1,5 @@
 # Posters from:
 # https://mediux.pro/sets/35973
-# TODO: Season 15
 
 metadata:
 
@@ -37,3 +36,5 @@ metadata:
         url_poster: "https://api.mediux.pro/assets/7e4fb3bd-5495-4399-99ca-b28f2e45c70c"
       14:
         url_poster: "https://api.mediux.pro/assets/1c2d9637-186a-4d34-8c80-94f3cab73491"
+      15:
+        url_poster: "https://api.mediux.pro/assets/646ad3f4-e05d-4d0a-80f9-326e9f627eab"

@@ -1,0 +1,20 @@
+# Posters from:
+# https://mediux.pro/sets/57037
+
+metadata:
+
+  270701: # Steven Universe (2013)
+    url_poster: "https://api.mediux.pro/assets/8b05af72-538f-4e0f-bfa0-f6c41540027c"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/ac48ade6-630a-41e5-a009-bfb2bf980db9"
+      1:
+        url_poster: "https://api.mediux.pro/assets/2d5b4191-6e3a-443c-b87c-a2dd0a814637"
+      2:
+        url_poster: "https://api.mediux.pro/assets/16226310-d8a8-4f98-98a4-83d3362419e7"
+      3:
+        url_poster: "https://api.mediux.pro/assets/943e40a8-eb91-43bd-bc08-fcdabc4eb4c2"
+      4:
+        url_poster: "https://api.mediux.pro/assets/6c4b3bcd-c38d-4036-9789-7f65bf296909"
+      5:
+        url_poster: "https://api.mediux.pro/assets/5054084a-feee-48d0-a70f-00a208485ed0"

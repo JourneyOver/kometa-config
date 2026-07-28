@@ -1,22 +1,22 @@
 # Posters from:
-# https://mediux.pro/sets/31702
+# https://mediux.pro/sets/57035
 
 metadata:
 
   295648: # Superstore (2015)
-    url_poster: "https://api.mediux.pro/assets/b99ac647-7517-41b4-9d0c-91b3572ce1a8"
+    url_poster: "https://api.mediux.pro/assets/60d4c842-e5b9-4d24-8117-53d330a563d9"
     seasons:
-#      0:
-#        url_poster: ""
+      0:
+        url_poster: "https://api.mediux.pro/assets/70ec555b-991a-4abd-90a1-d2af1ba6d1e1"
       1:
-        url_poster: "https://api.mediux.pro/assets/731dc425-24be-4548-8f9b-7293b5900d81"
+        url_poster: "https://api.mediux.pro/assets/78cbdce4-a168-4ee9-bbf8-7e1b5a2cb621"
       2:
-        url_poster: "https://api.mediux.pro/assets/ada5889c-fa4a-47c4-8761-aa5c6b8e108e"
+        url_poster: "https://api.mediux.pro/assets/e05ad0bc-3bcf-4ffc-be64-185d6d6ada91"
       3:
-        url_poster: "https://api.mediux.pro/assets/bf2f7c67-123d-4191-a9ff-8c9a919e4c1b"
+        url_poster: "https://api.mediux.pro/assets/c0593b3d-8c10-4ceb-9d44-24fb5aa3ae3e"
       4:
-        url_poster: "https://api.mediux.pro/assets/7746b28d-d24b-4dcf-9480-791bee12962c"
+        url_poster: "https://api.mediux.pro/assets/3307365e-5e4b-4637-8821-b0a3607f7710"
       5:
-        url_poster: "https://api.mediux.pro/assets/a1f762d1-2902-4fc3-8e81-921b701ba70b"
+        url_poster: "https://api.mediux.pro/assets/db5b0619-b82e-41b4-96b0-e496703083a5"
       6:
-        url_poster: "https://api.mediux.pro/assets/b2df278d-62a7-4e04-a2c5-98ea891df1d0"
+        url_poster: "https://api.mediux.pro/assets/70c163c9-b555-419c-b957-e6217e05a891"
