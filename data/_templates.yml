@@ -8,6 +8,7 @@ templates:
     optional:
       - collection
       - collection_trakt
+      - collection_mdblist
       - collection_letterbox
       - list_tvdb
       - list_tmdb
@@ -19,6 +20,7 @@ templates:
     tmdb_movie: <<movies>>
     tvdb_show: <<shows>>
     trakt_list: <<collection_trakt>>
+    mdblist_list: <<collection_mdblist>>
     letterboxd_list: <<collection_letterbox>>
     tvdb_list_details: <<list_tvdb>>
     tmdb_list: <<list_tmdb>>

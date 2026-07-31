@@ -1,6 +1,6 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1597
+Total .yml files scanned (metadata): 1598
 Total .yml files scanned (collections): 213
 
 ============================================================

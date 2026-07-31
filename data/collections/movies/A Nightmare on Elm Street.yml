@@ -7,7 +7,7 @@ external_templates:
 collections:
 
   "A Nightmare on Elm Street":
-    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/a-nightmare-on-elm-street, order: release }
+    template: { name: Collection, collection: 8581, movies: "6466, 23437", order: release }
     url_poster: "https://theposterdb.com/api/assets/210681"
     url_background: "https://image.tmdb.org/t/p/original/fg0HtE2tm61vJPrusIaSfQK03vd.jpg"
     sort_title: "Nightmare on Elm Street"

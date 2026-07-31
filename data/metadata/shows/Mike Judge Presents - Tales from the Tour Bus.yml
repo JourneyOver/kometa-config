@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/57041
+
+metadata:
+
+  334185: # Mike Judge Presents: Tales from the Tour Bus (2017)
+    url_poster: "https://api.mediux.pro/assets/24ae19cf-7151-47f4-aaa9-ca17a06d55ba"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/49c1eddb-6dcd-46ea-8d36-395c7a4abf07"
+      2:
+        url_poster: "https://api.mediux.pro/assets/fb3d36ad-3317-4e43-b941-be12799f3740"

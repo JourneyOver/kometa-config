@@ -1,7 +1,7 @@
-Total YML files scanned: 1597
-Total unique YML poster entries: 2160
-Total missing series/movie posters: 3
-Total missing seasonal posters: 2
+Total YML files scanned: 1598
+Total unique YML poster entries: 2161
+Total missing series/movie posters: 2
+Total missing seasonal posters: 1
 ------------------------------------------------------------
 
 === Anime (Missing Series/Movie Posters: 1) ===
@@ -12,11 +12,9 @@ Reign: The Conqueror (1997)
 === Movies (Missing Series/Movie Posters: 1) ===
 S.T.A.L.K.E.R.: Shadow of the Zone (2024)
 
-=== TV-Shows (Missing Series/Movie Posters: 1) ===
-Mike Judge Presents: Tales From the Tour Bus (2017)
+=== TV-Shows (Missing Series/Movie Posters: 0) ===
 
 === Anime (Missing Seasonal Posters: 1) ===
 Reign: The Conqueror (1997) (Missing Seasons: 1)
 
-=== TV-Shows (Missing Seasonal Posters: 1) ===
-Mike Judge Presents: Tales From the Tour Bus (2017) (Missing Seasons: 1, 2)
+=== TV-Shows (Missing Seasonal Posters: 0) ===
