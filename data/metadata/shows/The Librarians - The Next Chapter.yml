@@ -8,5 +8,5 @@ metadata:
     seasons:
       1:
         url_poster: "https://api.mediux.pro/assets/be2717e0-91df-40ec-9c23-7d8e29543ea1"
-#      2:
-#        url_poster: "https://api.mediux.pro/assets/c8334c4f-aef9-4179-b4a3-2b0a7404ff27"
+      2:
+        url_poster: "https://api.mediux.pro/assets/c8334c4f-aef9-4179-b4a3-2b0a7404ff27"

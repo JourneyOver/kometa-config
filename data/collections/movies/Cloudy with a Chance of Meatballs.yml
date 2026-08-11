@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/11533
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Cloudy with a Chance of Meatballs":
+    template: { name: Collection, collection: 177467, order: release }
+    url_poster: "https://api.mediux.pro/assets/ec2094a7-4b69-4065-a629-2c6c709e38e6"
+    url_background: "https://image.tmdb.org/t/p/original/eANL41F9Zp1xHMD6VnHnD3QS7ui.jpg"
+    summary: "A small-town inventor with big dreams and a long list of failed gadgets finally creates something that changes everything, turning a struggling island into a paradise where food falls from the sky. But every miracle comes with a catch, and when the machine that feeds the town starts thinking for itself, the leftovers fight back. Through flying cheeseburgers, living food creatures, and the chaos of ambition run wild, Flint learns that the greatest invention of all is the family and friends who believe in you, even when your ideas are half-baked."

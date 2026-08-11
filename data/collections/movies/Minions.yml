@@ -1,0 +1,13 @@
+# Posters from:
+# https://mediux.pro/sets/58174
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Minions":
+    template: { name: Collection, collection: 544669, order: release }
+    url_poster: "https://api.mediux.pro/assets/e97df84c-87bb-47ff-b0f3-ebcf8ea1037a"
+    url_background: "https://image.tmdb.org/t/p/original/62Qe28oi9PaK3P2ljDYUDTGAyST.jpg"
+    summary: "Since the dawn of time, a tribe of tiny yellow creatures has searched the earth for a master worth serving, leaving a trail of chaos and giggles wherever they go. From ancient caves to the swinging sixties and the disco era of the seventies, their quest finally lands them with a young villain with big dreams and an even bigger nose. Through villain conventions, monster mishaps, and the occasional banana, these lovable troublemakers prove that loyalty, friendship, and a whole lot of nonsense can conquer anything, even the world's most dangerous schemes."

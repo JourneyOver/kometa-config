@@ -1,0 +1,24 @@
+# Posters from:
+# https://mediux.pro/sets/57565
+
+metadata:
+
+  72306: # The Venture Bros. (2004)
+    url_poster: "https://api.mediux.pro/assets/461c3d64-66ad-4ce6-8641-e43f2617e744"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/3335e260-650c-4aee-9f4a-1482b0d205d3"
+      1:
+        url_poster: "https://api.mediux.pro/assets/e38bb950-e1ae-4a13-9985-52ef60e9787a"
+      2:
+        url_poster: "https://api.mediux.pro/assets/11e6a825-75a1-4d27-a52e-f3531f146e26"
+      3:
+        url_poster: "https://api.mediux.pro/assets/26692f43-af15-4249-b31b-bcb8fa699499"
+      4:
+        url_poster: "https://api.mediux.pro/assets/f4f53a9a-2b3d-4a58-9136-eccac7440d93"
+      5:
+        url_poster: "https://api.mediux.pro/assets/6a219ae9-6953-417c-ac3b-ba9e4995cb61"
+      6:
+        url_poster: "https://api.mediux.pro/assets/d18c498d-6231-4c19-87c2-e959a155a66b"
+      7:
+        url_poster: "https://api.mediux.pro/assets/31618beb-936e-476f-8e64-ee9c320ebefd"

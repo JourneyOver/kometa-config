@@ -1,14 +1,16 @@
 # Posters from:
-# https://mediux.pro/sets/2517
+# https://mediux.pro/sets/57953
 
 metadata:
 
   366924: # Reacher (2022)
-    url_poster: "https://api.mediux.pro/assets/40a8a531-3f28-4957-8dbd-ba923feb7aec"
+    url_poster: "https://api.mediux.pro/assets/85b32e6b-fa0f-426b-bdc6-2d3ca8dc4b2e"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/19cea402-639a-49ec-b279-4317ba8cb472"
+        url_poster: "https://api.mediux.pro/assets/e24e420d-bcef-4adb-9594-06acefbb498c"
       2:
-        url_poster: "https://api.mediux.pro/assets/724ab763-0e30-4ac5-a033-595d199e88b9"
+        url_poster: "https://api.mediux.pro/assets/10d9fd5f-e8a8-4027-934b-68be8e0d346b"
       3:
-        url_poster: "https://api.mediux.pro/assets/1c821f96-0c6f-42b1-85cd-da74f952691e"
+        url_poster: "https://api.mediux.pro/assets/9a728878-9437-42cf-a1ab-2c6375cf566b"
+#      4:
+#        url_poster: "https://api.mediux.pro/assets/a501ffb1-db3e-4234-ad9b-bf0248f975f6"

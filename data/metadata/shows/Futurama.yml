@@ -1,30 +1,32 @@
 # Posters from:
-# https://mediux.pro/sets/36697
+# https://mediux.pro/sets/57508
 
 metadata:
 
   73871: # Futurama (1999)
-    url_poster: "https://api.mediux.pro/assets/1cc48713-327b-4bbf-99a4-1e5903d4e071"
+    url_poster: "https://api.mediux.pro/assets/3cd812a1-2195-4cc0-8f38-61f1c300aa68"
     seasons:
 #      0:
-#        url_poster: "https://api.mediux.pro/assets/0ce23ece-7f36-4b7f-9ad4-d22c1fb8cb25"
+#        url_poster: "https://api.mediux.pro/assets/5f219a4f-0dfa-44cf-8c33-08ce9590aced"
       1:
-        url_poster: "https://api.mediux.pro/assets/cbd15671-fa72-4c00-bb2c-3c03af900985"
+        url_poster: "https://api.mediux.pro/assets/135415b0-af88-442d-8ef4-4a9ef376a08d"
       2:
-        url_poster: "https://api.mediux.pro/assets/34b11b87-2ac4-40cd-9250-30b7c0130be5"
+        url_poster: "https://api.mediux.pro/assets/3c0c6de2-6a88-45e5-86f8-87b20b3e4c2a"
       3:
-        url_poster: "https://api.mediux.pro/assets/a6456057-3e70-4948-a944-c06b4668251d"
+        url_poster: "https://api.mediux.pro/assets/775215ee-f036-4a52-bc10-674310ca4995"
       4:
-        url_poster: "https://api.mediux.pro/assets/35519f22-59ac-49f2-8fe3-b63ec6814e8e"
+        url_poster: "https://api.mediux.pro/assets/ff24c864-edce-4355-9182-4701ede73a8c"
       5:
-        url_poster: "https://api.mediux.pro/assets/4e524a3b-3d6b-4f10-acbc-5f39e883e697"
+        url_poster: "https://api.mediux.pro/assets/0b2fc487-1c00-4a28-9fcf-478868fbb196"
       6:
-        url_poster: "https://api.mediux.pro/assets/a02ee4f7-d9b5-4188-a912-12c6b0e54034"
+        url_poster: "https://api.mediux.pro/assets/e8c00993-13c1-499e-aa03-fff86674d85c"
       7:
-        url_poster: "https://api.mediux.pro/assets/31bd53ec-ab5a-400b-a661-25f39f761770"
+        url_poster: "https://api.mediux.pro/assets/7f46ec76-04fa-46fa-b52f-d2f8828b5e9c"
       8:
-        url_poster: "https://api.mediux.pro/assets/f5907277-0a15-40d9-b79d-0435261f2733"
+        url_poster: "https://api.mediux.pro/assets/e070f9f4-3d20-402e-b2c2-5ed41150d0f4"
       9:
-        url_poster: "https://api.mediux.pro/assets/afe97655-26f5-47aa-acfd-8a8ea4d2b53c"
+        url_poster: "https://api.mediux.pro/assets/3a019c19-06f9-4f96-8a07-9187eff449bb"
       10:
-        url_poster: "https://api.mediux.pro/assets/9ca8c2a5-465c-4858-984e-e03ce771237a"
+        url_poster: "https://api.mediux.pro/assets/a7fa1a6c-dc1f-4e8b-bb7c-11e635615ec8"
+      11:
+        url_poster: "https://api.mediux.pro/assets/6c43c145-3e16-4cbc-8394-43f686222f9b"

@@ -1,19 +1,23 @@
 # Posters from:
-# https://theposterdb.com/set/256680
+# https://mediux.pro/boxsets/1999
+# TODO: Make my own set!
 
 metadata:
 
-  764: # The Evil Dead (1981)
-    url_poster: "https://theposterdb.com/api/assets/466423"
+  764: # The Evil Dead (1982)
+    url_poster: "https://api.mediux.pro/assets/322d2d42-5fda-48bb-908a-1f7f35e8a45e"
 
   765: # Evil Dead II (1987)
-    url_poster: "https://theposterdb.com/api/assets/466422"
+    url_poster: "https://api.mediux.pro/assets/7b7122f7-ebb1-4aa2-a471-720296c24f94"
 
   766: # Army of Darkness (1992)
-    url_poster: "https://theposterdb.com/api/assets/466421"
+    url_poster: "https://api.mediux.pro/assets/63f7aec3-e84e-4278-ae06-b2432127b3ba"
 
   109428: # Evil Dead (2013)
-    url_poster: "https://theposterdb.com/api/assets/466420"
+    url_poster: "https://api.mediux.pro/assets/ee1e5dbf-7f52-4a90-b56e-abf616db5ad1"
 
   713704: # Evil Dead Rise (2023)
-    url_poster: "https://theposterdb.com/api/assets/466419"
+    url_poster: "https://api.mediux.pro/assets/1c6e70b9-137d-42f3-81e6-2d7addcc8040"
+
+  1212763: # Evil Dead Burn (2026)
+    url_poster: "https://api.mediux.pro/assets/b4e71680-c05d-49e5-88d7-d15e5c1b8f5a"

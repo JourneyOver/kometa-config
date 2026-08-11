@@ -1,17 +1,16 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1598
-Total .yml files scanned (collections): 213
+Total .yml files scanned (metadata): 1614
+Total .yml files scanned (collections): 216
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 24
+Count: 19
 ============================================================
 metadata/movies/Pet Sematary (Reboot).yml
 metadata/movies/Pet Sematary.yml
 metadata/movies/Pirates of the Caribbean.yml
 metadata/movies/Puss in Boots.yml
-metadata/movies/Ratatouille.yml
 metadata/movies/Resident Evil.yml
 metadata/movies/Rio.yml
 metadata/movies/Saw.yml
@@ -22,13 +21,9 @@ metadata/movies/Smile.yml
 metadata/movies/Sonic the Hedgehog.yml
 metadata/movies/Tarzan (Animation).yml
 metadata/movies/Terrifier.yml
-metadata/movies/The Bob's Burgers Movie.yml
-metadata/movies/The Fox and the Hound.yml
-metadata/movies/The Good Dinosaur.yml
 metadata/movies/The Incredibles.yml
 metadata/movies/The Lion King (Animation).yml
 metadata/movies/The Lion King.yml
-metadata/movies/The Town.yml
 metadata/movies/Unbreakable.yml
 metadata/movies/Wreck-It Ralph.yml
 
@@ -40,19 +35,17 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 87
+Count: 82
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
 metadata/movies/A Quiet Place.yml
 metadata/movies/Anaconda.yml
-metadata/movies/Atlantis.yml
 metadata/movies/Back to the Future.yml
 metadata/movies/Ballerina.yml
 metadata/movies/Children of the Corn.yml
 metadata/movies/Cloverfield.yml
 metadata/movies/Dune.yml
-metadata/movies/Evil Dead.yml
 metadata/movies/Fear Street.yml
 metadata/movies/Friday the 13th.yml
 metadata/movies/Gladiator.yml
@@ -93,10 +86,8 @@ metadata/shows/1923.yml
 metadata/shows/Adventure Time - Distant Lands.yml
 metadata/shows/Adventure Time - Fionna & Cake.yml
 metadata/shows/Aftermath.yml
-metadata/shows/American Dad.yml
 metadata/shows/Amphibia.yml
 metadata/shows/Black Summer.yml
-metadata/shows/Bob's Burgers.yml
 metadata/shows/Community.yml
 metadata/shows/Dead End - Paranormal Park.yml
 metadata/shows/Disenchantment.yml
@@ -127,7 +118,6 @@ metadata/shows/The Originals.yml
 metadata/shows/The Simpsons.yml
 metadata/shows/The Vampire Diaries.yml
 metadata/shows/The War Between the Land and the Sea.yml
-metadata/shows/Warehouse 13.yml
 metadata/shows/Yellowstone.yml
 
 ============================================================
@@ -146,20 +136,18 @@ collections/movies/Paddington.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 66
+Count: 64
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
 collections/movies/A Quiet Place.yml
 collections/movies/Alien-Predator Universe.yml
 collections/movies/Anaconda.yml
-collections/movies/Atlantis.yml
 collections/movies/Back to the Future.yml
 collections/movies/Blair Witch.yml
 collections/movies/Children of the Corn.yml
 collections/movies/Cloverfield.yml
 collections/movies/Dune.yml
-collections/movies/Evil Dead.yml
 collections/movies/Fear Street.yml
 collections/movies/Friday the 13th.yml
 collections/movies/Ghostbusters.yml

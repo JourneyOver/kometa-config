@@ -1,55 +1,54 @@
 # Posters from:
-# https://theposterdb.com/set/73869
-# https://theposterdb.com/set/387549
+# https://mediux.pro/sets/58076
 
 metadata:
 
   73141: # American Dad! (2005)
-    url_poster: "https://theposterdb.com/api/assets/274094"
+    url_poster: "https://api.mediux.pro/assets/108a8b28-ae55-4074-a6f5-a1598c58dc10"
     seasons:
 #      0:
-#        url_poster: "https://theposterdb.com/api/assets/117655"
+#        url_poster: "https://api.mediux.pro/assets/8fdc2260-3b92-4f9f-a82b-bd8498b578b3"
       1:
-        url_poster: "https://theposterdb.com/api/assets/117656"
+        url_poster: "https://api.mediux.pro/assets/1d761f83-cbb8-4b1a-9e00-988648ed3aef"
       2:
-        url_poster: "https://theposterdb.com/api/assets/117657"
+        url_poster: "https://api.mediux.pro/assets/6aa67c6b-05a1-4a65-a8f5-1341b746f7c3"
       3:
-        url_poster: "https://theposterdb.com/api/assets/117658"
+        url_poster: "https://api.mediux.pro/assets/8f011762-030f-4daf-92e7-c88ff36d8253"
       4:
-        url_poster: "https://theposterdb.com/api/assets/117659"
+        url_poster: "https://api.mediux.pro/assets/d1531800-9f3f-4db5-b254-9438d47a9c8f"
       5:
-        url_poster: "https://theposterdb.com/api/assets/117660"
+        url_poster: "https://api.mediux.pro/assets/09c817a5-b068-45b4-a0a3-1c472e057463"
       6:
-        url_poster: "https://theposterdb.com/api/assets/117661"
+        url_poster: "https://api.mediux.pro/assets/fc53e1eb-211b-4925-b943-858b782fdb6f"
       7:
-        url_poster: "https://theposterdb.com/api/assets/117662"
+        url_poster: "https://api.mediux.pro/assets/96741a73-3914-4cb7-92e7-7a483bdb535c"
       8:
-        url_poster: "https://theposterdb.com/api/assets/117663"
+        url_poster: "https://api.mediux.pro/assets/cf9216a0-ea5b-4d85-a925-c9801c815982"
       9:
-        url_poster: "https://theposterdb.com/api/assets/117664"
+        url_poster: "https://api.mediux.pro/assets/7f737748-a090-49a6-ba08-9b9c3fe254a2"
       10:
-        url_poster: "https://theposterdb.com/api/assets/117665"
+        url_poster: "https://api.mediux.pro/assets/eb5bc6c4-e0bc-411e-9396-2e670b8e7516"
       11:
-        url_poster: "https://theposterdb.com/api/assets/117666"
+        url_poster: "https://api.mediux.pro/assets/81178d4f-436f-4a31-b1e9-0a6b52022f49"
       12:
-        url_poster: "https://theposterdb.com/api/assets/117667"
+        url_poster: "https://api.mediux.pro/assets/22a5e094-415f-4b66-a327-3111bf8d1632"
       13:
-        url_poster: "https://theposterdb.com/api/assets/117668"
+        url_poster: "https://api.mediux.pro/assets/838f0a61-1f71-4abe-ae64-4b5c661c6696"
       14:
-        url_poster: "https://theposterdb.com/api/assets/117669"
+        url_poster: "https://api.mediux.pro/assets/d4e31cb0-ccbd-44a6-bc09-943015e1ceb5"
       15:
-        url_poster: "https://theposterdb.com/api/assets/117670"
+        url_poster: "https://api.mediux.pro/assets/df10c119-4c08-4972-8c8e-f451df37c722"
       16:
-        url_poster: "https://theposterdb.com/api/assets/117671"
+        url_poster: "https://api.mediux.pro/assets/b0cc2f5c-17bf-4c28-90a2-aa0a0bd1f9c4"
       17:
-        url_poster: "https://theposterdb.com/api/assets/117672"
+        url_poster: "https://api.mediux.pro/assets/7907d2e7-0ab0-4229-b984-36565b4057e3"
       18:
-        url_poster: "https://theposterdb.com/api/assets/147102"
+        url_poster: "https://api.mediux.pro/assets/2123c56c-b5c9-41aa-ace5-a91d5d445570"
       19:
-        url_poster: "https://theposterdb.com/api/assets/214772"
+        url_poster: "https://api.mediux.pro/assets/9a285be1-d618-46e3-93aa-a3f2ad044126"
       20:
-        url_poster: "https://theposterdb.com/api/assets/343449"
+        url_poster: "https://api.mediux.pro/assets/a0d1c76d-f771-4bb6-832f-a96835dfaf2f"
       21:
-        url_poster: "https://theposterdb.com/api/assets/541358"
+        url_poster: "https://api.mediux.pro/assets/3e52e014-bf60-42ca-adda-013b0dd08034"
       22:
-        url_poster: "https://theposterdb.com/api/assets/692556"
+        url_poster: "https://api.mediux.pro/assets/0de4294a-3f46-4150-9916-869d1f9d5eef"

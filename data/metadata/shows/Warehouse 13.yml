@@ -1,18 +1,20 @@
 # Posters from:
-# https://theposterdb.com/set/78935
+# https://mediux.pro/sets/57927
 
 metadata:
 
   84676: # Warehouse 13 (2009)
-    url_poster: "https://theposterdb.com/api/assets/126232"
+    url_poster: "https://api.mediux.pro/assets/ca8fd57d-4c37-4ff6-95e2-1c2364110bdc"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/30efdafd-c568-4cc7-8b4f-f95195c4bb2d"
       1:
-        url_poster: "https://theposterdb.com/api/assets/126233"
+        url_poster: "https://api.mediux.pro/assets/e87b6f52-3fd6-4dba-8447-4b1c5972d8bd"
       2:
-        url_poster: "https://theposterdb.com/api/assets/126234"
+        url_poster: "https://api.mediux.pro/assets/48f4bc1d-3815-4ea7-901a-567901e36948"
       3:
-        url_poster: "https://theposterdb.com/api/assets/126235"
+        url_poster: "https://api.mediux.pro/assets/79bd53df-10c7-4f22-8445-fcc3b2e2551d"
       4:
-        url_poster: "https://theposterdb.com/api/assets/126236"
+        url_poster: "https://api.mediux.pro/assets/22bc05ec-60bc-42c1-bc17-67daf3b35276"
       5:
-        url_poster: "https://theposterdb.com/api/assets/126237"
+        url_poster: "https://api.mediux.pro/assets/15aceb27-8824-45d5-bcfd-76796403a9a9"
