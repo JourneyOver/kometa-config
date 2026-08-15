@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/307361
+# https://mediux.pro/sets/8971
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Gladiator":
     template: { name: Collection, collection: 1069584, order: release }
-    url_poster: "https://theposterdb.com/api/assets/553684"
+    url_poster: "https://api.mediux.pro/assets/947a9411-0f33-44d9-a7b2-18c7bbda5988"
     url_background: "https://image.tmdb.org/t/p/original/sXuMcx6HLKIBmYFGeDR4MvakIKK.jpg"
     summary: "In ancient Rome, a fallen general rises from slavery to challenge the corrupt empire and seek justice for his family. Through brutal battles and political intrigue, his journey is one of honor, vengeance, and the relentless fight for freedom in a world ruled by power and betrayal."

@@ -1,23 +1,22 @@
 # Posters from:
-# https://mediux.pro/boxsets/1999
-# TODO: Make my own set!
+# https://mediux.pro/sets/58208
 
 metadata:
 
   764: # The Evil Dead (1982)
-    url_poster: "https://api.mediux.pro/assets/322d2d42-5fda-48bb-908a-1f7f35e8a45e"
+    url_poster: "https://api.mediux.pro/assets/b80b878a-7067-4058-b26e-5a5c4fff58ff"
 
   765: # Evil Dead II (1987)
-    url_poster: "https://api.mediux.pro/assets/7b7122f7-ebb1-4aa2-a471-720296c24f94"
+    url_poster: "https://api.mediux.pro/assets/4812e542-fe33-4bdd-9249-8b34f8a2299b"
 
   766: # Army of Darkness (1992)
-    url_poster: "https://api.mediux.pro/assets/63f7aec3-e84e-4278-ae06-b2432127b3ba"
+    url_poster: "https://api.mediux.pro/assets/f57800d7-85e3-4f1e-89e7-a5f03edc7dab"
 
   109428: # Evil Dead (2013)
-    url_poster: "https://api.mediux.pro/assets/ee1e5dbf-7f52-4a90-b56e-abf616db5ad1"
+    url_poster: "https://api.mediux.pro/assets/b37e0474-c22e-4ef0-8997-172948d5dc76"
 
   713704: # Evil Dead Rise (2023)
-    url_poster: "https://api.mediux.pro/assets/1c6e70b9-137d-42f3-81e6-2d7addcc8040"
+    url_poster: "https://api.mediux.pro/assets/10b4bfe3-169e-4edb-a285-9b0619ca16bb"
 
   1212763: # Evil Dead Burn (2026)
-    url_poster: "https://api.mediux.pro/assets/b4e71680-c05d-49e5-88d7-d15e5c1b8f5a"
+    url_poster: "https://api.mediux.pro/assets/e63d7581-23ca-4e9c-8869-3fd244b536ab"

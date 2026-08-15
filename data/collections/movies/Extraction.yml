@@ -1,5 +1,5 @@
 # Poster from:
-# https://mediux.pro/sets/2303
+# https://mediux.pro/sets/9238
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Extraction":
     template: { name: Collection, collection: 735127, order: release }
-    url_poster: "https://api.mediux.pro/assets/fde308f7-9f0d-4cde-aa4c-44731df521b1"
+    url_poster: "https://api.mediux.pro/assets/039138da-b583-47bd-a1aa-25f9d5641d73"
     url_background: "https://image.tmdb.org/t/p/original/gxBbFVb2SUWtHTJQXjwAtEPTWcA.jpg"
     summary: "A skilled operative takes on dangerous missions in hostile territories to rescue those caught in the crossfire of crime and corruption. Facing relentless enemies and impossible odds, his journey is a pulse-pounding fight for redemption, survival, and justice."

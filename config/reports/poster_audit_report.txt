@@ -5,16 +5,14 @@ Total .yml files scanned (collections): 216
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 19
+Count: 17
 ============================================================
 metadata/movies/Pet Sematary (Reboot).yml
 metadata/movies/Pet Sematary.yml
-metadata/movies/Pirates of the Caribbean.yml
 metadata/movies/Puss in Boots.yml
 metadata/movies/Resident Evil.yml
 metadata/movies/Rio.yml
 metadata/movies/Saw.yml
-metadata/movies/Sherlock Holmes.yml
 metadata/movies/Shrek.yml
 metadata/movies/Sinister.yml
 metadata/movies/Smile.yml
@@ -35,7 +33,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 82
+Count: 80
 ============================================================
 metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
@@ -48,7 +46,6 @@ metadata/movies/Cloverfield.yml
 metadata/movies/Dune.yml
 metadata/movies/Fear Street.yml
 metadata/movies/Friday the 13th.yml
-metadata/movies/Gladiator.yml
 metadata/movies/Goosebumps.yml
 metadata/movies/Halloween.yml
 metadata/movies/Happy Death Day.yml
@@ -115,7 +112,6 @@ metadata/shows/The Lord of the Rings - The Rings of Power.yml
 metadata/shows/The Man Who Fell to Earth.yml
 metadata/shows/The Mighty Nein.yml
 metadata/shows/The Originals.yml
-metadata/shows/The Simpsons.yml
 metadata/shows/The Vampire Diaries.yml
 metadata/shows/The War Between the Land and the Sea.yml
 metadata/shows/Yellowstone.yml
@@ -136,7 +132,7 @@ collections/movies/Paddington.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 64
+Count: 63
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -151,7 +147,6 @@ collections/movies/Dune.yml
 collections/movies/Fear Street.yml
 collections/movies/Friday the 13th.yml
 collections/movies/Ghostbusters.yml
-collections/movies/Gladiator.yml
 collections/movies/Goosebumps.yml
 collections/movies/Halloween.yml
 collections/movies/Happy Death Day.yml

@@ -1,6 +1,5 @@
 # Poster from:
-# https://mediux.pro/boxsets/1999
-# TODO: Make my own set!
+# https://mediux.pro/sets/58208
 
 external_templates:
   - file: data/_templates.yml
@@ -9,6 +8,6 @@ collections:
 
   "Evil Dead":
     template: { name: Collection, collection: 1960, movies: "109428, 713704, 1212763, 1280608", order: release }
-    url_poster: "https://api.mediux.pro/assets/b1ad1a4a-9fdb-4d5a-8b04-06f4bc732109"
+    url_poster: "https://api.mediux.pro/assets/18714021-2d5b-458f-b402-68a78db5db2a"
     url_background: "https://image.tmdb.org/t/p/original/52ucWq0dQLUTb6PPH9q4jm9MY7f.jpg"
     summary: "In isolated cabins and dark places, unsuspecting individuals confront ancient, malevolent forces that unleash terror and madness. Blending horror and dark humor, their fight against relentless evil becomes a harrowing and sometimes hilarious battle for survival against supernatural darkness."

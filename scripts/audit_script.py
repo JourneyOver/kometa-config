@@ -1,129 +1,166 @@
-import os, glob
+#!/usr/bin/env python3
+"""
+audit_script.py
 
-script_dir = os.path.dirname(os.path.abspath(__file__))
-base_root = os.path.dirname(script_dir)
-base = os.path.join(base_root, 'data', 'metadata')
-collections_base = os.path.join(base_root, 'data', 'collections')
-reports_dir = os.path.join(base_root, 'config', 'reports')
-os.makedirs(reports_dir, exist_ok=True)
-out = os.path.join(reports_dir, 'poster_audit_report.txt')
+Audits the poster metadata and collection YAML files for consistency issues:
 
-yml_files = glob.glob(os.path.join(base, '**', '*.yml'), recursive=True)
-collection_files = glob.glob(os.path.join(collections_base, '**', '*.yml'), recursive=True)
+  1. Missing "# Posters from:" / "# Poster from:" header comment.
+  2. Missing URL in the header comment block (first 5 lines).
+  3. Files that reference theposterdb.com (excluding anime/ and
+     anime-movies/ directories).
 
-missing_header = []
-missing_url = []
-has_posterdb = []
-collection_missing_header = []
-collection_missing_url = []
-collection_has_posterdb = []
+Both ``data/metadata`` and ``data/collections`` are scanned recursively and a
+plain-text report is written to ``config/reports/poster_audit_report.txt``.
 
-def normalize(path_str):
-    return path_str.replace('\\', '/')
+Usage:
+    python scripts/audit_script.py
 
-def check_file(f, base_dir):
-    rel = normalize(os.path.relpath(f, base_dir))
+Output:
+    config/reports/poster_audit_report.txt
+"""
+
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from pathlib import Path
+
+# -- Paths --------------------------------------------------------------------
+
+BASE = Path(__file__).resolve().parent.parent
+METADATA_ROOT = BASE / "data" / "metadata"
+COLLECTIONS_ROOT = BASE / "data" / "collections"
+REPORTS_DIR = BASE / "config" / "reports"
+REPORT_PATH = REPORTS_DIR / "poster_audit_report.txt"
+
+# -- Constants ----------------------------------------------------------------
+
+HEADER_MARKERS = ("# Posters from:", "# Poster from:")
+POSTERDB_DOMAIN = "theposterdb.com"
+ANIME_PREFIXES = ("anime/", "anime-movies/")
+HEADER_LINES = 5
+REPORT_DIVIDER = "=" * 60
+
+CATEGORY_MISSING_HEADER = "missing_header"
+CATEGORY_MISSING_URL = "missing_url"
+CATEGORY_POSTERDB = "has_posterdb"
+
+
+@dataclass
+class AuditResult:
+    total: int = 0
+    missing_header: list[str] = field(default_factory=list)
+    missing_url: list[str] = field(default_factory=list)
+    posterdb: list[str] = field(default_factory=list)
+
+
+def audit_file(path: Path, root: Path) -> str | None:
+    """Return the issue category for *path*, or ``None`` if it is clean.
+
+    The relative path (posix, without the scope prefix) drives the anime
+    exclusion check.
+    """
     try:
-        with open(f, 'r', encoding='utf-8', errors='replace') as fh:
-            lines = [fh.readline().rstrip() for _ in range(5)]
-    except:
-        return None, None, False
+        text = path.read_text(encoding="utf-8", errors="replace")
+    except OSError:
+        return None
 
-    has_header = any('# Posters from:' in l or '# Poster from:' in l for l in lines)
+    rel = path.relative_to(root).as_posix()
+
+    head_lines = text.splitlines()[:HEADER_LINES]
+    has_header = any(marker in line for line in head_lines for marker in HEADER_MARKERS)
     if not has_header:
-        return rel, 'missing_header', False
+        return CATEGORY_MISSING_HEADER
 
-    hash_lines = [l for l in lines if l.startswith('#')]
-    has_url = any('http' in l.lower() for l in hash_lines)
+    comment_lines = [line for line in head_lines if line.startswith("#")]
+    has_url = any("http" in line.lower() for line in comment_lines)
     if not has_url:
-        return rel, 'missing_url', False
+        return CATEGORY_MISSING_URL
 
-    try:
-        with open(f, 'r', encoding='utf-8', errors='replace') as fh:
-            full_content = fh.read()
-    except:
-        return None, None, False
-
-    is_posterdb = 'theposterdb.com' in full_content
-    is_anime = rel.startswith('anime/') or rel.startswith('anime-movies/')
-
+    is_posterdb = POSTERDB_DOMAIN in text
+    is_anime = rel.startswith(ANIME_PREFIXES)
     if is_posterdb and not is_anime:
-        return rel, 'has_posterdb', True
+        return CATEGORY_POSTERDB
 
-    return None, None, False
+    return None
 
-for f in yml_files:
-    rel, category, _ = check_file(f, base)
-    if category == 'missing_header':
-        missing_header.append(f'metadata/{rel}')
-    elif category == 'missing_url':
-        missing_url.append(f'metadata/{rel}')
-    elif category == 'has_posterdb':
-        has_posterdb.append(f'metadata/{rel}')
 
-for f in collection_files:
-    rel, category, _ = check_file(f, collections_base)
-    if category == 'missing_header':
-        collection_missing_header.append(f'collections/{rel}')
-    elif category == 'missing_url':
-        collection_missing_url.append(f'collections/{rel}')
-    elif category == 'has_posterdb':
-        collection_has_posterdb.append(f'collections/{rel}')
+def scan_scope(root: Path, scope_prefix: str) -> AuditResult:
+    """Scan *root* recursively and bucket every flagged ``.yml`` file."""
+    result = AuditResult()
+    if not root.exists():
+        return result
 
-with open(out, 'w', encoding='utf-8') as fh:
-    fh.write('POSTER AUDIT REPORT\n')
-    fh.write('=' * 60 + '\n')
-    fh.write(f'Total .yml files scanned (metadata): {len(yml_files)}\n')
-    fh.write(f'Total .yml files scanned (collections): {len(collection_files)}\n\n')
+    yml_files = sorted(root.rglob("*.yml"), key=lambda p: str(p).lower())
+    result.total = len(yml_files)
 
-    fh.write('=' * 60 + '\n')
-    fh.write('SECTION 1: METADATA - MISSING "# Posters from:" HEADER\n')
-    fh.write(f'Count: {len(missing_header)}\n')
-    fh.write('=' * 60 + '\n')
-    for f in sorted(missing_header):
-        fh.write(f'{f}\n')
+    for path in yml_files:
+        category = audit_file(path, root)
+        if category is None:
+            continue
 
-    fh.write('\n' + '=' * 60 + '\n')
-    fh.write('SECTION 2: METADATA - MISSING URL AFTER SECOND "#" LINE\n')
-    fh.write(f'Count: {len(missing_url)}\n')
-    fh.write('=' * 60 + '\n')
-    for f in sorted(missing_url):
-        fh.write(f'{f}\n')
+        rel = path.relative_to(root).as_posix()
+        labelled = f"{scope_prefix}/{rel}"
 
-    fh.write('\n' + '=' * 60 + '\n')
-    fh.write('SECTION 3: METADATA - FILES USING theposterdb.com\n')
-    fh.write('(Excludes anime/ and anime-movies/ directories)\n')
-    fh.write(f'Count: {len(has_posterdb)}\n')
-    fh.write('=' * 60 + '\n')
-    for f in sorted(has_posterdb):
-        fh.write(f'{f}\n')
+        if category == CATEGORY_MISSING_HEADER:
+            result.missing_header.append(labelled)
+        elif category == CATEGORY_MISSING_URL:
+            result.missing_url.append(labelled)
+        else:  # CATEGORY_POSTERDB
+            result.posterdb.append(labelled)
 
-    fh.write('\n' + '=' * 60 + '\n')
-    fh.write('SECTION 4: COLLECTIONS - MISSING "# Poster from:" HEADER\n')
-    fh.write(f'Count: {len(collection_missing_header)}\n')
-    fh.write('=' * 60 + '\n')
-    for f in sorted(collection_missing_header):
-        fh.write(f'{f}\n')
+    return result
 
-    fh.write('\n' + '=' * 60 + '\n')
-    fh.write('SECTION 5: COLLECTIONS - MISSING URL AFTER SECOND "#" LINE\n')
-    fh.write(f'Count: {len(collection_missing_url)}\n')
-    fh.write('=' * 60 + '\n')
-    for f in sorted(collection_missing_url):
-        fh.write(f'{f}\n')
 
-    fh.write('\n' + '=' * 60 + '\n')
-    fh.write('SECTION 6: COLLECTIONS - FILES USING theposterdb.com\n')
-    fh.write('(Excludes anime/ and anime-movies/ directories)\n')
-    fh.write(f'Count: {len(collection_has_posterdb)}\n')
-    fh.write('=' * 60 + '\n')
-    for f in sorted(collection_has_posterdb):
-        fh.write(f'{f}\n')
+def _section(title: str, items: list[str], note: str | None = None) -> list[str]:
+    block = [REPORT_DIVIDER, title]
+    if note:
+        block.append(note)
+    block.append(f"Count: {len(items)}")
+    block.append(REPORT_DIVIDER)
+    block.extend(sorted(items))
+    return block
 
-total_posterdb = len(has_posterdb) + len(collection_has_posterdb)
-total_missing_header = len(missing_header) + len(collection_missing_header)
-total_missing_url = len(missing_url) + len(collection_missing_url)
 
-print(f'Report written: {normalize(out)}')
-print(f'Metadata files: {len(yml_files)}, Collection files: {len(collection_files)}')
-print(f'Missing header: {total_missing_header}, Missing URL: {total_missing_url}, Has posterdb (non-anime): {total_posterdb}')
+def build_report(metadata: AuditResult, collections: AuditResult) -> str:
+    lines = [
+        "POSTER AUDIT REPORT",
+        REPORT_DIVIDER,
+        f"Total .yml files scanned (metadata): {metadata.total}",
+        f"Total .yml files scanned (collections): {collections.total}",
+    ]
+
+    sections = [
+        ('SECTION 1: METADATA - MISSING "# Posters from:" HEADER', metadata.missing_header, None),
+        ('SECTION 2: METADATA - MISSING URL AFTER SECOND "#" LINE', metadata.missing_url, None),
+        ('SECTION 3: METADATA - FILES USING theposterdb.com', metadata.posterdb, "(Excludes anime/ and anime-movies/ directories)"),
+        ('SECTION 4: COLLECTIONS - MISSING "# Poster from:" HEADER', collections.missing_header, None),
+        ('SECTION 5: COLLECTIONS - MISSING URL AFTER SECOND "#" LINE', collections.missing_url, None),
+        ('SECTION 6: COLLECTIONS - FILES USING theposterdb.com', collections.posterdb, "(Excludes anime/ and anime-movies/ directories)"),
+    ]
+
+    for title, items, note in sections:
+        lines.append("")
+        lines.extend(_section(title, items, note))
+
+    return "\n".join(lines) + "\n"
+
+
+def main() -> None:
+    REPORTS_DIR.mkdir(parents=True, exist_ok=True)
+
+    metadata = scan_scope(METADATA_ROOT, "metadata")
+    collections = scan_scope(COLLECTIONS_ROOT, "collections")
+
+    REPORT_PATH.write_text(build_report(metadata, collections), encoding="utf-8")
+
+    total_posterdb = len(metadata.posterdb) + len(collections.posterdb)
+    total_missing_header = len(metadata.missing_header) + len(collections.missing_header)
+    total_missing_url = len(metadata.missing_url) + len(collections.missing_url)
+
+    print(f"Report written: {REPORT_PATH.as_posix()}")
+    print(f"Metadata files: {metadata.total}, Collection files: {collections.total}")
+    print(f"Missing header: {total_missing_header}, Missing URL: {total_missing_url}, Has posterdb (non-anime): {total_posterdb}")
+
+
+if __name__ == "__main__":
+    main()

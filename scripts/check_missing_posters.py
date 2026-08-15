@@ -16,28 +16,16 @@ Output:
     missing_posters.txt  -- sorted alphabetically, one entry per line
 """
 
+from __future__ import annotations
+
 import csv
 import re
+from dataclasses import dataclass
 from pathlib import Path
 
 # -- Paths --------------------------------------------------------------------
 
 BASE = Path(__file__).resolve().parent.parent  # repo root
-
-# (csv_path, title_col, id_col)
-CSV_FILES = {
-    "Anime":        (BASE / "plex" / "Anime.csv",         "series_title", "tvdb_id"),
-    "Anime-Movies": (BASE / "plex" / "Anime-Movies.csv",  "title",        "tmdb_id"),
-    "Movies":       (BASE / "plex" / "Movies.csv",        "title",        "tmdb_id"),
-    "TV-Shows":     (BASE / "plex" / "TV-Shows.csv",      "series_title", "tvdb_id"),
-}
-
-YML_DIRS = {
-    "Anime":        BASE / "data" / "metadata" / "anime",
-    "Anime-Movies": BASE / "data" / "metadata" / "anime-movies",
-    "Movies":       BASE / "data" / "metadata" / "movies",
-    "TV-Shows":     BASE / "data" / "metadata" / "shows",
-}
 
 OUTPUT_FILE = BASE / "config" / "reports" / "missing_posters.txt"
 
@@ -51,9 +39,43 @@ RE_ENTRY = re.compile(r'^(\s+)(\d+)\s*:(?:\s*#.*)?$')
 POSTER_KEYS = frozenset({"url_poster", "file_poster"})
 
 
-# -- Step 1: Parse YML files for Main & Seasonal Posters ----------------------
+# -- Category configuration ---------------------------------------------------
 
-def parse_yml_metadata(yml_dir: Path) -> tuple[set[str], dict[str, set[int]], int]:
+@dataclass(frozen=True)
+class Category:
+    name: str
+    csv_path: Path
+    title_col: str
+    id_col: str
+    yml_dir: Path
+    is_tv: bool
+    episode_csv: Path | None
+
+
+CATEGORIES: list[Category] = [
+    Category("Anime",        BASE / "plex" / "Anime.csv",         "series_title", "tvdb_id",
+             BASE / "data" / "metadata" / "anime",         True,  BASE / "plex" / "Anime-episodes.csv"),
+    Category("Anime-Movies", BASE / "plex" / "Anime-Movies.csv",  "title",        "tmdb_id",
+             BASE / "data" / "metadata" / "anime-movies", False, None),
+    Category("Movies",       BASE / "plex" / "Movies.csv",        "title",        "tmdb_id",
+             BASE / "data" / "metadata" / "movies",       False, None),
+    Category("TV-Shows",     BASE / "plex" / "TV-Shows.csv",      "series_title", "tvdb_id",
+             BASE / "data" / "metadata" / "shows",        True,  BASE / "plex" / "TV-Shows-episodes.csv"),
+]
+
+
+# -- YML parsing --------------------------------------------------------------
+
+def _poster_value(text: str) -> str:
+    """Return the quote-stripped value after the first ':' in a 'key: value'
+    line, or '' if there is no value. A blank/whitespace-only value means the
+    poster is effectively absent."""
+    if ':' not in text:
+        return ''
+    return text.split(':', 1)[1].strip().strip('"').strip()
+
+
+def parse_yml(yml_dir: Path) -> tuple[set[str], dict[str, set[int]], int]:
     """
     Walk *yml_dir* recursively, parse every .yml file, and return:
       - set of string IDs where the top-level entry has a poster
@@ -105,7 +127,11 @@ def parse_yml_metadata(yml_dir: Path) -> tuple[set[str], dict[str, set[int]], in
                         key = body.split(':')[0].strip() if body else ''
                         if key.isdigit():
                             current_season = int(key)
-                        elif key in POSTER_KEYS and current_season >= 0:
+                        # Commented poster lines with a real (non-blank) URL count
+                        # as available (intentionally disabled but you have the asset).
+                        # A blank URL ("") means no poster -> leave it missing so the
+                        # season is flagged if it exists in the CSVs.
+                        elif key in POSTER_KEYS and current_season >= 0 and _poster_value(body):
                             season_posters[entry_id].add(current_season)
                     i += 1
                     continue
@@ -119,7 +145,9 @@ def parse_yml_metadata(yml_dir: Path) -> tuple[set[str], dict[str, set[int]], in
 
                 if not in_seasons:
                     if key in POSTER_KEYS:
-                        found_main = True
+                        # Only count as having a main poster if the URL is real.
+                        if _poster_value(stripped):
+                            found_main = True
                     elif key == 'seasons':
                         in_seasons = True
                         seasons_indent = indent
@@ -131,7 +159,9 @@ def parse_yml_metadata(yml_dir: Path) -> tuple[set[str], dict[str, set[int]], in
                         continue  # re-evaluate this line at entry level
                     if key.isdigit():
                         current_season = int(key)
-                    elif key in POSTER_KEYS and current_season >= 0:
+                    # Only count a season poster as available if the URL is real;
+                    # a blank URL ("") means the season is still missing.
+                    elif key in POSTER_KEYS and current_season >= 0 and _poster_value(stripped):
                         season_posters[entry_id].add(current_season)
                     i += 1
 
@@ -141,26 +171,47 @@ def parse_yml_metadata(yml_dir: Path) -> tuple[set[str], dict[str, set[int]], in
     return has_poster, season_posters, total_files
 
 
-# -- Step 2: Read CSV libraries -----------------------------------------------
+# -- CSV reading --------------------------------------------------------------
 
-def read_csv_entries(csv_path: Path, title_col: str, id_col: str, is_tv: bool) -> list[tuple[str, str, str, int]]:
+def read_episode_seasons(csv_path: Path) -> dict[str, set[int]]:
     """
-    Return list of (raw_title, year, entry_id, seasons_count) from a CSV file.
-    The raw_title is kept for display; entry_id is used for matching.
-    seasons_count is extracted for TV-Shows and Anime categories.
+    Read an episode-level CSV (series_title, season_number, ...) and return
+    a mapping of normalized series_title -> set of season numbers present.
+    Season numbers are ints (0 == specials). Rows without a parseable
+    integer season_number are skipped.
     """
-    entries: list[tuple[str, str, str, int]] = []
+    seasons_by_title: dict[str, set[int]] = {}
     with csv_path.open(encoding="utf-8-sig", newline="") as fh:
         reader = csv.DictReader(fh)
         for row in reader:
-            raw_title = row.get(title_col, "").strip()
+            title = (row.get("series_title") or "").strip().lower()
+            if not title:
+                continue
+            sn = (row.get("season_number") or "").strip()
+            if not sn.lstrip("-").isdigit():
+                continue
+            seasons_by_title.setdefault(title, set()).add(int(sn))
+    return seasons_by_title
+
+
+def read_shows(cat: Category) -> list[tuple[str, str, str, int]]:
+    """
+    Return list of (raw_title, year, entry_id, seasons_count) from the
+    category's CSV. The raw_title is kept for display; entry_id is used for
+    matching. seasons_count is only extracted for TV categories.
+    """
+    entries: list[tuple[str, str, str, int]] = []
+    with cat.csv_path.open(encoding="utf-8-sig", newline="") as fh:
+        reader = csv.DictReader(fh)
+        for row in reader:
+            raw_title = row.get(cat.title_col, "").strip()
             year      = row.get("year", "").strip()
-            entry_id  = row.get(id_col, "").strip()
+            entry_id  = row.get(cat.id_col, "").strip()
 
             # Identify total seasons based on the CSV "seasons" column
             seasons_str = row.get("seasons", "0").strip()
             seasons_count = 0
-            if is_tv and seasons_str.isdigit():
+            if cat.is_tv and seasons_str.isdigit():
                 seasons_count = int(seasons_str)
 
             if raw_title:
@@ -168,7 +219,57 @@ def read_csv_entries(csv_path: Path, title_col: str, id_col: str, is_tv: bool) -
     return entries
 
 
-# -- Step 3: Find missing titles and write output -----------------------------
+# -- Checking -----------------------------------------------------------------
+
+def check_category(cat: Category,
+                   has_poster: set[str],
+                   season_posters: dict[str, set[int]],
+                   episode_seasons: dict[str, set[int]]) -> tuple[list[str], list[str], int]:
+    """
+    Compare the category's CSV entries against its YML poster data.
+    Returns (missing_main, missing_seasons, total_entries) lists of display labels.
+    """
+    missing_main: list[str] = []
+    missing_seasons: list[str] = []
+
+    entries = read_shows(cat)
+    for raw_title, year, entry_id, seasons_count in entries:
+        # Only append (year) if the raw title doesn't already end with (YYYY)
+        if year and not re.search(r'\(\d{4}\)\s*$', raw_title):
+            label = f"{raw_title} ({year})"
+        else:
+            label = raw_title
+
+        # Check for top-level show/movie posters
+        if entry_id not in has_poster:
+            missing_main.append(label)
+
+        # Check for seasonal posters using actual episode data
+        if cat.is_tv:
+            available_seasons = season_posters.get(entry_id, set())
+            missing = []
+
+            # Prefer real seasons from the episode export; fall back to the
+            # CSV "seasons" count only if a title has no episode data.
+            norm_title = raw_title.strip().lower()
+            seasons_set = episode_seasons.get(norm_title)
+            if seasons_set is None and seasons_count > 0:
+                seasons_set = set(range(1, seasons_count + 1))
+
+            if seasons_set:
+                for s in sorted(seasons_set):
+                    if s not in available_seasons:
+                        missing.append(str(s))
+
+            if missing:
+                missing_seasons.append(f"{label} (Missing Seasons: {', '.join(missing)})")
+
+    missing_main.sort(key=str.lower)
+    missing_seasons.sort(key=str.lower)
+    return missing_main, missing_seasons, len(entries)
+
+
+# -- Output -------------------------------------------------------------------
 
 def main() -> None:
     # Gather all YML poster keys per category
@@ -177,66 +278,41 @@ def main() -> None:
     yml_season_posters_by_cat: dict[str, dict[str, set[int]]] = {}
     total_yml_files = 0
 
-    for category, yml_dir in YML_DIRS.items():
-        posters, season_posters, file_count = parse_yml_metadata(yml_dir)
-        yml_posters_by_cat[category] = posters
-        yml_season_posters_by_cat[category] = season_posters
+    for cat in CATEGORIES:
+        posters, season_posters, file_count = parse_yml(cat.yml_dir)
+        yml_posters_by_cat[cat.name] = posters
+        yml_season_posters_by_cat[cat.name] = season_posters
         total_yml_files += file_count
-        print(f"  {category:15s} -> {file_count:4d} YML files, {len(posters):4d} IDs with custom posters")
+        print(f"  {cat.name:15s} -> {file_count:4d} YML files, {len(posters):4d} IDs with custom posters")
 
     total_unique_ids = sum(len(v) for v in yml_posters_by_cat.values())
     print(f"\n  Total YML files scanned:        {total_yml_files}")
     print(f"  Total unique YML poster entries: {total_unique_ids}")
 
+    # Build episode-derived season maps for TV categories (source of truth
+    # for which seasons actually exist in Plex).
+    episode_seasons_by_cat: dict[str, dict[str, set[int]]] = {}
+    for cat in CATEGORIES:
+        if cat.is_tv and cat.episode_csv and cat.episode_csv.exists():
+            episode_seasons_by_cat[cat.name] = read_episode_seasons(cat.episode_csv)
+
     # Compare each CSV entry against the category-specific YML poster set
     print("\nChecking CSV libraries against YML posters...")
-    missing_by_cat: dict[str, list[str]] = {cat: [] for cat in CSV_FILES}
-    missing_seasons_by_cat: dict[str, list[str]] = {cat: [] for cat in ("Anime", "TV-Shows")}
+    missing_by_cat: dict[str, list[str]] = {}
+    missing_seasons_by_cat: dict[str, list[str]] = {}
 
-    for category, (csv_path, title_col, id_col) in CSV_FILES.items():
-        is_tv = category in ("Anime", "TV-Shows")
-        csv_entries = read_csv_entries(csv_path, title_col, id_col, is_tv)
+    for cat in CATEGORIES:
+        missing_main, missing_seasons, total_entries = check_category(
+            cat,
+            yml_posters_by_cat[cat.name],
+            yml_season_posters_by_cat[cat.name],
+            episode_seasons_by_cat.get(cat.name, {}),
+        )
+        missing_by_cat[cat.name] = missing_main
+        if cat.is_tv:
+            missing_seasons_by_cat[cat.name] = missing_seasons
 
-        yml_ids = yml_posters_by_cat[category]
-        yml_seasons = yml_season_posters_by_cat.get(category, {})
-
-        for raw_title, year, entry_id, seasons_count in csv_entries:
-            # Only append (year) if the raw title doesn't already end with (YYYY)
-            if year and not re.search(r'\(\d{4}\)\s*$', raw_title):
-                label = f"{raw_title} ({year})"
-            else:
-                label = raw_title
-
-            # Check for top-level show/movie posters
-            if entry_id not in yml_ids:
-                missing_by_cat[category].append(label)
-
-            # Check for seasonal posters
-            if is_tv and seasons_count > 0:
-                available_seasons = yml_seasons.get(entry_id, set())
-                missing_seasons = []
-
-                # Adjust for Plex including season 0/specials in the count.
-                # If YML has season 0 configured, the CSV "seasons" count includes it,
-                # so effective regular seasons = count - 1.
-                # ponytail: infers from YML poster presence; shows with season 0 but
-                # no poster configured will still check the full (over)count.
-                effective_count = seasons_count - 1 if 0 in available_seasons else seasons_count
-
-                # Check 1 through effective_count
-                for s in range(1, effective_count + 1):
-                    if s not in available_seasons:
-                        missing_seasons.append(str(s))
-
-                if missing_seasons:
-                    missing_seasons_by_cat[category].append(f"{label} (Missing Seasons: {', '.join(missing_seasons)})")
-
-        # Sort the output lists alphabetically
-        missing_by_cat[category].sort(key=str.lower)
-        if is_tv:
-            missing_seasons_by_cat[category].sort(key=str.lower)
-
-        print(f"  {category:15s} -> {len(missing_by_cat[category]):4d} / {len(csv_entries)} titles missing posters")
+        print(f"  {cat.name:15s} -> {len(missing_main):4d} / {total_entries} titles missing posters")
 
     total_missing = sum(len(v) for v in missing_by_cat.values())
     total_missing_seasonal = sum(len(v) for v in missing_seasons_by_cat.values())
@@ -252,16 +328,19 @@ def main() -> None:
     ]
 
     # Append Main Poster Missing Lists
-    for category, titles in missing_by_cat.items():
-        lines.append(f"=== {category} (Missing Series/Movie Posters: {len(titles)}) ===")
+    for cat in CATEGORIES:
+        titles = missing_by_cat[cat.name]
+        lines.append(f"=== {cat.name} (Missing Series/Movie Posters: {len(titles)}) ===")
         lines.extend(titles)
         lines.append("")   # blank line between sections
 
     # Append Seasonal Poster Missing Lists
-    for category, titles in missing_seasons_by_cat.items():
-        lines.append(f"=== {category} (Missing Seasonal Posters: {len(titles)}) ===")
-        lines.extend(titles)
-        lines.append("")   # blank line between sections
+    for cat in CATEGORIES:
+        if cat.is_tv:
+            titles = missing_seasons_by_cat[cat.name]
+            lines.append(f"=== {cat.name} (Missing Seasonal Posters: {len(titles)}) ===")
+            lines.extend(titles)
+            lines.append("")   # blank line between sections
 
     # Ensure the directory exists before writing
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
