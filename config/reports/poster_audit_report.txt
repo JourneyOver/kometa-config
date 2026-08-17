@@ -1,29 +1,18 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1614
+Total .yml files scanned (metadata): 1619
 Total .yml files scanned (collections): 216
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 17
+Count: 6
 ============================================================
 metadata/movies/Pet Sematary (Reboot).yml
 metadata/movies/Pet Sematary.yml
-metadata/movies/Puss in Boots.yml
 metadata/movies/Resident Evil.yml
-metadata/movies/Rio.yml
-metadata/movies/Saw.yml
-metadata/movies/Shrek.yml
 metadata/movies/Sinister.yml
-metadata/movies/Smile.yml
-metadata/movies/Sonic the Hedgehog.yml
-metadata/movies/Tarzan (Animation).yml
 metadata/movies/Terrifier.yml
-metadata/movies/The Incredibles.yml
-metadata/movies/The Lion King (Animation).yml
-metadata/movies/The Lion King.yml
 metadata/movies/Unbreakable.yml
-metadata/movies/Wreck-It Ralph.yml
 
 ============================================================
 SECTION 2: METADATA - MISSING URL AFTER SECOND "#" LINE
@@ -33,13 +22,10 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 80
+Count: 75
 ============================================================
-metadata/movies/100% wolf.yml
 metadata/movies/A Nightmare on Elm Street.yml
 metadata/movies/A Quiet Place.yml
-metadata/movies/Anaconda.yml
-metadata/movies/Back to the Future.yml
 metadata/movies/Ballerina.yml
 metadata/movies/Children of the Corn.yml
 metadata/movies/Cloverfield.yml
@@ -57,9 +43,7 @@ metadata/movies/I Know What You Did Last Summer.yml
 metadata/movies/Jeepers Creepers.yml
 metadata/movies/Lake Placid.yml
 metadata/movies/Naked Gun.yml
-metadata/movies/One Mile.yml
 metadata/movies/Piglet.yml
-metadata/movies/Pulse.yml
 metadata/movies/Ready or Not.yml
 metadata/movies/RoboCop.yml
 metadata/movies/Rush Hour.yml
@@ -132,14 +116,12 @@ collections/movies/Paddington.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 63
+Count: 59
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
 collections/movies/A Quiet Place.yml
 collections/movies/Alien-Predator Universe.yml
-collections/movies/Anaconda.yml
-collections/movies/Back to the Future.yml
 collections/movies/Blair Witch.yml
 collections/movies/Children of the Corn.yml
 collections/movies/Cloverfield.yml
@@ -163,14 +145,12 @@ collections/movies/Naked Gun.yml
 collections/movies/One Mile.yml
 collections/movies/Pet Sematary (Reboot).yml
 collections/movies/Pet Sematary.yml
-collections/movies/Pulse.yml
 collections/movies/Ready or Not.yml
 collections/movies/Resident Evil.yml
 collections/movies/RoboCop.yml
 collections/movies/Rush Hour.yml
 collections/movies/Sinister.yml
 collections/movies/Starship Troopers.yml
-collections/movies/Tarzan (Animation).yml
 collections/movies/Teenage Mutant Ninja Turtles (Remake).yml
 collections/movies/Teenage Mutant Ninja Turtles.yml
 collections/movies/Terrifier.yml

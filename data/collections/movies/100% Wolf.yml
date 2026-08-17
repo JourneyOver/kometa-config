@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/292385
+# https://theposterdb.com/set/415502
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "100% Wolf":
     template: { name: Collection, collection: 1311628, order: release }
-    url_poster: "https://theposterdb.com/api/assets/526217"
+    url_poster: "https://theposterdb.com/api/assets/737440"
     url_background: "https://image.tmdb.org/t/p/original/nEEW3hwDI82CmPeXy8Dn2WpvHzG.jpg"
     summary: "Freddy Lupin, a young werewolf heir, faces a hilarious twist of fate when he transforms into a poodle instead of a werewolf. As he navigates his new life and proves his worth, Freddy learns valuable lessons about courage, friendship, and self-acceptance."

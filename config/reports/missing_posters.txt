@@ -1,20 +1,17 @@
-Total YML files scanned: 1614
-Total unique YML poster entries: 2182
-Total missing series/movie posters: 2
-Total missing seasonal posters: 1
+Total YML files scanned: 1619
+Total unique YML poster entries: 2187
+Total missing series/movie posters: 0
+Total missing seasonal posters: 0
 ------------------------------------------------------------
 
-=== Anime (Missing Series/Movie Posters: 1) ===
-Reign: The Conqueror (1997)
+=== Anime (Missing Series/Movie Posters: 0) ===
 
 === Anime-Movies (Missing Series/Movie Posters: 0) ===
 
-=== Movies (Missing Series/Movie Posters: 1) ===
-S.T.A.L.K.E.R.: Shadow of the Zone (2024)
+=== Movies (Missing Series/Movie Posters: 0) ===
 
 === TV-Shows (Missing Series/Movie Posters: 0) ===
 
-=== Anime (Missing Seasonal Posters: 1) ===
-Reign: The Conqueror (1997) (Missing Seasons: 1)
+=== Anime (Missing Seasonal Posters: 0) ===
 
 === TV-Shows (Missing Seasonal Posters: 0) ===

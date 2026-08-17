@@ -1,13 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/8320
+
 metadata:
 
   808: # Shrek (2001)
-    url_poster: "https://api.mediux.pro/assets/0674f3e1-63e5-459a-ba63-2820cc1c538d"
+    url_poster: "https://api.mediux.pro/assets/4159a126-2dce-421f-9c6d-0253410f7ae4"
 
   809: # Shrek 2 (2004)
-    url_poster: "https://api.mediux.pro/assets/2692fcbf-ad4c-4463-8ef3-019347e7482b"
+    url_poster: "https://api.mediux.pro/assets/078b037d-3d56-49e2-a25d-f0bc44f61e65"
 
   810: # Shrek the Third (2007)
-    url_poster: "https://api.mediux.pro/assets/ee59f609-e3f3-4d84-b2c4-d8f88a85d6b0"
+    url_poster: "https://api.mediux.pro/assets/7b9b5196-f7ce-4e43-a971-7b9cc41ef1cd"
 
   10192: # Shrek Forever After (2010)
-    url_poster: "https://api.mediux.pro/assets/071a37a8-37ba-4f05-bd48-a07831d2e383"
+    url_poster: "https://api.mediux.pro/assets/c2b71bd6-feef-468f-bd3f-1e4232388833"
