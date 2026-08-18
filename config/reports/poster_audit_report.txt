@@ -5,14 +5,12 @@ Total .yml files scanned (collections): 216
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 6
+Count: 4
 ============================================================
 metadata/movies/Pet Sematary (Reboot).yml
 metadata/movies/Pet Sematary.yml
 metadata/movies/Resident Evil.yml
-metadata/movies/Sinister.yml
 metadata/movies/Terrifier.yml
-metadata/movies/Unbreakable.yml
 
 ============================================================
 SECTION 2: METADATA - MISSING URL AFTER SECOND "#" LINE
@@ -22,15 +20,11 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 75
+Count: 67
 ============================================================
 metadata/movies/A Nightmare on Elm Street.yml
-metadata/movies/A Quiet Place.yml
 metadata/movies/Ballerina.yml
 metadata/movies/Children of the Corn.yml
-metadata/movies/Cloverfield.yml
-metadata/movies/Dune.yml
-metadata/movies/Fear Street.yml
 metadata/movies/Friday the 13th.yml
 metadata/movies/Goosebumps.yml
 metadata/movies/Halloween.yml
@@ -56,9 +50,6 @@ metadata/movies/The Conjuring Universe.yml
 metadata/movies/The Hills Have Eyes.yml
 metadata/movies/The Karate Kid.yml
 metadata/movies/The Super Mario.yml
-metadata/movies/The Thing.yml
-metadata/movies/Train to Busan.yml
-metadata/movies/Transformers.yml
 metadata/movies/V-H-S.yml
 metadata/movies/middle-earth/The Hobbit.yml
 metadata/movies/middle-earth/The Lord of the Rings.yml
@@ -76,7 +67,6 @@ metadata/shows/Dutton Ranch.yml
 metadata/shows/Haunted Hotel.yml
 metadata/shows/Helluva Boss.yml
 metadata/shows/Inside Job.yml
-metadata/shows/Jentry Chau vs. the Underworld.yml
 metadata/shows/Lawmen - Bass Reeves.yml
 metadata/shows/Legacies.yml
 metadata/shows/Marshals.yml
@@ -116,17 +106,13 @@ collections/movies/Paddington.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 59
+Count: 50
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
-collections/movies/A Quiet Place.yml
 collections/movies/Alien-Predator Universe.yml
 collections/movies/Blair Witch.yml
 collections/movies/Children of the Corn.yml
-collections/movies/Cloverfield.yml
-collections/movies/Dune.yml
-collections/movies/Fear Street.yml
 collections/movies/Friday the 13th.yml
 collections/movies/Ghostbusters.yml
 collections/movies/Goosebumps.yml
@@ -149,7 +135,6 @@ collections/movies/Ready or Not.yml
 collections/movies/Resident Evil.yml
 collections/movies/RoboCop.yml
 collections/movies/Rush Hour.yml
-collections/movies/Sinister.yml
 collections/movies/Starship Troopers.yml
 collections/movies/Teenage Mutant Ninja Turtles (Remake).yml
 collections/movies/Teenage Mutant Ninja Turtles.yml
@@ -160,11 +145,7 @@ collections/movies/The Hills Have Eyes.yml
 collections/movies/The Karate Kid.yml
 collections/movies/The MonsterVerse.yml
 collections/movies/The Super Mario.yml
-collections/movies/The Thing.yml
-collections/movies/Train to Busan.yml
-collections/movies/Transformers.yml
 collections/movies/Tremors.yml
-collections/movies/Unbreakable.yml
 collections/movies/V-H-S.yml
 collections/movies/dc/DC Extended Universe.yml
 collections/movies/dc/DC Universe.yml

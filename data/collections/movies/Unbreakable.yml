@@ -1,6 +1,5 @@
 # Poster from:
-# https://theposterdb.com/poster/95645
-# https://theposterdb.com/set/253651
+# https://mediux.pro/sets/58395
 
 external_templates:
   - file: data/_templates.yml
@@ -9,6 +8,6 @@ collections:
 
   "Unbreakable":
     template: { name: Collection, collection_trakt: https://trakt.tv/users/bfchris/lists/unbreakable-glass-trilogy, order: release }
-    url_poster: "https://theposterdb.com/api/assets/95645"
+    url_poster: "https://api.mediux.pro/assets/fce5740e-6739-49d3-a229-ad254b88dbd6"
     url_background: "https://halloweenlove.com/images/posts/eastrail-177-trilogy.jpg"
     summary: "A man discovers he is impervious to injury. Another, with a mind capable of seeing the hidden truths of the world, reveals a dark secret that will change everything. The Unbreakable trilogy, a blend of superhero thriller and psychological horror, follows the journey of these extraordinary individuals as they grapple with their own powers and destinies. From the quiet realization of unbreakable strength to the unraveling of a secret world, the trilogy explores the fragile line between heroism and villainy, and the hidden forces shaping their fates."

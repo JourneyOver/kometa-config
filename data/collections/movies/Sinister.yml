@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/110544
+# https://mediux.pro/sets/58404
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Sinister":
     template: { name: Collection, collection: 357173, order: release }
-    url_poster: "https://theposterdb.com/api/assets/181619"
+    url_poster: "https://api.mediux.pro/assets/f11ec576-b625-4ee2-b79c-307effbecc61"
     url_background: "https://image.tmdb.org/t/p/original/4JASyGk5suaz4xwMp6irzg334k6.jpg"
     summary: "A box of old film reels holds the key to a darkness that feeds on the innocent. For those who watch, curiosity becomes a curse, pulling them deeper into the snuff films of an ancient entity that hunts through the eyes of children. Across two homes where unspeakable things have happened, the past refuses to stay buried, and every projector flickers to life with the promise that once you invite the shadows in, they never leave."

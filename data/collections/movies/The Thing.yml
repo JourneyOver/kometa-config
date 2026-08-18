@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/132931
+# https://mediux.pro/sets/58406
 
 external_templates:
   - file: data/_templates.yml
@@ -8,7 +8,7 @@ collections:
 
   "The Thing":
     template: { name: Collection, collection: 479888, order: release }
-    url_poster: "https://theposterdb.com/api/assets/220459"
+    url_poster: "https://api.mediux.pro/assets/7e0b49e0-8965-412c-8979-fa173e7f2ab9"
     url_background: "https://image.tmdb.org/t/p/original/lUPruOqjDhZrCKz9Ze2tCufPxHR.jpg"
     sort_title: "Thing"
     summary: "In the frozen isolation of Antarctica, an insidious, shape-shifting terror emerges, turning trust into a weapon of survival. Isolated researchers confront an enemy that wears any face, as paranoia and dread twist every encounter into a fight for the soul."
