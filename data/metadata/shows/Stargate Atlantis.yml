@@ -1,19 +1,18 @@
 # Posters from:
-# https://theposterdb.com/set/135235
+# https://mediux.pro/sets/58458
 
 metadata:
 
   70851: # Stargate Atlantis (2004)
-    url_poster: "https://theposterdb.com/api/assets/224842"
-    url_background: "https://api.mediux.pro/assets/ce333b5a-1bc5-4d8a-8642-d577d71bd564"
+    url_poster: "https://api.mediux.pro/assets/53ce524e-370d-4319-93b0-bc7197cc4a65"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/224843"
+        url_poster: "https://api.mediux.pro/assets/52690974-dc2d-4294-9dda-e213594fb262"
       2:
-        url_poster: "https://theposterdb.com/api/assets/224844"
+        url_poster: "https://api.mediux.pro/assets/3d3e0242-c29c-4b30-b56f-fa903a84ad0b"
       3:
-        url_poster: "https://theposterdb.com/api/assets/224845"
+        url_poster: "https://api.mediux.pro/assets/ab50a508-8a80-474a-8b6d-51291ba557dd"
       4:
-        url_poster: "https://theposterdb.com/api/assets/224846"
+        url_poster: "https://api.mediux.pro/assets/fb74c313-f3f3-41c3-8e27-a67d7d0008e7"
       5:
-        url_poster: "https://theposterdb.com/api/assets/224847"
+        url_poster: "https://api.mediux.pro/assets/aea15b66-ad30-472b-b1f2-b0fcf445e390"

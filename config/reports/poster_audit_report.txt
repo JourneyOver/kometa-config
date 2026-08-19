@@ -5,12 +5,8 @@ Total .yml files scanned (collections): 216
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
-Count: 4
+Count: 0
 ============================================================
-metadata/movies/Pet Sematary (Reboot).yml
-metadata/movies/Pet Sematary.yml
-metadata/movies/Resident Evil.yml
-metadata/movies/Terrifier.yml
 
 ============================================================
 SECTION 2: METADATA - MISSING URL AFTER SECOND "#" LINE
@@ -20,7 +16,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 67
+Count: 62
 ============================================================
 metadata/movies/A Nightmare on Elm Street.yml
 metadata/movies/Ballerina.yml
@@ -37,14 +33,16 @@ metadata/movies/I Know What You Did Last Summer.yml
 metadata/movies/Jeepers Creepers.yml
 metadata/movies/Lake Placid.yml
 metadata/movies/Naked Gun.yml
-metadata/movies/Piglet.yml
+metadata/movies/Pet Sematary (Reboot).yml
+metadata/movies/Pet Sematary.yml
 metadata/movies/Ready or Not.yml
+metadata/movies/Resident Evil.yml
 metadata/movies/RoboCop.yml
 metadata/movies/Rush Hour.yml
 metadata/movies/Starship Troopers.yml
-metadata/movies/TRON.yml
 metadata/movies/Teenage Mutant Ninja Turtles (Remake).yml
 metadata/movies/Teenage Mutant Ninja Turtles.yml
+metadata/movies/Terrifier.yml
 metadata/movies/Texas Chainsaw Massacre.yml
 metadata/movies/The Conjuring Universe.yml
 metadata/movies/The Hills Have Eyes.yml
@@ -57,7 +55,6 @@ metadata/shows/1883.yml
 metadata/shows/1923.yml
 metadata/shows/Adventure Time - Distant Lands.yml
 metadata/shows/Adventure Time - Fionna & Cake.yml
-metadata/shows/Aftermath.yml
 metadata/shows/Amphibia.yml
 metadata/shows/Black Summer.yml
 metadata/shows/Community.yml
@@ -65,20 +62,14 @@ metadata/shows/Dead End - Paranormal Park.yml
 metadata/shows/Disenchantment.yml
 metadata/shows/Dutton Ranch.yml
 metadata/shows/Haunted Hotel.yml
-metadata/shows/Helluva Boss.yml
 metadata/shows/Inside Job.yml
 metadata/shows/Lawmen - Bass Reeves.yml
 metadata/shows/Legacies.yml
 metadata/shows/Marshals.yml
-metadata/shows/NOS4A2.yml
-metadata/shows/Pennyworth.yml
 metadata/shows/Preacher.yml
 metadata/shows/Resident Evil.yml
 metadata/shows/Sanctuary - A Witch's Tale.yml
 metadata/shows/Star vs. the Forces of Evil.yml
-metadata/shows/Stargate Atlantis.yml
-metadata/shows/Stargate SG-1.yml
-metadata/shows/Stargate Universe.yml
 metadata/shows/The Boondocks.yml
 metadata/shows/The Four Seasons.yml
 metadata/shows/The Hot Zone.yml

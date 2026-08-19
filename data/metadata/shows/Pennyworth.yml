@@ -1,14 +1,14 @@
 # Posters from:
-# https://theposterdb.com/set/164990
+# https://mediux.pro/sets/58450
 
 metadata:
 
   363008: # Pennyworth (2019)
-    url_poster: "https://theposterdb.com/api/assets/277068"
+    url_poster: "https://api.mediux.pro/assets/a3515a07-75ff-44a5-b9f5-6a84decca8cc"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/277069"
+        url_poster: "https://api.mediux.pro/assets/8e68c569-6622-434f-b06d-d9f850401015"
       2:
-        url_poster: "https://theposterdb.com/api/assets/277070"
+        url_poster: "https://api.mediux.pro/assets/6d6e19cd-620a-487b-90e7-a3a97701fcf6"
       3:
-        url_poster: "https://theposterdb.com/api/assets/277071"
+        url_poster: "https://api.mediux.pro/assets/e9a863fe-f42a-468f-b244-51bf10988343"

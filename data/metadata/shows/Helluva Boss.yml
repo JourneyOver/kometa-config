@@ -1,14 +1,14 @@
 # Posters from:
-# https://theposterdb.com/set/247139
+# https://mediux.pro/sets/58452
 
 metadata:
 
   391246: # Helluva Boss (2019)
-    url_poster: "https://theposterdb.com/api/assets/447120"
+    url_poster: "https://api.mediux.pro/assets/d9e9cc20-6482-4a50-8d54-2c7088cbd67d"
     seasons:
       0:
-        url_poster: "https://theposterdb.com/api/assets/447121"
+        url_poster: "https://api.mediux.pro/assets/c3b85e95-25d1-4ab3-8e7a-b457059014d3"
       1:
-        url_poster: "https://theposterdb.com/api/assets/447122"
+        url_poster: "https://api.mediux.pro/assets/62987270-953a-43a4-8e74-8bbef0acad1e"
       2:
-        url_poster: "https://theposterdb.com/api/assets/447123"
+        url_poster: "https://api.mediux.pro/assets/e157d82a-5e76-4334-88f5-99824b684811"

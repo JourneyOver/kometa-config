@@ -4,3 +4,4 @@ config/logs
 config/reports/missing_*.yml
 plex/*
 .venv
+__pycache__

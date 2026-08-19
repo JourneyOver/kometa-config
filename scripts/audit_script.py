@@ -53,35 +53,38 @@ class AuditResult:
     posterdb: list[str] = field(default_factory=list)
 
 
-def audit_file(path: Path, root: Path) -> str | None:
-    """Return the issue category for *path*, or ``None`` if it is clean.
+def audit_file(path: Path, root: Path) -> list[str]:
+    """Return the list of issue categories for *path* (empty if clean).
 
-    The relative path (posix, without the scope prefix) drives the anime
-    exclusion check.
+    The posterdb check scans the entire file and is independent of the
+    header/URL checks, so a file is flagged as using theposterdb.com even
+    when it also has header or URL issues. The relative path (posix, without
+    the scope prefix) drives the anime exclusion check.
     """
     try:
         text = path.read_text(encoding="utf-8", errors="replace")
     except OSError:
-        return None
+        return []
 
     rel = path.relative_to(root).as_posix()
+    categories: list[str] = []
 
     head_lines = text.splitlines()[:HEADER_LINES]
     has_header = any(marker in line for line in head_lines for marker in HEADER_MARKERS)
     if not has_header:
-        return CATEGORY_MISSING_HEADER
-
-    comment_lines = [line for line in head_lines if line.startswith("#")]
-    has_url = any("http" in line.lower() for line in comment_lines)
-    if not has_url:
-        return CATEGORY_MISSING_URL
+        categories.append(CATEGORY_MISSING_HEADER)
+    else:
+        comment_lines = [line for line in head_lines if line.startswith("#")]
+        has_url = any("http" in line.lower() for line in comment_lines)
+        if not has_url:
+            categories.append(CATEGORY_MISSING_URL)
 
     is_posterdb = POSTERDB_DOMAIN in text
     is_anime = rel.startswith(ANIME_PREFIXES)
     if is_posterdb and not is_anime:
-        return CATEGORY_POSTERDB
+        categories.append(CATEGORY_POSTERDB)
 
-    return None
+    return categories
 
 
 def scan_scope(root: Path, scope_prefix: str) -> AuditResult:
@@ -94,19 +97,20 @@ def scan_scope(root: Path, scope_prefix: str) -> AuditResult:
     result.total = len(yml_files)
 
     for path in yml_files:
-        category = audit_file(path, root)
-        if category is None:
+        categories = audit_file(path, root)
+        if not categories:
             continue
 
         rel = path.relative_to(root).as_posix()
         labelled = f"{scope_prefix}/{rel}"
 
-        if category == CATEGORY_MISSING_HEADER:
-            result.missing_header.append(labelled)
-        elif category == CATEGORY_MISSING_URL:
-            result.missing_url.append(labelled)
-        else:  # CATEGORY_POSTERDB
-            result.posterdb.append(labelled)
+        for category in categories:
+            if category == CATEGORY_MISSING_HEADER:
+                result.missing_header.append(labelled)
+            elif category == CATEGORY_MISSING_URL:
+                result.missing_url.append(labelled)
+            else:  # CATEGORY_POSTERDB
+                result.posterdb.append(labelled)
 
     return result
 

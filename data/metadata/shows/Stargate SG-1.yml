@@ -1,29 +1,28 @@
 # Posters from:
-# https://theposterdb.com/set/113009
+# https://mediux.pro/sets/58456
 
 metadata:
 
   72449: # Stargate SG-1 (1997)
-    url_poster: "https://theposterdb.com/api/assets/186436"
-    url_background: "https://api.mediux.pro/assets/74e4808c-4590-42f2-acaa-58501bf689ec"
+    url_poster: "https://api.mediux.pro/assets/91afeb16-8b1a-4e4f-a0ec-00b698472f2c"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/186437"
+        url_poster: "https://api.mediux.pro/assets/78d93fec-8398-403b-9cac-18330b79eae0"
       2:
-        url_poster: "https://theposterdb.com/api/assets/186438"
+        url_poster: "https://api.mediux.pro/assets/be09e8ea-c472-4431-872f-62ef0d8d6042"
       3:
-        url_poster: "https://theposterdb.com/api/assets/186439"
+        url_poster: "https://api.mediux.pro/assets/cf9b0698-4744-4e60-bf95-47f8a1e4f7b6"
       4:
-        url_poster: "https://theposterdb.com/api/assets/186440"
+        url_poster: "https://api.mediux.pro/assets/1edb71b2-fb97-43b2-98c4-2d02c8dac510"
       5:
-        url_poster: "https://theposterdb.com/api/assets/186441"
+        url_poster: "https://api.mediux.pro/assets/5a6a5139-740c-4ab8-9d0b-1605b7acec2f"
       6:
-        url_poster: "https://theposterdb.com/api/assets/186442"
+        url_poster: "https://api.mediux.pro/assets/d09ddeb7-9f5c-4a49-adce-5515c8fb1f91"
       7:
-        url_poster: "https://theposterdb.com/api/assets/186443"
+        url_poster: "https://api.mediux.pro/assets/a06de662-e684-492e-b01f-3ff47a7f68ce"
       8:
-        url_poster: "https://theposterdb.com/api/assets/186444"
+        url_poster: "https://api.mediux.pro/assets/00961ea1-83ce-4c86-b321-f1272b00f375"
       9:
-        url_poster: "https://theposterdb.com/api/assets/186445"
+        url_poster: "https://api.mediux.pro/assets/ba844a59-930e-48c6-b2b0-d5a861650bee"
       10:
-        url_poster: "https://theposterdb.com/api/assets/186446"
+        url_poster: "https://api.mediux.pro/assets/28fbfcf3-0c99-4b04-a8dd-cc4625c837ea"
