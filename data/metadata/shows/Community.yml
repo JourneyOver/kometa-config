@@ -1,20 +1,22 @@
 # Posters from:
-# https://theposterdb.com/set/159348
+# https://mediux.pro/sets/58510
 
 metadata:
 
   94571: # Community (2009)
-    url_poster: "https://theposterdb.com/api/assets/267432"
+    url_poster: "https://api.mediux.pro/assets/9075599d-6679-44a6-a3df-8fee2170e35e"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/10d6d5d2-6795-4c6d-8341-99fcc209819b"
       1:
-        url_poster: "https://theposterdb.com/api/assets/267433"
+        url_poster: "https://api.mediux.pro/assets/a54e6435-d24d-4722-b525-17221c52fdf6"
       2:
-        url_poster: "https://theposterdb.com/api/assets/267434"
+        url_poster: "https://api.mediux.pro/assets/935e2c19-f7db-4138-b786-e5188caf3601"
       3:
-        url_poster: "https://theposterdb.com/api/assets/267435"
+        url_poster: "https://api.mediux.pro/assets/a55e74aa-0adf-4da6-8366-f6c893cc4cc2"
       4:
-        url_poster: "https://theposterdb.com/api/assets/267436"
+        url_poster: "https://api.mediux.pro/assets/900d8e75-bde5-44c1-b50d-56a956f3aae5"
       5:
-        url_poster: "https://theposterdb.com/api/assets/267437"
+        url_poster: "https://api.mediux.pro/assets/2e2f65cc-4181-4fca-874f-a0fb9b9f184e"
       6:
-        url_poster: "https://theposterdb.com/api/assets/267438"
+        url_poster: "https://api.mediux.pro/assets/a76d8f2b-b0c7-4740-b109-bd107d49128e"

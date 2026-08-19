@@ -1,12 +1,12 @@
 # Posters from:
-# https://theposterdb.com/set/333452
+# https://mediux.pro/sets/58536
 
 metadata:
 
   444528: # The Four Seasons (2025)
-    url_poster: "https://theposterdb.com/api/assets/598674"
+    url_poster: "https://api.mediux.pro/assets/9d2620cf-7b6e-44e1-8fa5-15f397eb71f1"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/598675"
+        url_poster: "https://api.mediux.pro/assets/ad19df5c-61d6-43e8-a7c4-07e993b8ee47"
       2:
-        url_poster: "https://theposterdb.com/api/assets/717844"
+        url_poster: "https://api.mediux.pro/assets/287f9715-ee1e-4376-9262-0e416c880e3f"

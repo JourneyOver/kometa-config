@@ -1,16 +1,18 @@
 # Posters from:
-# https://theposterdb.com/set/142305
+# https://mediux.pro/sets/58549
 
 metadata:
 
   300472: # Preacher (2016)
-    url_poster: "https://theposterdb.com/api/assets/236699"
+    url_poster: "https://api.mediux.pro/assets/95a5b818-ef50-4532-872d-0e460b5c980f"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/4bc7dfec-1303-459c-9a19-aba92b96e94d"
       1:
-        url_poster: "https://theposterdb.com/api/assets/236700"
+        url_poster: "https://api.mediux.pro/assets/a3885deb-be24-475d-8bc8-7d0852d3637b"
       2:
-        url_poster: "https://theposterdb.com/api/assets/236701"
+        url_poster: "https://api.mediux.pro/assets/c9251158-c8f3-41ac-bc8b-bed74ca7cfc8"
       3:
-        url_poster: "https://theposterdb.com/api/assets/236702"
+        url_poster: "https://api.mediux.pro/assets/65cb4925-1d57-4b02-9d12-eb42cb2fb359"
       4:
-        url_poster: "https://theposterdb.com/api/assets/236703"
+        url_poster: "https://api.mediux.pro/assets/fe65bad7-1d58-4378-95e2-bbde8b0f3f2a"

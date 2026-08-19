@@ -1,10 +1,12 @@
 # Posters from:
-# https://theposterdb.com/set/371478
+# https://mediux.pro/sets/58516
 
 metadata:
 
   430243: # The Mighty Nein (2025)
-    url_poster: "https://theposterdb.com/api/assets/663276"
+    url_poster: "https://api.mediux.pro/assets/812f1bf8-a0a3-495e-a043-353f4fbd1a3f"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/d4abbc72-e75e-4c43-b485-218e3e7bae8a"
       1:
-        url_poster: "https://theposterdb.com/api/assets/663277"
+        url_poster: "https://api.mediux.pro/assets/a692b57f-ed55-4393-b8be-43c47ade954f"

@@ -1,12 +1,12 @@
 # Posters from:
-# https://theposterdb.com/set/134153
+# https://mediux.pro/sets/58523
 
 metadata:
 
   359477: # The Hot Zone (2019)
-    url_poster: "https://theposterdb.com/api/assets/223138"
+    url_poster: "https://api.mediux.pro/assets/5c22bc9a-aa32-4c41-a267-0bcbd18df2b6"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/223139"
+        url_poster: "https://api.mediux.pro/assets/d406ba4a-1146-4ef2-87f4-b8b889b33d76"
       2:
-        url_poster: "https://theposterdb.com/api/assets/223140"
+        url_poster: "https://api.mediux.pro/assets/9fbc3dba-7016-44c7-b11d-aabace2722a4"

@@ -16,7 +16,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 62
+Count: 54
 ============================================================
 metadata/movies/A Nightmare on Elm Street.yml
 metadata/movies/Ballerina.yml
@@ -56,9 +56,6 @@ metadata/shows/1923.yml
 metadata/shows/Adventure Time - Distant Lands.yml
 metadata/shows/Adventure Time - Fionna & Cake.yml
 metadata/shows/Amphibia.yml
-metadata/shows/Black Summer.yml
-metadata/shows/Community.yml
-metadata/shows/Dead End - Paranormal Park.yml
 metadata/shows/Disenchantment.yml
 metadata/shows/Dutton Ranch.yml
 metadata/shows/Haunted Hotel.yml
@@ -66,16 +63,11 @@ metadata/shows/Inside Job.yml
 metadata/shows/Lawmen - Bass Reeves.yml
 metadata/shows/Legacies.yml
 metadata/shows/Marshals.yml
-metadata/shows/Preacher.yml
 metadata/shows/Resident Evil.yml
 metadata/shows/Sanctuary - A Witch's Tale.yml
 metadata/shows/Star vs. the Forces of Evil.yml
 metadata/shows/The Boondocks.yml
-metadata/shows/The Four Seasons.yml
-metadata/shows/The Hot Zone.yml
 metadata/shows/The Lord of the Rings - The Rings of Power.yml
-metadata/shows/The Man Who Fell to Earth.yml
-metadata/shows/The Mighty Nein.yml
 metadata/shows/The Originals.yml
 metadata/shows/The Vampire Diaries.yml
 metadata/shows/The War Between the Land and the Sea.yml

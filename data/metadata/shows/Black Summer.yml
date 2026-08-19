@@ -1,14 +1,14 @@
 # Posters from:
-# https://theposterdb.com/set/318144
+# https://mediux.pro/sets/58548
 
 metadata:
 
   350587: # Black Summer (2019)
-    url_poster: "https://theposterdb.com/api/assets/573057"
+    url_poster: "https://api.mediux.pro/assets/61d412b7-646e-41f1-9171-0ba1417881c8"
     seasons:
 #      0:
-#        url_poster: "https://theposterdb.com/api/assets/573058"
+#        url_poster: "https://api.mediux.pro/assets/34a41670-39ab-4ed3-9283-0aa03c8b0481"
       1:
-        url_poster: "https://theposterdb.com/api/assets/573059"
+        url_poster: "https://api.mediux.pro/assets/dff1de62-f361-4aaf-91b3-0a1c631edc7c"
       2:
-        url_poster: "https://theposterdb.com/api/assets/573060"
+        url_poster: "https://api.mediux.pro/assets/cb2f826c-85d2-43bb-bdd5-3cd0014e3930"
