@@ -1,12 +1,10 @@
 # Posters from:
-# https://theposterdb.com/set/388536
+# https://mediux.pro/sets/58721
 
 metadata:
 
   463433: # Marshals (2026)
-    url_poster: "https://theposterdb.com/api/assets/694188"
+    url_poster: "https://api.mediux.pro/assets/239a21c0-a1c1-4b40-b21b-d210c08bc73b"
     seasons:
-#      0:
-#        url_poster: "https://theposterdb.com/api/assets/694189"
       1:
-        url_poster: "https://theposterdb.com/api/assets/694190"
+        url_poster: "https://api.mediux.pro/assets/e4195011-4e4d-402b-89d3-4ed15ed032b6"

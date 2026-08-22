@@ -1,20 +1,18 @@
 # Posters from:
-# https://theposterdb.com/set/170702
+# https://mediux.pro/sets/58719
 
 metadata:
 
   341164: # Yellowstone (2018)
-    url_poster: "https://theposterdb.com/api/assets/287928"
+    url_poster: "https://api.mediux.pro/assets/ab3056d9-8672-4005-a7e0-61f3002a197e"
     seasons:
-#      0:
-#        url_poster: "https://theposterdb.com/api/assets/293987"
       1:
-        url_poster: "https://theposterdb.com/api/assets/287929"
+        url_poster: "https://api.mediux.pro/assets/143002f2-3249-4a09-9382-0c25a61ba4e6"
       2:
-        url_poster: "https://theposterdb.com/api/assets/287930"
+        url_poster: "https://api.mediux.pro/assets/a208afbb-44a7-4b4f-a84c-d38775c7522e"
       3:
-        url_poster: "https://theposterdb.com/api/assets/287931"
+        url_poster: "https://api.mediux.pro/assets/3249df76-d4fd-4afb-82b2-25987baaf8c0"
       4:
-        url_poster: "https://theposterdb.com/api/assets/287932"
+        url_poster: "https://api.mediux.pro/assets/7e2e0529-e10e-460c-ac85-c26bb0475b54"
       5:
-        url_poster: "https://theposterdb.com/api/assets/287933"
+        url_poster: "https://api.mediux.pro/assets/0a16bf2f-e068-4fe7-a8a9-18cb7ce13a1e"

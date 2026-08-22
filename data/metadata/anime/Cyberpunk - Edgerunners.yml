@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/329368
+
+metadata:
+
+  384541: # Cyberpunk: Edgerunners (2022)
+    url_poster: "https://theposterdb.com/api/assets/591853"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/591854"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/591855"

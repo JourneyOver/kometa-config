@@ -1,14 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/30885
+# https://mediux.pro/sets/58718
 
 metadata:
 
   416491: # 1923 (2022)
-    url_poster: "https://theposterdb.com/api/assets/287927"
+    url_poster: "https://api.mediux.pro/assets/e20d9e3d-9866-4f97-9b8c-03b7ccb43f41"
     seasons:
-#      0:
-#        url_poster: "https://theposterdb.com/api/assets/293985"
       1:
-        url_poster: "https://theposterdb.com/api/assets/293986"
+        url_poster: "https://api.mediux.pro/assets/aa58b1e7-5597-4964-9d7f-2d579f9a9e46"
       2:
-        url_poster: "https://theposterdb.com/api/assets/574658"
+        url_poster: "https://api.mediux.pro/assets/5547a5a0-4195-4633-a830-5f197e636ce4"
