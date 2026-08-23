@@ -1,24 +1,26 @@
 # Posters from:
-# https://theposterdb.com/set/208363
+# https://mediux.pro/sets/58727
 
 metadata:
 
   95491: # The Vampire Diaries (2009)
-    url_poster: "https://theposterdb.com/api/assets/367255"
+    url_poster: "https://api.mediux.pro/assets/d9537c29-3d97-4e27-9534-b8e795cd4425"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/9f829a67-1d33-41e1-baa1-475f5c1025ce"
       1:
-        url_poster: "https://theposterdb.com/api/assets/367256"
+        url_poster: "https://api.mediux.pro/assets/63fafee1-425d-4543-af8b-fa6a90fdac1f"
       2:
-        url_poster: "https://theposterdb.com/api/assets/367257"
+        url_poster: "https://api.mediux.pro/assets/17c93f26-c9bf-4836-a311-aef473d54101"
       3:
-        url_poster: "https://theposterdb.com/api/assets/367258"
+        url_poster: "https://api.mediux.pro/assets/b70a2491-9e20-4097-922a-f82b01da5ee2"
       4:
-        url_poster: "https://theposterdb.com/api/assets/367259"
+        url_poster: "https://api.mediux.pro/assets/ad7d2bc6-ab2d-4821-aa28-cce32a634869"
       5:
-        url_poster: "https://theposterdb.com/api/assets/367260"
+        url_poster: "https://api.mediux.pro/assets/0c733e49-53ba-4270-80d1-e2f1d622fb96"
       6:
-        url_poster: "https://theposterdb.com/api/assets/367261"
+        url_poster: "https://api.mediux.pro/assets/552871ce-2190-4489-b1ee-e18cdb833660"
       7:
-        url_poster: "https://theposterdb.com/api/assets/367262"
+        url_poster: "https://api.mediux.pro/assets/e677f000-6ae4-48d9-8958-3360c47b2f27"
       8:
-        url_poster: "https://theposterdb.com/api/assets/367263"
+        url_poster: "https://api.mediux.pro/assets/67bea444-d84f-4d3b-b56a-44359f924878"

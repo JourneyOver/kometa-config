@@ -1,10 +1,10 @@
 # Posters from:
-# https://theposterdb.com/set/149834
+# https://mediux.pro/sets/58737
 
 metadata:
 
   387525: # Resident Evil (2022)
-    url_poster: "https://theposterdb.com/api/assets/250809"
+    url_poster: "https://api.mediux.pro/assets/26afeba6-0bdf-4843-b4ed-ff583d120a61"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/250810"
+        url_poster: "https://api.mediux.pro/assets/04f3e539-e20c-40a0-9339-8a2f635764c2"

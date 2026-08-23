@@ -16,7 +16,7 @@ Count: 0
 ============================================================
 SECTION 3: METADATA - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 45
+Count: 39
 ============================================================
 metadata/movies/A Nightmare on Elm Street.yml
 metadata/movies/Ballerina.yml
@@ -55,13 +55,7 @@ metadata/shows/Amphibia.yml
 metadata/shows/Disenchantment.yml
 metadata/shows/Haunted Hotel.yml
 metadata/shows/Inside Job.yml
-metadata/shows/Legacies.yml
-metadata/shows/Resident Evil.yml
-metadata/shows/Sanctuary - A Witch's Tale.yml
-metadata/shows/Star vs. the Forces of Evil.yml
 metadata/shows/The Boondocks.yml
-metadata/shows/The Originals.yml
-metadata/shows/The Vampire Diaries.yml
 metadata/shows/The War Between the Land and the Sea.yml
 
 ============================================================

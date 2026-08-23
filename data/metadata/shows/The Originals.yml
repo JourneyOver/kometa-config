@@ -1,18 +1,20 @@
 # Posters from:
-# https://theposterdb.com/set/208795
+# https://mediux.pro/sets/58728
 
 metadata:
 
   266883: # The Originals (2013)
-    url_poster: "https://theposterdb.com/api/assets/368147"
+    url_poster: "https://api.mediux.pro/assets/f8c429e5-e7c9-4175-b7ba-73bac4132ea6"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/de95a652-b8df-4da3-8faf-7f24f6219a09"
       1:
-        url_poster: "https://theposterdb.com/api/assets/368148"
+        url_poster: "https://api.mediux.pro/assets/6e89e446-1945-49a7-9111-25acdec67e97"
       2:
-        url_poster: "https://theposterdb.com/api/assets/368149"
+        url_poster: "https://api.mediux.pro/assets/7ab8a9cc-2328-4eb5-b2bd-2e9ecb0a864c"
       3:
-        url_poster: "https://theposterdb.com/api/assets/368150"
+        url_poster: "https://api.mediux.pro/assets/a56e9b3c-45a3-457b-9cd7-3d4ff45989f7"
       4:
-        url_poster: "https://theposterdb.com/api/assets/368151"
+        url_poster: "https://api.mediux.pro/assets/7a5c8e29-b8b8-4032-9a6f-614abc3a4e3a"
       5:
-        url_poster: "https://theposterdb.com/api/assets/368152"
+        url_poster: "https://api.mediux.pro/assets/0fdc6a53-8fb7-4fe0-941b-aa1dae318e20"
