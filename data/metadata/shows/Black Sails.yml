@@ -1,0 +1,18 @@
+# Posters from:
+# https://mediux.pro/sets/58757
+
+metadata:
+
+  262407: # Black Sails (2014)
+    url_poster: "https://api.mediux.pro/assets/89acd4b2-2b90-4d7e-9280-c40cd2e43374"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/31b2001b-c76b-4482-9517-796c572e6f2a"
+      1:
+        url_poster: "https://api.mediux.pro/assets/70a5f31a-b1e1-4b30-b372-7017d0cdf5d2"
+      2:
+        url_poster: "https://api.mediux.pro/assets/50f797a0-005d-43e3-b936-1a7b19d0b3ff"
+      3:
+        url_poster: "https://api.mediux.pro/assets/3e69b383-38d0-4fe8-946a-6154d62da7da"
+      4:
+        url_poster: "https://api.mediux.pro/assets/b4d72880-0f9e-4af8-9bad-3769c8836f15"

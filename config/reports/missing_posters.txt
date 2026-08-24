@@ -1,7 +1,7 @@
-Total YML files scanned: 1625
-Total unique YML poster entries: 2194
+Total YML files scanned: 1631
+Total unique YML poster entries: 2200
 Total missing series/movie posters: 0
-Total missing seasonal posters: 1
+Total missing seasonal posters: 0
 ------------------------------------------------------------
 
 === Anime (Missing Series/Movie Posters: 0) ===
@@ -14,5 +14,4 @@ Total missing seasonal posters: 1
 
 === Anime (Missing Seasonal Posters: 0) ===
 
-=== TV-Shows (Missing Seasonal Posters: 1) ===
-It's Always Sunny in Philadelphia (2005) (Missing Seasons: 18)
+=== TV-Shows (Missing Seasonal Posters: 0) ===
