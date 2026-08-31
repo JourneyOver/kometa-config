@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/58791
+
+metadata:
+
+  295829: # The Man in the High Castle (2015)
+    url_poster: "https://api.mediux.pro/assets/3b90e5cf-cab8-4dc5-85a9-9f37439cd787"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/b4341f47-36ee-4435-bcf3-cd53ca3179c8"
+      2:
+        url_poster: "https://api.mediux.pro/assets/be012331-7a28-4c55-8d99-92e953ac8421"
+      3:
+        url_poster: "https://api.mediux.pro/assets/a9d7e8b1-9252-48f2-8376-343928008aaf"
+      4:
+        url_poster: "https://api.mediux.pro/assets/2218d423-9c5f-460c-a807-9349d70ecb3b"
