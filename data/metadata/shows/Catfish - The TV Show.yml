@@ -1,0 +1,28 @@
+# Posters from:
+# https://mediux.pro/sets/59627
+
+metadata:
+
+  262754: # Catfish: The TV Show (2012)
+    url_poster: "https://api.mediux.pro/assets/f151aef1-e0fc-4abc-a9ad-d045c556afe6"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/9c3e1e6d-af7f-43cb-88ce-b4fb8cbb6da6"
+      1:
+        url_poster: "https://api.mediux.pro/assets/137eb45b-ba8f-48a4-87fe-9916de89ccaa"
+      2:
+        url_poster: "https://api.mediux.pro/assets/d5ddf576-6084-4784-846d-04b4078f2339"
+      3:
+        url_poster: "https://api.mediux.pro/assets/fc0d085c-dc83-4d91-849d-76ef4fcde8e1"
+      4:
+        url_poster: "https://api.mediux.pro/assets/d0b0f12b-4e82-4ec5-a59c-7fe54613eb4c"
+      5:
+        url_poster: "https://api.mediux.pro/assets/aaed14e3-50d5-479d-a1ad-68b899da693b"
+      6:
+        url_poster: "https://api.mediux.pro/assets/b52e4f89-d1b3-4c52-a6c2-2dd1783b0488"
+      7:
+        url_poster: "https://api.mediux.pro/assets/83a86eec-9320-4eb2-99e6-d230a69a59ab"
+      8:
+        url_poster: "https://api.mediux.pro/assets/d0c66fcd-9173-4c97-b056-06da46bfa40f"
+      9:
+        url_poster: "https://api.mediux.pro/assets/99ce3d08-05a5-438e-b421-2d0f7279c2aa"

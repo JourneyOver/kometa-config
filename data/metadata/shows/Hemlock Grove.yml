@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/59524
+
+metadata:
+
+  259948: # Hemlock Grove (2013)
+    url_poster: "https://api.mediux.pro/assets/3612596e-c009-4e32-b062-58e055b74803"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/75174883-ff5b-4be8-a0c8-a38d4a97c1a1"
+      1:
+        url_poster: "https://api.mediux.pro/assets/767f4ebf-f0f6-47b8-93ba-08fe4446cf01"
+      2:
+        url_poster: "https://api.mediux.pro/assets/15406c96-98eb-4d4d-9918-b1f29e86b740"
+      3:
+        url_poster: "https://api.mediux.pro/assets/23b5ef28-36ad-4e6d-8862-9a049d63fe00"

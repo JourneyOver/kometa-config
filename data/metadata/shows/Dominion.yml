@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/59632
+
+metadata:
+
+  277462: # Dominion (2014)
+    url_poster: "https://api.mediux.pro/assets/c4bb03df-4157-499a-b649-092d5b05a4de"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/6a99fdd3-0c7e-4594-b2aa-c964fb8c08a0"
+      2:
+        url_poster: "https://api.mediux.pro/assets/52318006-67de-4d5e-a403-fe3ff5c7f5a3"

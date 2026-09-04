@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/59569
+
+metadata:
+
+  269750: # Wayward Pines (2015)
+    url_poster: "https://api.mediux.pro/assets/b7b14012-6dce-4b76-9c54-69227a34d336"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/b0d8aed4-d2df-4512-921e-a96e0a1bb9df"
+      2:
+        url_poster: "https://api.mediux.pro/assets/9dd682fa-3856-4793-91f4-e2a05dea0fad"

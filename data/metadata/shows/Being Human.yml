@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/59625
+
+metadata:
+
+  196921: # Being Human (2011)
+    url_poster: "https://api.mediux.pro/assets/bfa1aa24-0896-490f-9756-c45a3e5fa5eb"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/1ab2a6e8-b021-4c6d-ab5f-0d33b9e37cb5"
+      2:
+        url_poster: "https://api.mediux.pro/assets/0cd6d551-561c-40e6-9f7a-dfc6e0216cb6"
+      3:
+        url_poster: "https://api.mediux.pro/assets/ee5f4ac7-e135-49f9-9901-230b83929282"
+      4:
+        url_poster: "https://api.mediux.pro/assets/d3c68519-ca9a-4e5c-905d-e40ec7ff84a9"

@@ -1,0 +1,12 @@
+# Posters from:
+# https://mediux.pro/sets/59629
+
+metadata:
+
+  336139: # Constantine: City of Demons (2018)
+    url_poster: "https://api.mediux.pro/assets/b92269aa-c2b5-4511-aaba-a88a16b102cb"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/77bbf190-239b-4778-bcb3-6f3c5b6eb8d1"
+      1:
+        url_poster: "https://api.mediux.pro/assets/f65e639c-cca2-4e97-b5c7-e66c80294df8"

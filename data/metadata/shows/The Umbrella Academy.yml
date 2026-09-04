@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/22540
+
+metadata:
+
+  353764: # The Umbrella Academy (2019)
+    url_poster: "https://api.mediux.pro/assets/a23db2b7-85b5-476e-8270-0b8c85225a25"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/c554e5ac-53ca-465d-8077-7e110ef33ab7"
+      2:
+        url_poster: "https://api.mediux.pro/assets/e93c1215-922e-4355-83d7-4341acf19be5"
+      3:
+        url_poster: "https://api.mediux.pro/assets/5e934678-7eaf-494c-aae3-820e02acfed9"
+      4:
+        url_poster: "https://api.mediux.pro/assets/97851c0e-6365-4c3a-a415-8cf946003032"

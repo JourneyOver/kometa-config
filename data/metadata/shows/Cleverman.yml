@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/59628
+
+metadata:
+
+  308846: # Cleverman (2016)
+    url_poster: "https://api.mediux.pro/assets/f674a14c-f122-4e36-bdec-303f10e1dc6e"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/6aadf796-ed59-43e9-bd66-d3b28b624b38"
+      1:
+        url_poster: "https://api.mediux.pro/assets/2b19ecf1-489e-4238-9b3d-ebe74654c841"
+      2:
+        url_poster: "https://api.mediux.pro/assets/f9bbcbc1-9f5d-48cf-8c6f-f2f2aaf706eb"
