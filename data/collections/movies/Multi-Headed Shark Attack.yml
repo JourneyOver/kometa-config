@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/59727
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Multi-Headed Shark Attack":
+    template: { name: Collection, collection: 494838, order: release }
+    url_poster: "https://api.mediux.pro/assets/ce8d9f54-9ab2-402e-9d01-8633d196ae24"
+    url_background: "https://image.tmdb.org/t/p/original/yMNFAlTCMyU766Qrzo0fvyvw0V6.jpg"
+    summary: "Beneath calm waters, hunger grows more heads and more teeth, turning vacations and voyages into desperate fights for survival. From a flooded atoll to a crippled cruise ship and the sunny beaches of Puerto Rico, stranded travelers face a mutated predator that hunts in open ocean and shallow surf alike. With only wreckage and willpower for weapons, every breath becomes a test of courage against jaws that never stop coming."

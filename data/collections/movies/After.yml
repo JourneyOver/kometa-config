@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/59744
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "After":
+    template: { name: Collection, collection: 702624, order: release }
+    url_poster: "https://api.mediux.pro/assets/c6cc4365-95e3-4b8b-a0d6-cc66ef12f4c7"
+    url_background: "https://image.tmdb.org/t/p/original/zZTy8G3sEVZNv0yGssgc7DvPUQJ.jpg"
+    summary: "A chance meeting on a college campus sparks an all-consuming connection that tests the limits of love and forgiveness. Between Tessa's quiet ambition and Hardin's wounded past, passion and pain blur as secrets surface and trust shatters. Through heartbreak, distance, and second chances, both must decide what they are willing to fight for and who they want to become when love demands everything."

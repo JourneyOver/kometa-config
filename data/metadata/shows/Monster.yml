@@ -1,15 +1,17 @@
 # Posters from:
-# https://mediux.pro/sets/36671
+# https://mediux.pro/sets/59707
 
 metadata:
 
   389492: # Monster (2022)
-    url_poster: "https://artworks.thetvdb.com/banners/v4/series/389492/posters/68def7e751ece.jpg"
+    url_poster: "https://api.mediux.pro/assets/7700a33d-5abc-4c9c-9be5-112ddb0374cb"
     summary: "Anthology series focusing on the lives and crimes of serial killers."
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/3a072203-94c6-43b7-bfeb-7ef2aee36164"
+        url_poster: "https://api.mediux.pro/assets/6a1d72b5-9cf2-4f74-b196-7105d3f1f4b2"
       2:
-        url_poster: "https://api.mediux.pro/assets/16b1a1db-ef14-4803-9d48-2156ec602639"
+        url_poster: "https://api.mediux.pro/assets/f8d90635-0317-4d51-a827-c0c7e5e49f95"
       3:
-        url_poster: "https://api.mediux.pro/assets/760896f9-3939-4b9c-8cd8-cf6c75962714"
+        url_poster: "https://api.mediux.pro/assets/dafce2b9-6309-480e-8bf9-79ca0aee27d4"
+#      4:
+#        url_poster: "https://api.mediux.pro/assets/947e0b66-1b18-485d-a126-14658313dfe5"
