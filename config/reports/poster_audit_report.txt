@@ -1,7 +1,7 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1688
-Total .yml files scanned (collections): 218
+Total .yml files scanned (metadata): 1719
+Total .yml files scanned (collections): 223
 
 ============================================================
 SECTION 1: METADATA - MISSING "# Posters from:" HEADER
@@ -65,15 +65,14 @@ Count: 0
 
 ============================================================
 SECTION 5: COLLECTIONS - MISSING URL AFTER SECOND "#" LINE
-Count: 2
+Count: 1
 ============================================================
 collections/movies/How to Train Your Dragon.yml
-collections/movies/Paddington.yml
 
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 49
+Count: 48
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -87,7 +86,6 @@ collections/movies/Halloween.yml
 collections/movies/Happy Death Day.yml
 collections/movies/Harold & Kumar.yml
 collections/movies/Home Alone.yml
-collections/movies/Honey, I Shrunk the Kids.yml
 collections/movies/Hostel.yml
 collections/movies/I Can Only Imagine.yml
 collections/movies/I Know What You Did Last Summer.yml

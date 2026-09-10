@@ -1,0 +1,22 @@
+# Posters from:
+# https://mediux.pro/sets/13159
+
+metadata:
+
+  255316: # Elementary (2012)
+    url_poster: "https://api.mediux.pro/assets/2ecf0616-97fc-453d-ae2f-c9e7aa69ebcb"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/b2f9ef80-4bc3-4289-9998-ad0230bc27a3"
+      2:
+        url_poster: "https://api.mediux.pro/assets/e390fe36-48b5-4a9f-9e37-e09c0c2ff478"
+      3:
+        url_poster: "https://api.mediux.pro/assets/c9e210c4-623e-469c-a462-0d5710ffdf4d"
+      4:
+        url_poster: "https://api.mediux.pro/assets/e244465d-97fc-4868-a6f9-f3bd40fea3c4"
+      5:
+        url_poster: "https://api.mediux.pro/assets/3bab670e-b5cd-487b-a1f6-ecfdfca97eaf"
+      6:
+        url_poster: "https://api.mediux.pro/assets/7c7c2d2b-0a2a-478c-98d1-43764dd7e6f8"
+      7:
+        url_poster: "https://api.mediux.pro/assets/ffae6222-8266-4d72-831c-1a784f6d22b7"

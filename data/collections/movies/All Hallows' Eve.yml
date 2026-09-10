@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/59801
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "All Hallows' Eve":
+    template: { name: Collection, collection: 442195, order: release }
+    url_poster: "https://api.mediux.pro/assets/d1c4afe8-0dc3-4861-bbb9-1fad70997e9e"
+    url_background: "https://image.tmdb.org/t/p/original/u6ZeIjfYWQdbr71BG5fJz52O6W8.jpg"
+    summary: "On Halloween night, a cursed videotape turns quiet living rooms into doorways for killers who refuse to stay on screen. From a grinning clown stalking trick or treaters to a pumpkin faced slasher hunting through static and a lonely rural gas station hiding something inhuman, every scream bleeds into the next. Amid flickering tracking lines and lost travelers with nowhere to run, fear itself becomes the host, daring the curious to keep watching when turning it off might already be too late."

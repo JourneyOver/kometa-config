@@ -1,5 +1,5 @@
 # Poster from:
-# https://theposterdb.com/set/16425
+# https://mediux.pro/sets/59892
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Honey, I Shrunk the Kids":
     template: { name: Collection, collection: 72119, order: release }
-    url_poster: "https://theposterdb.com/api/assets/27434"
+    url_poster: "https://api.mediux.pro/assets/3ad09c37-453b-4620-aeae-fda28df0d777"
     url_background: "https://image.tmdb.org/t/p/original/sfT3NqSnjEDY1449qBgQRWOIcaq.jpg"
     summary: "When a quirky inventor's experiments go wildly wrong, his family finds themselves shrinking, growing, and facing everyday dangers from a brand-new perspective. Packed with inventive humor and heart, their adventures turn the ordinary into extraordinary challenges filled with laughter and love."

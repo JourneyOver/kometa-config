@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/11792
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Megamind":
+    template: { name: Collection, collection: 1239518, order: release }
+    url_poster: "https://api.mediux.pro/assets/1f4bf16b-6495-471e-bd6c-ef92b59ef21b"
+    url_background: "https://image.tmdb.org/t/p/original/hwZBKoyKv7VpRWdNmXipo3V4Jnu.jpg"
+    summary: "A blue genius raised to be bad discovers that winning feels empty when there is no hero left to fight. From clashes with Metro Man to facing old allies turned rivals, Metro City becomes a stage for reinvention, laughter, and unlikely courage. Through arrogance, heartbreak, and hard lessons in doing good, the smartest mind in the room learns that true power comes from protecting the people who once feared him."

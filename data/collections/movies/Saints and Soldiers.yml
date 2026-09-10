@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/59800
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Saints and Soldiers":
+    template: { name: Collection, collection: 306063, order: release }
+    url_poster: "https://api.mediux.pro/assets/431c720e-d3d4-48b3-a5dd-32921b9021f9"
+    url_background: "https://image.tmdb.org/t/p/original/uAv2zvBtIGujt9jGELeHKEaNjRi.jpg"
+    summary: "In the frozen forests and shattered villages of World War II Europe, small bands of American soldiers fight to survive deep behind enemy lines. From the horrors of Malmedy to perilous drops over France and brutal tank battles in Germany, faith is tested amid impossible choices between vengeance and mercy. Through frostbite, fear, and unlikely bonds with the enemy, courage and brotherhood become the only shelter when hope itself feels outnumbered."

@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/59896
+
+metadata:
+
+  93991: # The Cleveland Show (2009)
+    url_poster: "https://api.mediux.pro/assets/41a73051-80ff-49c6-ae83-99861c6e33bc"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/0cda63cd-8c4f-4da3-b741-7006d30ce5b0"
+      2:
+        url_poster: "https://api.mediux.pro/assets/f55ee114-d7bb-4709-a679-62d81fa1b556"
+      3:
+        url_poster: "https://api.mediux.pro/assets/2d0631ad-75ac-4374-b33e-bc7031f352ef"
+      4:
+        url_poster: "https://api.mediux.pro/assets/039586ae-e9f4-49f0-8129-b85312efaa25"

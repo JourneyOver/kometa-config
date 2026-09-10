@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/59813
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Fall":
+    template: { name: Collection, collection: 1102372, order: release }
+    url_poster: "https://api.mediux.pro/assets/118dd55d-a4dd-4041-b0c5-d9f788251ef8"
+    url_background: "https://image.tmdb.org/t/p/original/irpXNMKEdYZLQAZDmKeicXdUHMG.jpg"
+    summary: "High above the ground, where a single slip means death, friendship is tested against fear itself. From a rusting radio tower in the desert to sheer cliffs in Thailand, the air thins and every handhold becomes a choice between panic and trust. With dwindling supplies and no rescue in sight, survival demands more than strength, it demands the will to keep climbing when hope feels impossibly far below."

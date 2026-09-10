@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/58732
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Meet the Parents":
+    template: { name: Collection, collection: 51509, order: release }
+    url_poster: "https://api.mediux.pro/assets/db3f16d9-1932-47cb-bfe4-a4ab6f289605"
+    url_background: "https://image.tmdb.org/t/p/original/9mNfoET5NlXDVqW2UhJAJp6DR7k.jpg"
+    summary: "Trying to win over a fiercely protective father-in-law turns every milestone into a minefield of awkward lies, polygraph stares, and disastrous good intentions. Between Greg's desperate need to belong and Jack's relentless circle of trust, two wildly different families collide over weddings, babies, and holidays. Through embarrassment, suspicion, and hard earned forgiveness, love proves it can survive even the most overbearing interrogation."

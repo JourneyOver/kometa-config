@@ -1,0 +1,22 @@
+# Posters from:
+# https://mediux.pro/sets/12729
+
+metadata:
+
+  248736: # Grimm (2011)
+    url_poster: "https://api.mediux.pro/assets/ed784bae-e974-4db1-ab65-a91f046a3bc2"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/9036bb08-0a87-45e2-9e9a-72ac0a0a46af"
+      1:
+        url_poster: "https://api.mediux.pro/assets/6eed2676-1926-4352-8a17-0741d13a0772"
+      2:
+        url_poster: "https://api.mediux.pro/assets/af095f13-9ade-40a8-a42a-5de456a4652e"
+      3:
+        url_poster: "https://api.mediux.pro/assets/927cc91e-110c-497d-bd1a-f7abf8068bcc"
+      4:
+        url_poster: "https://api.mediux.pro/assets/99ef3f74-7c26-4bfa-a3f0-80f06368682f"
+      5:
+        url_poster: "https://api.mediux.pro/assets/1a84a489-daa9-4b01-90fa-0349b117e362"
+      6:
+        url_poster: "https://api.mediux.pro/assets/ae419b35-f8b2-431b-98c1-300618a84cc9"
