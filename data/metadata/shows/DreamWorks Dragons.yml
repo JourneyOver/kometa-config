@@ -1,0 +1,24 @@
+# Posters from:
+# https://mediux.pro/sets/60034
+
+metadata:
+
+  261202: # DreamWorks Dragons (2012)
+    url_poster: "https://api.mediux.pro/assets/3b8a5722-9b7e-43b4-8261-f205b1352f62"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/2e4fcda1-0190-4c90-a59d-08bcfdcb0e7e"
+      2:
+        url_poster: "https://api.mediux.pro/assets/e6632caf-5b64-4b14-a17b-b99cd9524eae"
+      3:
+        url_poster: "https://api.mediux.pro/assets/861b3236-beb8-4901-9c13-ab6e94bd06be"
+      4:
+        url_poster: "https://api.mediux.pro/assets/1e0af503-c365-4560-8ca5-a467fac14f84"
+      5:
+        url_poster: "https://api.mediux.pro/assets/6eee735f-e5c9-40f1-bd4c-6c6e9d40f047"
+      6:
+        url_poster: "https://api.mediux.pro/assets/6ed1e3da-5407-41d1-9c2b-4f3199288730"
+      7:
+        url_poster: "https://api.mediux.pro/assets/53560689-e659-498c-b66e-f8689e62528e"
+      8:
+        url_poster: "https://api.mediux.pro/assets/0fcba61b-ef33-4eb2-96c3-cd0ef04c121f"

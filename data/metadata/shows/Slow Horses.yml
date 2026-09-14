@@ -1,18 +1,20 @@
 # Posters from:
-# https://mediux.pro/sets/2534
+# https://mediux.pro/sets/59959
 
 metadata:
 
   372264: # Slow Horses (2022)
-    url_poster: "https://api.mediux.pro/assets/10a7cf25-177c-4254-87b0-7c9da942dfae"
+    url_poster: "https://api.mediux.pro/assets/5cafe170-01c6-4a4f-b7b9-947807dcae33"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/7bf59e05-380a-4108-afcd-42d5a326407d"
+        url_poster: "https://api.mediux.pro/assets/fa955cc5-8c66-4ce6-942c-8d2ffdbe7ee3"
       2:
-        url_poster: "https://api.mediux.pro/assets/43aa91e9-1fee-431d-a9a6-decd5226924d"
+        url_poster: "https://api.mediux.pro/assets/5d03f760-c1dc-471e-bc69-3314d83bb427"
       3:
-        url_poster: "https://api.mediux.pro/assets/f5f9da34-6bcd-431d-b79d-49ab93cf4e69"
+        url_poster: "https://api.mediux.pro/assets/7a3fa6d5-cd64-4cd7-8bfa-6cce8fe39d07"
       4:
-        url_poster: "https://api.mediux.pro/assets/461eeea6-7d83-4347-ad9e-0d8e4ce77efa"
+        url_poster: "https://api.mediux.pro/assets/92b99daa-b2d1-4ad6-9088-95a96b839b2b"
       5:
-        url_poster: "https://api.mediux.pro/assets/88da62c4-c17d-462c-9536-c330fa001ee6"
+        url_poster: "https://api.mediux.pro/assets/f6d7509b-47ee-459e-bb0e-4510949dc7ff"
+#      6:
+#        url_poster: "https://api.mediux.pro/assets/00be6c3a-04c4-439a-9059-5267659d761b"

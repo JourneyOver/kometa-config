@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/59996
+
+metadata:
+
+  258823: # Revolution (2012)
+    url_poster: "https://api.mediux.pro/assets/ab7d2a11-b009-4fb4-99af-38028ec0ab43"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/7111dc74-a3f1-4ce5-87b9-fb7bdf61073b"
+      1:
+        url_poster: "https://api.mediux.pro/assets/0220373b-5e8d-400a-8e5b-437907d4822e"
+      2:
+        url_poster: "https://api.mediux.pro/assets/a257d9a5-b142-4338-bcee-1646265de8c5"

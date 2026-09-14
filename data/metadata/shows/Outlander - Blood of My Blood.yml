@@ -1,10 +1,14 @@
 # Posters from:
-# https://mediux.pro/sets/36023
+# https://mediux.pro/sets/59962
 
 metadata:
 
   429964: # Outlander: Blood of My Blood (2025)
-    url_poster: "https://api.mediux.pro/assets/f602ddeb-67bc-4e5a-a948-59571870744f"
+    url_poster: "https://api.mediux.pro/assets/9890d569-427e-4366-90ec-24354df6cf6a"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/90f45f2d-84d1-4656-a31d-332a8c4a6291"
       1:
-        url_poster: "https://api.mediux.pro/assets/20c0d2f0-e77f-4d84-b7d3-6fe278637f05"
+        url_poster: "https://api.mediux.pro/assets/88c3c5e9-daff-4595-9f28-fbb5eb4a63d1"
+#      2:
+#        url_poster: "https://api.mediux.pro/assets/91af2a91-fa07-4a54-8114-b141cc69496f"

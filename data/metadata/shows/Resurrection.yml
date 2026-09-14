@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/60009
+
+metadata:
+
+  269650: # Resurrection (2014)
+    url_poster: "https://api.mediux.pro/assets/dd67a4ce-69e6-4395-a5f6-5b3362d9caa6"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/4d07a8c6-cb11-4262-8a34-c165138cf415"
+      1:
+        url_poster: "https://api.mediux.pro/assets/c3d60986-1754-45c6-943a-b32d257ccb26"
+      2:
+        url_poster: "https://api.mediux.pro/assets/66cf42f2-ec6b-4a10-b4ea-a0359525eb1c"

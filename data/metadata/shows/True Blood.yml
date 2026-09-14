@@ -1,0 +1,24 @@
+# Posters from:
+# https://mediux.pro/sets/59992
+
+metadata:
+
+  82283: # True Blood (2008)
+    url_poster: "https://api.mediux.pro/assets/faec1197-d2be-4cb4-ba96-3ed73208da71"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/dada1e42-d561-434e-b52e-a0d1fc4b80ce"
+      1:
+        url_poster: "https://api.mediux.pro/assets/892b4825-8d7d-4381-9fba-ce718bf5ffce"
+      2:
+        url_poster: "https://api.mediux.pro/assets/da6ee014-bda6-43e6-9143-d743a31f9e07"
+      3:
+        url_poster: "https://api.mediux.pro/assets/bbbb4e9c-50ad-439a-9f56-22b1d1d76481"
+      4:
+        url_poster: "https://api.mediux.pro/assets/78a7c082-4982-46f2-ac91-3464b957d221"
+      5:
+        url_poster: "https://api.mediux.pro/assets/2ef7b5b4-f88f-4702-9b0d-4c69d1ecae30"
+      6:
+        url_poster: "https://api.mediux.pro/assets/9b0a4502-86dd-4aaa-b00f-17f254f8f978"
+      7:
+        url_poster: "https://api.mediux.pro/assets/9c8f1e79-864a-4f2f-a394-faab24511b53"

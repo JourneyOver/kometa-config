@@ -1,32 +1,36 @@
 # Posters from:
-# https://mediux.pro/sets/35069
+# https://mediux.pro/sets/59963
 
 metadata:
 
   250487: # American Horror Story (2011)
-    url_poster: "https://api.mediux.pro/assets/54c538c7-9c9d-4c4a-b2a8-116936e3995a"
+    url_poster: "https://api.mediux.pro/assets/293678f9-75cd-417b-869e-b8671349fe1b"
     seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/02d5021c-2477-48a3-96bd-6082aff8f205"
       1:
-        url_poster: "https://api.mediux.pro/assets/9c9376f4-7ab1-42ff-aeec-13c586b6187e"
+        url_poster: "https://api.mediux.pro/assets/b6a4863e-23c7-444f-9ccd-a72ca672978a"
       2:
-        url_poster: "https://api.mediux.pro/assets/32bf3551-5114-4738-8441-d070a3ca4f5f"
+        url_poster: "https://api.mediux.pro/assets/2b8f7722-2b31-480f-b8b9-233d79b52454"
       3:
-        url_poster: "https://api.mediux.pro/assets/8d3f0a79-951a-466e-875f-2af4401c0640"
+        url_poster: "https://api.mediux.pro/assets/62cfb6f5-3240-4c83-b56c-82a799d54e61"
       4:
-        url_poster: "https://api.mediux.pro/assets/2a6a76ac-ba3a-4096-b001-96ae20850bd8"
+        url_poster: "https://api.mediux.pro/assets/942c5031-22a1-4e58-b540-d74996c06c9c"
       5:
-        url_poster: "https://api.mediux.pro/assets/47593b44-6837-46cb-8b95-c4a0c9ec7e73"
+        url_poster: "https://api.mediux.pro/assets/57117b8f-cc76-410c-a225-8eeae66d6b0f"
       6:
-        url_poster: "https://api.mediux.pro/assets/64cac480-3340-4346-b73f-bbb0670d18d8"
+        url_poster: "https://api.mediux.pro/assets/05daa9c7-4f24-434c-8525-212a99aa6793"
       7:
-        url_poster: "https://api.mediux.pro/assets/4e8cc6b5-60f6-4da5-bb01-20d3d892d1bf"
+        url_poster: "https://api.mediux.pro/assets/bdd89090-8f78-4b43-b96a-609f402d336f"
       8:
-        url_poster: "https://api.mediux.pro/assets/8eb049c0-7780-4e73-a347-18a8d96a365c"
+        url_poster: "https://api.mediux.pro/assets/2bacfe10-5790-4836-a476-c3be5d59dc6c"
       9:
-        url_poster: "https://api.mediux.pro/assets/e40d2c55-3f80-44a5-9e33-933fdd576da3"
+        url_poster: "https://api.mediux.pro/assets/96e36ac9-93c6-46d1-b0d2-e55ee091e9c3"
       10:
-        url_poster: "https://api.mediux.pro/assets/9b270ec4-b26d-4b4b-8714-a6259ffd5483"
+        url_poster: "https://api.mediux.pro/assets/8e471225-e03e-440f-ac18-a998670a5729"
       11:
-        url_poster: "https://api.mediux.pro/assets/413e1bd2-5e68-4473-9b8a-29c59552b941"
+        url_poster: "https://api.mediux.pro/assets/9cee2c94-2a3f-45e4-a44e-3a891a6b6fd9"
       12:
-        url_poster: "https://api.mediux.pro/assets/2661ae4a-92a8-402a-b8fd-da7b53b81f07"
+        url_poster: "https://api.mediux.pro/assets/ecb2d283-b2aa-4659-9542-4ada5fbad13d"
+#      13:
+#        url_poster: "https://api.mediux.pro/assets/7307662f-cfcb-4751-93e7-5a76c836ec55"

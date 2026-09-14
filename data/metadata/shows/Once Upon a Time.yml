@@ -1,0 +1,24 @@
+# Posters from:
+# https://mediux.pro/sets/7771
+
+metadata:
+
+  248835: # Once Upon a Time (2011)
+    url_poster: "https://api.mediux.pro/assets/7b8e5a9c-88ec-450d-98eb-4a109e65d21c"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/8ef6257e-b66c-4c12-8dad-c566fca460b8"
+      1:
+        url_poster: "https://api.mediux.pro/assets/2d5f8894-b208-4139-b507-153d239e4ab4"
+      2:
+        url_poster: "https://api.mediux.pro/assets/53ec76cd-15c4-49d4-a8a8-0e5a883af9e8"
+      3:
+        url_poster: "https://api.mediux.pro/assets/a3671d46-538d-4000-88aa-9eccce5e018f"
+      4:
+        url_poster: "https://api.mediux.pro/assets/534c15aa-5d6d-44e0-ace7-5655d139839d"
+      5:
+        url_poster: "https://api.mediux.pro/assets/b9350a67-6fc6-46fd-a8f5-6848ad459f59"
+      6:
+        url_poster: "https://api.mediux.pro/assets/6ac29ba5-266c-4718-b280-8b833bdacd39"
+      7:
+        url_poster: "https://api.mediux.pro/assets/f953a332-a88e-4746-b6fa-424b5ea26563"

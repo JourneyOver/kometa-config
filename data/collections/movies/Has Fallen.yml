@@ -1,0 +1,13 @@
+# Poster from:
+# https://mediux.pro/sets/5021
+
+external_templates:
+  - file: data/_templates.yml
+
+collections:
+
+  "Has Fallen":
+    template: { name: Collection, collection: 386534, order: release }
+    url_poster: "https://api.mediux.pro/assets/ad3cd7b7-fa2f-4578-b865-019ec6a68862"
+    url_background: "https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg"
+    summary: "When the White House falls and world leaders come under fire in London, one Secret Service agent stands between chaos and the presidency. From sieges in Washington to streets turned to war zones abroad and a conspiracy that turns the hunter into the hunted, loyalty is tested by betrayal, exhaustion and impossible odds. Through smoke, rubble and relentless assaults, duty becomes personal as Mike Banning refuses to let the office he swore to protect collapse."

@@ -1,0 +1,10 @@
+# Posters from:
+# https://mediux.pro/sets/60008
+
+metadata:
+
+  273616: # Pokémon Origins (2013)
+    url_poster: "https://api.mediux.pro/assets/4cff79f0-e7d3-4e68-92fd-f0e44d3130c8"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/fa237789-b0c7-42f8-85de-0f97bea45b9c"

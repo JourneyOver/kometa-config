@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/59993
+
+metadata:
+
+  353889: # Bless the Harts (2019)
+    url_poster: "https://api.mediux.pro/assets/70c1b427-5cf2-4cfb-93ce-ca0d3f7c01ed"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/a7a4fecb-e42f-4580-88e1-fb515608d2c9"
+      1:
+        url_poster: "https://api.mediux.pro/assets/1b78d084-475f-4dae-a8de-5d600ef4b056"
+      2:
+        url_poster: "https://api.mediux.pro/assets/cd3e9540-9416-4943-a214-9d2b2c701b40"
