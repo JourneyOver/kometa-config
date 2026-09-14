@@ -23,8 +23,8 @@
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tmdb.svg" width="60" height="60"></a>
   <a href="https://www.thetvdb.com" title="TVDB">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/tvdb.svg" width="60" height="60"></a>
-  <a href="https://trakt.tv/" title="Trakt">
-    <img src="https://trakt.tv/assets/logos/logomark.square.gradient-b644b16c38ff775861b4b1f58c1230f6a097a2466ab33ae00445a505c33fcb91.svg" width="60" height="60"></a>
+  <a href="https://wetrakr.com/" title="Wetrakr">
+    <img src="https://wetrakr.com/assets/images/we_small.png" width="60" height="60"></a>
   <a href="https://theposterdb.com" title="ThePosterDB">
     <img src="https://theposterdb.com/assets/logos/icon/color.svg" width="60" height="60"></a>
   <a href="https://mediux.pro/" title="MediUX">

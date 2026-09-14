@@ -5,3 +5,6 @@ config/reports/missing_*.yml
 plex/*
 .venv
 __pycache__
+config/mediux_audit.toml
+config/reports/mediux_author_cache.json
+requirements.txt

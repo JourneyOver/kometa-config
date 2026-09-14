@@ -1,5 +1,5 @@
 # Poster from:
-# https://mediux.pro/sets/27721
+# https://mediux.pro/sets/60113
 
 external_templates:
   - file: data/_templates.yml
@@ -8,6 +8,6 @@ collections:
 
   "Beverly Hills Cop":
     template: { name: Collection, collection: 85861, order: release }
-    url_poster: "https://api.mediux.pro/assets/9d8f94a8-9ff2-4d54-99a3-48c383d72c32"
+    url_poster: "https://api.mediux.pro/assets/a32fa130-fb3d-4c7d-8bb4-3194c056ae3e"
     url_background: "https://image.tmdb.org/t/p/original/xpJmfMEamDkqCSe3cxpKqNzt4kI.jpg"
     summary: "Detroit detective Axel Foley brings his street-smart wit and unorthodox methods to the glamorous world of Beverly Hills. Navigating high-stakes crime and cultural clashes, his relentless pursuit of justice is packed with humor, action, and unforgettable encounters that prove no case is too tough for him to crack."
