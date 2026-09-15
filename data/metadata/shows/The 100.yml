@@ -1,23 +1,22 @@
 # Posters from:
-# https://mediux.pro/sets/13826
+# https://mediux.pro/sets/60157
 
 metadata:
 
   268592: # The 100 (2014)
-    url_poster: "https://api.mediux.pro/assets/f5a0cfe3-481a-4060-b74a-6b591e0e14d9"
-    url_background: "https://api.mediux.pro/assets/b48307e1-9091-4b47-9fcf-e83a1940a428"
+    url_poster: "https://api.mediux.pro/assets/2ef704a8-5fc8-402c-95f0-b5ea872715c7"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/8695e038-aa1b-49e6-9866-225defca5a3b"
+        url_poster: "https://api.mediux.pro/assets/df2db4dc-f8ca-4a70-a819-c95cc4949788"
       2:
-        url_poster: "https://api.mediux.pro/assets/f0fe8eae-ce63-4e04-9575-4ba78d3a5f36"
+        url_poster: "https://api.mediux.pro/assets/40a1d5de-203d-4930-b9c0-9cfdbece8781"
       3:
-        url_poster: "https://api.mediux.pro/assets/11205b83-6f36-43f8-937c-081726ad72b6"
+        url_poster: "https://api.mediux.pro/assets/9b167370-279f-42b5-b023-6633603503d7"
       4:
-        url_poster: "https://api.mediux.pro/assets/29801813-4b80-40c9-8af9-82b407fbb949"
+        url_poster: "https://api.mediux.pro/assets/4405c5ed-61c8-467d-aebe-ed1e03154804"
       5:
-        url_poster: "https://api.mediux.pro/assets/1126832e-3278-4b45-9524-66104eaacab6"
+        url_poster: "https://api.mediux.pro/assets/388e82ff-7ef3-4db1-a2aa-0c53e22fa875"
       6:
-        url_poster: "https://api.mediux.pro/assets/edb7836d-c0c7-4622-ac4d-ab1abde6e26d"
+        url_poster: "https://api.mediux.pro/assets/ecc501c3-6cd0-4d9b-a59b-f48a668646a9"
       7:
-        url_poster: "https://api.mediux.pro/assets/7d43ee44-7028-4c4a-959f-cf798301d069"
+        url_poster: "https://api.mediux.pro/assets/1d27e7f9-2389-4822-a858-223470b32de1"

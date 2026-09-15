@@ -1,20 +1,19 @@
 # Posters from:
-# https://mediux.pro/sets/19034
-# https://mediux.pro/sets/19035
+# https://mediux.pro/boxsets/2127
 
 metadata:
 
   620: # Ghostbusters (1984)
-    url_poster: "https://api.mediux.pro/assets/3e4c026e-e1ab-4823-95fb-a241ed0e1aef"
+    url_poster: "https://api.mediux.pro/assets/3ce05658-3b69-4294-b16c-569f11b1d50c"
 
   2978: # Ghostbusters II (1989)
-    url_poster: "https://api.mediux.pro/assets/dd8cedcf-9dbe-4b98-96fc-94ff60102023"
+    url_poster: "https://api.mediux.pro/assets/bf997729-f3ee-43e8-bb2f-ed97b943d41a"
 
   43074: # Ghostbusters (2016)
-    url_poster: "https://api.mediux.pro/assets/a2a95633-fd8e-4f1c-9428-aee8f033ecec"
+    url_poster: "https://api.mediux.pro/assets/f2ef449b-340b-4821-a0cb-43ed17b377f0"
 
   425909: # Ghostbusters: Afterlife (2021)
-    url_poster: "https://api.mediux.pro/assets/5fac12c5-5d45-4627-ad91-f038d9d2cd43"
+    url_poster: "https://api.mediux.pro/assets/f617ee21-7344-4b82-b19a-5572cbfe2012"
 
   967847: # Ghostbusters: Frozen Empire (2024)
-    url_poster: "https://api.mediux.pro/assets/23fb3f6f-804f-4c4a-8157-26685b5fd721"
+    url_poster: "https://api.mediux.pro/assets/dca34fa5-1c16-4b3f-827f-b8d8f57854c7"

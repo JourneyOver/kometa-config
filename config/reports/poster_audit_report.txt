@@ -1,6 +1,6 @@
 POSTER AUDIT REPORT
 ============================================================
-Total .yml files scanned (metadata): 1742
+Total .yml files scanned (metadata): 1743
 Total .yml files scanned (collections): 224
 
 ============================================================
@@ -72,7 +72,7 @@ collections/movies/How to Train Your Dragon.yml
 ============================================================
 SECTION 6: COLLECTIONS - FILES USING theposterdb.com
 (Excludes anime/ and anime-movies/ directories)
-Count: 48
+Count: 47
 ============================================================
 collections/movies/100% Wolf.yml
 collections/movies/A Nightmare on Elm Street.yml
@@ -80,7 +80,6 @@ collections/movies/Alien-Predator Universe.yml
 collections/movies/Blair Witch.yml
 collections/movies/Children of the Corn.yml
 collections/movies/Friday the 13th.yml
-collections/movies/Ghostbusters.yml
 collections/movies/Goosebumps.yml
 collections/movies/Halloween.yml
 collections/movies/Happy Death Day.yml

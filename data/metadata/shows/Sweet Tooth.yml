@@ -1,14 +1,14 @@
 # Posters from:
-# https://mediux.pro/sets/20888
+# https://mediux.pro/sets/60159
 
 metadata:
 
-  355837: # TVDB id for Sweet Tooth. Set by ChamikaNLakshan on MediUX. https://mediux.pro/sets/20888
-    url_poster: "https://api.mediux.pro/assets/48476ec2-2044-4f6f-8556-6a51e02e7cbb"
+  355837: # Sweet Tooth (2021)
+    url_poster: "https://api.mediux.pro/assets/f06d8d41-64e4-4a70-b544-170539cc42b1"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/7a5deca0-42dc-4b35-a762-90a801b99599"
+        url_poster: "https://api.mediux.pro/assets/4beb8be3-925d-47cd-a6cd-bdaa029f61a0"
       2:
-        url_poster: "https://api.mediux.pro/assets/696492ac-1ab2-4bf6-8815-73921031590a"
+        url_poster: "https://api.mediux.pro/assets/fdf7fb8a-ab61-438b-90b8-73641c2db48f"
       3:
-        url_poster: "https://api.mediux.pro/assets/d4238f30-c005-491a-bb55-1c39c314f4d8"
+        url_poster: "https://api.mediux.pro/assets/4607b0c3-6eff-4709-9b9e-3dd7c457c0b8"
