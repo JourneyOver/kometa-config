@@ -1,10 +1,12 @@
 # Posters from:
-# https://theposterdb.com/set/360730
+# https://mediux.pro/sets/60213
 
 metadata:
 
   450671: # Haunted Hotel (2025)
-    url_poster: "https://theposterdb.com/api/assets/644488"
+    url_poster: "https://api.mediux.pro/assets/ba7a2928-a3e7-49ed-9577-3682e741defe"
     seasons:
       1:
-        url_poster: "https://theposterdb.com/api/assets/644489"
+        url_poster: "https://api.mediux.pro/assets/74f7dcae-0081-4d40-93a6-e85f6782a50a"
+#      2:
+#        url_poster: "https://api.mediux.pro/assets/bebcc37f-56c7-4a73-be69-d8fca148ce7f"

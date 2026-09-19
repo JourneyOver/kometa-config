@@ -1,0 +1,10 @@
+# Posters from:
+# https://mediux.pro/sets/60067
+
+metadata:
+
+  449103: # Golden Axe (2026)
+    url_poster: "https://api.mediux.pro/assets/df729f96-1c23-4406-9aeb-dd437f217987"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/1608fa61-3ea8-45c4-85f7-671ccd60d00e"
