@@ -1,0 +1,12 @@
+# Posters from:
+# https://theposterdb.com/set/422222
+
+metadata:
+
+  472962: # FX Fighter Kurumi-chan (2026)
+    url_poster: "https://theposterdb.com/api/assets/748574"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/748575"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/748576"

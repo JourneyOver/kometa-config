@@ -1,0 +1,18 @@
+# Posters from:
+# https://theposterdb.com/set/235429
+
+metadata:
+
+  393478: # Tokyo Revengers (2021)
+    url_poster: "https://theposterdb.com/api/assets/425367"
+    seasons:
+#      0:
+#        url_poster: "https://theposterdb.com/api/assets/425368"
+      1:
+        url_poster: "https://theposterdb.com/api/assets/425369"
+      2:
+        url_poster: "https://theposterdb.com/api/assets/425370"
+      3:
+        url_poster: "https://theposterdb.com/api/assets/425371"
+      4:
+        url_poster: "https://theposterdb.com/api/assets/748328"
