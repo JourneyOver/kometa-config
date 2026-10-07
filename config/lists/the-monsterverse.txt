@@ -1,0 +1,8 @@
+# The MonsterVerse
+tt0831387    # Godzilla (2014)
+tt3731562    # Kong: Skull Island (2017)
+tt3741700    # Godzilla: King of the Monsters (2019)
+tt5034838    # Godzilla vs. Kong (2021)
+tt14539740   # Godzilla x Kong: The New Empire (2024)
+tt17220216   # Monarch: Legacy of Monsters (2023)
+tt32561550   # Godzilla x Kong: Supernova (2027)

@@ -1,5 +1,5 @@
-Total YML files scanned: 1775
-Total unique YML poster entries: 2376
+Total YML files scanned: 1778
+Total unique YML poster entries: 2380
 Total missing series/movie posters: 0
 Total missing seasonal posters: 1
 ------------------------------------------------------------

@@ -1,0 +1,234 @@
+# Marvel Cinematic Universe
+tvdb_season:443358/1       # Eyes of Wakanda S1 (2025)
+tt0458339                  # Captain America: The First Avenger (2011)
+tt3067038                  # Marvel One-Shot: Agent Carter (2013)
+tvdb_season:281485/1       # Marvel's Agent Carter S1 (2015)
+tvdb_season:281485/2       # Marvel's Agent Carter S2 (2015)
+tt4154664                  # Captain Marvel (2019)
+tt0371746                  # Iron Man (2008)
+tt1228705                  # Iron Man 2 (2010)
+tt0800080                  # The Incredible Hulk (2008)
+tt2011118                  # Marvel One-Shot: The Consultant (2011)
+tt2011109                  # Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer (2011)
+tt0800369                  # Thor (2011)
+tt0848228                  # The Avengers (2012)
+tt2247732                  # Marvel One-Shot: Item 47 (2012)
+tt2912308                  # Marvel's Agents of S.H.I.E.L.D. S1.E1 Pilot
+tt3130816                  # Marvel's Agents of S.H.I.E.L.D. S1.E2 0-8-4
+tt3130186                  # Marvel's Agents of S.H.I.E.L.D. S1.E3 The Asset
+tt3218318                  # Marvel's Agents of S.H.I.E.L.D. S1.E4 Eye Spy
+tt3229400                  # Marvel's Agents of S.H.I.E.L.D. S1.E5 Girl in the Flower Dress
+tt3229404                  # Marvel's Agents of S.H.I.E.L.D. S1.E6 FZZT
+tt3229406                  # Marvel's Agents of S.H.I.E.L.D. S1.E7 The Hub
+tt1981115                  # Thor: The Dark World (2013)
+tt3252298                  # Marvel's Agents of S.H.I.E.L.D. S1.E8 The Well
+tt3252332                  # Marvel's Agents of S.H.I.E.L.D. S1.E9 Repairs
+tt3252318                  # Marvel's Agents of S.H.I.E.L.D. S1.E10 The Bridge
+tt3307564                  # Marvel's Agents of S.H.I.E.L.D. S1.E11 The Magical Place
+tt3307568                  # Marvel's Agents of S.H.I.E.L.D. S1.E12 Seeds
+tt3307566                  # Marvel's Agents of S.H.I.E.L.D. S1.E13 T.R.A.C.K.S.
+tt3476430                  # Marvel's Agents of S.H.I.E.L.D. S1.E14 T.A.H.I.T.I.
+tt3473818                  # Marvel's Agents of S.H.I.E.L.D. S1.E15 Yes Men
+tt3539224                  # Marvel's Agents of S.H.I.E.L.D. S1.E16 End of the Beginning
+tt1300854                  # Iron Man 3 (2013)
+tt3438640                  # Marvel One-Shot: All Hail the King (2014)
+tt1843866                  # Captain America: The Winter Soldier (2014)
+tt3539406                  # Marvel's Agents of S.H.I.E.L.D. S1.E17 Turn, Turn, Turn
+tt3609126                  # Marvel's Agents of S.H.I.E.L.D. S1.E18 Providence
+tt3609154                  # Marvel's Agents of S.H.I.E.L.D. S1.E19 The Only Light in the Darkness
+tt3609164                  # Marvel's Agents of S.H.I.E.L.D. S1.E20 Nothing Personal
+tt3609168                  # Marvel's Agents of S.H.I.E.L.D. S1.E21 Ragtag
+tt3609170                  # Marvel's Agents of S.H.I.E.L.D. S1.E22 Beginning of the End
+tt2015381                  # Guardians of the Galaxy (2014)
+tt3896198                  # Guardians of the Galaxy Vol. 2 (2017)
+tvdb_season:393201/1       # I Am Groot S1 (2022)
+tvdb_season:393201/2       # I Am Groot S2 (2022)
+tvdb_season:281662/1       # Marvel's Daredevil S1 (2015)
+tt3721000                  # Marvel's Agents of S.H.I.E.L.D. S2.E1 Shadows
+tt3997450                  # Marvel's Agents of S.H.I.E.L.D. S2.E2 Heavy Is the Head
+tt3997456                  # Marvel's Agents of S.H.I.E.L.D. S2.E3 Making Friends and Influencing People
+tt3997452                  # Marvel's Agents of S.H.I.E.L.D. S2.E4 Face My Enemy
+tt3970174                  # Marvel's Agents of S.H.I.E.L.D. S2.E5 A Hen in the Wolf House
+tt4078580                  # Marvel's Agents of S.H.I.E.L.D. S2.E6 A Fractured House
+tt4082652                  # Marvel's Agents of S.H.I.E.L.D. S2.E7 The Writing on the Wall
+tt4082656                  # Marvel's Agents of S.H.I.E.L.D. S2.E8 The Things We Bury
+tt4120698                  # Marvel's Agents of S.H.I.E.L.D. S2.E9 ...Ye Who Enter Here
+tt4120702                  # Marvel's Agents of S.H.I.E.L.D. S2.E10 What They Become
+tvdb_season:284190/1       # Marvel's Jessica Jones S1 (2015)
+tt4120704                  # Marvel's Agents of S.H.I.E.L.D. S2.E11 Aftershocks
+tt4120714                  # Marvel's Agents of S.H.I.E.L.D. S2.E12 Who You Really Are
+tt4120718                  # Marvel's Agents of S.H.I.E.L.D. S2.E13 One of Us
+tt4120720                  # Marvel's Agents of S.H.I.E.L.D. S2.E14 Love in the Time of Hydra
+tt4120722                  # Marvel's Agents of S.H.I.E.L.D. S2.E15 One Door Closes
+tt4120726                  # Marvel's Agents of S.H.I.E.L.D. S2.E16 Afterlife
+tt4120730                  # Marvel's Agents of S.H.I.E.L.D. S2.E17 Melinda
+tt4120738                  # Marvel's Agents of S.H.I.E.L.D. S2.E18 The Frenemy of My Enemy
+tt4120734                  # Marvel's Agents of S.H.I.E.L.D. S2.E19 The Dirty Half Dozen
+tt2395427                  # Avengers: Age of Ultron (2015)
+tt4122454                  # Marvel's Agents of S.H.I.E.L.D. S2.E20 Scars
+tt4122456                  # Marvel's Agents of S.H.I.E.L.D. S2.E21 S.O.S. (1)
+tt4110822                  # Marvel's Agents of S.H.I.E.L.D. S2.E22 S.O.S. (2)
+tt4625048                  # Marvel's Daredevil S2.E1 Bang
+tt4817432                  # Marvel's Daredevil S2.E2 Dogs to a Gunfight
+tt4935616                  # Marvel's Daredevil S2.E3 New York's Finest
+tt4947664                  # Marvel's Daredevil S2.E4 Penny and Dime
+tt4179626                  # Marvel's Luke Cage S1.E1 Moment of Truth
+tt4179628                  # Marvel's Luke Cage S1.E2 Code of the Streets
+tt4179634                  # Marvel's Luke Cage S1.E3 Who's Gonna Take the Weight?
+tt4179636                  # Marvel's Luke Cage S1.E4 Step in the Arena
+tt4950308                  # Marvel's Daredevil S2.E5 Kinbaku
+tt4950312                  # Marvel's Daredevil S2.E6 Regrets Only
+tt4950310                  # Marvel's Daredevil S2.E7 Semper Fidelis
+tt4950326                  # Marvel's Daredevil S2.E8 Guilty as Sin
+tt4950314                  # Marvel's Daredevil S2.E9 Seven Minutes in Heaven
+tt4950318                  # Marvel's Daredevil S2.E10 The Man in the Box
+tt4950322                  # Marvel's Daredevil S2.E11 .380
+tt4179642                  # Marvel's Luke Cage S1.E5 Just to Get a Rep
+tt4179686                  # Marvel's Luke Cage S1.E6 Suckas Need Bodyguards
+tt4179742                  # Marvel's Luke Cage S1.E7 Manifest
+tt4179760                  # Marvel's Luke Cage S1.E8 Blowin' Up the Spot
+tt4950320                  # Marvel's Daredevil S2.E12 The Dark at the End of the Tunnel
+tt4950324                  # Marvel's Daredevil S2.E13 A Cold Day in Hell's Kitchen
+tt4179772                  # Marvel's Luke Cage S1.E9 DWYCK
+tt4179776                  # Marvel's Luke Cage S1.E10 Take It Personal
+tt4179784                  # Marvel's Luke Cage S1.E11 Now You're Mine
+tt4179798                  # Marvel's Luke Cage S1.E12 Soliloquy of Chaos
+tt4179804                  # Marvel's Luke Cage S1.E13 You Know My Steez
+tt0478970                  # Ant-Man (2015)
+tt4667540                  # Marvel's Agents of S.H.I.E.L.D. S3.E1 Laws of Nature
+tt4706470                  # Marvel's Agents of S.H.I.E.L.D. S3.E2 Purpose in the Machine
+tt4727950                  # Marvel's Agents of S.H.I.E.L.D. S3.E3 A Wanted (Inhu)man
+tt4732884                  # Marvel's Agents of S.H.I.E.L.D. S3.E4 Devils You Know
+tt4742110                  # Marvel's Agents of S.H.I.E.L.D. S3.E5 4,722 Hours
+tt4760490                  # Marvel's Agents of S.H.I.E.L.D. S3.E6 Among Us Hide...
+tt4765060                  # Marvel's Agents of S.H.I.E.L.D. S3.E7 Chaos Theory
+tt4769592                  # Marvel's Agents of S.H.I.E.L.D. S3.E8 Many Heads, One Tale
+tt4778366                  # Marvel's Agents of S.H.I.E.L.D. S3.E9 Closure
+tt4786258                  # Marvel's Agents of S.H.I.E.L.D. S3.E10 Maveth
+tt4794580                  # Marvel's Agents of S.H.I.E.L.D. S3.E11 Bouncing Back
+tt4800060                  # Marvel's Agents of S.H.I.E.L.D. S3.E12 The Inside Man
+tt4809604                  # Marvel's Agents of S.H.I.E.L.D. S3.E13 Parting Shot
+tt4819384                  # Marvel's Agents of S.H.I.E.L.D. S3.E14 Watchdogs
+tt4829172                  # Marvel's Agents of S.H.I.E.L.D. S3.E15 Spacetime
+tt4838204                  # Marvel's Agents of S.H.I.E.L.D. S3.E16 Paradise Lost
+tt4842854                  # Marvel's Agents of S.H.I.E.L.D. S3.E17 The Team
+tt4857186                  # Marvel's Agents of S.H.I.E.L.D. S3.E18 The Singularity
+tt4871764                  # Marvel's Agents of S.H.I.E.L.D. S3.E19 Failed Experiments
+tvdb_season:317953/1       # Marvel's Iron Fist S1 (2017)
+tt3498820                  # Captain America: Civil War (2016)
+tt6016776                  # Team Thor (2016)
+tt6599818                  # Team Thor: Part 2 (2017)
+tt3480822                  # Black Widow (2021)
+tt4877412                  # Marvel's Agents of S.H.I.E.L.D. S3.E20 Emancipation
+tt4883818                  # Marvel's Agents of S.H.I.E.L.D. S3.E21 Absolution (1)
+tt4899794                  # Marvel's Agents of S.H.I.E.L.D. S3.E22 Ascension (2)
+tvdb_season:326490/1       # Marvel's The Defenders S1 (2017)
+tt5518974                  # Marvel's Agents of S.H.I.E.L.D. S4.E1 The Ghost
+tt5916264                  # Marvel's Agents of S.H.I.E.L.D. S4.E2 Meet the New Boss
+tt5916458                  # Marvel's Agents of S.H.I.E.L.D. S4.E3 Uprising
+tt5916482                  # Marvel's Agents of S.H.I.E.L.D. S4.E4 Let Me Stand Next to Your Fire
+tt5916512                  # Marvel's Agents of S.H.I.E.L.D. S4.E5 Lockup
+tt5916528                  # Marvel's Agents of S.H.I.E.L.D. S4.E6 The Good Samaritan
+tt1211837                  # Doctor Strange (2016)
+tt1825683                  # Black Panther (2018)
+tt5916746                  # Marvel's Agents of S.H.I.E.L.D. S4.E7 Deals with Our Devils
+tt5916754                  # Marvel's Agents of S.H.I.E.L.D. S4.E8 The Laws of Inferno Dynamics
+tvdb_episode:263365_0_7    # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E7 Vendetta (2016)
+tvdb_episode:263365_0_8    # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E8 John Hancock (2016)
+tvdb_episode:263365_0_9    # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E9 Progress (2016)
+tvdb_episode:263365_0_10   # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E10 Reunion (2016)
+tvdb_episode:263365_0_11   # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E11 Deal Breaker (2016)
+tvdb_episode:263365_0_12   # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E12 Justicia (2016)
+tt5916768                  # Marvel's Agents of S.H.I.E.L.D. S4.E9 Broken Promises
+tt5916774                  # Marvel's Agents of S.H.I.E.L.D. S4.E10 The Patriot
+tt5916778                  # Marvel's Agents of S.H.I.E.L.D. S4.E11 Wake Up
+tt5916782                  # Marvel's Agents of S.H.I.E.L.D. S4.E12 Hot Potato Soup
+tt5916792                  # Marvel's Agents of S.H.I.E.L.D. S4.E13 BOOM
+tt5916818                  # Marvel's Agents of S.H.I.E.L.D. S4.E14 The Man Behind the Shield
+tt5916824                  # Marvel's Agents of S.H.I.E.L.D. S4.E15 Self Control
+tt5916832                  # Marvel's Agents of S.H.I.E.L.D. S4.E16 What If...
+tt5916836                  # Marvel's Agents of S.H.I.E.L.D. S4.E17 Identity and Change
+tt5916840                  # Marvel's Agents of S.H.I.E.L.D. S4.E18 No Regrets
+tt5916846                  # Marvel's Agents of S.H.I.E.L.D. S4.E19 All the Madame's Men
+tt5916856                  # Marvel's Agents of S.H.I.E.L.D. S4.E20 Farewell, Cruel World!
+tt5916876                  # Marvel's Agents of S.H.I.E.L.D. S4.E21 The Return
+tt5916882                  # Marvel's Agents of S.H.I.E.L.D. S4.E22 World's End
+tt2250912                  # Spider-Man: Homecoming (2017)
+tt3501632                  # Thor: Ragnarok (2017)
+tt8023090                  # Team Darryl (2018)
+tvdb_season:320558/1       # Marvel's Inhumans S1 (2017)
+tvdb_season:331980/1       # Marvel's The Punisher S1 (2017)
+tvdb_season:332027/1       # Marvel's Runaways S1 (2017)
+tt6878538                  # Marvel's Agents of S.H.I.E.L.D. S5.E1 Orientation (1)
+tt7178426                  # Marvel's Agents of S.H.I.E.L.D. S5.E2 Orientation (2)
+tt7183060                  # Marvel's Agents of S.H.I.E.L.D. S5.E3 A Life Spent
+tt7183068                  # Marvel's Agents of S.H.I.E.L.D. S5.E4 A Life Earned
+tt7183072                  # Marvel's Agents of S.H.I.E.L.D. S5.E5 Rewind
+tt7183078                  # Marvel's Agents of S.H.I.E.L.D. S5.E6 Fun & Games
+tt7183084                  # Marvel's Agents of S.H.I.E.L.D. S5.E7 Together or Not at All
+tt7183086                  # Marvel's Agents of S.H.I.E.L.D. S5.E8 The Last Day
+tt7183090                  # Marvel's Agents of S.H.I.E.L.D. S5.E9 Best Laid Plans
+tt7183092                  # Marvel's Agents of S.H.I.E.L.D. S5.E10 Past Life
+tvdb_season:284190/2       # Marvel's Jessica Jones S2 (2015)
+tt7183100                  # Marvel's Agents of S.H.I.E.L.D. S5.E11 All the Comforts of Home
+tt7183104                  # Marvel's Agents of S.H.I.E.L.D. S5.E12 The Real Deal
+tt7183106                  # Marvel's Agents of S.H.I.E.L.D. S5.E13 Principia
+tt7183112                  # Marvel's Agents of S.H.I.E.L.D. S5.E14 The Devil Complex
+tt7183116                  # Marvel's Agents of S.H.I.E.L.D. S5.E15 Rise and Shine
+tt7183120                  # Marvel's Agents of S.H.I.E.L.D. S5.E16 Inside Voices
+tt7183130                  # Marvel's Agents of S.H.I.E.L.D. S5.E18 All Roads Lead…
+tvdb_season:341455/1       # Marvel's Cloak & Dagger S1 (2018)
+tvdb_season:341455/2       # Marvel's Cloak & Dagger S2 (2018)
+tvdb_season:304219/2       # Marvel's Luke Cage S2 (2016)
+tvdb_season:317953/2       # Marvel's Iron Fist S2 (2017)
+tvdb_season:281662/3       # Marvel's Daredevil S3 (2015)
+tvdb_season:332027/2       # Marvel's Runaways S2 (2017)
+tvdb_season:331980/2       # Marvel's The Punisher S2 (2017)
+tvdb_season:284190/3       # Marvel's Jessica Jones S3 (2015)
+tt5095030                  # Ant-Man and the Wasp (2018)
+tt4154756                  # Avengers: Infinity War (2018)
+tt7183140                  # Marvel's Agents of S.H.I.E.L.D. S5.E19 Option Two
+tt7183150                  # Marvel's Agents of S.H.I.E.L.D. S5.E20 The One Who Will Save Us All
+tt7183156                  # Marvel's Agents of S.H.I.E.L.D. S5.E21 The Force of Gravity
+tt7183160                  # Marvel's Agents of S.H.I.E.L.D. S5.E22 The End
+tvdb_season:263365/6       # Marvel's Agents of S.H.I.E.L.D. S6 (2013)
+tvdb_season:263365/7       # Marvel's Agents of S.H.I.E.L.D. S7 (2013)
+tvdb_season:332027/3       # Marvel's Runaways S3 (2017)
+tt4154796                  # Avengers: Endgame (2019)
+tvdb_season:362472/1       # Loki S1 (2021)
+tvdb_season:362472/2       # Loki S2 (2021)
+tvdb_season:367147/1       # What If...? S1 (2021)
+tvdb_season:367147/2       # What If...? S2 (2021)
+tvdb_season:367147/3       # What If...? S3 (2021)
+tvdb_season:412428/1       # Marvel Zombies S1 (2025)
+tvdb_season:362392/1       # WandaVision S1 (2021)
+tt6263850                  # Deadpool & Wolverine (2024)
+tt9376612                  # Shang-Chi and the Legend of the Ten Rings (2021)
+tvdb_season:362496/1       # The Falcon and the Winter Soldier S1 (2021)
+tt9032400                  # Eternals (2021)
+tt6320628                  # Spider-Man: Far From Home (2019)
+tt10872600                 # Spider-Man: No Way Home (2021)
+tt9419884                  # Doctor Strange in the Multiverse of Madness (2022)
+tvdb_season:367146/1       # Hawkeye S1 (2021)
+tvdb_season:368611/1       # Moon Knight S1 (2022)
+tt9114286                  # Black Panther: Wakanda Forever (2022)
+tvdb_season:412431/1       # Echo S1 (2024)
+tvdb_season:368613/1       # She-Hulk: Attorney at Law S1 (2022)
+tvdb_season:368612/1       # Ms. Marvel S1 (2022)
+tt10648342                 # Thor: Love and Thunder (2022)
+tvdb_season:393204/1       # Ironheart S1 (2025)
+tt15318872                 # Werewolf by Night (2022)
+tt13623136                 # The Guardians of the Galaxy Holiday Special (2022)
+tt10954600                 # Ant-Man and the Wasp: Quantumania (2023)
+tt6791350                  # Guardians of the Galaxy Volume 3 (2023)
+tvdb_season:393203/1       # Secret Invasion S1 (2023)
+tt10676048                 # The Marvels (2023)
+tvdb_season:412429/1       # Agatha All Along S1 (2024)
+tvdb_season:422712/1       # Daredevil: Born Again S1 (2025)
+tt14513804                 # Captain America: Brave New World (2025)
+tt20969586                 # Thunderbolts* (2025)
+tt10676052                 # The Fantastic 4: First Steps (2025)
+tvdb_season:428629/1       # Wonder Man S1 (2026)
+tvdb_season:422712/2       # Daredevil: Born Again S2 (2025)
+tt36042156                 # The Punisher: One Last Kill (2026)
+tt22084616                 # Spider-Man: Brand New Day (2026)

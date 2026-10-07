@@ -7,7 +7,7 @@ external_templates:
 collections:
 
   "Middle-Earth":
-    template: { name: Collection, collection_trakt: https://trakt.tv/users/jjmalpz/lists/middle-earth, order: custom }
+    template: { name: Collection, list_file: config/lists/middle-earth.txt, order: custom }
     url_poster: "https://theposterdb.com/api/assets/738582"
     url_background: "https://wallpapercave.com/wp/FYIQQwM.jpg"
     summary: "Follow Bilbo and Frodo Baggins on heroic quests to confront dragons, destroy the One Ring, and battle the forces of darkness in this timeless tale of courage, friendship, and the fight between good and evil."

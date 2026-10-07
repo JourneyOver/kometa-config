@@ -7,7 +7,7 @@ external_templates:
 collections:
 
   "A Quiet Place":
-    template: { name: Collection, collection_trakt: https://trakt.tv/users/journey-over/lists/a-quiet-place, order: custom }
+    template: { name: Collection, list_file: config/lists/a-quiet-place.txt, order: custom }
     url_poster: "https://api.mediux.pro/assets/9b2d1b46-a868-4762-a644-281ae9f6ae20"
     url_background: "https://image.tmdb.org/t/p/original/r0uGgKhyYuQgPMe0SZQD7n8aj1g.jpg"
     sort_title: "Quiet Place"

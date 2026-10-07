@@ -4,6 +4,6 @@ playlists:
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, TV Shows
-    trakt_list: https://trakt.tv/users/journey-over/lists/marvel-cinematic-universe?sort=rank,asc
+    text_file: config/lists/marvel-cinematic-universe.txt
     summary: Marvel Cinematic Universe in Chronological Order
     url_poster: https://theposterdb.com/api/assets/210268

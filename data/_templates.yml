@@ -7,11 +7,11 @@ templates:
   Collection:
     optional:
       - collection
-      - collection_trakt
       - collection_mdblist
       - collection_letterbox
       - list_tvdb
       - list_tmdb
+      - list_file
       - movies
       - shows
       - mode
@@ -19,11 +19,11 @@ templates:
     tmdb_collection_details: <<collection>>
     tmdb_movie: <<movies>>
     tvdb_show: <<shows>>
-    trakt_list: <<collection_trakt>>
     mdblist_list: <<collection_mdblist>>
     letterboxd_list: <<collection_letterbox>>
     tvdb_list_details: <<list_tvdb>>
     tmdb_list: <<list_tmdb>>
+    text_file: <<list_file>>
     sort_title: <<collection_name>>
     collection_mode: <<mode>>
     collection_order: <<order>>

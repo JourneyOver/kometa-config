@@ -4,6 +4,6 @@ playlists:
     sync_to_users: all
     sync_mode: sync
     libraries: Movies, TV Shows
-    trakt_list: https://trakt.tv/users/journey-over/lists/alien-predator?sort=rank,asc
+    text_file: config/lists/alien-predator.txt
     summary: Alien/Predator Universe in Chronological Order
     url_poster: https://theposterdb.com/api/assets/576790

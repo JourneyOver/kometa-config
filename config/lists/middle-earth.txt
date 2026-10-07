@@ -1,0 +1,7 @@
+# Middle-earth
+tt0903624   # The Hobbit: An Unexpected Journey (2012)
+tt1170358   # The Hobbit: The Desolation of Smaug (2013)
+tt2310332   # The Hobbit: The Battle of the Five Armies (2014)
+tt0120737   # The Lord of the Rings: The Fellowship of the Ring (2001)
+tt0167261   # The Lord of the Rings: The Two Towers (2002)
+tt0167260   # The Lord of the Rings: The Return of the King (2003)

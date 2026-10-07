@@ -1,0 +1,12 @@
+# DC Universe
+tt26545355             # Creature Commandos (2024)
+tt5950044              # Superman (2025)
+tvdb_season:391153/2   # Peacemaker S2 (2022)
+tt8814476              # Supergirl (2026)
+tt34890576             # Clayface (2026)
+tt26545566             # The Brave and the Bold (n/a)
+tt31778617             # Teen Titans (n/a)
+tt33549695             # Dynamic Duo (2028)
+tt34273964             # Sgt. Rock (n/a)
+tt37257255             # Untitled Wonder Woman Film (n/a)
+tt26545992             # Lanterns (2026)
