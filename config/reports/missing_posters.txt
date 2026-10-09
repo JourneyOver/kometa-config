@@ -1,7 +1,7 @@
-Total YML files scanned: 1778
-Total unique YML poster entries: 2380
+Total YML files scanned: 1780
+Total unique YML poster entries: 2382
 Total missing series/movie posters: 0
-Total missing seasonal posters: 1
+Total missing seasonal posters: 0
 ------------------------------------------------------------
 
 === Anime (Missing Series/Movie Posters: 0) ===
@@ -12,7 +12,6 @@ Total missing seasonal posters: 1
 
 === TV-Shows (Missing Series/Movie Posters: 0) ===
 
-=== Anime (Missing Seasonal Posters: 1) ===
-TANK CHAIR (2026) (Missing Seasons: 1)
+=== Anime (Missing Seasonal Posters: 0) ===
 
 === TV-Shows (Missing Seasonal Posters: 0) ===

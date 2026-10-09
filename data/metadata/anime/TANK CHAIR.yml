@@ -1,10 +1,10 @@
 # Posters from:
-# https://theposterdb.com/set/424183
+# https://mediux.pro/sets/60964
 
 metadata:
 
   475617: # TANK CHAIR (2026)
-    url_poster: "https://theposterdb.com/api/assets/752326"
+    url_poster: "https://api.mediux.pro/assets/6dbfa7ca-7f90-4e71-b7be-868574079222"
     seasons:
       1:
-        url_poster: ""
+        url_poster: "https://api.mediux.pro/assets/10ecb7e4-a393-4843-b9b7-e42a49ab9c8d"
