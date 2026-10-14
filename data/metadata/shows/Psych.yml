@@ -1,0 +1,26 @@
+# Posters from:
+# https://mediux.pro/sets/7772
+
+metadata:
+
+  79335: # Psych (2006)
+    url_poster: "https://api.mediux.pro/assets/ae75ad6f-7760-4ae8-8fd0-75f813971070"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/f0c9a32e-0d07-47f8-8145-45fca416f0e2"
+      1:
+        url_poster: "https://api.mediux.pro/assets/6b2c3132-a8be-45c3-97b5-57ca14f9a6ff"
+      2:
+        url_poster: "https://api.mediux.pro/assets/1c90e909-4145-4ac4-aecc-4203858409a2"
+      3:
+        url_poster: "https://api.mediux.pro/assets/ba780db8-3f29-4a3a-a9ac-7277cb165b79"
+      4:
+        url_poster: "https://api.mediux.pro/assets/9a71f697-d894-4a23-a97e-00662398a1b8"
+      5:
+        url_poster: "https://api.mediux.pro/assets/3d7af929-f2f8-49c7-913f-7420e2fd5163"
+      6:
+        url_poster: "https://api.mediux.pro/assets/09828f51-e43a-430d-963b-da7ddb7f8c30"
+      7:
+        url_poster: "https://api.mediux.pro/assets/d8ff1a1a-7931-4c5d-ad94-a4b267fc2a6c"
+      8:
+        url_poster: "https://api.mediux.pro/assets/d4f5b0d8-6935-4c62-8b45-86b2df536813"

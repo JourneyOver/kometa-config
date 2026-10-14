@@ -1,0 +1,22 @@
+# Posters from:
+# https://mediux.pro/sets/8010
+
+metadata:
+
+  328634: # The Good Doctor (2017)
+    url_poster: "https://api.mediux.pro/assets/fd15b685-a5c8-4713-b7e0-c1a2e85e2d15"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/1046f1a0-d8d6-4989-8e0f-4b4d1bb59b05"
+      2:
+        url_poster: "https://api.mediux.pro/assets/63ebbb43-4959-42a7-b743-072fc449f551"
+      3:
+        url_poster: "https://api.mediux.pro/assets/395a8c8c-e877-4482-bc4b-2bf1863a7a7c"
+      4:
+        url_poster: "https://api.mediux.pro/assets/85efb1eb-8dac-4b2e-8902-42b925c38b8f"
+      5:
+        url_poster: "https://api.mediux.pro/assets/79712f66-99aa-4397-83f1-21784fe02f5e"
+      6:
+        url_poster: "https://api.mediux.pro/assets/32f4a91c-e207-416c-84c1-d1b96b89c272"
+      7:
+        url_poster: "https://api.mediux.pro/assets/c5e952b9-bca6-4817-824e-d2759e634b12"

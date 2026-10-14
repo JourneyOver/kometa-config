@@ -1,0 +1,16 @@
+# Posters from:
+# https://mediux.pro/sets/61077
+
+metadata:
+
+  363673: # Nancy Drew (2019)
+    url_poster: "https://api.mediux.pro/assets/71f4cef7-1900-4724-9eb2-c9492801e903"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/b2a47c54-378b-4f02-9129-d345f150a2ce"
+      2:
+        url_poster: "https://api.mediux.pro/assets/f5426910-f5a0-44aa-b764-91c050420b1a"
+      3:
+        url_poster: "https://api.mediux.pro/assets/7f32d189-8cd2-43f3-9c0d-9c094e75dc30"
+      4:
+        url_poster: "https://api.mediux.pro/assets/93066ab3-d64f-4048-ade0-42f309885bab"

@@ -8,3 +8,5 @@ __pycache__
 config/mediux_audit.toml
 config/reports/mediux_author_cache.json
 requirements.txt
+
+config/.source-integrity/

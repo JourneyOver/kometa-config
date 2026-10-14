@@ -1,0 +1,26 @@
+# Posters from:
+# https://mediux.pro/sets/12740
+
+metadata:
+
+  73255: # House (2004)
+    url_poster: "https://api.mediux.pro/assets/51f37db1-1c7f-4673-9370-6aea3045d7ce"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/96d936c6-cc89-4320-b8e6-85ddce796455"
+      1:
+        url_poster: "https://api.mediux.pro/assets/dcfa687d-c867-4ceb-842b-f32ff1cc2c59"
+      2:
+        url_poster: "https://api.mediux.pro/assets/22261c92-feb7-47de-9d7b-f375b6ae500c"
+      3:
+        url_poster: "https://api.mediux.pro/assets/beb04397-a6b9-49b3-b2dc-61a76b230db5"
+      4:
+        url_poster: "https://api.mediux.pro/assets/aeab32d7-b68f-461c-80ff-c6842db61444"
+      5:
+        url_poster: "https://api.mediux.pro/assets/ffbf2231-939c-40d6-b55e-e79a66d3e0e2"
+      6:
+        url_poster: "https://api.mediux.pro/assets/ed75386c-7a30-4496-a3c3-425ed502aa68"
+      7:
+        url_poster: "https://api.mediux.pro/assets/b145e1cb-236a-4b17-8cac-9d5ef2183e34"
+      8:
+        url_poster: "https://api.mediux.pro/assets/564bd5a1-a0fe-4b02-815b-03fe6e16a401"

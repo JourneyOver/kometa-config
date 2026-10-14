@@ -1,0 +1,14 @@
+# Posters from:
+# https://mediux.pro/sets/61076
+
+metadata:
+
+  391628: # The Hardy Boys (2021)
+    url_poster: "https://api.mediux.pro/assets/eb5f3de1-a218-453d-bc7b-805d8387b0f0"
+    seasons:
+      1:
+        url_poster: "https://api.mediux.pro/assets/2b45320a-e25f-46eb-a35e-48d1b66e4d74"
+      2:
+        url_poster: "https://api.mediux.pro/assets/b61e79f0-f7e5-41fc-92b0-a82395b87672"
+      3:
+        url_poster: "https://api.mediux.pro/assets/d2cbeb9c-99b3-4f73-a61a-4e6f57d46a88"
