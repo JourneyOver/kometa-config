@@ -133,12 +133,12 @@ tt1211837                  # Doctor Strange (2016)
 tt1825683                  # Black Panther (2018)
 tt5916746                  # Marvel's Agents of S.H.I.E.L.D. S4.E7 Deals with Our Devils
 tt5916754                  # Marvel's Agents of S.H.I.E.L.D. S4.E8 The Laws of Inferno Dynamics
-tvdb_episode:263365_0_7    # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E7 Vendetta (2016)
-tvdb_episode:263365_0_8    # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E8 John Hancock (2016)
-tvdb_episode:263365_0_9    # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E9 Progress (2016)
-tvdb_episode:263365_0_10   # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E10 Reunion (2016)
-tvdb_episode:263365_0_11   # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E11 Deal Breaker (2016)
-tvdb_episode:263365_0_12   # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E12 Justicia (2016)
+tvdb_episode:263365_0_7    # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E7 Vendetta
+tvdb_episode:263365_0_8    # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E8 John Hancock
+tvdb_episode:263365_0_9    # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E9 Progress
+tvdb_episode:263365_0_10   # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E10 Reunion
+tvdb_episode:263365_0_11   # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E11 Deal Breaker
+tvdb_episode:263365_0_12   # Marvel's Agents of S.H.I.E.L.D.: Slingshot S0.E12 Justicia
 tt5916768                  # Marvel's Agents of S.H.I.E.L.D. S4.E9 Broken Promises
 tt5916774                  # Marvel's Agents of S.H.I.E.L.D. S4.E10 The Patriot
 tt5916778                  # Marvel's Agents of S.H.I.E.L.D. S4.E11 Wake Up
@@ -176,6 +176,7 @@ tt7183106                  # Marvel's Agents of S.H.I.E.L.D. S5.E13 Principia
 tt7183112                  # Marvel's Agents of S.H.I.E.L.D. S5.E14 The Devil Complex
 tt7183116                  # Marvel's Agents of S.H.I.E.L.D. S5.E15 Rise and Shine
 tt7183120                  # Marvel's Agents of S.H.I.E.L.D. S5.E16 Inside Voices
+tt7183126                  # Marvel's Agents of S.H.I.E.L.D. S5.E17 The Honeymoon
 tt7183130                  # Marvel's Agents of S.H.I.E.L.D. S5.E18 All Roads Lead…
 tvdb_season:341455/1       # Marvel's Cloak & Dagger S1 (2018)
 tvdb_season:341455/2       # Marvel's Cloak & Dagger S2 (2018)
@@ -232,3 +233,4 @@ tvdb_season:428629/1       # Wonder Man S1 (2026)
 tvdb_season:422712/2       # Daredevil: Born Again S2 (2025)
 tt36042156                 # The Punisher: One Last Kill (2026)
 tt22084616                 # Spider-Man: Brand New Day (2026)
+tvdb_season:426606/1       # VisionQuest S1 (2026)
