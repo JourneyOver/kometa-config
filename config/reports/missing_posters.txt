@@ -1,7 +1,7 @@
-Total YML files scanned: 1796
-Total unique YML poster entries: 2398
+Total YML files scanned: 1800
+Total unique YML poster entries: 2402
 Total missing series/movie posters: 0
-Total missing seasonal posters: 2
+Total missing seasonal posters: 0
 ------------------------------------------------------------
 
 === Anime (Missing Series/Movie Posters: 0) ===
@@ -14,6 +14,4 @@ Total missing seasonal posters: 2
 
 === Anime (Missing Seasonal Posters: 0) ===
 
-=== TV-Shows (Missing Seasonal Posters: 2) ===
-9-1-1 (2018) (Missing Seasons: 10)
-9-1-1: Nashville (2025) (Missing Seasons: 2)
+=== TV-Shows (Missing Seasonal Posters: 0) ===

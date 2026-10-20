@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/38877
+# https://mediux.pro/sets/61202
 
 metadata:
 
   460463: # 9-1-1: Nashville (2025)
-    url_poster: "https://api.mediux.pro/assets/be4ecf7e-08fa-41c0-94dc-edab3c96962b"
+    url_poster: "https://api.mediux.pro/assets/d57d0d38-adec-43dd-8f1e-7b62e59474b3"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/a7230aca-148f-4a7a-9cf7-cbc1d293e9f8"
+        url_poster: "https://api.mediux.pro/assets/2a024090-4222-49dc-bc74-eb6881705eaa"
+      2:
+        url_poster: "https://api.mediux.pro/assets/e7cc1ce4-3347-49e9-be78-02ee9e699bd9"
