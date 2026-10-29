@@ -9,6 +9,11 @@ Additionally checks Anime and TV-Shows for missing seasonal posters.
 Matching is done by ID (tvdb_id or tmdb_id) rather than title to avoid
 false positives/negatives from title normalisation differences.
 
+Commented-out poster links do not count: a commented url_poster/file_poster is
+not applied by Kometa, so the title/season is reported as missing like any other
+entry with no poster.  Seasons that are not in the Plex library are never
+reported, whether their poster is commented out or not.
+
 Usage:
     python scripts/check_missing_posters.py
 
@@ -81,6 +86,9 @@ def parse_yml(yml_dir: Path) -> tuple[set[str], dict[str, set[int]], int]:
       - set of string IDs where the top-level entry has a poster
       - dict mapping IDs to a set of season numbers that have posters
       - total number of .yml files found
+
+    Only real (non-commented) poster lines count. A commented-out poster is
+    not applied by Kometa, so it leaves the title/season missing.
     """
     has_poster: set[str] = set()
     season_posters: dict[str, set[int]] = {}
@@ -117,22 +125,9 @@ def parse_yml(yml_dir: Path) -> tuple[set[str], dict[str, set[int]], int]:
                     i += 1
                     continue
 
-                # -- Comment handling -------------------------------------------------
-                # Commented lines inside the seasons block may represent intentionally
-                # disabled poster sets (e.g. season 0/specials).  Extract the content
-                # after '#' so they're counted as available when present.
+                # Commented-out lines are ignored entirely: they are not
+                # applied by Kometa, so they must not satisfy a poster check.
                 if stripped.startswith('#'):
-                    if in_seasons:
-                        body = stripped.lstrip('#').strip()
-                        key = body.split(':')[0].strip() if body else ''
-                        if key.isdigit():
-                            current_season = int(key)
-                        # Commented poster lines with a real (non-blank) URL count
-                        # as available (intentionally disabled but you have the asset).
-                        # A blank URL ("") means no poster -> leave it missing so the
-                        # season is flagged if it exists in the CSVs.
-                        elif key in POSTER_KEYS and current_season >= 0 and _poster_value(body):
-                            season_posters[entry_id].add(current_season)
                     i += 1
                     continue
 
@@ -240,7 +235,8 @@ def check_category(cat: Category,
         else:
             label = raw_title
 
-        # Check for top-level show/movie posters
+        # Check for top-level show/movie posters. A commented-out poster, or a
+        # fully commented-out entry, leaves the ID out of has_poster.
         if entry_id not in has_poster:
             missing_main.append(label)
 
@@ -256,6 +252,8 @@ def check_category(cat: Category,
             if seasons_set is None and seasons_count > 0:
                 seasons_set = set(range(1, seasons_count + 1))
 
+            # Only seasons present in the Plex library are checked, so a
+            # commented-out poster for a season you don't have is never flagged.
             if seasons_set:
                 for s in sorted(seasons_set):
                     if s not in available_seasons:

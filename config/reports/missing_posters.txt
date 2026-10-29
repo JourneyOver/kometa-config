@@ -1,6 +1,6 @@
-Total YML files scanned: 1800
-Total unique YML poster entries: 2402
-Total missing series/movie posters: 0
+Total YML files scanned: 1813
+Total unique YML poster entries: 2415
+Total missing series/movie posters: 1
 Total missing seasonal posters: 0
 ------------------------------------------------------------
 
@@ -8,7 +8,8 @@ Total missing seasonal posters: 0
 
 === Anime-Movies (Missing Series/Movie Posters: 0) ===
 
-=== Movies (Missing Series/Movie Posters: 0) ===
+=== Movies (Missing Series/Movie Posters: 1) ===
+Biohazard (2026)
 
 === TV-Shows (Missing Series/Movie Posters: 0) ===
 

@@ -1,12 +1,14 @@
 # Posters from:
-# https://mediux.pro/sets/28114
+# https://mediux.pro/sets/61274
 
 metadata:
 
   450093: # Nobody Wants This (2024)
-    url_poster: "https://api.mediux.pro/assets/4252150d-e0b7-4815-8c55-fbee393e0214"
+    url_poster: "https://api.mediux.pro/assets/02f09146-6865-4f90-b577-b7064659421b"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/426a3fa8-ecb3-4034-973f-ecad2372b2dd"
+        url_poster: "https://api.mediux.pro/assets/8bb7cb72-b0da-44f6-be8b-bfee2f72972a"
       2:
-        url_poster: "https://api.mediux.pro/assets/1bfb3c09-3f5b-4952-80db-1d444bad0785"
+        url_poster: "https://api.mediux.pro/assets/a0b35065-96cd-4df8-aca5-108a2113f32f"
+      3:
+        url_poster: "https://api.mediux.pro/assets/d26a78a6-4c22-4a1f-9177-526bfb16bc5a"

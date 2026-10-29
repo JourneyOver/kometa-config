@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/13543
+# https://mediux.pro/sets/61221
 
 metadata:
 
   399917: # The Terminal List (2022)
-    url_poster: "https://api.mediux.pro/assets/07f6da45-4acd-4a37-9c74-5ef4062707c9"
+    url_poster: "https://api.mediux.pro/assets/c4620aad-527c-4d5e-913f-073023b27e4c"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/4d7a93da-1306-418a-995f-7f2904c91145"
+        url_poster: "https://api.mediux.pro/assets/8fb58cfd-872a-4738-bcb3-8a9454457cdc"
+      2:
+        url_poster: "https://api.mediux.pro/assets/c4b210e1-ae37-48a8-8237-95556b94eea8"
