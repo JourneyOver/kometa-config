@@ -1,18 +1,20 @@
 # Posters from:
-# https://mediux.pro/sets/6184
+# https://mediux.pro/sets/61455
 
 metadata:
 
-  400267: # Ghosts (US) (2021)
-    url_poster: "https://api.mediux.pro/assets/711fc29a-5abd-41a0-bd84-c993236c5626"
+  400267: # Ghosts (2021)
+    url_poster: "https://api.mediux.pro/assets/141affd0-4a08-400a-9c14-7e6843faad30"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/25754653-0852-4159-9f88-79cd5c40635b"
+        url_poster: "https://api.mediux.pro/assets/f1811c03-b144-434b-b2dd-55d5a227df72"
       2:
-        url_poster: "https://api.mediux.pro/assets/f231058a-388e-450a-9c8d-a2488ea128ac"
+        url_poster: "https://api.mediux.pro/assets/bd9ac3f6-2726-4f39-bbbb-d2be609120ad"
       3:
-        url_poster: "https://api.mediux.pro/assets/73c40d6f-1bd4-42a9-9e19-6a461d4ac2ae"
+        url_poster: "https://api.mediux.pro/assets/d384cf7d-c789-4b2f-b1a2-725dd1913db6"
       4:
-        url_poster: "https://api.mediux.pro/assets/6ca21346-4cf9-4e54-8331-f3aa77c46258"
+        url_poster: "https://api.mediux.pro/assets/845711b1-c3aa-4c2a-969a-6a14648f4252"
       5:
-        url_poster: "https://api.mediux.pro/assets/87baf488-059c-48f5-84a4-11fe54a4cd64"
+        url_poster: "https://api.mediux.pro/assets/25848aad-5c77-40ab-b663-f0f480f403ea"
+      6:
+        url_poster: "https://api.mediux.pro/assets/6a6c96cb-7ae9-4841-843b-2dd218b4a2c0"
