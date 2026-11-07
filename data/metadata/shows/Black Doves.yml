@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/28654
+# https://mediux.pro/sets/61662
 
 metadata:
 
   441315: # Black Doves (2024)
-    url_poster: "https://api.mediux.pro/assets/f9bbebe2-eba4-4f64-8ead-af7267af50bf"
+    url_poster: "https://api.mediux.pro/assets/764cd180-4f31-4a51-bf1f-81edd2a29528"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/b09faacd-631b-4e68-be61-9486c750feb0"
+        url_poster: "https://api.mediux.pro/assets/ee00902d-157f-4087-bec9-fe9ba46f5415"
+      2:
+        url_poster: "https://api.mediux.pro/assets/2dcb4543-d625-40c3-a420-77abdc4388e4"

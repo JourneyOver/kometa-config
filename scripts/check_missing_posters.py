@@ -63,10 +63,7 @@ EMPTY_VALUES = frozenset({"", "null", "~"})
 # Titles that must never be reported as missing. Write them as they appear in
 # the Plex CSV, with or without the "(YYYY)" suffix. Matching ignores case and
 # a trailing year, so "Biohazard (2026)" also excludes a bare "Biohazard".
-EXCLUDED_TITLES: frozenset[str] = frozenset({
-    "Biohazard (2026)",
-    "S.T.A.L.K.E.R.: Shadow of the Zone (2024)",
-})
+EXCLUDED_TITLES: frozenset[str] = frozenset({})
 
 
 def normalize_title(title: str) -> str:

@@ -1,10 +1,12 @@
 # Posters from:
-# https://mediux.pro/sets/35409
+# https://mediux.pro/sets/61664
 
 metadata:
 
   451177: # The Institute (2025)
-    url_poster: "https://api.mediux.pro/assets/e76b5d32-3b8c-4739-bfbe-70ac7e118b96"
+    url_poster: "https://api.mediux.pro/assets/b831e1da-143f-40ea-a576-c9b0d6fafee6"
     seasons:
       1:
-        url_poster: "https://api.mediux.pro/assets/1988c260-2e5b-447b-88ea-1d476a600272"
+        url_poster: "https://api.mediux.pro/assets/77e4391e-4d61-4502-b96d-be9bd3e2cac3"
+      2:
+        url_poster: "https://api.mediux.pro/assets/889993e8-0498-447f-b354-bb57dacf0ac7"
