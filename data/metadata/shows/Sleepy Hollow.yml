@@ -1,0 +1,18 @@
+# Posters from:
+# https://mediux.pro/sets/61893
+
+metadata:
+
+  269578: # Sleepy Hollow (2013)
+    url_poster: "https://api.mediux.pro/assets/28aef4ae-ff31-412a-9474-221c4a0ff0d3"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/90030a66-63b8-48b0-a0bf-de343600860d"
+      1:
+        url_poster: "https://api.mediux.pro/assets/2ca0f9eb-0309-42f4-8b41-e120661040c6"
+      2:
+        url_poster: "https://api.mediux.pro/assets/6fee0252-17c3-4eb1-88e2-c931059e76ee"
+      3:
+        url_poster: "https://api.mediux.pro/assets/f0646f7d-3b2b-44e4-8d72-8888919d222b"
+      4:
+        url_poster: "https://api.mediux.pro/assets/d7f63633-c0bc-405a-a12b-32a5b5a1f21f"

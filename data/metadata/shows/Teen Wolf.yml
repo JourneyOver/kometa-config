@@ -1,0 +1,22 @@
+# Posters from:
+# https://mediux.pro/sets/61894
+
+metadata:
+
+  175001: # Teen Wolf (2011)
+    url_poster: "https://api.mediux.pro/assets/36d73e3f-2db1-43cd-8a23-0b9b90e3e66b"
+    seasons:
+#      0:
+#        url_poster: "https://api.mediux.pro/assets/a842df5d-9eb1-49db-b12b-f38b631321ff"
+      1:
+        url_poster: "https://api.mediux.pro/assets/f3014a53-1b4b-43cb-a195-4d85fd57fcd6"
+      2:
+        url_poster: "https://api.mediux.pro/assets/6c1467e4-b4c2-4670-a9c3-ebdbaefd0dd7"
+      3:
+        url_poster: "https://api.mediux.pro/assets/76fac934-d45e-4f35-a283-eef6ac06c413"
+      4:
+        url_poster: "https://api.mediux.pro/assets/d63d7d98-55de-43a3-9eb6-e3260da067b4"
+      5:
+        url_poster: "https://api.mediux.pro/assets/825a88e3-2a4e-4029-a940-4949d1a8b4b3"
+      6:
+        url_poster: "https://api.mediux.pro/assets/b7894f97-defc-4998-8477-1bf272fea5a9"
