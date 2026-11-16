@@ -1,6 +1,6 @@
-Total YML files scanned: 1820
-Total unique YML poster entries: 2422
-Total missing series/movie posters: 2
+Total YML files scanned: 1850
+Total unique YML poster entries: 2452
+Total missing series/movie posters: 0
 Total missing seasonal posters: 0
 Total excluded titles: 0
 ------------------------------------------------------------
@@ -9,9 +9,7 @@ Total excluded titles: 0
 
 === Anime-Movies (Missing Series/Movie Posters: 0) ===
 
-=== Movies (Missing Series/Movie Posters: 2) ===
-Biohazard (2026)
-S.T.A.L.K.E.R.: Shadow of the Zone (2024)
+=== Movies (Missing Series/Movie Posters: 0) ===
 
 === TV-Shows (Missing Series/Movie Posters: 0) ===
 
